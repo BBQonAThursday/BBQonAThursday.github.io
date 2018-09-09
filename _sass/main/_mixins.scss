@@ -1,0 +1,56 @@
+$sm-width: 768px;
+$md-width: 992px;
+$lg-width: 1200px;
+
+@mixin xs {
+  @media (max-width: #{$sm-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media (min-width: #{$sm-width}) {
+    @content;
+  }
+}
+
+
+@mixin md {
+  @media (min-width: #{$md-width}) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (min-width: #{$lg-width}) {
+    @content;
+  }
+}
+
+@mixin text-color-linear-gradient($direction, $color-stops...) {
+  // Direction has been omitted and happens to be a color-stop
+  @if is-direction($direction) == false {
+    $color-stops: $direction, $color-stops;
+    $direction: 180deg;
+  }
+
+  color: nth(nth($color-stops, 1), 1);
+  color: -webkit-linear-gradient(legacy-direction($direction), $color-stops);
+  cplor: linear-gradient($direction, $color-stops);
+}
+
+@mixin border-shadow {
+  box-shadow: .5rem .5rem $brand-fourth;
+}
+
+@mixin border-shadow-2 {
+  box-shadow: .5rem .5rem $brand-dark-accent;
+}
+
+@mixin background-gradient {
+  background: #f98b66; /* Old browsers */
+    background: -moz-linear-gradient(top, #f98b66 23%, #fb0065 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f98b66 23%,#fb0065 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f98b66 23%,#fb0065 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98b66', endColorstr='#fb0065',GradientType=0 ); /* IE6-9 */
+}

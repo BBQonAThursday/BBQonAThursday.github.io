@@ -1,0 +1,196 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size:10px;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/**
+ * Basic styling
+ */
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-darker;
+  
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
+
+
+
+/**
+ * Images
+ */
+img {
+  vertical-align: middle;
+  display:inline-block;
+  max-width:100%;
+  margin: $spacing-unit 0;
+}
+
+/**
+ * Lists
+ */
+ul, ol {
+  margin-left: $spacing-unit;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+}
+
+/**
+ * Links
+ */
+a {
+  color: $brand-fifth;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($brand-third, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #eef;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  vertical-align: middle;
+
+  path {
+    fill: $grey-color;
+  }
+}
+
+.social-media-list {
+  .icon {
+    padding-right: 5px;
+  }
+
+  li + li {
+    padding-top: 5px;
+  }
+}
+
+/*Typography*/
+h1 {
+  font-size:4rem;
+  font-weight: 800;
+  @include text-color-linear-gradient($brand-gradient-start, $brand-first);
+
+ 
+}
+
+h2 {
+  font-size:2.6rem;
+}
+
+h3 {
+  font-size:2rem;
+  letter-spacing: -.1rem;
+}
+
+h4 {
+  font-size:1.6rem;
+}
+
+h5 {
+  font-size:1.4rem;
+}
+
+h6 {
+  font-size:1.2rem;
+}
+p {
+  font-size:1.6rem;
+  max-width: 64rem;
+}

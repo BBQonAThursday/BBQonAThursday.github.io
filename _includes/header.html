@@ -1,0 +1,45 @@
+<header class="site-header hidden-menu" id="site-header" role="banner">
+  <section class="title-town">
+    <img class="headshot img-responsive" src="../assets/img/joel-gamble-profile-image.png"  />
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <p class="position-title">Web Developer / Designer</p>
+    <p>
+      <img src="/assets/img/location.svg" width="18px" height="18px"/>Madison, WI
+    </p>
+    <section class="navigation">
+      {% for path in page_paths %}
+      {% assign my_page = site.pages | where: "path", path | first %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      {% endif %}
+      {% endfor %}
+    </section>
+    <section class="social-media-icons text-center">
+        <a href="https://www.facebook.com/joel.gamble.12" target="_blank">
+          <img src="/assets/img/facebook.svg" width="18px" height="18px"/>
+        </a>
+        <a href="https://www.instagram.com/joel_likes_tacos/" target="_blank">
+          <img src="/assets/img/instagram.svg" width="18px" height="18px"/>
+        </a>
+        <a href="https://www.linkedin.com/in/joel-gamble-a373a32a/" target="_blank">
+          <img src="/assets/img/linkedin.svg" width="18px" height="18px"/>
+        </a>
+      </section>
+  </section>
+  
+  <!--<section class="footer">
+        <form class="contact-form" action="https://formspree.io/jjoelgamble@gmail.com"
+            method="POST">
+          <input class="form-name" type="text" name="name" placeholder="Name">
+          <input class="form-email" type="email" name="_replyto" placeholder="Email">
+          <textarea class="form-message" type="textarea" name="message" placeholder="Message"></textarea>
+          <input class="form-submit" type="submit" value="Send">
+        </form>
+  </section>-->
+  
+</header>
+<header class="mobile-menu-icon" id="mobile-menu-icon">
+  <img src="/assets/img/menu-icon.svg">
+</header>

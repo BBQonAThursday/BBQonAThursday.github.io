@@ -1,0 +1,298 @@
+/**
+ Setting up flexbox so that the footer is always at the bottom.
+
+April 2018 -  Removing Bootstrap and replacing with css grid
+*/
+.app {
+
+  display: grid;
+  grid-gap:$spacing-unit;
+  grid-template-columns: 40rem max-content;
+  grid-template-rows:  auto max-content;
+  padding: $spacing-unit;
+  margin:auto;
+ 
+  
+
+  .mobile-menu-icon {
+    display: inline-block;
+    position:fixed;
+    top:0;
+    right:left;
+    color: $brand-dark-accent;
+    padding-left:$spacing-unit;
+    padding-right:$spacing-unit;
+    
+    @include md{
+      display: none;
+    }
+
+  }
+  .site-header {
+    grid-row-start: 2;
+    text-align:center;
+    
+
+    .hidden-menu {
+      display:none;
+    }
+    @include md {
+      justify-items:stretch;
+      display:grid;
+      grid-template-rows:max-content max-content auto;
+      grid-gap:2rem;
+      width: 40rem;
+    }
+    
+    
+    .headshot {
+        max-height: 20rem;
+        width: 10rem;
+        height: 10rem;
+        border-radius: 10rem;
+        opacity: 1;
+        transition: opacity .2s;
+        align-self: center;
+
+    }
+
+    .headshot-effect {
+      $offset : 5px;
+      $url: url('../assets/img/joel-gamble-profile-image.png');
+
+      background-image: $url;
+      background-size: cover;
+      background-position: center;
+      &:hover {
+        @supports (mix-blend-mode: multiply) {
+          position: relative;
+          overflow: hidden;
+          background-color: magenta;
+          background-blend-mode: screen;
+
+          &:before, &:after {
+            display: block;
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: inherit;
+            mix-blend-mode: multiply;
+            transform: scale(1.05);
+          }
+
+          &:before {
+            background-color: yellow;
+            background-blend-mode: screen;
+            transform-origin: top left;
+          }
+
+          &:after {
+            background-color: cyan;
+            background-blend-mode: screen;
+            transform-origin: bottom right;
+          }
+        }
+      }
+
+    }
+    .title-town {
+      grid-row-start: 1;
+      background: $brand-first;
+      @include background-gradient;
+      @include border-shadow-2;
+      
+      .site-title {
+        font-size: 4rem;
+        font-weight:bold;
+        color: $brand-dark-accent;
+        line-height:$base-line-height;
+        letter-spacing: -.25rem;
+
+        &:hover {
+          text-decoration:none;
+          color: darken($brand-fourth, 20%);
+        }
+      }
+    }
+    .navigation {
+      display:flex;
+
+
+      .page-link {
+          padding: 1rem 1rem 1rem 0;
+          width:100%;
+          color: $text-color;
+          line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+      }
+    }
+  }  
+}
+.home-page-introduction {
+  position: relative;
+  height: 10rem;
+  overflow: hidden;
+  background: linear-gradient(233deg, #3db06f, #2669b7, #315d6b);
+  background-size: 600% 600%;
+  transition: .3s;
+
+  .my-name{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    transition: height .3s;
+
+    @include sm{
+      height: 30rem;
+    }
+    .site-title {
+      color: $neutral-white;
+      font-size: 6rem;
+      font-weight: bold;
+      letter-spacing: -.25rem;
+
+      &:hover,
+      &:focus {
+        text-decoration: none;
+        color: $brand-first;
+      }
+    }
+  }
+
+  @include sm {
+    height: 30rem;
+
+    &.is-scrolled {
+      height: 4rem;
+
+      .headshot {
+        opacity: 0;
+      }
+      .my-name{
+        height: 4rem;
+
+        .site-title {
+            font-size: 2.8rem;
+        }
+      }
+    }
+  }
+}
+/**
+* Footer Form Layouts
+*/
+.footer {
+  grid-row-start:2;
+  .contact-form {
+  
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-rows:1fr 8rem 1fr;
+    grid-gap:2rem;
+  
+    input, textarea {
+      background: $brand-dark-accent;
+      border: .2rem solid $brand-dark-accent;
+      color: $brand-first;
+      padding: 1rem;
+      display: inline-block;
+      box-sizing: border-box;
+      @include border-shadow;
+      
+      &::placeholder {
+        color: $brand-first;
+        //border-bottom: .1rem solid $text-darker;
+      }
+    }
+    
+    .form-name {
+      grid-column-start: 1;
+      grid-column-end: span 2;
+      grid-row-start: 1;
+      grid-row-end: 1;
+    }
+    .form-email {
+      grid-column-start: 3;
+      grid-column-end: span 2;
+      grid-row-start: 1;
+      grid-row-end: 1;
+    }
+    .form-message {
+      grid-column-start: 1;
+      grid-column-end: span 4;
+      grid-row-start: 2;
+      grid-row-end: 2;
+    }
+  
+    .form-submit {
+      grid-column-start: 2;
+      grid-column-end: span 2;
+      grid-row-start: 3;
+      grid-row-end: 3;
+    }
+   
+    
+  }
+}
+
+
+.social-media-icons {
+  grid-row-start: 3;
+  img {
+    margin: 2rem;
+  }
+}
+//Start of loaded content
+.page-content {
+  grid-column-start: 2;
+  justify-self: end;
+  
+
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: $spacing-unit;
+    grid-auto-flow:row;
+  }
+  // Project Page Layout
+  // See HTML in _layouts/project.html
+  .project-page {
+    max-width: 50rem;
+
+    .project-header {
+
+      .project-title {
+        font-weight:bold;
+      }
+    }
+    .project-body {
+      
+      p {
+        line-height: 2rem;
+        margin-bottom: $spacing-unit;
+      }
+    }
+  }
+}
+
+
+/*
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto, minmax(80px,1fr);
+  grid-auto-rows: 80px;
+  grid-auto-flow: dense;
+}
+*/
+/* define child element sizes with grid-row: span 4; or grid-column: 2 etc.*/
