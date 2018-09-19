@@ -1,0 +1,20 @@
+---
+layout: page
+title: Recipes
+permalink: /recipes/
+---
+<section class="recipes">
+    {% for recipe in site.recipes %}
+        <div class="recipe-card {{recipe.name}}">
+          <!--<img class="project-image" src="{{project.image}}"/>-->
+          <div class="recipe-intro">
+            <a href="{{ recipe.url | relative_url }}">
+              <h3 class="recipe-title">{{recipe.recipe-name}}</h3>
+            </a>
+            <div class="recipe-data-container">
+              <p class="total-calories">{{recipe.total-calories}}</p>
+            </div>
+          </div>
+        </div>
+  {% endfor %}
+  </section>

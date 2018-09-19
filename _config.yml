@@ -48,3 +48,11 @@ collections:
         values:
           layout: "project"
     output: true
+
+  recipes:
+    defaults:
+      - scope:
+          path: "/recipes"
+        values:
+          layout: "recipe"
+    output: true

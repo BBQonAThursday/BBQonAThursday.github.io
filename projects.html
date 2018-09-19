@@ -1,0 +1,27 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+<section class="projects">
+    {% assign sorted = site.projects | sort: 'year' | reverse %}
+    {% for project in sorted %}
+        <div class="project-card {{project.title}}">
+          <img class="project-image" src="{{project.image}}"/>
+          <div class="project-intro">
+            <h3 class="project-title">{{project.title}}</h3>
+            <div class="project-type">
+              <p>
+                {{project.type}}
+              </p>
+              <p class="project-year">
+                {{project.year}}
+              </p>
+            </div>
+            <div class="project-info">           
+              <h5><a href="{{ project.url | relative_url }}">Go to Project</a></h5>
+            </div>
+          </div>
+        </div>
+  {% endfor %}
+  </section>

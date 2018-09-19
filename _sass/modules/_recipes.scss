@@ -1,0 +1,55 @@
+.recipes {
+  display: flex;
+
+  .recipe-card {
+    padding: $spacing-unit;
+    background: $brand-dark-accent;
+    margin: 0 $spacing-unit;
+    flex-basis:50%;
+    color: $neutral-white;
+    @include border-shadow;
+
+    .recipe-intro {
+      
+      display:flex;
+      flex-direction: column;
+
+      a {
+        color: $neutral-white;
+        width: 100%;
+      }
+
+      h3 {
+        color: $neutral-white;
+      }
+      .recipe-data-container {
+        justify-self: flex-end;
+        
+        .total-calories {
+          color: $neutral-white;
+        }
+      }
+    }
+  }
+}
+
+.recipe-page {
+  padding: $spacing-unit;
+
+  .recipe-body {
+
+    ul {
+
+      li {
+        padding: 0 $spacing-unit;
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+        font-weight: bold;
+      }
+    }
+
+    p {
+
+    }
+  }
+}

@@ -42,9 +42,8 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+  color: $text-darker;
 }
-
-
 
 /**
  * Images
@@ -89,8 +88,8 @@ a {
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: $text-darker;
+  
   }
 
   .social-media-list &:hover {
@@ -164,10 +163,7 @@ pre {
 /*Typography*/
 h1 {
   font-size:4rem;
-  font-weight: 800;
-  @include text-color-linear-gradient($brand-gradient-start, $brand-first);
-
- 
+  font-weight: 700;
 }
 
 h2 {
@@ -176,7 +172,6 @@ h2 {
 
 h3 {
   font-size:2rem;
-  letter-spacing: -.1rem;
 }
 
 h4 {
@@ -192,5 +187,5 @@ h6 {
 }
 p {
   font-size:1.6rem;
-  max-width: 64rem;
+  max-width: 52rem;
 }

@@ -2,13 +2,16 @@
 
 // Import partials.
 @import
-  //"bootstrap",
   "modules/variables.scss",
   "main/mixins",
   "main/base",
   "main/layout",
   "main/syntax-highlighting",
-  "modules/portfolio-pieces.scss",
   "modules/main-layout.scss",
-  "modules/resume.scss"
-;
+ 
+
+  "modules/main-layout.scss",
+  "modules/portfolio.scss",
+  "modules/resume.scss",
+  "modules/recipes.scss"
+  ;
