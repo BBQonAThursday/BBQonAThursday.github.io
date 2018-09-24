@@ -11,14 +11,15 @@ total-fiber: 8g
 total-net-carbs: 24g
 ---
 
-Produce
+## Ingredients
+### Produce
 * Thai Chilies : 2 small
 * Shallot : 1 medium, coarsely chopped
 * Garlic : 4 cloves
 * Ginger : 2 inches, peeled and cut in pieces
 * Lemongrass : 1 fresh stalk
 
-Herbs &amp; Spices
+### Herbs &amp; Spices
 * Ground Coriander : 1/2 tsp.
 * Ground Cumin : 1/2 tsp.
 * Dried Shrimp meal : 1 tbsp. (10g)
@@ -26,14 +27,14 @@ Herbs &amp; Spices
 * Basil Leaves : 1/3 cup (14g)
 * White Pepper : 1/2 tsp.
 
-Liquids &amp; Oils
+### Liquids &amp; Oils
 * Fish Sauce : 3 tbsp.
 * Sugar Substitute: 1 tbsp.
 * Lime Juice : 1 tbsp.
 * Coconut Oil : 3 tbsp.
 Full-Fat Coconut Milk : 1 400ml can
 
-Meat
+### Meat
 * Boneless Chicken Thighs : 1 lb., cut in large chunks
 
 Place the chilies, shallots, garlic, ginger, lemongrass, coriander, cumin, shrimp meal, cilantro, basil, white pepper, fish sauce, swerve and lime juice in food processor and mix until a smooth past is formed. Set aside.
