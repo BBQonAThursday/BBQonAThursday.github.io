@@ -1,6 +1,6 @@
 ---
 layout: recipe
-recipe-name: Butter Chicekn
+recipe-name: Butter Chicken
 recipe-yield: 6 servings
 prep-time:
 total-calories:

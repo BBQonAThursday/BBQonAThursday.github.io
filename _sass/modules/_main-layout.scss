@@ -3,6 +3,9 @@
 
 April 2018 -  Removing Bootstrap and replacing with css grid
 */
+
+
+
 .app {
 
   display: grid;
@@ -12,6 +15,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   padding: $spacing-unit;
   margin:auto;
   height: 100vh;
+  background-color: rgba($starry-night, .6);
   //@include starry-night-gradient;
   
   .mobile-menu-icon {
@@ -142,6 +146,19 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       }
     }
   }  
+
+.home-page {
+  display:grid;
+  grid-gap:$spacing-unit;
+  grid-template-columns: 1fr minmax(auto,40rem) 1fr;
+  grid-template-rows:  1fr auto 1fr;
+  background-color: rgba($starry-night, .6);
+  
+  .site-header {
+    grid-row-start: 2;
+    grid-column-start: 2;
+  }
+}
 
 .site-nav {
   padding: 2rem 0 0;
