@@ -11,6 +11,7 @@ dl, dd, ol, ul, figure {
 html {
   font-size:10px;
   box-sizing: border-box;
+  height: 100%;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -20,7 +21,7 @@ html {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  //font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-darker;
   
   -webkit-text-size-adjust: 100%;
@@ -60,9 +61,11 @@ img {
  */
 ul, ol {
   margin-left: $spacing-unit;
+ 
 }
 
 li {
+  font-size: $font-size-base;
   > ul,
   > ol {
     margin-bottom: 0;
@@ -80,15 +83,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-fifth;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-third, 15%);
-  }
+  color: $text-darker;
+  text-decoration: underline;
 
   &:hover {
     color: $text-darker;
+    text-decoration: none;
   
   }
 

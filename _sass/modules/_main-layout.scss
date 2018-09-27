@@ -10,12 +10,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 
   display: grid;
   grid-gap:$spacing-unit;
-  grid-template-columns: minmax(auto,40rem) minmax(auto,max-content);
+  grid-template-columns: minmax(auto, 40rem) minmax(32rem, 120rem);
   grid-template-rows:  auto max-content;
   padding: $spacing-unit;
   margin:auto;
-  height: 100vh;
-  background-color: rgba($starry-night, .6);
+  height: 100%;
+  background-color: $starry-night;
   //@include starry-night-gradient;
   
   .mobile-menu-icon {
@@ -41,7 +41,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     // Positioning context for the mobile navigation icon
     //position: relative;
     
-
     .hidden-menu {
       display:none;
     }
@@ -52,7 +51,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       grid-gap:2rem;
       width: 40rem;
     }
-    
     
     .headshot {
         max-height: 20rem;
@@ -115,7 +113,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       @include border-shadow-2;
       padding: $spacing-unit;
       
-      
       .site-title {
         font-size: 4rem;
         font-weight:bold;
@@ -123,15 +120,14 @@ April 2018 -  Removing Bootstrap and replacing with css grid
         line-height:$base-line-height;
         letter-spacing: -.25rem;
         display: block;
+        text-decoration: none;
 
         &:hover {
           text-decoration:none;
-          color: darken($brand-fourth, 20%);
+          color: rgba($brand-dark-accent, .8);
         }
       }
     }
-    
-    
 
     .navigation {
       display:flex;
@@ -228,63 +224,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     }
   }
 }
-/**
-* Footer Form Layouts
-*/
-.footer {
-  grid-row-start:2;
-  .contact-form {
-  
-    display: grid;
-    grid-template-columns:1fr 1fr 1fr 1fr;
-    grid-template-rows:1fr 8rem 1fr;
-    grid-gap:2rem;
-  
-    input, textarea {
-      background: $brand-dark-accent;
-      border: .2rem solid $brand-dark-accent;
-      color: $brand-first;
-      padding: 1rem;
-      display: inline-block;
-      box-sizing: border-box;
-      @include border-shadow;
-      
-      &::placeholder {
-        color: $brand-first;
-        //border-bottom: .1rem solid $text-darker;
-      }
-    }
-    
-    .form-name {
-      grid-column-start: 1;
-      grid-column-end: span 2;
-      grid-row-start: 1;
-      grid-row-end: 1;
-    }
-    .form-email {
-      grid-column-start: 3;
-      grid-column-end: span 2;
-      grid-row-start: 1;
-      grid-row-end: 1;
-    }
-    .form-message {
-      grid-column-start: 1;
-      grid-column-end: span 4;
-      grid-row-start: 2;
-      grid-row-end: 2;
-    }
-  
-    .form-submit {
-      grid-column-start: 2;
-      grid-column-end: span 2;
-      grid-row-start: 3;
-      grid-row-end: 3;
-    }
-   
-    
-  }
-}
-
 
 .social-media-icons {
   grid-row-start: 3;
@@ -294,13 +233,11 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 }
 //Start of loaded content
 .page-content {
-  grid-column-start: 2;
-  justify-self: end;
-  
+  grid-column-start: 2;  
 
   .projects {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(auto-fill, minmax(10rem, 20rem));
     grid-gap: $spacing-unit;
     grid-auto-flow:row;
   }

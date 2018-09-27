@@ -1,0 +1,20 @@
+---
+layout: page
+title: Labs
+permalink: /labs/
+---
+<section class="labs-table-of-contents">
+  {% for lab in site.labs %}
+      <div class="lab-card {{lab.name}}">
+        <!--<img class="project-image" src="{{project.image}}"/>-->
+        <div class="lab-intro">
+          <a href="{{ lab.url | relative_url }}">
+            <h3 class="lab-title">{{lab.lab-name}}</h3>
+          </a>
+          <div class="lab-data-container">
+            
+          </div>
+        </div>
+      </div>
+{% endfor %}
+</section>

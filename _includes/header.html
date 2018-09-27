@@ -1,6 +1,9 @@
 <header class="site-header hidden-menu" id="site-header" role="banner">
   <section class="title-town">
+     
     <img class="headshot img-responsive" src="../assets/img/joel-gamble-profile-image.png"  />
+     
+    
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -14,7 +17,7 @@
       {% if my_page.title %}
       <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
       {% endif %}
-      {% endfor %}
+      {% endfor%}
     </section>
     <section class="social-media-icons text-center">
         <a href="https://www.instagram.com/joel_likes_tacos/" target="_blank">

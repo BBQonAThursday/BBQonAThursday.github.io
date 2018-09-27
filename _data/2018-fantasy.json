@@ -89,6 +89,43 @@
       }
     },
     {
+      "name": "Jamison Crowder",
+      "position": "WR",
+      "bye-week": 6,
+      "weekly-stats": {
+        "wk-1" : {
+          "did-i-start-him": "yes",
+          "fantasy-points": 4.70,
+          "targets": 4,
+          "receptions": 3,
+          "rec-yards": 32,
+          "rec-td": 0,
+          "rushing-attempts": 0,
+          "rushing-yards": 0 
+        },
+        "wk-2": {
+          "did-i-start-him": "yes",
+          "fantasy-points": 4.70,
+          "targets": 4,
+          "receptions":2,
+          "rec-yards": 8,
+          "rec-td": 0,
+          "rushing-attempts": 2,
+          "rushing-yards": 29
+        },
+        "wk-3": {
+          "did-i-start-him": "no",
+          "fantasy-points": 12.5,
+          "targets": 4,
+          "receptions": 4,
+          "rec-yards": 39,
+          "rec-td": 1,
+          "rushing-attempts": 1,
+          "rushing-yards": 6
+        }
+      }
+    },
+    {
       "name": "Tevin Coleman",
       "position": "RB",
       "bye-week": 8,
