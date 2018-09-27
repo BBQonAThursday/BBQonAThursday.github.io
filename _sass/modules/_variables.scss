@@ -31,7 +31,7 @@ $brand-fourth:          #31E77B;
 $brand-fifth:           #2bb4d7;
 $brand-dark-accent:     #303245;
 $brand-gradient-start:  #f98b66;
-$starry-night:          #BA4C9C;
+$starry-night:          rgba(32, 12, 110, 0.49);
 $dark-night:            #41002F;
 /*Typography*/
 $text-dark:             rgba(24, 29, 39, 1);
@@ -78,7 +78,7 @@ $link-hover-decoration: underline !default;
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
-
+$font-size-base: 1.6rem;
 $font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.

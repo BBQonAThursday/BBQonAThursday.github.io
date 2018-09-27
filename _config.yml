@@ -49,10 +49,16 @@ collections:
           layout: "project"
     output: true
 
+  labs:
+    defaults:
+      -scope:
+        path:   "/labs"
+      values:
+        layout: "lab"
   recipes:
     defaults:
       - scope:
-          path: "/recipes"
+          path: "/labs/recipes"
         values:
           layout: "recipe"
     output: true

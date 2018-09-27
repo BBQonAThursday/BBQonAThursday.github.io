@@ -1,7 +1,7 @@
 ---
 layout: recipe
 recipe-name: Keto Granola
-recipe-yield: 10 servings
+recipe-yield: 10 servings   
 prep-time:
 total-calories:
 total-carbs: 

@@ -1,0 +1,130 @@
+.job-card {
+  background-color: lighten($brand-fourth, 20%);
+  min-height: 15rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: 3rem;
+  width: 66rem;
+  height: 24rem;
+  @include border-shadow-2;
+
+  p, ul, li, h5, a {
+    
+  }
+  .job-title {
+    padding:$spacing-unit;
+    background-color: $brand-dark-accent;
+    text-align: right;
+    width: 22rem;
+    display: flex;
+    flex-direction: column;   
+    justify-content:center;
+
+    p {
+      margin-bottom: 0;
+      color: $neutral-white;
+    }
+    .company {
+      font-weight: 700;
+      font-size: 2.2rem;
+    }
+    .job-name {
+      font-style: italic;
+    }
+    .job-timeline {
+      justify-self: flex-end;
+      padding-top: 4rem;
+    }
+  }
+  
+  .job-description {
+    width: 44rem;
+    padding: $spacing-unit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+.resume-heading {
+  font-weight: 700;
+  margin-top: 4rem;
+}
+.color-lovers {
+  margin: 2rem 0 2rem 0;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 12rem;
+
+
+  &.aviato {
+    background-color: #85F3E9;
+
+    a {
+      color: $text-darker;
+    }
+  }
+
+  &.the-art-of-forgery {
+    background-color: #5A77AA;
+
+    a {
+      color: $off-white;
+    }
+  }
+
+  &.full-metal-jacket {
+    background-color: #3DB06F;
+
+    a {
+      color: $off-white;
+    }
+  }
+}
+
+.skills {
+  span {
+    padding: 1rem;
+    border-radius: .4rem;
+  }
+
+  .html {
+    background-color: $html;
+    color: $off-white;
+  }
+
+  .css {
+    background-color: $css;
+    color: $off-white;
+  }
+
+  .episerver {
+    background-color: $episerver;
+  }
+
+  .jekyll {
+    background-color: $jekyll;
+    color: $off-white;
+  }
+
+  .wordpress {
+    background-color: $wordpress;
+    color: $off-white;
+  }
+
+  .javascript {
+    background-color: $javascript;
+  }
+
+  .sketch {
+    background-color: $sketch;
+  }
+
+  .illustrator {
+    background-color: $illustrator;
+  }
+
+  .photoshop {
+    background-color: $photoshop;
+  }
+}
