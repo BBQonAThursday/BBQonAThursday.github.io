@@ -28,6 +28,7 @@ gems:
 
 include:
   - _data
+  - _labs
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -55,6 +56,8 @@ collections:
         path:   "/labs"
       values:
         layout: "lab"
+  output: true
+
   recipes:
     defaults:
       - scope:
