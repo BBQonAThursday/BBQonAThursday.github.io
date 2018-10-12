@@ -6,7 +6,7 @@
     
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}"><h1>{{ site.title | escape }}</h1></a>
     <p class="position-title">Web Developer / Designer</p>
     <p>
       <img src="/assets/img/location.svg" width="18px" height="18px"/>Madison, WI
@@ -14,20 +14,21 @@
     <section class="navigation">
       {% for path in page_paths %}
       {% assign my_page = site.pages | where: "path", path | first %}
-      {% if my_page.title %}
-      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      {% if my_page.menu-item %}
+      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.menu-item | escape }}</a>
       {% endif %}
       {% endfor%}
     </section>
     <section class="social-media-icons text-center">
+        <a href="#" target="_blank">
+          <img src="/assets/img/pdf.svg" width="25px" height="25px"/></a>
         <a href="https://www.instagram.com/joel_likes_tacos/" target="_blank">
-          <img src="/assets/img/instagram.svg" width="18px" height="18px"/>
-        </a>
+          <img src="/assets/img/instagram.svg" width="25px" height="25px"/></a>
         <a href="https://www.linkedin.com/in/joel-gamble-a373a32a/" target="_blank">
-          <img src="/assets/img/linkedin.svg" width="18px" height="18px"/>
-        </a>
+          <img src="/assets/img/linkedin.svg" width="25px" height="25px"/></a>
       </section>
   </section>
+  <h2 class="resume-heading">{{page.heading}}</h2>
   
   <!--<section class="footer">
         <form class="contact-form" action="https://formspree.io/jjoelgamble@gmail.com"
@@ -40,6 +41,6 @@
   </section>-->
   
 </header>
-<header class="mobile-menu-icon" id="mobile-menu-icon">
+<!--<header class="mobile-menu-icon" id="mobile-menu-icon">
   <img src="/assets/img/menu-icon.svg">
-</header>
+</header>-->

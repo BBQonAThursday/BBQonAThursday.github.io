@@ -59,6 +59,12 @@ img {
 /**
  * Lists
  */
+ul, li, p, a  {
+  //font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Muli', sans-serif;
+  font-family: 'Overpass', sans-serif;
+}
+
 ul, ol {
   margin-left: $spacing-unit;
  
@@ -77,6 +83,8 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  //font-family: 'Playfair Display', serif;
+  //font-family: 'Permanent Marker', cursive;
 }
 
 /**
@@ -162,30 +170,41 @@ pre {
 
 /*Typography*/
 h1 {
-  font-size:4rem;
+  font-size:5.5rem;
   font-weight: 700;
+  line-height: 6.3rem;
+  padding-top: .5rem;
+  margin-bottom:1rem;
+  //font-family: 'Playfair Display', serif;
+  //font-family: 'Merriweather', serif;
+  font-family: 'Permanent Marker', cursive;
 }
 
 h2 {
   font-size:2.6rem;
+  font-family: 'Overpass', sans-serif;
 }
 
 h3 {
   font-size:2rem;
+  font-family: 'Overpass', sans-serif;
 }
 
 h4 {
   font-size:1.6rem;
+  font-family: 'Overpass', sans-serif;
 }
 
 h5 {
   font-size:1.4rem;
+  font-family: 'Overpass', sans-serif;
 }
 
 h6 {
   font-size:1.2rem;
+  font-family: 'Overpass', sans-serif;
 }
 p {
-  font-size:1.6rem;
+  font-size:1.7rem;
   max-width: 52rem;
 }
