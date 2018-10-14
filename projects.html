@@ -5,6 +5,7 @@ menu-item: Projects
 permalink: /projects/
 ---
 <section class="projects">
+    {% include header.html %}
     {% assign sorted = site.projects | sort: 'year' | reverse %}
     {% for project in sorted %}
         <div class="project-card {{project.title}}">

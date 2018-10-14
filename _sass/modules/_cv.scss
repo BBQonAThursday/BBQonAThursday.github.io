@@ -15,8 +15,8 @@
   display: flex;
   flex-direction: row;
   margin-top: 3rem;
+  margin-bottom: $spacing-unit;
   width: 66rem;
-  margin-bottom: 15rem;
   padding: 0 $spacing-unit 0 0;
   @include job-card-animation-on-load;
 
@@ -36,9 +36,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: -5rem;
     height: 30rem;
     z-index:2;
+    align-self: center;
+    @include border-shadow-2;
 
     p {
       margin-bottom: 0;
@@ -60,8 +61,8 @@
   .job-description {
     background-color: lighten($brand-fourth, 20%);
     width: 44rem;
-    margin-left: -10rem;
-    padding: $spacing-unit $spacing-unit $spacing-unit 10rem;
+    margin-left: -7.5rem;
+    padding: 4rem $spacing-unit $spacing-unit 10rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -71,9 +72,9 @@
     .job-responsiblities {
 
       li {
-        font-size: 1.8rem;
-        margin-bottom: 1rem;
-        line-height: 2.2rem;
+        font-size: 1.7rem;
+        margin-bottom: 2rem;
+        line-height: 2.4rem;
         list-style-type: none;
       }
     }
