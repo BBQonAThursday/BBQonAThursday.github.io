@@ -122,6 +122,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
         letter-spacing: -.25rem;
         display: block;
         text-decoration: none;
+        text-shadow: .5rem .5rem $brand-fourth;
 
         &:hover {
           text-decoration:none;
@@ -236,32 +237,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 .page-content {
   grid-column-start: 2;
   grid-row-start: 1; 
-
-  .projects {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(10rem, 20rem));
-    grid-gap: $spacing-unit;
-    grid-auto-flow:row;
-  }
-  // Project Page Layout
-  // See HTML in _layouts/project.html
-  .project-page {
-    max-width: 50rem;
-
-    .project-header {
-
-      .project-title {
-        font-weight:bold;
-      }
-    }
-    .project-body {
-      
-      p {
-        line-height: 2rem;
-        margin-bottom: $spacing-unit;
-      }
-    }
-  }
 }
 
 

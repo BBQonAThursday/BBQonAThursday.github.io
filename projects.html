@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: project-page-layout
 title: Projects
 menu-item: Projects
 permalink: /projects/
 ---
 <section class="projects">
-    {% include header.html %}
+    {% include secondary-header.html %}
     {% assign sorted = site.projects | sort: 'year' | reverse %}
     {% for project in sorted %}
-        <div class="project-card {{project.title}}">
+        <div class="project-card {{project.class}}">
           <img class="project-image" src="{{project.image}}"/>
           <div class="project-intro">
             <h3 class="project-title">{{project.title}}</h3>
