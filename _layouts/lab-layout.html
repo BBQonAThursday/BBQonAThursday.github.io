@@ -1,11 +1,22 @@
----
-layout: secondary-layout
----
-<article class="lab-page">
-  <header class="lab-header">
-    <h1 class="lab-title">{{ lab.title | escape }}</h1>
-  </header>
-  <section class="lab-body">  
-    {{ content }}
-  </section>  
-</article>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="app header-top-container">
+    {% include secondary-header.html %}
+    
+    <main class="page-content" aria-label="Content">
+      <article class="lab-page">
+        <header class="lab-header">
+          <h1 class="lab-title">{{ lab.title | escape }}</h1>
+        </header>
+        <section class="lab-body">  
+          {{ content }}
+        </section>  
+      </article>
+    </main>
+
+    <script src="/assets/js/sticky-header.js"></script>
+  </body>
+</html>
