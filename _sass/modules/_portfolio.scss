@@ -5,6 +5,7 @@
 
   .project-card {
     height: 20rem;
+    width: 20rem;
     position: relative;
     overflow:hidden;
     display:flex;
@@ -38,8 +39,11 @@
       position: absolute;
       transition: transform .4s;
       width: 100%;
-      padding:2rem;
-
+      padding: 2rem;
+      height: 100%;
+      justify-content: space-between;
+      display: flex;
+      flex-direction: column;
 
       .project-type,
       .project-year {
@@ -62,6 +66,7 @@
         color: $brand-first;
         font-size: 1.5rem;
         font-style: italic;
+        text-align: right;
       }
     }
 

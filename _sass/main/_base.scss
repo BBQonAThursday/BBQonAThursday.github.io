@@ -61,7 +61,7 @@ img {
  */
 ul, li, p, a  {
   //font-family: 'Source Sans Pro', sans-serif;
-  font-family: 'Muli', sans-serif;
+  //font-family: 'Muli', sans-serif;
   font-family: 'Overpass', sans-serif;
 }
 
@@ -182,12 +182,13 @@ h1 {
 
 h2 {
   font-size:2.6rem;
-  font-family: 'Overpass', sans-serif;
+  font-family: 'Permanent Marker', cursive;
 }
 
 h3 {
   font-size:2rem;
   font-family: 'Overpass', sans-serif;
+  
 }
 
 h4 {
@@ -206,5 +207,5 @@ h6 {
 }
 p {
   font-size:1.7rem;
-  max-width: 52rem;
+  max-width: 56ch;
 }

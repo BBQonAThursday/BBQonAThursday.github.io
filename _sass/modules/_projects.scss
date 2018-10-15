@@ -1,0 +1,74 @@
+.projects {
+  margin:auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 20rem);
+  grid-gap: $spacing-unit;
+  grid-auto-flow: row dense;
+  grid-template-rows: repeat(4,20rem);
+  max-width:98rem;
+
+  .site-header {
+    grid-column: 2 / span 2;
+    order:9;
+    grid-row-start: unset;
+
+    .title-town {
+      justify-self: center;
+      background: none;
+      box-shadow :none;
+    }
+  }
+  .projects-intro {
+    order: 0;
+    //grid-column: 2 / span 2;
+    align-self: center;
+  }
+  .page-title {
+    order: 8;
+  }
+  
+  .curve-shop {
+    order:1;
+  }
+
+  .bali-safety-page {
+    order: 2;
+    
+  }
+
+  .bali-olympic-paint-landing-page {
+    order: 3;
+  }
+
+  .bali-email-template {
+    order: 4;
+  }
+
+  .wisconsin-commercial-roofing {
+    order: 5;
+  } 
+
+  .verona-road {
+    order: 7;
+  }
+  
+}
+// Project Page Layout
+// See HTML in _layouts/project.html
+.project-page {
+  max-width: 50rem;
+
+  .project-header {
+
+    .project-title {
+      font-weight:bold;
+    }
+  }
+  .project-body {
+    
+    p {
+      line-height: 2rem;
+      margin-bottom: $spacing-unit;
+    }
+  }
+}
