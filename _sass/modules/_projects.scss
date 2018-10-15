@@ -9,7 +9,7 @@
 
   .site-header {
     grid-column: 2 / span 2;
-    order:6;
+    order:9;
     grid-row-start: unset;
 
     .title-town {
@@ -18,7 +18,11 @@
       box-shadow :none;
     }
   }
-
+  .projects-intro {
+    order: 0;
+    //grid-column: 2 / span 2;
+    align-self: center;
+  }
   .page-title {
     order: 8;
   }
