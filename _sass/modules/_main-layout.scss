@@ -7,7 +7,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 
 
 .app {
-
   display: grid;
   grid-gap:$spacing-unit;
   grid-template-columns: minmax(auto, 32rem) minmax(32rem, 120rem);
