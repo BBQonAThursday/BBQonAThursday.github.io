@@ -4,7 +4,7 @@ title: Projects
 menu-item: Projects
 permalink: /projects/
 ---
-<section class="projects">
+
     {% include secondary-header.html %}
     <p class="projects-intro">This is a collection of web projects I have worked on over the past few years. This ranges from web design, static site creation or email design and development.</p>
     {% assign sorted = site.projects | sort: 'year' | reverse %}
@@ -27,4 +27,3 @@ permalink: /projects/
           </div>
         </div>
   {% endfor %}
-  </section>
