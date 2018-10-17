@@ -9,7 +9,7 @@
   grid-template-columns: repeat(auto-fit, 20rem);
   grid-gap: $spacing-unit;
   grid-auto-flow: row dense;
-  grid-template-rows: repeat(4,20rem);
+ 
 
   .site-header {
     grid-column: 2 / span 2;
