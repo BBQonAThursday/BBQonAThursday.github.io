@@ -63,19 +63,19 @@ $lg-width: 1200px;
 }
 
 @mixin job-card-animation-on-load {
-  animation-delay: .5s;
+  animation-delay: .2s;
   animation-duration: 1s;
   animation-name: fadeNudgeIn;
   opacity: 0;
   animation-fill-mode:both;
-  margin-right: -500rem;
+ 
   transition: bezier;
 
   @keyframes fadeNudgeIn {
 
     0% {
       opacity:0;
-      margin-right: -500rem;
+      
     }
 
     50% {
@@ -83,7 +83,7 @@ $lg-width: 1200px;
     }
 
     100% {
-      margin-right: 0;
+      
       opacity:1;
     }
   }

@@ -9,8 +9,8 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 .app {
   display: grid;
   grid-gap:$spacing-unit;
-  grid-template-columns: minmax(auto, 32rem) minmax(32rem, 120rem);
-  grid-template-rows:  auto max-content;
+  //grid-template-columns: minmax(auto, 32rem) minmax(32rem, 120rem);
+  //grid-template-rows:  auto max-content;
   padding: $spacing-unit;
   margin:auto;
   height: 100%;
@@ -238,7 +238,16 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   grid-row-start: 1; 
 }
 
-
+.app {
+  .secondary-site-header {
+    align-self: center;
+    .title-town {
+      justify-self: center;
+      background: none;
+      box-shadow :none;
+    }
+  }
+}
 /*
 ul {
   display: grid;

@@ -4,18 +4,20 @@ title: Labs
 menu-item: Labs
 permalink: /labs/
 ---
-<section class="labs-table-of-contents">
+
+  <p class="labs-lede">These are just a few projects that I wanted to build out a bit. Mostly just a way to practice new stuff. I've been diving into CSS grid as well as Javascript. Enjoy. 
+  </p>
   {% for lab in site.labs %}
-      <div class="lab-card {{lab.name}}">
-        <!--<img class="project-image" src="{{project.image}}"/>-->
-        <div class="lab-intro">
-          <a href="{{ lab.url | relative_url }}">
-            <h3 class="lab-title">{{lab.lab-name}}</h3>
-          </a>
-          <div class="lab-data-container">
-            
-          </div>
+    <div class="lab-card {{lab.name}}">
+      <!--<img class="project-image" src="{{project.image}}"/>-->
+      <div class="lab-intro">
+        <a href="{{ lab.url | relative_url }}">
+          <h3 class="lab-title">{{lab.lab-name}}</h3>
+        </a>
+        <div class="lab-data-container">
         </div>
       </div>
+    </div>
 {% endfor %}
-</section>
+
+  
