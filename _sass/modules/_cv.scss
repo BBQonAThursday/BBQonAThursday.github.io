@@ -1,3 +1,15 @@
+.cv-layout-container {
+  width: 100%;
+  grid-auto-flow: column;
+  justify-content: center;
+
+
+  .cv-jobs {
+    width:100%;
+    display: flex;
+    flex-direction: column;
+  }
+}
 .resume-heading {
   
   font-size: 3.6rem;
@@ -14,7 +26,7 @@
   min-height: 15rem;
   display: flex;
   flex-direction: row;
-  margin-top: 3rem;
+  
   margin-bottom: $spacing-unit;
   width: 66rem;
   padding: 0 $spacing-unit 0 0;
