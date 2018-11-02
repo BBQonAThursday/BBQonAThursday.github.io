@@ -1,0 +1,18 @@
+.character-layout-container {
+
+  .character-page {
+
+  }
+
+  .stats-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 100%;
+    
+    grid-gap: $spacing-unit;
+
+    .stat-block {
+      max-width: 20rem;
+    }
+  }
+}
