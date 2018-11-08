@@ -4,33 +4,50 @@ title: Cervantes
 lab-name: DnD Characters - Active
 permalink: /cervantes/
 level: 5
-constitution: 14
-strength: 9
-dexterity: 20
-wisdom: 16
-intelligence: 13
-charisma: 10
+strength: 4
+dexterity: 2
+constitution: 4
+intelligence: 0
+wisdom: -1
+charisma: 0
 proficiency-bonus: 3
+class: Fighter
+archetype: Shieldbearer
 ---
+
 
 <section class="character-traits">
 
   <div class="stats-container">
     <div class="stat-block character-name">
       <h3 class=""><span>Character Name:</span> {{page.title}}</h3>
+      <h4>{{page.class}} - {{page.archetype}}</h4>
+
     </div>
-    <div class="stat-block constitution">
-      <h3 class="">Constitution</h3>
-      <p class="stat-number">{{page.constitution}}</p>
-    </div>
+    <div class="stat-block strength">
+        <h3 class="">Strength</h3>
+        <p class="stat-number">{{page.strength}}</p>
+      </div>
     <div class="stat-block dexterity">
       <h3 class="">Dexterity</h3>
       <p class="stat-number">{{page.dexterity}}</p>
     </div>
-    <div class="stat-block strength">
-      <h3 class="">Strength</h3>
-      <p class="stat-number">{{page.strength}}</p>
-    </div>
+    <div class="stat-block constitution">
+        <h3 class="">Constitution</h3>
+        <p class="stat-number">{{page.constitution}}</p>
+      </div>
+    <div class="stat-block intelligence">
+        <h3 class="">Intelligence</h3>
+        <p class="stat-number">{{page.intelligence}}</p>
+      </div>
+      <div class="stat-block wisdom">
+        <h3 class="">Wisdom</h3>
+        <p class="stat-number">{{page.wisdom}}</p>
+      </div>
+      <div class="stat-block charisma">
+        <h3 class="">Charisma</h3>
+        <p class="stat-number">{{page.charisma}}</p>
+      </div>
   </div>
       <h2>Race Traits</h2>
       <h2>Class Traits</h2>
@@ -68,44 +85,106 @@ proficiency-bonus: 3
         </ul>
       </div>
       <div class="class-trait">
-        <h3>Fighting Style: Archery</h3>
-        <p>
-          You gain a +2 bonus to attack rolls you make with ranged weapons.
-        </p>
+       
       </div>
       <div class="class-trait">
-        <h3>Spellcasting</h3>
-        <p>
-          Spell save DC = 8 + {{ proficiency-bonus }} + {{ wisdom }}
-        </p>
-        <p>
-          Spell attack modifier = {{ proficiency-bonus }} + {{ wisdom }}
-        </p>
+       
       </div>
       <div class="class-trait">
-        <h3>Hunter Conclave</h3>
+        
       </div>
     </div>
   </div>
 </section>
   <section class="background-information">
-    <div class="row">
-        <div class="col-xs-12">
-          <h4>Step 1: Write five things essential to your characters background including previous adventures and events.</h4>
-          <p>
-
-          </p>
-          <h4>Step 2: List your character's goals and things you want to see happen to your character.</h4>
-
-          <h4>Step 3: List two secrets about your character. Keep in mind secrets your character may not know yet.</h4>
-
-          <h4>Step 4: List three people that are tied to the character through blood, romance or honor. Remember to include positive and negative reflections.</h4>
-
-          <h4>Describe your character in detail as you see fit. Relate any additional information you believe is important or required.</h4>
-
-          <h5>Personality:</h5>
-
-          <h5>Mannerisms</h5>
-        </div>
-    </div>
+    
   </section>
+
+  <section class="class-details">
+    <h2>{{page.class}} - Shieldbearer Archetype</h2>
+    
+  
+    <h2 id="ClassFeatures">Class Features</h2>
+<p>As a fighter, you gain the following cl<span>ass features.</span></p>
+            
+            
+                <h4 id="HitPoints">Hit Points</h4>
+                <p><strong><span>Hit Dice: </span></strong>1d10 per <span>fighter level<br></span><strong><span>Hit Points at 1st Level: </span></strong>10 + your Constitu<span>tion modifier<br></span><strong><span>Hit Points at Higher Levels: </span></strong>1d10 (or 6) + your Constitution modifier per fighter le<span>vel after 1st</span></p>
+            
+                <h4 id="Proficiencies">Proficiencies</h4>
+                <p><strong><span>Armor: </span></strong>All a<span>rmor, shields<br></span><strong><span>Weapons: </span></strong>Simple weapons, ma<span>rtial weapons<br></span><strong><span>Tools: </span></strong>None<br><strong><span>Saving Throws: </span></strong>Strength,<span> Constitution<br></span><strong><span>Skills: </span></strong>Choose two skills from <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Acrobatics" data-tooltip-href="//www.dndbeyond.com/skills/3-tooltip?disable-webm=1&amp;disable-webm=1">Acrobatics</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#AnimalHandling" data-tooltip-href="//www.dndbeyond.com/skills/11-tooltip?disable-webm=1&amp;disable-webm=1">Animal Handling</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Athletics" data-tooltip-href="//www.dndbeyond.com/skills/2-tooltip?disable-webm=1&amp;disable-webm=1">Athletics</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#History" data-tooltip-href="//www.dndbeyond.com/skills/7-tooltip?disable-webm=1&amp;disable-webm=1">History</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Insight" data-tooltip-href="//www.dndbeyond.com/skills/12-tooltip?disable-webm=1&amp;disable-webm=1">Insight</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Intimidation" data-tooltip-href="//www.dndbeyond.com/skills/17-tooltip?disable-webm=1&amp;disable-webm=1">Intimidation</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Perception" data-tooltip-href="//www.dndbeyond.com/skills/14-tooltip?disable-webm=1&amp;disable-webm=1">Perception</a>,<span> and <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Survival" data-tooltip-href="//www.dndbeyond.com/skills/15-tooltip?disable-webm=1&amp;disable-webm=1">Survival</a></span></p>
+            
+            
+            <h4>Equipment</h4>
+            <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+            <ul>
+            
+                <li>
+                    (a) chain mail or (b) leather armor, longbow, and 20 arrows
+                </li>
+            
+                <li>
+                    (a) a martial weapon and a shield or (b) two martial weapons
+                </li>
+            
+                <li>
+                    (a) a light crossbow and 20 bolts or (b) two handaxes
+                </li>
+            
+                <li>
+                    (a) a dungeoneer’s pack or (b) an explorer’s pack
+                </li>
+            
+            </ul>
+            
+            
+
+                    <h4 id="FightingStyle">Fighting Style</h4>
+                    <h5>Protection</h5>
+                    <p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>
+                        
+                            <h5>Two-Weapon Fighting</h5>
+                            <p></p><p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p><p></p>
+                        
+
+                    <h4 id="SecondWind">Second Wind</h4>
+                    <p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.</p>
+                    
+
+                    <h4 id="ActionSurge">Action Surge</h4>
+                    <p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
+<p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
+                    
+
+                    <h4 id="MartialArchetype">Martial Archetype</h4>
+                    <p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
+                    
+
+                    <h4 id="AbilityScoreImprovement">Ability Score Improvement</h4>
+                    <p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</p>
+                    
+
+                    <h4 id="ExtraAttack">Extra Attack</h4>
+                    <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
+<p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+                    
+
+                    <h4 id="Indomitable">Indomitable</h4>
+                    <p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.</p>
+<p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+                    
+
+                    <h4 id="ExtraAttack">Extra Attack</h4>
+                    <p>Beginning at 11th level, you can attack three times, instead of twice, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
+  <p>The number of attacks increases to four when you reach 20th level in this class.</p>
+  <h4 id="ExtraAttack">Extra Attack</h4>
+  <p>At 20th level, you can attack four&nbsp;times, instead of three, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
+                    
+</div>
+
+                </div>
+            
+        </div>
+    </section>
+      
