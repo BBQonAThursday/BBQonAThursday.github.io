@@ -1,11 +1,14 @@
----
-layout: secondary-layout
----
-<article class="project-page">
-  <header class="project-header">
-    <h1 class="project-title">{{ page.title | escape }}</h1>
-  </header>
-  <section class="project-body">  
-    {{ content }}
-  </section>  
-</article>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="app project-layout-container">
+    {% include secondary-header.html %}
+
+    <main class="project-page">
+      {{ content }}
+    </main>
+    <script src="/assets/js/sticky-header.js"></script>
+  </body>
+</html>

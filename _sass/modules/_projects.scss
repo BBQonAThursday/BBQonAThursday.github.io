@@ -1,8 +1,21 @@
 .project-layout-container {
-  display: grid;
-  grid-gap: $spacing-unit;
-  grid-template-columns: 100%;
-}
+  width: 100%;
+  display:grid;
+  max-width:100rem;
+  margin:auto;
+  grid-template-columns: 2fr auto 2fr;
+  
+  .secondary-site-header {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    align-self: start;
+  }
+
+  .project-page {
+    grid-column-start: 2;
+  }
+}  
+
 .projects {
   margin:auto;
   display: grid;

@@ -23,6 +23,7 @@
       }
       .project-info {
         display:block;
+        height: auto;
       }
     }
 
@@ -67,6 +68,8 @@
         font-size: 1.5rem;
         font-style: italic;
         text-align: right;
+        align-self: flex-end;
+        
       }
     }
 
@@ -95,9 +98,12 @@
 
 // Project page
 
+
 .project-content {
 
   img {
     max-width: 100%;
   }
 }
+
+

@@ -4,13 +4,13 @@ title: Cervantes
 lab-name: DnD Characters - Active
 permalink: /cervantes/
 level: 5
-strength: 4
-dexterity: 2
-constitution: 4
-intelligence: 0
-wisdom: -1
-charisma: 0
-proficiency-bonus: 3
+strength: 18
+dexterity: 14
+constitution: 18
+intelligence: 11
+wisdom: 9
+charisma: 10
+prof-bonus: 3
 class: Fighter
 archetype: Shieldbearer
 ac: 21
@@ -18,40 +18,141 @@ initiative: 2
 speed: 30
 ---
 
+{% assign strengthMod = page.strength | minus: 10 | divided_by: 2 | round %}
+{% assign dexMod = page.dexterity | minus: 10 | divided_by: 2 | round %}
+{% assign conMod = page.constitution | minus: 10 | divided_by: 2 | round %}
+{% assign intelligenceMod = page.intelligence | minus: 10 | divided_by: 2 | round %}
+{% assign wisdomMod = page.wisdom | minus: 10 | divided_by: 2 | round %}
+{% assign charismaMod = page.charisma | minus: 10 | divided_by: 2 | round %}
+
 
 <section class="character-traits">
-
-  <div class="stats-container">
-    <div class="stat-block character-name">
-      <h3 class=""><span>Character Name:</span> {{page.title}}</h3>
-      <h4>{{page.class}} - {{page.archetype}}</h4>
-
-    </div>
+    <div class="character-name-container">
+        <h2 class="character-name">{{page.title}}</h2>
+        <h3 class="character-class">{{page.class}} - {{page.archetype}}</h3>
+      </div>
+  <section class="stats-container">
     <div class="stat-block strength">
-        <h3 class="">Strength</h3>
-        <p class="stat-number">{{page.strength}}</p>
+      <h3 class="stat-name">Strength</h3>
+      <p class="stat-calc-value">{{strengthMod}}</p>
+      <p class="stat-number modifier">{{page.strength}}</p>
       </div>
     <div class="stat-block dexterity">
-      <h3 class="">Dexterity</h3>
+      <h3 class="stat-name">Dexterity</h3>
+      <p class="stat-calc-value">{{dexMod}}</p>
       <p class="stat-number">{{page.dexterity}}</p>
     </div>
     <div class="stat-block constitution">
-        <h3 class="">Constitution</h3>
-        <p class="stat-number">{{page.constitution}}</p>
-      </div>
+      <h3 class="stat-name">Constitution</h3>
+      <p class="stat-calc-value">{{conMod}}</p>
+      <p class="stat-number">{{page.constitution}}</p>
+    </div>
     <div class="stat-block intelligence">
-        <h3 class="">Intelligence</h3>
-        <p class="stat-number">{{page.intelligence}}</p>
-      </div>
-      <div class="stat-block wisdom">
-        <h3 class="">Wisdom</h3>
-        <p class="stat-number">{{page.wisdom}}</p>
-      </div>
-      <div class="stat-block charisma">
-        <h3 class="">Charisma</h3>
-        <p class="stat-number">{{page.charisma}}</p>
-      </div>
-  </div>
+      <h3 class="stat-name">Intelligence</h3>
+      <p class="stat-calc-value">{{intelligenceMod}}</p>
+      <p class="stat-number">{{page.intelligence}}</p>
+    </div>
+    <div class="stat-block wisdom">
+      <h3 class="stat-name">Wisdom</h3>
+      <p class="stat-calc-value">{{wisdomMod}}</p>
+      <p class="stat-number">{{page.wisdom}}</p>
+    </div>
+    <div class="stat-block charisma">
+      <h3 class="stat-name">Charisma</h3>
+      <p class="stat-calc-value">{{charismaMod}}</p>
+      <p class="stat-number">{{page.charisma}}</p>
+    </div>
+    <div class="stat-block small-block armor-class">
+      <h3 class="stat-name">Armor Class</h3>
+      <p class="stat-calc-value">#</p>
+    </div>
+  </section>
+  <section class="saving-throws-container">
+    <h3>Saving Throws</h3>
+    <div class="s-t-block">
+      <h4 class="s-t-name">Strength</h4>
+      <p class="is-proficient">{{strengthMod | plus: page.prof-bonus }}</p>
+    </div>
+    <div class="s-t-block">
+      <h4 class="s-t-name">Constitution</h4>
+      <p class="is-proficient">{{conMod | plus: page.prof-bonus }}</p>
+    </div>
+  </section>
+  <section class="skills-container">
+    <div class="skill-block">
+      <h4 class="skill-name">Acrobatics <span class=base-stat>(Dex)</span></h4>
+      <p class="not-proficient">{{dexMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Animal Handling <span class="base-stat">(Wis)</span></h4>
+      <p class="not-proficient">{{wisdomMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Arcana <span class="base-stat">(Int)</span></h4>
+      <p class="not-proficient">{{intelligenceMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Athletics <span class="base-stat">(Str)</span></h4>
+      <p class="is-proficient">{{strengthMod | plus: page.prof-bonus}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Deception <span class="base-stat">(Cha)</span></h4>
+      <p class="not-proficient">{{charismaMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">History <span class="base-stat">(Int)</span></h4>
+      <p class="not-proficient">{{intelligenceMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Insight <span class="base-stat">(Wis)</span></h4>
+      <p class="not-proficient">{{wisdomMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Intimidation <span class="base-stat">(Cha)</span></h4>
+      <p class="is-proficient">{{charismaMod | plus: page.prof-bonus}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Investigation <span class="base-stat">(Int)</span></h4>
+      <p class="not-proficient">{{intelligenceMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Medicine <span class="base-stat">(Wis)</span></h4>
+      <p class="not-proficient">{{wisdomMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Nature <span class="base-stat">(Int)</span></h4>
+      <p class="is-proficient">{{intelligenceMod | plus: page.prof-bonus}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Perception <span class="base-stat">(Wis)</span></h4>
+      <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Performance <span class="base-stat">(Cha)</span></h4>
+      <p class="not-proficient">{{charismaMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Persuasion <span class="base-stat">(Cha)</span></h4>
+      <p class="not-proficient">{{charismaMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Religion <span class="base-stat">(Int)</span></h4>
+      <p class="is-proficient">{{intelligenceMod | plus: 1}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Sleight of Hand <span class="base-stat">(Dex)</span></h4>
+      <p class="not-proficient">{{dexMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Stealth <span class="base-stat">(Dex)</span></h4>
+      <p class="not-proficient">{{dexMod}}</p>
+    </div>
+    <div class="skill-block">
+      <h4 class="skill-name">Survival <span class="base-stat">(Wis)</span></h4>
+      <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
+    </div>
+    <h3 class="skills-header">Skills</h3>
+  </section>
       <h2>Race Traits</h2>
       <h2>Class Traits</h2>
       <div class="class-trait">
@@ -96,7 +197,7 @@ speed: 30
       <div class="class-trait">
         
       </div>
-    </div>
+    </section>
   </div>
 </section>
   <section class="background-information">

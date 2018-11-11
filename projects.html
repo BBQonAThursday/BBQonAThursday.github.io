@@ -17,13 +17,13 @@ permalink: /projects/
               <p>
                 {{project.type}}
               </p>
+              <div class="project-info">           
+                  <h5><a href="{{ project.url | relative_url }}">Go to Project</a></h5>
+              </div>
               <p class="project-year">
                 {{project.year}}
               </p>
-            </div>
-            <div class="project-info">           
-              <h5><a href="{{ project.url | relative_url }}">Go to Project</a></h5>
-            </div>
+            </div>            
           </div>
         </div>
   {% endfor %}

@@ -1,18 +1,117 @@
 .character-layout-container {
+  
 
   .character-page {
-
+    display: grid;
+    grid-auto-flow: row dense;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .character-traits {
+    
+    .character-name-container {
+      display: flex;
+      flex-direction: row;
+      align-items: baseline;
+      
+    }
+    .character-name {
+      font-size: 4.8rem;
+    }
+    .character-class {
+      font-style: italic;
+    }
   }
 
   .stats-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    width: 60rem;
+    grid-gap: 1rem;
     
-    grid-gap: $spacing-unit;
 
     .stat-block {
-      max-width: 20rem;
+      background-color: $brand-dark-accent;
+      text-align: center;
+      padding: $spacing-unit;
+      border: .5rem solid $brand-fourth;
+      
+
+      .stat-name {
+        color: $off-white;
+        text-decoration: underline;
+        line-height: 2.4;
+      }
+
+      .stat-number {
+        color: $off-white;
+        
+      }
+
+      .stat-calc-value {
+        color: $off-white;
+        font-size: 4.8rem;
+        font-weight: bold;
+      }
+    }
+    .small-block {
+        width: auto;
+
+        .stat-name {
+          font-size: 1.6rem;
+          line-height:2rem;
+        }
+    }
+    .strength {
+     
+    }
+
+    .dexterity {
+
+    }
+
+    .constitution {
+
+    } 
+
+    .intelligence {
+
+    }
+
+    .wisdom {
+
+    }
+
+    .charisma {
+
+    }
+  }
+
+  .skills-container {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    .skills-header {
+      align-self: flex-end;
+      justify-self: flex-end;
+    }
+
+    .skill-block {
+      flex-basis: 5rem;
+      margin: 1rem;
+
+      .skill-name {
+
+      }
+
+      .not-proficient {
+
+      }
+
+      .is-proficient {
+
+      }
     }
   }
 }
