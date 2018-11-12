@@ -46,10 +46,14 @@
       display: flex;
       flex-direction: column;
 
-      .project-type,
+      
       .project-year {
-        line-height:1.6rem;
-        color: $brand-fourth;
+        color: $brand-first;
+      }
+      .project-category {
+      
+          color: $brand-fourth;
+        
       }
       .project-title {
         font-weight: 700;
