@@ -1,14 +1,15 @@
 .character-layout-container {
-  
+  .site-header {
+    grid-row-start:1;
+  }
 
   .character-page {
     display: grid;
     grid-auto-flow: row dense;
     grid-template-columns: repeat(4, 1fr);
   }
-  .character-traits {
-    
     .character-name-container {
+      grid-column: 1 / span 4;
       display: flex;
       flex-direction: row;
       align-items: baseline;
@@ -20,22 +21,23 @@
     .character-class {
       font-style: italic;
     }
-  }
+  
 
   .stats-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    width: 60rem;
-    grid-gap: 1rem;
-    
+    grid-column-start: 1;
+    grid-column-end: 4;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
 
     .stat-block {
       background-color: $brand-dark-accent;
       text-align: center;
-      padding: $spacing-unit;
+      padding: 1rem;
       border: .5rem solid $brand-fourth;
+      height: auto;
+      margin: 1rem;
       
-
       .stat-name {
         color: $off-white;
         text-decoration: underline;
@@ -43,54 +45,76 @@
       }
 
       .stat-number {
-        color: $off-white;
+        border: 1px solid $off-white;
+        background: $off-white;
+        padding: 1rem;
+        margin-bottom: 0;
         
       }
 
       .stat-calc-value {
         color: $off-white;
-        font-size: 4.8rem;
+        font-size: 3.6rem;
         font-weight: bold;
+      }
+
+      .current-hp {
+        border: 1px solid $off-white;
+        
+        .current-hp-header{
+          color: $off-white;
+        }
+
+        .hp-number {
+          color: $off-white;
+        }
       }
     }
     .small-block {
-        width: auto;
+      width: auto;
+      height: 10rem;
 
-        .stat-name {
-          font-size: 1.6rem;
-          line-height:2rem;
-        }
-    }
-    .strength {
-     
-    }
-
-    .dexterity {
-
-    }
-
-    .constitution {
-
-    } 
-
-    .intelligence {
-
-    }
-
-    .wisdom {
-
-    }
-
-    .charisma {
-
+      .stat-name {
+        font-size: 1.6rem;
+        line-height:2rem;
+      }
     }
   }
 
+  .saving-throws-container {
+    grid-column-start: 4;
+    padding-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+
+    .s-t-block {
+      background:$dark-night;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-items: center;
+      padding: 2rem;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+
+      .s-t-name {
+        font-weight: bold;
+        margin-bottom:0;
+        color: $off-white;
+      }
+    }
+  }
+  .skills {
+    padding-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    grid-column: 1 / span 4;
+  }
   .skills-container {
     max-width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: flex-start;
+    
 
     .skills-header {
       align-self: flex-end;
@@ -98,9 +122,16 @@
     }
 
     .skill-block {
-      flex-basis: 5rem;
+      flex-basis: auto;
+      text-align: center;
+      padding: 1rem;
+      background-color:$brand-gradient-start;
       margin: 1rem;
 
+      .base-stat {
+        color: rgba($text-dark, .6);
+        font-style: italic;
+      }
       .skill-name {
 
       }
@@ -111,6 +142,27 @@
 
       .is-proficient {
 
+      }
+    }
+  }
+
+  .in-game-abilities {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    grid-column: 1 / span 4;
+
+    .ability {
+      flex-basis: auto;
+      max-width: 56ch;
+      margin: $spacing-unit 1rem;
+
+      h3 {
+        font-weight: 800;
+        letter-spacing: .1rem;
+      }
+      p {
+        line-height: 1.8;
       }
     }
   }

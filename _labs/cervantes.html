@@ -16,6 +16,8 @@ archetype: Shieldbearer
 ac: 21
 initiative: 2
 speed: 30
+max-hp: 58
+current-hp: 58
 ---
 
 {% assign strengthMod = page.strength | minus: 10 | divided_by: 2 | round %}
@@ -24,9 +26,9 @@ speed: 30
 {% assign intelligenceMod = page.intelligence | minus: 10 | divided_by: 2 | round %}
 {% assign wisdomMod = page.wisdom | minus: 10 | divided_by: 2 | round %}
 {% assign charismaMod = page.charisma | minus: 10 | divided_by: 2 | round %}
+{% assign shieldTalentDC = 8 | plus: page.prof-bonus | plus: strengthMod %}
 
 
-<section class="character-traits">
     <div class="character-name-container">
         <h2 class="character-name">{{page.title}}</h2>
         <h3 class="character-class">{{page.class}} - {{page.archetype}}</h3>
@@ -62,233 +64,156 @@ speed: 30
       <p class="stat-calc-value">{{charismaMod}}</p>
       <p class="stat-number">{{page.charisma}}</p>
     </div>
-    <div class="stat-block small-block armor-class">
-      <h3 class="stat-name">Armor Class</h3>
-      <p class="stat-calc-value">#</p>
+    <div class="stat-block max-hp">
+      <h3 class="stat-name">Max HP</h3>
+      <p class="stat-calc-value">{{page.max-hp}}</p>
+      <div class="current-hp">
+        <h5 class="current-hp-header">Current HP</h5>
+        <p class="hp-number">{{page.current-hp}}</p>
+      </div>
     </div>
+    <div class="stat-block small-block armor-class">
+        <h3 class="stat-name">Armor Class</h3>
+        <p class="stat-calc-value">#</p>
+      </div>
+      <div class="stat-block small-block initiative">
+        <h3 class="stat-name">Initiative</h3>
+        <p class="stat-calc-value">{{page.initiative}}</p>
+      </div>
+      <div class="stat-block small-block speed">
+        <h3 class="stat-name">Speed</h3>
+        <p class="stat-calc-value">30 ft</p>
+      </div>
   </section>
   <section class="saving-throws-container">
     <h3>Saving Throws</h3>
-    <div class="s-t-block">
-      <h4 class="s-t-name">Strength</h4>
-      <p class="is-proficient">{{strengthMod | plus: page.prof-bonus }}</p>
-    </div>
-    <div class="s-t-block">
-      <h4 class="s-t-name">Constitution</h4>
-      <p class="is-proficient">{{conMod | plus: page.prof-bonus }}</p>
+    <div class="s-t-container">
+      <div class="s-t-block">
+        <h4 class="s-t-name">Strength: +{{strengthMod | plus: page.prof-bonus }}</h4>
+      
+      </div>
+      <div class="s-t-block">
+        <h4 class="s-t-name">Constitution: +{{conMod | plus: page.prof-bonus }}</h4>
+      </div>
     </div>
   </section>
-  <section class="skills-container">
-    <div class="skill-block">
-      <h4 class="skill-name">Acrobatics <span class=base-stat>(Dex)</span></h4>
-      <p class="not-proficient">{{dexMod}}</p>
+  <section class="skills">
+    <h3>Skills</h3>
+    <div class="skills-container">
+      <div class="skill-block">
+        <h4 class="skill-name">Acrobatics <span class=base-stat>(Dex)</span></h4>
+        <p class="not-proficient">{{dexMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Animal Handling <span class="base-stat">(Wis)</span></h4>
+        <p class="not-proficient">{{wisdomMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Arcana <span class="base-stat">(Int)</span></h4>
+        <p class="not-proficient">{{intelligenceMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Athletics <span class="base-stat">(Str)</span></h4>
+        <p class="is-proficient">{{strengthMod | plus: page.prof-bonus}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Deception <span class="base-stat">(Cha)</span></h4>
+        <p class="not-proficient">{{charismaMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">History <span class="base-stat">(Int)</span></h4>
+        <p class="not-proficient">{{intelligenceMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Insight <span class="base-stat">(Wis)</span></h4>
+        <p class="not-proficient">{{wisdomMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Intimidation <span class="base-stat">(Cha)</span></h4>
+        <p class="is-proficient">{{charismaMod | plus: page.prof-bonus}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Investigation <span class="base-stat">(Int)</span></h4>
+        <p class="not-proficient">{{intelligenceMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Medicine <span class="base-stat">(Wis)</span></h4>
+        <p class="not-proficient">{{wisdomMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Nature <span class="base-stat">(Int)</span></h4>
+        <p class="is-proficient">{{intelligenceMod | plus: page.prof-bonus}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Perception <span class="base-stat">(Wis)</span></h4>
+        <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Performance <span class="base-stat">(Cha)</span></h4>
+        <p class="not-proficient">{{charismaMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Persuasion <span class="base-stat">(Cha)</span></h4>
+        <p class="not-proficient">{{charismaMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Religion <span class="base-stat">(Int)</span></h4>
+        <p class="is-proficient">{{intelligenceMod | plus: 1}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Sleight of Hand <span class="base-stat">(Dex)</span></h4>
+        <p class="not-proficient">{{dexMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Stealth <span class="base-stat">(Dex)</span></h4>
+        <p class="not-proficient">{{dexMod}}</p>
+      </div>
+      <div class="skill-block">
+        <h4 class="skill-name">Survival <span class="base-stat">(Wis)</span></h4>
+        <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
+      </div>
     </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Animal Handling <span class="base-stat">(Wis)</span></h4>
-      <p class="not-proficient">{{wisdomMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Arcana <span class="base-stat">(Int)</span></h4>
-      <p class="not-proficient">{{intelligenceMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Athletics <span class="base-stat">(Str)</span></h4>
-      <p class="is-proficient">{{strengthMod | plus: page.prof-bonus}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Deception <span class="base-stat">(Cha)</span></h4>
-      <p class="not-proficient">{{charismaMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">History <span class="base-stat">(Int)</span></h4>
-      <p class="not-proficient">{{intelligenceMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Insight <span class="base-stat">(Wis)</span></h4>
-      <p class="not-proficient">{{wisdomMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Intimidation <span class="base-stat">(Cha)</span></h4>
-      <p class="is-proficient">{{charismaMod | plus: page.prof-bonus}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Investigation <span class="base-stat">(Int)</span></h4>
-      <p class="not-proficient">{{intelligenceMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Medicine <span class="base-stat">(Wis)</span></h4>
-      <p class="not-proficient">{{wisdomMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Nature <span class="base-stat">(Int)</span></h4>
-      <p class="is-proficient">{{intelligenceMod | plus: page.prof-bonus}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Perception <span class="base-stat">(Wis)</span></h4>
-      <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Performance <span class="base-stat">(Cha)</span></h4>
-      <p class="not-proficient">{{charismaMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Persuasion <span class="base-stat">(Cha)</span></h4>
-      <p class="not-proficient">{{charismaMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Religion <span class="base-stat">(Int)</span></h4>
-      <p class="is-proficient">{{intelligenceMod | plus: 1}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Sleight of Hand <span class="base-stat">(Dex)</span></h4>
-      <p class="not-proficient">{{dexMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Stealth <span class="base-stat">(Dex)</span></h4>
-      <p class="not-proficient">{{dexMod}}</p>
-    </div>
-    <div class="skill-block">
-      <h4 class="skill-name">Survival <span class="base-stat">(Wis)</span></h4>
-      <p class="is-proficient">{{wisdomMod | plus: page.prof-bonus}}</p>
-    </div>
-    <h3 class="skills-header">Skills</h3>
   </section>
-      <h2>Race Traits</h2>
-      <h2>Class Traits</h2>
-      <div class="class-trait">
-        <h3>Favored Enemy</h3>
-        <p>
-          You have significant experience studying, tracking, hunting, and even talking to a dragons
-          encountered in the wilds. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type.
-        </p>
-        <p>
-          Additionally, you have advantage on Wisdom (Survival) checks to track dragons, as well as on Intelligence checks to recall information about them.
-        </p>
-        <p>
-          When you gain this feature, you also learn one language of your choice (Draconion).
-        </p>
-      </div>
-      <div class="class-trait">
-        <h3>Natural Explorer</h3>
-        <p>
-          You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
-        </p>
-        <ul>
-          <li>You ignore difficult terrain.</li>
-          <li>You have advantage on initiative rolls</li>
-          <li>On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</li>
-        </ul>
-        <p>In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:</p>
-        <ul>
-          <li>Difficult terrain doesn’t slow your group’s travel.</li>
-          <li>Your group can’t become lost except by magical means.</li>
-          <li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>
-          <li>If you are traveling alone, you can move stealthily at a normal pace.</li>
-          <li>When you forage, you find twice as much food as you normally would.</li>
-          <li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>
-        </ul>
-      </div>
-      <div class="class-trait">
-       
-      </div>
-      <div class="class-trait">
-       
-      </div>
-      <div class="class-trait">
-        
-      </div>
-    </section>
-  </div>
-</section>
-  <section class="background-information">
-    
+  <section class="in-game-abilities">
+    <div class="ability two-weapon-fighting">
+      <h3>Two-Weapon Fighting</h3>
+      <p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+    </div>
+    <div class="ability second-wind">
+      <h3>Second Wind</h3>
+      <p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.</p>
+    </div>
+    <div class="ability action-surge">
+      <h3>Action Surge</h3>
+      <p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
+      <p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
+    </div>
+    <div class="ability protection">
+      <h3>Protection</h3>
+      <p>When a creature you can see attacks a target other than you within 15ft. of you, you can use your reaction to intercept the attack and become the new target. Your ending location is between the attacker and targeted creature.</p>
+    </div>
+    <div class="ability dual-shielding">
+      <h3>Dual Shielding</h3>
+      <p>At level 3 when you choose this archetype, you gain the Protection and Two-Weapon fighting fighting styles. If you hold a shield in your main hand and a shield in your offhand, you gain a +1 bonus to your AC on top of the normal bonus of a shield.Some of your shield talents require your target to make a saving through to resist.</p> 
+      <p>Saving Throw DC = 8 + {{page.prof-bonus}} + {{strengthMod}} = 
+        {{shieldTalentDC}}</p>
+    </div>
+    <div class="ability offensive-defense">
+      <h3>Offensive Defense</h3>
+      <p>At level 3, your shield(s) are now  considered light strength-base melle weapons, dealing 1d6 Bludgeoning damage and with the throw property (20/40). If the shield has any magical properties it is treated as a magical weapon. Any bonus's the shield grants are also treated as bonuess to attack and damage rolls.</p> 
+    </div>
+    <div class="ability shield-talents">
+      <h3>Shield Talents</h3>
+      <p>More to come as I earn them.</p>
+      <h4>3rd Level Shield Talent</h4>
+      <p><strong>Shield Defense: </strong>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5t while within your reach.</p>
+    </div>
+    <div class="ability extra-attack">
+        <h3>Extra Attack</h3>
+        <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+        <p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+    </div>
+
   </section>
 
-  <section class="class-details">
-    <h2>{{page.class}} - Shieldbearer Archetype</h2>
-    
-  
-    <h2 id="ClassFeatures">Class Features</h2>
-<p>As a fighter, you gain the following cl<span>ass features.</span></p>
-            
-            
-                <h4 id="HitPoints">Hit Points</h4>
-                <p><strong><span>Hit Dice: </span></strong>1d10 per <span>fighter level<br></span><strong><span>Hit Points at 1st Level: </span></strong>10 + your Constitu<span>tion modifier<br></span><strong><span>Hit Points at Higher Levels: </span></strong>1d10 (or 6) + your Constitution modifier per fighter le<span>vel after 1st</span></p>
-            
-                <h4 id="Proficiencies">Proficiencies</h4>
-                <p><strong><span>Armor: </span></strong>All a<span>rmor, shields<br></span><strong><span>Weapons: </span></strong>Simple weapons, ma<span>rtial weapons<br></span><strong><span>Tools: </span></strong>None<br><strong><span>Saving Throws: </span></strong>Strength,<span> Constitution<br></span><strong><span>Skills: </span></strong>Choose two skills from <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Acrobatics" data-tooltip-href="//www.dndbeyond.com/skills/3-tooltip?disable-webm=1&amp;disable-webm=1">Acrobatics</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#AnimalHandling" data-tooltip-href="//www.dndbeyond.com/skills/11-tooltip?disable-webm=1&amp;disable-webm=1">Animal Handling</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Athletics" data-tooltip-href="//www.dndbeyond.com/skills/2-tooltip?disable-webm=1&amp;disable-webm=1">Athletics</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#History" data-tooltip-href="//www.dndbeyond.com/skills/7-tooltip?disable-webm=1&amp;disable-webm=1">History</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Insight" data-tooltip-href="//www.dndbeyond.com/skills/12-tooltip?disable-webm=1&amp;disable-webm=1">Insight</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Intimidation" data-tooltip-href="//www.dndbeyond.com/skills/17-tooltip?disable-webm=1&amp;disable-webm=1">Intimidation</a>, <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Perception" data-tooltip-href="//www.dndbeyond.com/skills/14-tooltip?disable-webm=1&amp;disable-webm=1">Perception</a>,<span> and <a class="tooltip-hover skill-tooltip" href="/compendium/rules/basic-rules/using-ability-scores#Survival" data-tooltip-href="//www.dndbeyond.com/skills/15-tooltip?disable-webm=1&amp;disable-webm=1">Survival</a></span></p>
-            
-            
-            <h4>Equipment</h4>
-            <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
-            <ul>
-            
-                <li>
-                    (a) chain mail or (b) leather armor, longbow, and 20 arrows
-                </li>
-            
-                <li>
-                    (a) a martial weapon and a shield or (b) two martial weapons
-                </li>
-            
-                <li>
-                    (a) a light crossbow and 20 bolts or (b) two handaxes
-                </li>
-            
-                <li>
-                    (a) a dungeoneer’s pack or (b) an explorer’s pack
-                </li>
-            
-            </ul>
-            
-            
-
-                    <h4 id="FightingStyle">Fighting Style</h4>
-                    <h5>Protection</h5>
-                    <p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>
-                        
-                            <h5>Two-Weapon Fighting</h5>
-                            <p></p><p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p><p></p>
-                        
-
-                    <h4 id="SecondWind">Second Wind</h4>
-                    <p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.</p>
-                    
-
-                    <h4 id="ActionSurge">Action Surge</h4>
-                    <p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
-<p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
-                    
-
-                    <h4 id="MartialArchetype">Martial Archetype</h4>
-                    <p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
-                    
-
-                    <h4 id="AbilityScoreImprovement">Ability Score Improvement</h4>
-                    <p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
-<p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</p>
-                    
-
-                    <h4 id="ExtraAttack">Extra Attack</h4>
-                    <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
-<p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
-                    
-
-                    <h4 id="Indomitable">Indomitable</h4>
-                    <p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.</p>
-<p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
-                    
-
-                    <h4 id="ExtraAttack">Extra Attack</h4>
-                    <p>Beginning at 11th level, you can attack three times, instead of twice, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
-  <p>The number of attacks increases to four when you reach 20th level in this class.</p>
-  <h4 id="ExtraAttack">Extra Attack</h4>
-  <p>At 20th level, you can attack four&nbsp;times, instead of three, whenever you take the <a class="tooltip-hover action-tooltip" href="/compendium/rules/basic-rules/combat#Attack" data-tooltip-href="//www.dndbeyond.com/actions/1-tooltip?disable-webm=1&amp;disable-webm=1">Attack</a> action on your turn.</p>
-                    
-</div>
-
-                </div>
-            
-        </div>
-    </section>
       
