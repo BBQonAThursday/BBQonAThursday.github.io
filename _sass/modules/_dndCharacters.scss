@@ -24,19 +24,21 @@
   
 
   .stats-container {
-    grid-column-start: 1;
-    grid-column-end: 4;
+    grid-column: 1 / span 4;
+    
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: stretch;
 
     .stat-block {
       background-color: $brand-dark-accent;
       text-align: center;
       padding: 1rem;
-      border: .5rem solid $brand-fourth;
       height: auto;
       margin: 1rem;
+      min-width: 15rem;
+      width: auto;
+      max-width: 32rem;
       
       .stat-name {
         color: $off-white;
@@ -71,12 +73,30 @@
       }
     }
     .small-block {
-      width: auto;
-      height: 10rem;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-content: center;
 
       .stat-name {
         font-size: 1.6rem;
         line-height:2rem;
+      }
+
+      .stat-calc-value {
+        font-size: 2rem;
+      }
+    }
+    .max-hp {
+      
+      .current-hp{
+        padding: 1rem;
+        background-color: $off-white;
+
+        .current-hp-header,
+        .hp-number {
+          color: $brand-dark-accent;
+        }
       }
     }
   }
@@ -163,6 +183,27 @@
       }
       p {
         line-height: 1.8;
+      }
+    }
+  }
+
+  .equipment{
+    grid-column: 1 / span 4;
+
+    .equipment-table {
+      width: 100%;
+      font-size: 1.6rem;
+      text-align: left;
+
+      th,
+      td {
+        padding: $spacing-unit;
+        border: .1rem solid $brand-dark-accent;
+      }
+
+      th {
+        color: $off-white;
+        background-color:$brand-dark-accent;
       }
     }
   }

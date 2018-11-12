@@ -27,6 +27,11 @@ current-hp: 58
 {% assign wisdomMod = page.wisdom | minus: 10 | divided_by: 2 | round %}
 {% assign charismaMod = page.charisma | minus: 10 | divided_by: 2 | round %}
 {% assign shieldTalentDC = 8 | plus: page.prof-bonus | plus: strengthMod %}
+{% assign plateArmorAC = 18 %} 
+{% assign shield1 = 3 %}
+{% assign shield2 = 2 %}
+{% assign armorClass = plateArmorAC | plus: shield1 | plus: shield2 %}
+
 
 
     <div class="character-name-container">
@@ -64,7 +69,7 @@ current-hp: 58
       <p class="stat-calc-value">{{charismaMod}}</p>
       <p class="stat-number">{{page.charisma}}</p>
     </div>
-    <div class="stat-block max-hp">
+    <div class="stat-block small-block max-hp">
       <h3 class="stat-name">Max HP</h3>
       <p class="stat-calc-value">{{page.max-hp}}</p>
       <div class="current-hp">
@@ -74,7 +79,7 @@ current-hp: 58
     </div>
     <div class="stat-block small-block armor-class">
         <h3 class="stat-name">Armor Class</h3>
-        <p class="stat-calc-value">#</p>
+        <p class="stat-calc-value">{{armorClass}}</p>
       </div>
       <div class="stat-block small-block initiative">
         <h3 class="stat-name">Initiative</h3>
@@ -85,18 +90,7 @@ current-hp: 58
         <p class="stat-calc-value">30 ft</p>
       </div>
   </section>
-  <section class="saving-throws-container">
-    <h3>Saving Throws</h3>
-    <div class="s-t-container">
-      <div class="s-t-block">
-        <h4 class="s-t-name">Strength: +{{strengthMod | plus: page.prof-bonus }}</h4>
-      
-      </div>
-      <div class="s-t-block">
-        <h4 class="s-t-name">Constitution: +{{conMod | plus: page.prof-bonus }}</h4>
-      </div>
-    </div>
-  </section>
+ 
   <section class="skills">
     <h3>Skills</h3>
     <div class="skills-container">
@@ -174,6 +168,18 @@ current-hp: 58
       </div>
     </div>
   </section>
+  <section class="saving-throws-container">
+      <h3>Saving Throws</h3>
+      <div class="s-t-container">
+        <div class="s-t-block">
+          <h4 class="s-t-name">Strength: +{{strengthMod | plus: page.prof-bonus }}</h4>
+        
+        </div>
+        <div class="s-t-block">
+          <h4 class="s-t-name">Constitution: +{{conMod | plus: page.prof-bonus }}</h4>
+        </div>
+      </div>
+    </section>
   <section class="in-game-abilities">
     <div class="ability two-weapon-fighting">
       <h3>Two-Weapon Fighting</h3>
@@ -213,7 +219,179 @@ current-hp: 58
         <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
         <p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
     </div>
+  </section>
+  <section class="equipment">
+    <h3>Weapons, Armor & Equipment</h3>
+      <table class="equipment-table">
+          <tbody>
+            <tr class="heading">
+              <th>Weapons</th>
+              <th>Damage</th>
+              <th>AC Mod</th>
+              <th>Properties</th>
+            </tr>
+            <tr>
+              <td>Kagrecite Reinforced Shield </td>
+              <td>1d6</td>
+              <td>{{shield1}}</td>
+              <td>+1 Religion | +2 damage | + 3AC {2AC base +1 AC from enhancement)</td>
+            </tr>
+            <tr>
+                <td>Shield</td>
+                <td>1d6</td>
+                <td>{{shield2}} Doesn't apply until level 7.</td>
+                <td></td>
+              </tr>
+            <tr class="heading">
+              <th>Armor</th>
+              <th>Armor Class</th>
+              <th>Stealth</th>
+              <th>Notes</th>
+            </tr>
+            <tr>
+              <td>Plate</td>
+              <td>{{plateArmorAC}}</td>
+              <td>Disadvantage</td>
+              <td>Resistance to slashing damage</td>
+            </tr>
+            <tr>
+              <th>Item</th>
+              <th>Quantity</th>
+              <th> </th>
+              <th>Effects</th>
+            </tr>
+            <tr>
+              <td>Oil Flasks</td>
+              <td>3</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Broach of Shielding</td>
+              <td>1</td>
+              <td></td>
+              <td>Immune to magic missile and resistance to force damage</td>
+            </tr>   
+            <tr>
+              <td>Torches</td>
+              <td>9</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Tinderbox</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Hammer</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Water skin</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>50ft. Hempen Rope</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Wolve Teeth Necklace</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Magic Mirror</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Steel Gauntlet</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Potion of Healing</td>
+              <td>2</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Potion of resistance to Poison</td>
+              <td>2</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>bracelet of refinal tunic metal?</td>
+              <td></td>
+              <td></td>
+              <td>Advantage when I choice before results are given.</td>
+            </tr>
+            <tr>
+              <td>Ring of Jumping</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Lantern of Revealing</td>
+              <td>2</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Boots of Speed</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Beads of Force</td>
+              <td>2</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Paraphet of wound healing</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Oil of Slipperiness</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Stone ball</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Light Hammer</td>
+              <td></td>
+              <td></td>
+              <td>Shatter Charge - 2 left</td>
+            </tr>
+          </tbody>
+        </table>
+  </section>
+  <section class="inventory">
 
   </section>
+
 
       
