@@ -5,7 +5,8 @@
 
   .project-card {
     height: 20rem;
-    width: 20rem;
+    width: auto;
+    min-width: 20rem;
     position: relative;
     overflow:hidden;
     display:flex;

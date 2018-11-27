@@ -152,6 +152,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   grid-template-rows:  1fr auto 1fr;
   background-color: rgba($starry-night, .6);
   
+  .introduction-copy {
+    font-size: 1.9rem;
+    line-height: 3rem;
+    font-weight: lighter;
+  }
+  
   .site-header {
     grid-row-start: 2;
     grid-column-start: 2;

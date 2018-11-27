@@ -1,7 +1,7 @@
 .project-layout-container {
   width: 100%;
   display:grid;
-  max-width:100rem;
+  
   margin:auto;
   grid-template-columns: 2fr auto 2fr;
   
@@ -19,9 +19,10 @@
 .projects {
   margin:auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, 20rem);
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   grid-gap: $spacing-unit;
   grid-auto-flow: row dense;
+  grid-column-start: 2;
  
 
   .site-header {
@@ -43,31 +44,6 @@
   }
   .page-title {
     order: 8;
-  }
-  
-  .curve-shop {
-    order:1;
-  }
-
-  .bali-safety-page {
-    order: 2;
-    
-  }
-
-  .bali-olympic-paint-landing-page {
-    order: 3;
-  }
-
-  .bali-email-template {
-    order: 4;
-  }
-
-  .wisconsin-commercial-roofing {
-    order: 5;
-  } 
-
-  .verona-road {
-    order: 7;
   }
   
 }
