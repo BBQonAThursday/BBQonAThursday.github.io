@@ -2,7 +2,7 @@
 layout: character-page_layout
 title: Cervantes
 lab-name: DnD Characters - Active
-permalink: /cervantes/
+permalink: "/cervantes/"
 level: 5
 strength: 18
 dexterity: 14
@@ -13,13 +13,13 @@ charisma: 10
 prof-bonus: 3
 class: Fighter
 archetype: Shieldbearer
-ac: 21
+ac: 22
 initiative: 2
 speed: 30
 max-hp: 58
 current-hp: 58
----
 
+---
 {% assign strengthMod = page.strength | minus: 10 | divided_by: 2 | round %}
 {% assign dexMod = page.dexterity | minus: 10 | divided_by: 2 | round %}
 {% assign conMod = page.constitution | minus: 10 | divided_by: 2 | round %}
@@ -29,7 +29,7 @@ current-hp: 58
 {% assign shieldTalentDC = 8 | plus: page.prof-bonus | plus: strengthMod %}
 {% assign plateArmorAC = 18 %} 
 {% assign shield1 = 3 %}
-{% assign shield2 = 2 %}
+{% assign shield2 = 1 %}
 {% assign armorClass = plateArmorAC | plus: shield1 | plus: shield2 %}
 
 
@@ -232,7 +232,7 @@ current-hp: 58
             </tr>
             <tr>
               <td>Kagrecite Reinforced Shield </td>
-              <td>1d6</td>
+              <td>1d6 +2</td>
               <td>{{shield1}}</td>
               <td>+1 Religion | +2 damage | + 3AC {2AC base +1 AC from enhancement)</td>
             </tr>
@@ -322,7 +322,7 @@ current-hp: 58
             </tr>
             <tr>
               <td>Potion of Healing</td>
-              <td>2</td>
+              <td>1</td>
               <td></td>
               <td></td>
             </tr>
@@ -392,6 +392,3 @@ current-hp: 58
   <section class="inventory">
 
   </section>
-
-
-      
