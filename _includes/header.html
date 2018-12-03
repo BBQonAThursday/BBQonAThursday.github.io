@@ -1,9 +1,5 @@
 <header class="site-header hidden-menu" id="site-header" role="banner">
   <section class="title-town">
-     
-    <!--<img class="headshot img-responsive" src="/assets/img/joel-gamble-profile-image.png"  />-->
-     
-    
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}"><h1>{{ site.title | escape }}</h1></a>
@@ -31,19 +27,4 @@
           
       </section>
   </section>
-  <h2 class="resume-heading">{{page.heading}}</h2>
-  
-  <!--<section class="footer">
-        <form class="contact-form" action="https://formspree.io/jjoelgamble@gmail.com"
-            method="POST">
-          <input class="form-name" type="text" name="name" placeholder="Name">
-          <input class="form-email" type="email" name="_replyto" placeholder="Email">
-          <textarea class="form-message" type="textarea" name="message" placeholder="Message"></textarea>
-          <input class="form-submit" type="submit" value="Send">
-        </form>
-  </section>-->
-  
 </header>
-<!--<header class="mobile-menu-icon" id="mobile-menu-icon">
-  <img src="/assets/img/menu-icon.svg">
-</header>-->
