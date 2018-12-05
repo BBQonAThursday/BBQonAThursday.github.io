@@ -5,7 +5,8 @@
 
   .project-card {
     height: 20rem;
-    width: 20rem;
+    width: auto;
+    min-width: 20rem;
     position: relative;
     overflow:hidden;
     display:flex;
@@ -23,6 +24,7 @@
       }
       .project-info {
         display:block;
+        height: auto;
       }
     }
 
@@ -45,10 +47,14 @@
       display: flex;
       flex-direction: column;
 
-      .project-type,
+      
       .project-year {
-        line-height:1.6rem;
-        color: $brand-fourth;
+        color: $brand-first;
+      }
+      .project-category {
+      
+          color: $brand-fourth;
+        
       }
       .project-title {
         font-weight: 700;
@@ -67,6 +73,8 @@
         font-size: 1.5rem;
         font-style: italic;
         text-align: right;
+        align-self: flex-end;
+        
       }
     }
 
@@ -95,9 +103,12 @@
 
 // Project page
 
+
 .project-content {
 
   img {
     max-width: 100%;
   }
 }
+
+

@@ -14,16 +14,16 @@ permalink: /projects/
           <div class="project-intro">
             <h3 class="project-title">{{project.title}}</h3>
             <div class="project-type">
-              <p>
+              <p class="project-category">
                 {{project.type}}
               </p>
+              <div class="project-info">           
+                  <h5><a href="{{ project.url | relative_url }}">Go to Project</a></h5>
+              </div>
               <p class="project-year">
                 {{project.year}}
               </p>
-            </div>
-            <div class="project-info">           
-              <h5><a href="{{ project.url | relative_url }}">Go to Project</a></h5>
-            </div>
+            </div>            
           </div>
         </div>
   {% endfor %}
