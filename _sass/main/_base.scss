@@ -220,4 +220,13 @@ p {
   font-size:1.6rem;
   line-height: 3.6rem;
   max-width: 56ch;
+  margin-bottom: 2rem;
+}
+
+
+/*Image sizing classes*/
+.svg {
+  width: 2.4rem;
+  height: auto;
+  display: block;
 }

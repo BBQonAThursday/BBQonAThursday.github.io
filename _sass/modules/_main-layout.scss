@@ -50,18 +50,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       grid-gap:2rem;
       width: 40rem;
     }
-    
-    .headshot {
-        max-height: 20rem;
-        width: 10rem;
-        height: 10rem;
-        border-radius: 10rem;
-        opacity: 1;
-        transition: opacity .2s;
-        align-self: center;
-
-
-    }
 
     .headshot-effect {
       $offset : 5px;
@@ -249,12 +237,38 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   }
 }
 
-.social-media-icons {
-  grid-row-start: 3;
-  img {
-    margin: 2rem;
+.location,
+.social-icons {
+  grid-row-start: 4;
+  margin-top: $spacing-unit;
+
+  .svg {
+    margin: 1rem;
   }
 }
+  
+.location {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    grid-column: 3 / span 1;
+    align-items: center;
+
+    
+    .city {
+      margin: 1rem 1rem 1rem 0;
+    }
+  }
+
+  .social-icons {
+    grid-column: 5 / span 1;
+    width: auto;
+    justify-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+  }
 //Start of loaded content
 .page-content {
   grid-column-start: 2;
