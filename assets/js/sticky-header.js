@@ -18,9 +18,9 @@ function stickyScroll(e) {
 window.addEventListener("scroll", stickyScroll, false);
 */
 // http://blog.grayghostvisuals.com/js/detecting-scroll-position/
-var mobileButton = document.getElementById('mobile-menu-icon');
-var siteMenu = document.getElementById('site-header');
+var mobileButton = document.getElementById('menu-icon');
+
 
 mobileButton.addEventListener("click", function(){
-  siteMenu.classList.toggle("hidden-menu");
+  document.getElementById('navigation-display-hook').classList.toggle("hidden-menu");
 });

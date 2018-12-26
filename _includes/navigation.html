@@ -1,12 +1,8 @@
-<header class="site-header secondary-site-header hidden-menu" id="site-header" role="banner">
-  <section class="title-town">
-     
-    <!--<img class="headshot img-responsive" src="/assets/img/joel-gamble-profile-image.png"  />-->
-     
-    <h1>{{page.title}}</h1>
+<header class="navigation-container hidden-menu" id="site-header" role="banner">
+
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <section class="navigation">
+    <section class="navigation hidden-menu" id="navigation-display-hook">
       {% for path in page_paths %}
       {% assign my_page = site.pages | where: "path", path | first %}
       {% if my_page.menu-item %}
@@ -14,5 +10,5 @@
       {% endif %}
       {% endfor%}
     </section>
-  </section>
+
 </header>

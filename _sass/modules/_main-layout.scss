@@ -50,18 +50,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       grid-gap:2rem;
       width: 40rem;
     }
-    
-    .headshot {
-        max-height: 20rem;
-        width: 10rem;
-        height: 10rem;
-        border-radius: 10rem;
-        opacity: 1;
-        transition: opacity .2s;
-        align-self: center;
-
-
-    }
 
     .headshot-effect {
       $offset : 5px;
@@ -137,7 +125,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       .page-link {
           padding: 1rem;
           width:100%;
-          color: $text-color;
+          color: $starry-night;
           font-size: 1.6rem;
           display: block;
         }
@@ -147,17 +135,76 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 
 .home-page {
   display:grid;
-  grid-gap:$spacing-unit;
-  grid-template-columns: 1fr minmax(auto,32rem) 1fr;
-  grid-template-rows:  1fr auto 1fr;
+  //grid-gap:$spacing-unit;
+  //grid-template-columns: 1fr minmax(auto,32rem) 1fr;
+  grid-template-columns: 2fr repeat(4, 1fr) 2fr;
+  //grid-template-rows:  1fr auto 1fr;
   background-color: rgba($starry-night, .6);
   
+  .me {
+    font-size: 8.8rem;
+    grid-column: 2 / span 3; 
+    grid-row: 1;
+    align-self: end;
+    margin-bottom: 4.4rem;
+  }
+
+  .welcome-friend {
+    grid-row: 2;
+    grid-column: 3 / span 3;
+  }
+
+  .menu-icon {
+    grid-row: 3;
+    grid-column: 2;
+    align-self: end;
+    margin-top: 0;
+    margin-bottom: 0;
+    z-index: 99;
+
+    .menu-img {
+      width: 4rem;
+    }
+  }
+  
+  .navigation-container {
+    grid-row: 3;
+    grid-column: 2;
+    margin-top: 0;
+    margin-bottom: 0;
+    align-self: end;
+    display: block;
+
+    &.hidden-menu {
+      display:none;
+    }
+    .navigation {
+      background-color: $text-darker;
+      width: 100%;
+      padding: $spacing-unit;
+      padding-bottom: 4rem;
+
+      .page-link {
+        width: 100%;
+        padding: $spacing-unit;
+        color: #796da8;
+        text-decoration: none;
+        display: block;
+        padding: 1rem 0;
+
+      }
+    }
+
+  }
   .introduction-copy {
+    grid-row: 3;
+    grid-column: 3 / span 3;
+    justify-self: end;
     font-size: 1.9rem;
     line-height: 3rem;
     font-weight: lighter;
   }
-  
+
   .site-header {
     grid-row-start: 2;
     grid-column-start: 2;
@@ -233,12 +280,39 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   }
 }
 
-.social-media-icons {
-  grid-row-start: 3;
-  img {
-    margin: 2rem;
+.location,
+.social-icons {
+  grid-row-start: 4;
+  margin-top: $spacing-unit;
+
+  .svg {
+    margin: 1rem;
   }
 }
+  
+.location {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    grid-column: 3 / span 1;
+    align-items: center;
+    justify-self: end;
+
+    
+    .city {
+      margin: 1rem 1rem 1rem 0;
+    }
+  }
+
+  .social-icons {
+    grid-column: 5 / span 1;
+    width: auto;
+    justify-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+  }
 //Start of loaded content
 .page-content {
   grid-column-start: 2;
