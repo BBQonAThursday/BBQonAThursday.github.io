@@ -23,4 +23,5 @@ var mobileButton = document.getElementById('menu-icon');
 mobileButton.addEventListener("click", function(){
   var menuContainer = document.getElementById('navigation-display-hook')
   menuContainer.classList.toggle('hidden-menu');
+  Console.log("clicked menu icon");
 });
