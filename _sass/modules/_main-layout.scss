@@ -125,7 +125,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       .page-link {
           padding: 1rem;
           width:100%;
-          color: $text-color;
+          color: $starry-night;
           font-size: 1.6rem;
           display: block;
         }
@@ -147,11 +147,54 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     grid-row: 1;
     align-self: end;
     margin-bottom: 4.4rem;
-    
   }
+
   .welcome-friend {
     grid-row: 2;
     grid-column: 3 / span 3;
+  }
+
+  .menu-icon {
+    grid-row: 3;
+    grid-column: 2;
+    align-self: end;
+    margin-top: 0;
+    margin-bottom: 0;
+    z-index: 99;
+
+    .menu-img {
+      width: 4rem;
+    }
+  }
+  
+  .navigation-container {
+    grid-row: 3;
+    grid-column: 2;
+    margin-top: 0;
+    margin-bottom: 0;
+    align-self: end;
+    display: block;
+
+    &.hidden-menu {
+      display:none;
+    }
+    .navigation {
+      background-color: $text-darker;
+      width: 100%;
+      padding: $spacing-unit;
+      padding-bottom: 4rem;
+
+      .page-link {
+        width: 100%;
+        padding: $spacing-unit;
+        color: #796da8;
+        text-decoration: none;
+        display: block;
+        padding: 1rem 0;
+
+      }
+    }
+
   }
   .introduction-copy {
     grid-row: 3;
@@ -253,6 +296,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     justify-content: flex-start;
     grid-column: 3 / span 1;
     align-items: center;
+    justify-self: end;
 
     
     .city {

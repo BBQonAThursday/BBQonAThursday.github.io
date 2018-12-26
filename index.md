@@ -7,3 +7,6 @@ id: home
 menu-item: Home
 ---
 
+This is a culmination of my work on the web. I also keep some of my sandbox projects here where I like to test out new features and learn. My main focus is as a web design and developer, but I also do video editing from time to time.
+      
+Professionally, I maintain web sites for my employer, Springs Window Fashions. This includes managing product ordering experiences and workflows, designing new landing pages and implementing UI features.
