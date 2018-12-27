@@ -1,8 +1,8 @@
-<header class="navigation-container hidden-menu" id="site-header" role="banner">
+<header class="navigation-container hidden-menu" id="navigation-display-hook" role="banner">
 
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <section class="navigation hidden-menu" id="navigation-display-hook">
+    <section class="navigation hidden-menu" >
       {% for path in page_paths %}
       {% assign my_page = site.pages | where: "path", path | first %}
       {% if my_page.menu-item %}

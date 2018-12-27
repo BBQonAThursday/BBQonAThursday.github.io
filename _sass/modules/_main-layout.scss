@@ -160,10 +160,14 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     align-self: end;
     margin-top: 0;
     margin-bottom: 0;
-    z-index: 99;
+    background-position: bottom left;
+    width: 10%;
+    height: 10%;
+    background-image: url('/assets/img/menu-icon.svg');
+    background-repeat: no-repeat;
 
-    .menu-img {
-      width: 4rem;
+    &.menu-showing {
+      background-image: url('/assets/img/menu-icon-inverse.svg');
     }
   }
   
@@ -176,13 +180,29 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     display: block;
 
     &.hidden-menu {
-      display:none;
+      
+      .navigation {
+        height: 0;
+        width: 0;
+        background: none;
+        padding: 0;
+        margin: 0;
+
+        .page-link {
+          display: none;
+        }
+      }
     }
     .navigation {
       background-color: $text-darker;
       width: 100%;
+      height: auto;
       padding: $spacing-unit;
-      padding-bottom: 4rem;
+      padding-bottom: 10rem;
+      margin-left: -1rem;
+      margin-bottom: -1rem;
+      transition: height 0.5s linear;
+      transition: width 0.3s ease; 
 
       .page-link {
         width: 100%;
@@ -191,6 +211,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
         text-decoration: none;
         display: block;
         padding: 1rem 0;
+        transition: all 0.5s ease;
 
       }
     }
