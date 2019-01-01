@@ -168,62 +168,6 @@ pre {
   }
 }
 
-/*Typography*/
-h1 {
-  font-size:5.5rem;
-  font-weight: bold;
-  line-height: 6.3rem;
-  padding-top: .5rem;
-  margin-bottom:1rem;
-  //font-family: 'Playfair Display', serif;
-  //font-family: 'Merriweather', serif;
-  //font-family: 'Permanent Marker', cursive;
-  font-family: 'Rufina', serif;
-  //text-shadow: .5rem .5rem $brand-fourth;
-}
-
-h2 {
-  font-size:3.6rem;
-  //font-family: 'Permanent Marker', cursive;
-  font-family: 'Rufina', serif;
-  font-weight: bold;
-  font-style: italic;
-  max-width: 56ch;
-}
-
-h3 {
-  font-size:2rem;
-  //font-family: 'Overpass', sans-serif;
-  font-family: 'Rufina', serif;
-  
-}
-
-h4 {
-  font-size:1.6rem;
-  //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
-}
-
-h5 {
-  font-size:1.4rem;
-  //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
-}
-
-h6 {
-  font-size:1.2rem;
-  //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
-}
-p {
-  font-family: 'Oxygen', sans-serif;
-  font-size:1.6rem;
-  line-height: 3.6rem;
-  max-width: 56ch;
-  margin-bottom: 2rem;
-}
-
-
 /*Image sizing classes*/
 .svg {
   width: 2.4rem;

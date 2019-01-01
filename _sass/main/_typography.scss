@@ -1,0 +1,73 @@
+/*Typography*/
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 6.3rem;
+  padding-top: .5rem;
+  margin-bottom:1rem;
+  font-family: 'Rufina', serif;
+
+  @include sm {
+    font-size: 5.8rem;
+  }
+
+  @include md {
+    font-size: 7.8rem;
+  }
+
+  @include lg {
+    font-size: 8.8rem;
+    padding-top: 4.4rem;
+  }
+}
+
+h2 {
+  font-size:2.6rem;
+  //font-family: 'Permanent Marker', cursive;
+  font-family: 'Rufina', serif;
+  font-weight: bold;
+  font-style: italic;
+  max-width: 56ch;
+
+  @include sm {
+    font-size: 3rem;
+  }
+
+  @include md {
+    font-size: 3.6rem;
+  }
+
+  
+}
+
+h3 {
+  font-size:2rem;
+  //font-family: 'Overpass', sans-serif;
+  font-family: 'Rufina', serif;
+  
+}
+
+h4 {
+  font-size:1.6rem;
+  //font-family: 'Overpass', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h5 {
+  font-size:1.4rem;
+  //font-family: 'Overpass', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h6 {
+  font-size:1.2rem;
+  //font-family: 'Overpass', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+}
+p {
+  font-family: 'Oxygen', sans-serif;
+  font-size:1.6rem;
+  line-height: 3.6rem;
+  max-width: 56ch;
+  margin-bottom: 2rem;
+}
