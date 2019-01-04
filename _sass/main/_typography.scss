@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-  font-size:2.6rem;
+  font-size:2.2rem;
   //font-family: 'Permanent Marker', cursive;
   font-family: 'Rufina', serif;
   font-weight: bold;
@@ -41,10 +41,19 @@ h2 {
 }
 
 h3 {
-  font-size:2rem;
-  //font-family: 'Overpass', sans-serif;
+  font-size:1.8rem;
+  line-height: 2.6rem;
   font-family: 'Rufina', serif;
-  
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1rem;
+
+  @include sm {
+    font-size: 2.6rem;
+    line-height: 3.4rem;
+  }
+
+
 }
 
 h4 {
@@ -67,7 +76,19 @@ h6 {
 p {
   font-family: 'Oxygen', sans-serif;
   font-size:1.6rem;
-  line-height: 3.6rem;
+  line-height: 2.6rem;
   max-width: 56ch;
   margin-bottom: 2rem;
+
+  @include sm {
+
+  }
+
+  @include md {
+
+  }
+
+  @include lg {
+    line-height: 3.6rem;
+  }
 }

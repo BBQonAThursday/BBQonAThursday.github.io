@@ -13,4 +13,4 @@ This is a culmination of my work on the web. I also keep some of my sandbox proj
       
 ### Professionally, I'm a web designer at Springs Window Fashions. 
 
-This includes managing product ordering experiences and workflows, designing new landing pages and implementing UI features.
+My work includes managing product ordering experiences and workflows, designing new landing pages and implementing UI features.
