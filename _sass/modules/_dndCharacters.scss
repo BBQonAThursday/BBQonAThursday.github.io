@@ -25,25 +25,27 @@
 
   .stats-container {
     grid-column: 1 / span 4;
-    
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
 
+    @include lg {
+      grid-column: 1 / span 2;
+    }
+
     .stat-block {
       background-color: $brand-dark-accent;
       text-align: center;
-      padding: 1rem;
       height: auto;
       margin: 1rem;
-      min-width: 15rem;
-      width: auto;
-      max-width: 32rem;
+     width:15rem;
       
       .stat-name {
+        margin-top: 1rem;
         color: $off-white;
         text-decoration: underline;
         line-height: 2.4;
+        font-size:2.2rem;
       }
 
       .stat-number {
@@ -69,6 +71,7 @@
 
         .hp-number {
           color: $off-white;
+          margin-bottom:0;
         }
       }
     }
@@ -102,9 +105,19 @@
   }
 
   .saving-throws-container {
-    grid-column-start: 4;
+    grid-column-start: 1;
     padding-top: $spacing-unit;
     margin-bottom: $spacing-unit;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+    h3 {
+      margin: 1rem;
+    }
+    @include sm {
+      max-width: 32rem;
+    }
 
     .s-t-block {
       background:$dark-night;
@@ -113,8 +126,7 @@
       align-items: center;
       justify-items: center;
       padding: 2rem;
-      margin-top: 1rem;
-      margin-bottom: 1rem;
+      margin: 1rem;
 
       .s-t-name {
         font-weight: bold;
@@ -127,6 +139,10 @@
     padding-top: $spacing-unit;
     margin-bottom: $spacing-unit;
     grid-column: 1 / span 4;
+
+    @include lg {
+      grid-column: 3 / span 2;
+    }
   }
   .skills-container {
     max-width: 100%;
@@ -146,7 +162,8 @@
       text-align: center;
       padding: 1rem;
       background-color:$brand-gradient-start;
-      margin: 1rem;
+      margin: .5rem;
+      width: 11rem;
 
       .base-stat {
         color: rgba($text-dark, .6);
@@ -188,7 +205,7 @@
   }
 
   .equipment{
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 2;
 
     .equipment-table {
       width: 100%;

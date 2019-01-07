@@ -18,6 +18,8 @@ initiative: 2
 speed: 30
 max-hp: 58
 current-hp: 11
+total-hit-dice: 10
+hit-dice-left: 6
 
 ---
 {% assign strengthMod = page.strength | minus: 10 | divided_by: 2 | round %}
@@ -35,7 +37,6 @@ current-hp: 11
 
 
     <div class="character-name-container">
-        <h2 class="character-name">{{page.title}}</h2>
         <h3 class="character-class">{{page.class}} - {{page.archetype}}</h3>
       </div>
   <section class="stats-container">
@@ -74,8 +75,12 @@ current-hp: 11
       <p class="stat-calc-value">{{page.max-hp}}</p>
       <div class="current-hp">
         <h5 class="current-hp-header">Current HP</h5>
-        <p class="hp-number">{{page.current-hp}} hit dice:  6/p>
+        <p class="hp-number">{{page.current-hp}}</p>
       </div>
+    </div>
+    <div class="stat-block small-block hit-dice">
+      <h3 class="stat-name">hit dice left</h3>
+      <p class="stat-calc-value">{{page.hit-dice-left}}</p>
     </div>
     <div class="stat-block small-block armor-class">
         <h3 class="stat-name">Armor Class</h3>
@@ -170,14 +175,11 @@ current-hp: 11
   </section>
   <section class="saving-throws-container">
       <h3>Saving Throws</h3>
-      <div class="s-t-container">
-        <div class="s-t-block">
-          <h4 class="s-t-name">Strength: +{{strengthMod | plus: page.prof-bonus }}</h4>
-        
-        </div>
-        <div class="s-t-block">
-          <h4 class="s-t-name">Constitution: +{{conMod | plus: page.prof-bonus }}</h4>
-        </div>
+      <div class="s-t-block">
+        <h4 class="s-t-name">Strength: +{{strengthMod | plus: page.prof-bonus }}</h4>
+      </div>
+      <div class="s-t-block">
+        <h4 class="s-t-name">Constitution: +{{conMod | plus: page.prof-bonus }}</h4>
       </div>
     </section>
   <section class="in-game-abilities">
@@ -197,6 +199,14 @@ current-hp: 11
     <div class="ability protection">
       <h3>Protection</h3>
       <p>When a creature you can see attacks a target other than you within 15ft. of you, you can use your reaction to intercept the attack and become the new target. Your ending location is between the attacker and targeted creature.</p>
+    </div>
+    <div class="ability savage-attacks">
+        <h3>Savage Attacks</h3>
+      <p>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it lo lhe extra damage of lhe critical hit.</p>
+    </div>
+    <div class="ability relentless-endurance">
+        <h3>Relentless Endurance</h3>
+      <p>When you are reduced to O hit points but not killed outright. you can drop to I hit point instead. Vou can't use this feature again until you finish a long rest.</p>
     </div>
     <div class="ability dual-shielding">
       <h3>Dual Shielding</h3>
