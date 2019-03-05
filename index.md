@@ -8,9 +8,12 @@ menu-item: Home
 jsarr: 
 - js/menu-animation.js
 ---
+# My Digital Sandbox. <br> Joel Gamble.
+
+## HTML &amp; CSS Specialist
 
 This is a culmination of my work on the web. I also keep some of my sandbox projects here where I like to test out new features and learn. My main focus is as a web design and developer, but I also do video editing from time to time.
-      
+
 ### Professionally, I'm a web designer at Springs Window Fashions. 
 
 My work includes managing product ordering experiences and workflows, designing new landing pages and implementing UI features.

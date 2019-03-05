@@ -1,6 +1,5 @@
 /**
  Setting up flexbox so that the footer is always at the bottom.
-
 April 2018 -  Removing Bootstrap and replacing with css grid
 */
 
@@ -13,9 +12,9 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   //grid-template-rows:  auto max-content;
   padding: $spacing-unit;
   margin:auto;
-  background-color: $starry-night;
+  background-color: $gray-lighter;
   //@include starry-night-gradient;
-  
+
   .mobile-menu-icon {
     display: inline-block;
     position:fixed;
@@ -24,7 +23,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     color: $brand-dark-accent;
     padding-left:$spacing-unit;
     padding-right:$spacing-unit;
-    
+
     @include md{
       display: none;
     }
@@ -38,7 +37,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 
     // Positioning context for the mobile navigation icon
     //position: relative;
-    
+
     .hidden-menu {
       display:none;
     }
@@ -65,12 +64,15 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 
 .home-page {
   display:grid;
+  width: 100vw;
+  height:100vh;
   //grid-gap:$spacing-unit;
   //grid-template-columns: 1fr minmax(auto,32rem) 1fr;
-  grid-template-columns: 2fr repeat(4, 1fr) 2fr;
+  grid-template-columns: [left-col] 2fr repeat(4, 1fr [main-content]) [menu-col] 2fr;
+  grid-template-rows: [main-row] 4fr  [footer-row] 1fr;
+
   //grid-template-rows:  1fr auto 1fr;
-  background-color: rgba($starry-night, .6);
-  
+
   .me {
     grid-column: 1 / span 6;
     grid-row: 1;
@@ -93,11 +95,11 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     @include sm {
       grid-column: 2 / span 5;
     }
-    
+
     @include lg {
       grid-column: 3 / span 3;
     }
-    
+
   }
 
   .menu-icon {
@@ -107,10 +109,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     margin-top: 0;
     margin-bottom: 0;
     background-position: bottom left;
-    width: 2rem;
-    height: 2rem;
+    width: 2.4rem;
+    height: 2.4rem;
     background-image: url('/assets/img/menu-icon.svg');
     background-repeat: no-repeat;
+    transition: all 0.3s cubic-bezier(0,.51,.95,.55);
+    z-index:10;
 
     @include sm {
 
@@ -120,12 +124,6 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       position: unset;
       grid-row: 4;
       grid-column: 2;
-      align-self: end;
-    }
-
-    @include lg {
-      grid-row: 3;
-      grid-column: 2;
     }
 
     &.menu-showing {
@@ -133,12 +131,13 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       top: 2rem;
       right: 2rem;
       background-image: url('/assets/img/menu-icon-inverse.svg');
+
     }
   }
-  
+
   .navigation-container {
     max-width: 36rem;
-    width: 100%;
+    width: 20rem;
     height: 100%;
     position: absolute;
     top: 0;
@@ -158,7 +157,7 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     }
 
     &.hidden-menu {
-      
+
       .navigation {
         height: 0;
         width: 0;
@@ -172,22 +171,25 @@ April 2018 -  Removing Bootstrap and replacing with css grid
       }
     }
     .navigation {
-      background-color: $text-darker;
+      background-color: $dark-night;
       opacity:.95;
       height: 100%;
       padding: $spacing-unit;
       transition: height 0.5s linear;
       transition: width 0.3s ease; 
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
 
       .page-link {
         width: 100%;
-        padding: $spacing-unit;
-        color: #796da8;
+        padding: 1.5rem $spacing-unit;
+        color: $heading-accent;
         text-decoration: none;
         display: block;
         transition: all 0.5s ease;
         font-size: 1.4rem;
-
+        @extend %menu-type;
       }
     }
 
@@ -199,18 +201,19 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     font-size: 1.9rem;
     line-height: 3rem;
     font-weight: lighter;
-    justify-self: end;
+
 
     @include sm {
       padding-top: 2rem;
-      grid-column: 3 / span 3;
+      grid-column: 2 / span 4;
+      grid-row-start: 1;
     }
     h3 {
       max-width: 28ch;
     }
   }
 
- 
+
 
   .site-header {
     grid-row-start: 2;
@@ -235,13 +238,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 .location,
 .social-icons {
   grid-row-start: 4;
-  margin-top: $spacing-unit;
 
   .svg {
-    margin: 1rem;
+    margin: 0 1rem;
   }
 }
-  
+
 .location {
     display: flex;
     flex-direction: row;
@@ -250,8 +252,8 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     align-items: center;
     justify-self: start;
 
-    
-    
+
+
     .city {
       margin: 1rem 1rem 1rem 0;
       font-size: 1.2rem;

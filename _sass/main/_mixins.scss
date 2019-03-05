@@ -40,7 +40,7 @@ $lg-width: 1200px;
 }
 
 @mixin border-shadow {
-  box-shadow: .5rem .5rem $brand-fourth;
+  box-shadow: .5rem .5rem $brand-secondary;
 }
 
 @mixin border-shadow-2 {
@@ -68,14 +68,14 @@ $lg-width: 1200px;
   animation-name: fadeNudgeIn;
   opacity: 0;
   animation-fill-mode:both;
- 
+
   transition: bezier;
 
   @keyframes fadeNudgeIn {
 
     0% {
       opacity:0;
-      
+
     }
 
     50% {
@@ -83,7 +83,7 @@ $lg-width: 1200px;
     }
 
     100% {
-      
+
       opacity:1;
     }
   }

@@ -1,14 +1,15 @@
-<header class="navigation-container hidden-menu" id="navigation-display-hook" role="banner">
+<header class="navigation-container" id="navigation-display-hook" role="banner">
 
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-    <section class="navigation hidden-menu" >
-      {% for path in page_paths %}
-      {% assign my_page = site.pages | where: "path", path | first %}
-      {% if my_page.menu-item %}
-      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.menu-item | escape }}</a>
-      {% endif %}
-      {% endfor%}
-    </section>
-
+  {% assign default_paths = site.pages | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
+  <section class="navigation hidden-menu">
+    <div class="menu-list-container">
+        {% for path in page_paths %}
+        {% assign my_page = site.pages | where: "path", path | first %}
+        {% if my_page.menu-item %}
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.menu-item | escape }}</a>
+        {% endif %}
+        {% endfor%}
+    </div>
+  </section>
 </header>

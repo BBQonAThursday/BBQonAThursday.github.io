@@ -1,56 +1,61 @@
 /*Typography*/
 h1 {
-  font-size: 4rem;
+  font-size: 3.25rem;
+  line-height: 4.25rem;
   font-weight: bold;
-  line-height: 6.3rem;
   padding-top: .5rem;
   margin-bottom:1rem;
-  font-family: 'Rufina', serif;
+  font-family: 'Rubik', sans-serif;
 
   @include sm {
-    font-size: 5.8rem;
+    font-size: 3.5rem;
+    line-height: 4.5rem;
   }
 
   @include md {
-    font-size: 7.8rem;
+    line-height: 4.75rem;
+    font-size: 3.75rem;
   }
 
   @include lg {
-    font-size: 8.8rem;
+    line-height: 5rem;
+    font-size: 4rem;
     padding-top: 2.4rem;
+    margin-bottom:2.8rem;
   }
 }
 
 h2 {
   font-size:2.2rem;
   //font-family: 'Permanent Marker', cursive;
-  font-family: 'Rufina', serif;
-  font-weight: bold;
-  font-style: italic;
+  //font-family: 'Rufina', serif;
+  font-weight: 300;
+  font-family: 'Rubik', sans-serif;
+
   max-width: 56ch;
 
   @include sm {
-    font-size: 3rem;
+    font-size: 2.4rem;
   }
 
   @include md {
-    font-size: 3.6rem;
-  }
-
-  
+    font-size: 2.8rem;
+    margin-bottom: 2.8rem;
+  }  
 }
 
 h3 {
   font-size:1.8rem;
   line-height: 2.6rem;
-  font-family: 'Rufina', serif;
-  font-style: italic;
+  //font-family: 'Rufina', serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: bold;
   margin-bottom: 1rem;
 
   @include sm {
-    font-size: 2.6rem;
-    line-height: 3.4rem;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+    margin-bottom: 1.4rem;
   }
 
 
@@ -59,26 +64,31 @@ h3 {
 h4 {
   font-size:1.6rem;
   //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
+  //font-family: 'Oxygen', sans-serif;
+  font-family: 'Karla', sans-serif;
+
 }
 
 h5 {
   font-size:1.4rem;
   //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
+  //font-family: 'Oxygen', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 h6 {
+  font-family: 'Karla', sans-serif;
   font-size:1.2rem;
   //font-family: 'Overpass', sans-serif;
-  font-family: 'Oxygen', sans-serif;
+  //font-family: 'Oxygen', sans-serif;
 }
 p {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Karla', sans-serif;
+  //font-family: 'Oxygen', sans-serif;
   font-size:1.6rem;
-  line-height: 2.6rem;
+  line-height: 2.8rem;
   max-width: 56ch;
-  margin-bottom: 2rem;
+  margin-bottom: 1.8rem;
 
   @include sm {
 
@@ -89,6 +99,14 @@ p {
   }
 
   @include lg {
-    line-height: 3.6rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-bottom: 2.1rem;
   }
 }
+
+%menu-type {
+  font-family: 'Karla', sans-serif;
+  font-weight: 800;
+  font-size: 1.6rem;
+} 
