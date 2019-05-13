@@ -1,6 +1,7 @@
 /**
  Setting up flexbox so that the footer is always at the bottom.
 April 2018 -  Removing Bootstrap and replacing with css grid
+April 30, 2019 - Moving the menu back to the top of grid system. It was floated over to the right before using some javascript to show and hide.
 */
 
 
@@ -8,12 +9,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
 .app {
   display: grid;
   grid-gap:$spacing-unit;
-  //grid-template-columns: minmax(auto, 32rem) minmax(32rem, 120rem);
-  //grid-template-rows:  auto max-content;
   padding: $spacing-unit;
   margin:auto;
   background-color: $gray-lighter;
-  //@include starry-night-gradient;
+  grid-template-columns: [left-col] 2fr repeat(4, [main-content] 1fr) [menu-col] 2fr;
+  grid-template-rows: [navigation] 1fr [main-row] 4fr  [footer-row] 1fr;
+ 
 
   .mobile-menu-icon {
     display: inline-block;
@@ -63,13 +64,12 @@ April 2018 -  Removing Bootstrap and replacing with css grid
   }  
 
 .home-page {
-  display:grid;
   width: 100vw;
   height:100vh;
   //grid-gap:$spacing-unit;
   //grid-template-columns: 1fr minmax(auto,32rem) 1fr;
-  grid-template-columns: [left-col] 2fr repeat(4, 1fr [main-content]) [menu-col] 2fr;
-  grid-template-rows: [main-row] 4fr  [footer-row] 1fr;
+  
+  
 
   //grid-template-rows:  1fr auto 1fr;
 
@@ -135,85 +135,23 @@ April 2018 -  Removing Bootstrap and replacing with css grid
     }
   }
 
-  .navigation-container {
-    max-width: 36rem;
-    width: 20rem;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin-top: 0;
-    margin-bottom: 0;
-    align-self: end;
-    display: block;
-
-    @include md {
-      grid-row: 4;
-      grid-column: 2;
-    }
-    @include lg {
-      grid-row: 3;
-      grid-column: 2;
-    }
-
-    &.hidden-menu {
-
-      .navigation {
-        height: 0;
-        width: 0;
-        background: none;
-        padding: 0;
-        margin: 0;
-
-        .page-link {
-          display: none;
-        }
-      }
-    }
-    .navigation {
-      background-color: $dark-night;
-      opacity:.95;
-      height: 100%;
-      padding: $spacing-unit;
-      transition: height 0.5s linear;
-      transition: width 0.3s ease; 
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-
-      .page-link {
-        width: 100%;
-        padding: 1.5rem $spacing-unit;
-        color: $heading-accent;
-        text-decoration: none;
-        display: block;
-        transition: all 0.5s ease;
-        font-size: 1.4rem;
-        @extend %menu-type;
-      }
-    }
-
-  }
   .introduction-copy {
     padding-top: 0rem;
-    grid-row: 3;
-    grid-column: 1 / span 6;
+    grid-row: main-row;
+    grid-column: main-content / span 4;
     font-size: 1.9rem;
     line-height: 3rem;
     font-weight: lighter;
-
+  
+   
 
     @include sm {
       padding-top: 2rem;
-      grid-column: 2 / span 4;
-      grid-row-start: 1;
     }
     h3 {
       max-width: 28ch;
     }
   }
-
-
 
   .site-header {
     grid-row-start: 2;

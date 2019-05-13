@@ -1,57 +1,17 @@
 .project-layout-container {
-  width: 100%;
-  display:grid;
-  
-  margin:auto;
-  grid-template-columns: 2fr auto 2fr;
-  
-  .secondary-site-header {
-    grid-column-start: 1;
-    grid-row-start: 1;
-    align-self: start;
-  }
 
-  .project-page {
-    grid-column-start: 2;
-  }
 }  
 
 .projects {
-  margin:auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  grid-gap: $spacing-unit;
-  grid-auto-flow: row dense;
-  grid-column-start: 2;
- 
-
-  .site-header {
-    grid-column: 2 / span 2;
-    order:9;
-    grid-row-start: unset;
-
-    .title-town {
-      justify-self: center;
-      background: none;
-      box-shadow :none;
-    }
-  }
-  .projects-intro {
-    order: 0;
-    //grid-column: 2 / span 2;
-    align-self: center;
-    max-width: 20rem;
-  }
-  .page-title {
-    order: 8;
-  }
   
 }
+
 // Project Page Layout
 // See HTML in _layouts/project.html
 .project-page {
-  max-width: 50rem;
-
+  grid-column: main-content / span 4;
+  grid-row: main-row;
+  
   .project-header {
 
     .project-title {

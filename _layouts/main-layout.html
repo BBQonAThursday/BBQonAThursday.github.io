@@ -2,9 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
   <body class="app home-page">
-    <div class="menu-icon menu-showing" id="menu-icon">
-      <!--<img  class="menu-img" src="assets/img/menu-icon.svg"/>-->
-    </div>
+    {% include navigation.html %}
     <div class="introduction-copy">      
       {{content}}
     </div>
