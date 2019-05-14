@@ -1,0 +1,31 @@
+.site-colors {
+  display: flex;
+  flex-direction: row;
+  max-width: 60rem;
+  flex-wrap:wrap;
+}
+
+.style-guide-color {
+  width: 20rem;
+  height: 10rem;
+}
+
+.brand-primary {
+  background-color: $brand-primary;
+}
+
+.brand-secondary {
+  background-color: $brand-secondary;
+}
+
+.brand-third {
+  background-color: $brand-third;
+}
+
+.brand-fourth {
+  background-color: $brand-fourth;
+}
+
+.brand-dark-accent {
+  background-color: $brand-dark-accent;
+}

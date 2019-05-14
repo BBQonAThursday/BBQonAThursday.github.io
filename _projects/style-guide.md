@@ -16,4 +16,13 @@ year: 2019
 
 [This is a link](/style-guide.md)
 
-Paragraphs can be long and dangerous. Don't go alone. This one is somewhat short. Just long enough to demonstrate what it looks like when a paragraph wraps lines after hitting its max length.
+Paragraphs can be long and dangerous. Don't go alone. This one is somewhat short. Just long enough 
+to demonstrate what it looks like when a paragraph wraps lines after hitting its max length.
+
+<div class="site-colors">
+  <div class="style-guide-color brand-primary"></div>
+  <div class="style-guide-color brand-secondary"></div>
+  <div class="style-guide-color brand-third"></div>
+  <div class="style-guide-color brand-fourth"></div>
+  <div class="style-guide-color brand-dark-accent"></div>
+</div>

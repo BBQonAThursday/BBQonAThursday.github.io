@@ -13,7 +13,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
   margin:auto;
   background-color: $gray-lighter;
   grid-template-columns: [left-col] 2fr repeat(4, [main-content] 1fr) [menu-col] 2fr;
-  grid-template-rows: [navigation] 1fr [main-row] 4fr  [footer-row] 1fr;
+  grid-template-rows: [navigation] 1fr [main-row] auto  [footer-row] 1fr;
  
 
   .mobile-menu-icon {

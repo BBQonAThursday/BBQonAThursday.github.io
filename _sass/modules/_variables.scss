@@ -15,7 +15,7 @@ $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-$brand-primary:         #F5FF7E !default; // #337ab7
+$brand-primary:         #5A2E2E !default; // #337ab7
 $brand-success:         #5cb85c !default;
 $brand-info:            #5bc0de !default;
 $brand-warning:         #f0ad4e !default;
@@ -23,11 +23,10 @@ $brand-danger:          #d9534f !default;
 
 
 /*Brand colors*/
-$brand-first:           #5A2E2E;/*#265fb9/*rgba(46, 134, 171, 1)*/;
+$brand-first:           #5A2E2E;
 $brand-secondary:       #DFBA69;
 $brand-third:           #3E4147;           
-$brand-fourth:          #5A2E2E;
-$brand-fifth:           #2bb4d7;
+$brand-fourth:          #2bb4d7;     
 $brand-dark-accent:     #303245;
 
 $brand-gradient-start:  #f98b66;
