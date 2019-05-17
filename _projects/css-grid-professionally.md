@@ -4,6 +4,8 @@ title: Using CSS Grid Professionally
 post-date: 5/13/2019
 brand: Bali Blinds
 type: Web Design
+image: /assets/img/css-grid-professionally/css-grid-implementation.png
+year: 2019
 jsarr: 
 - js/prism.js
 ---
