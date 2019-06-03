@@ -35,7 +35,7 @@ function addFoodItem(name, foodType, serving, fat, carbs, dietaryFiber, sugar, p
     responseObject.food.push({
       name: newName,
       foodType: newFoodType,
-      serving: newServing;
+      serving: newServing,
       fat: newFat,
       carbs: newCarbs,
       dietaryFiber: newDietaryFiber,
