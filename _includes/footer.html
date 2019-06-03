@@ -4,11 +4,20 @@
       <p class="city">Madison, WI</p>
   </section>
 {% endcomment %}
-  <section class="social-icons">
+
+<section class="footer">
+  <div class="logo footer-logo">
+    <img class="logo-img" src="/assets/img/jg-logo-box-inverse.svg">
+  </div>
+  {% comment %}
+  <div class="social-icons">
     <img class="svg" src="{{ "/assets/img/github.svg" | relative_url }}">
-    {% comment %}
     <img class="svg" src="{{ "/assets/img/instagram.svg" | relative_url }}">
-    {% endcomment %}
     <img class="svg" src="{{ "/assets/img/linkedin.svg" | relative_url }}">
-    <img class="svg" src="{{ "/assets/img/pdf.svg" | relative_url }}">
-  </section>
+    {% comment %}
+      <img class="svg" src="{{ "/assets/img/pdf.svg" | relative_url }}">
+    {% endcomment %}
+  </div>
+  {% endcomment %}
+</section>
+  

@@ -33,28 +33,38 @@
       }
     }
   }
-  .navigation {
-    //background-color: $dark-night;
-    padding: $spacing-unit;
-    transition: height 0.5s linear;
-    transition: width 0.3s ease; 
-    
-    .menu-list-container {
-      display: flex;
-      flex-flow: row nowrap;
-      justify-content: flex-end;
-    }
+}
 
-    .page-link {
-      padding: 1.5rem $spacing-unit;
-      //color: $heading-accent;
-      color: $dark-night;
-      text-decoration: none;
-      display: block;
-      transition: all 0.5s ease;
-      font-size: 1.4rem;
-      @extend %menu-type;
-    }
+.navigation {
+  //background-color: $dark-night;
+  padding: $spacing-unit 0;
+  transition: height 0.5s linear;
+  transition: width 0.3s ease;
+  display: flex;
+  flex-direction: row;
+  
+  .menu-list-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
   }
 
+  .page-link {
+    padding: 1.5rem $spacing-unit;
+    //color: $heading-accent;
+    color: $dark-night;
+    text-decoration: none;
+    display: block;
+    transition: all 0.5s ease;
+    font-size: 1.4rem;
+    @extend %menu-type;
+  }
+}
+
+.logo {
+  flex-grow: 1;
+
+  .logo-img {
+    width: 50px;
+  }
 }

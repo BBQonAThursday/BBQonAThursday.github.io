@@ -1,12 +1,12 @@
 ---
 layout: project
-type:  Style Guide
 title: Style Guide
 class: style-guide
 image: "/assets/img/style-guide/style-guide-colors.png"
 year: 2019
 jsarr: 
 - js/prism.js
+- js/app.js
 ---
 
 # Style Guide
@@ -25,12 +25,27 @@ This contains the typography styles for my site as well as the colors used and c
 Paragraphs can be long and dangerous. Don't go alone. This one is somewhat short. Just long enough 
 to demonstrate what it looks like when a paragraph wraps lines after hitting its max length.
 
-<div class="site-colors">
-  <div class="style-guide-color brand-primary"></div>
-  <div class="style-guide-color brand-secondary"></div>
-  <div class="style-guide-color brand-third"></div>
-  <div class="style-guide-color brand-fourth"></div>
-  <div class="style-guide-color brand-dark-accent"></div>
+<div id="site-colors" class="site-colors">
+  <div class="style-guide-color brand-primary">
+    <h4 class="color-name">Shallow Abyss</h4>
+    <p class="color-hex">#5A2E2E</p>
+  </div>
+  <div class="style-guide-color brand-secondary">
+    <h4 class="color-name">Glowing Eiffel Tower</h4>
+    <p class="color-hex">#DFBA69</p>
+  </div>
+  <div class="style-guide-color brand-third">
+    <h4 class="color-name">Bicycle Tyres</h4>
+    <p class="color-hex">#3E4147</p>
+  </div>
+  <div class="style-guide-color brand-fourth">
+    <h4 class="color-name">sunrise glow</h4>
+    <p class="color-hex">#FFFEDF</p>
+  </div>
+  <div class="style-guide-color brand-dark-accent">
+    <h4 class="color-name">death2</h4>
+    <p class="color-hex">#2A2C31</p>
+  </div>
 </div>
 
 

@@ -6,6 +6,7 @@ brand: Bali Blinds
 type: Web Design
 image: /assets/img/css-grid-professionally/css-grid-implementation.png
 year: 2019
+preview: Supporting IE in Grid is doable, but quite annoying. I like using grid-area names but IE doesn't want to play along which makes for more coding. But its alright, its not enough of a hassle that you shouldn't use it. Here is what I did to implement css grid in a menu component.
 jsarr: 
 - js/prism.js
 ---
@@ -31,7 +32,7 @@ I needed to create a menu that could place blocks of elements horizontally while
 
 I fussed around with flexbox to start but found that I was going to have a hard time keeping the color block in place across different breakpoints. The way the background color was being applied within bootstrap was useful when we were using direct column widths, but when I switched to flexbox, I noticed that the color box needed to have somewhat rigid width but allow for the color to stretch outside of the container, to the end of the screen. This would have required specifically setting flexbox widths based on breakpoints and having to nest flexbox several times for the desired effect. 
 
-From here, I decided to try out Grid. I ended up making the following grid for the outer layer of the menu and content container for margings. Grid ended up working out best for two reasons: fr units for responsiveness that collapse first when the screen size changes and the ability to have blank grid areas I can target and apply color to.
+From here, I decided to try out Grid. I ended up making the following grid for the outer layer of the menu and content container for margins. Grid ended up working out best for two reasons: fr units for responsiveness that collapse first when the screen size changes and the ability to have blank grid areas I can target and apply color to.
 
 ![Grid Example One](../assets/img/css-grid-professionally/grid-example-layer-one.png)
 

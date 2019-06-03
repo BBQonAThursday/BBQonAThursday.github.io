@@ -6,3 +6,5 @@ mobileButton.addEventListener("click", function(){
   menuContainer.classList.toggle('hidden-menu');
   console.log("clicked menu icon");
 });
+
+

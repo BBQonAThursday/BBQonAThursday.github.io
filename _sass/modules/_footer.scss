@@ -1,0 +1,33 @@
+.footer {
+  grid-row: footer-row;
+  grid-column-start: left-col;
+  grid-column-end: end;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: $brand-primary;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.social-icons {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  .svg {
+    stroke: #fff;
+    width:2rem;
+  }
+}
+
+.footer-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-grow: 0;
+  
+  .logo-img {
+    
+  }
+}

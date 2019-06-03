@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: main-layout
 id: home
+title: home
 menu-item: Home
 jsarr: 
 - js/menu-animation.js

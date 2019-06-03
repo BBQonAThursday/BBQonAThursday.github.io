@@ -10,6 +10,7 @@ permalink: /projects/
     <section class="projects-container">
       {% assign sorted = site.projects | sort: 'year' | reverse %}
       {% for project in sorted %}
+      <a class="project-link" href="{{ project.url | relative_url }}">
           <div class="project-card {{project.class}}">
             <img src="{{project.image}}" class="project-image">
             <div class="project-type">
@@ -18,15 +19,14 @@ permalink: /projects/
                 <p class="project-category">
                   {{project.type}}
                 </p>
-                <div class="project-info">           
-                    <p><a href="{{ project.url | relative_url }}">Go to Project</a></p>
-                </div>
+                {% if project.post-date != null %}
                 <p class="project-year">
-                  {{project.post-date}}
+                  <p>Posted on: {{project.post-date}}</p>
                 </p>
+                {% endif %}
               </div>            
-             
           </div>
+        </a>
     {% endfor %}
     </section>
    

@@ -23,12 +23,18 @@
     }
 
     .project-image {
-      width:auto;
+      min-width:200px;
+      max-width: 50%;
+      width: auto;
+      height:auto;
       transition: transform .2s;
       margin: 0;
       margin-right: 6rem;
     }
 
+    .project-type {
+      flex-basis: 50%;
+    }
     .project-title {
       flex-grow: 1;
     }
