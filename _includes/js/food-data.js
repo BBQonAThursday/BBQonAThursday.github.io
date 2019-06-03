@@ -42,7 +42,7 @@ function addFoodItem(name, foodType, serving, fat, carbs, dietaryFiber, sugar, p
       sugar: newSugar,
       protein: newProtein,
       kCal: newKCal,
-      calg = newCalG
+      calg : newCalG
     })
 }
 
