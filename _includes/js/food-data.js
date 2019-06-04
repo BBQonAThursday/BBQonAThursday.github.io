@@ -1,3 +1,7 @@
+window.onload = function() {
+  init();
+}
+
 var xhr =new XMLHttpRequest();
 
 xhr.onload = function() {
@@ -7,30 +11,36 @@ xhr.onload = function() {
     var newContent = '';
     for (var i = 0; i < responseObject.food.length; i++){
       newContent += "<div id=\"food-" + i + "\" class=\"food-item\">";
-      newContent += "<div class=\"food-name\"><h3>" + responseObject.food[i].name + "</h3></div>";
-      newContent += "<div class=\"kcal-serving\"> <p>Calories Per Serving (" + responseObject.food[i].serving + "g)</p><h4 class=\"kcal\">"  + responseObject.food[i].kCal + " kcal</h4></div>";
-      newContent += "<div class=\"fats\"><h5>fat: " + responseObject.food[i].fat + "g</h5></div>";
-      newContent += "<div class=\"fats\"><h5>carbs: " + responseObject.food[i].carbs + "g</h5></div>";
-      newContent += "<div class=\"fats\"><h5>Protein: " + responseObject.food[i].protein + "g</h5></div>";
+      newContent += "<h3 class=\"food-name " + removeWhiteSpace(responseObject.food[i].name) + "\">" + responseObject.food[i].name + "</h3>";
+      newContent += "<p class=\"kcal-serving\">Calories Per Serving (" + responseObject.food[i].serving + "g)</p><p class=\"kcal\">"  + responseObject.food[i].kCal + " kcal</p>";
+      newContent += "<p class=\"fats\">fat: " + responseObject.food[i].fat + "g</p>";
+      newContent += "<p class=\"carbs\">carbs: " + responseObject.food[i].carbs + "g</p>";
+      newContent += "<p class=\"protein\">Protein: " + responseObject.food[i].protein + "g</p>";
       newContent += "</div>";
-      console.log(responseObject.food[i].name);
+      //console.log(responseObject.food[i].name);
     }
 
     document.getElementById('food-data-display').innerHTML = newContent;
   }
 };
 
+function removeWhiteSpace(stringInput) {
+  this.stringInput = stringInput;
+  stringInput.replace(/\s/g, "-");
+  return stringInput;
+};
+
 function addFoodItem(name, foodType, serving, fat, carbs, dietaryFiber, sugar, protein, kCal, calg) {
-    this.name = name;
-    this.foodType = foodType;
-    this.serving = serving;
-    this.fat = fat;
-    this.carbs = carbs;
-    this.dietaryFiber = dietaryFiber;
-    this.sugar = sugars;
-    this.protein = protein;
-    this.kCal = kCal;
-    this.calg = calg;
+    // this.name = name;
+    // this.foodType = foodType;
+    // this.serving = serving;
+    // this.fat = fat;
+    // this.carbs = carbs;
+    // this.dietaryFiber = dietaryFiber;
+    // this.sugar = sugars;
+    // this.protein = protein;
+    // this.kCal = kCal;
+    // this.calg = calg;
     
     responseObject.food.push({
       name: newName,
@@ -51,7 +61,15 @@ function init() {
   xhr.send(null);
 }
 
-window.onload = function() {
-  init();
-}
 
+
+
+var foodClicked = document.getElementById("food-data-display");
+var newFoodForm = document.getElementById("new-food-form");
+var foodItems = document.getElementsByClassName("food-item");
+
+foodClicked.addEventListener("click", function(){ 
+  console.log("clicked");
+  newFoodForm.classList.add("show-form");
+
+}, false);
