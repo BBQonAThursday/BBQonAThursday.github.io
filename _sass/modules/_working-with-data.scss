@@ -21,6 +21,15 @@
     .protein {
       color: #fff;
     }
+  }
+}
 
+.food-stat-output{
+  padding: 1rem;
+  background-color: $brand-secondary;
+  min-height: 15rem;
+
+  .stat {
+    margin-bottom: .5rem;
   }
 }

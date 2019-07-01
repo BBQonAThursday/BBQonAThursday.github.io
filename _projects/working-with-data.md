@@ -23,10 +23,9 @@ jsarr:
 <form class="">
   <div class="fields">
     <div class="field">
-        <select id="food-dropdown" name="food-item">
-        </select>
+      
     </div>
-    <div class="field">
+    <!--<div class="field">
       <label>First name</label>
       <input type="text" placeholder="First Name">
     </div>
@@ -37,21 +36,32 @@ jsarr:
     <div class="field">
       <label>Last name</label>
       <input type="text" placeholder="Last Name">
-    </div>
+    </div>-->
   </div>
 </form>
 <div class="food-stat-output" id="food-stat-output">
-  <button class="" id="display-item">
-    Load Data
-  </button>
-  <h3 id="food-selected"></h3>
-  <p class="food-item-serving" id="serving"></p>
-  <p class="food-item-kcal" id="kcal"></p>
-  <p class="food-item-fat" id="fat"></p>
-  <p class="food-item-carbs" id="carbs"></p>
-  <p class="food-item-dietary-fiber" id="dietary-fiber"></p>
-  <p class="food-item-sugar" id="sugar"></p>
-  <p class="food-item-protein" id="protein"></p>
+  <select id="food-dropdown" name="food-item"></select>
+  <button class="" id="display-item">Load Data</button>
+  <button class="" id="calculate-macros">Calculate Macros</button>
+  <div class="food-item--displayed">
+    <h3 id="food-selected"></h3>
+    <p class="stat food-item-serving" id="serving"></p>
+    <p class="stat food-item-kcal" id="kcal"></p>
+    <p class="stat food-item-fat" id="fat"></p>
+    <p class="stat food-item-carbs" id="carbs"></p>
+    <p class="stat food-item-dietary-fiber" id="dietary-fiber"></p>
+    <p class="stat food-item-sugar" id="sugar"></p>
+    <p class="stat food-item-protein" id="protein"></p>
+  </div>
+  <div class="food-item--macros">
+      <p class="stat food-item-serving" id="macro-serving"></p>
+      <p class="stat food-item-kcal" id="macro-kcal"></p>
+      <p class="stat food-item-fat" id="macro-fat"></p>
+      <p class="stat food-item-carbs" id="macro-carbs"></p>
+      <p class="stat food-item-dietary-fiber" id="macro-dietary-fiber"></p>
+      <p class="stat food-item-sugar" id="macro-sugar"></p>
+      <p class="stat food-item-protein" id="macro-protein"></p>
+    </div>
 </div>
 </div>
 <div id="food-data-display" class="food-item-container">

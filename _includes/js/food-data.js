@@ -2,17 +2,24 @@ window.onload = function() {
   init();
 }
 
+var xhr, dropdown, defaultOption, selection, output, jsonSearch, displayItem, displayMacros;
 const url = '/_data/foods.json';
 
-var xhr = new XMLHttpRequest();
-var dropDown = document.getElementById("food-dropdown");
-dropDown.length = 0;
-var defaultOption = document.createElement('option');
-defaultOption.text = 'Select a Food to log';
+xhr = new XMLHttpRequest();
+dropDown = document.getElementById("food-dropdown");
+selection = document.getElementById('food-dropdown');
+output = document.getElementById('food-selected');
 
+dropDown.length = 0;
+defaultOption = document.createElement('option');
+defaultOption.text = 'Select a Food to log';
 dropDown.add(defaultOption);
 dropDown.selectedIndex = 0;
 
+displayItem = document.getElementById('display-item');
+displayMacros = document.getElementById('calculate-macros');
+displayItem.addEventListener('click', displaySelection, false);
+displayMacros.addEventListener('click', calculateMacros, false);
 
 
 xhr.onload = function() {
@@ -43,23 +50,26 @@ xhr.onload = function() {
   }
 };
 
-var displayItem = document.getElementById('display-item');
-displayItem.addEventListener('click', displaySelection, false);
+
+
 
 function displaySelection() {
-  var selection = document.getElementById('food-dropdown');
-  var output = document.getElementById('food-selected');
-  
-  var jsonSearch = selection.value;
-
+ 
+  jsonSearch = selection.value;
   //Displays the selection in h3 in form;
   output.textContent = selection.value;
   console.log(selection.value);
 
   for(var i = 0; i < responseObject.food.length; i++){
+    var propCount = responseObject.food.length;
+    console.log(responseObject.food[i][i]);
     if(jsonSearch === responseObject.food[i].name) {
       var statContainer = document.getElementById('food-stat-output');
 
+      //Get and Set Kcal Stat
+      var servingStatItem = document.getElementById('serving');
+      var servingAmount = responseObject.food[i].serving;
+      
       //Get and Set fat Stat for Selected Item
       var fatStatItem = document.getElementById('fat');
       var fatAmount = responseObject.food[i].fat;
@@ -67,8 +77,9 @@ function displaySelection() {
       //Get and Set Kcal Stat
       var kcalStatItem = document.getElementById('kcal');
       var kCalAmount = responseObject.food[i].kCal;
-      
 
+      //building the strings for each stat
+      servingStatItem.textContent = "Serving size: " + servingAmount + "g";
       kcalStatItem.textContent = "kCal: " + kCalAmount + "g";
       fatStatItem.textContent = "fat: " + fatAmount + "g";
       statContainer.append(statItem);
@@ -78,7 +89,9 @@ function displaySelection() {
 
 }
 
-
+function calculateMacros(){
+  var macroOutput = document.getElementById('');
+}
 function removeWhiteSpace(stringInput) {
   stringInput.replace(/\s/g, "-").trim();
   return stringInput;
