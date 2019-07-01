@@ -41,8 +41,9 @@ jsarr:
 </form>
 <div class="food-stat-output" id="food-stat-output">
   <select id="food-dropdown" name="food-item"></select>
-  <button class="" id="display-item">Load Data</button>
-  <button class="" id="calculate-macros">Calculate Macros</button>
+  <button class="data-button" id="display-item">Load Data</button>
+  <input id="food-quantity" class="input-field" placeholder="grams to log">
+  <button class="data-button" id="calculate-macros">Calculate Macros</button>
   <div class="food-item--displayed">
     <h3 id="food-selected"></h3>
     <p class="stat food-item-serving" id="serving"></p>

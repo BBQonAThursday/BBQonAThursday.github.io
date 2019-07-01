@@ -3,12 +3,37 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-left: -1rem;
+  margin-right: -1rem;
 }
 
 .food-item {
-  margin-bottom: 8rem;
-  width: 33%;
+  margin: 1rem;
+  width: auto;
   padding: 2rem;
+  border: .1rem solid $brand-dark-accent;
+  border-radius: .5rem;
+  background-color: $brand-third;
+  flex-grow: 1;
+
+  .food-name {
+    color: $brand-fourth;
+    text-transform: capitalize;
+  }
+
+  .kcal-serving,
+  .kcal,
+  .fats,
+  .carbs,
+  .protein {
+    margin-bottom: 0;
+    color: $brand-fourth;
+  }
+
+  .kcal-serving {
+    font-size: 1.2rem;
+    font-style: italic;
+  }
 
   &:hover {
     background-color:$brand-primary;
@@ -25,9 +50,10 @@
 }
 
 .food-stat-output{
-  padding: 1rem;
+  padding: 2rem;
   background-color: $brand-secondary;
   min-height: 15rem;
+  border-radius: .5rem;
 
   .stat {
     margin-bottom: .5rem;
