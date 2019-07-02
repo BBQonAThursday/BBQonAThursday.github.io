@@ -30,7 +30,7 @@ xhr.onload = function() {
     for (var i = 0; i < responseObject.food.length; i++){
       newContent += "<div id=\"food-" + i + "\" class=\"food-item " + removeWhiteSpace(responseObject.food[i].name) + "\">";
       newContent += "<h3 class=\"food-name " + "\">" + responseObject.food[i].name + "</h3>";
-      newContent += "<p class=\"kcal-serving\">per " + responseObject.food[i].serving + "g</p><p class=\"kcal\">"  + responseObject.food[i].kCal + " kcal</p>";
+      newContent += "<p class=\"kcal-serving\">Calories Per Serving (" + responseObject.food[i].serving + "g)</p><p class=\"kcal\">"  + responseObject.food[i].kCal + " kcal</p>";
       newContent += "<p class=\"fats\">fat: " + responseObject.food[i].fat + "g</p>";
       newContent += "<p class=\"carbs\">carbs: " + responseObject.food[i].carbs + "g</p>";
       newContent += "<p class=\"protein\">Protein: " + responseObject.food[i].protein + "g</p>";
@@ -61,8 +61,10 @@ function displaySelection() {
   console.log(selection.value);
 
   for(var i = 0; i < responseObject.food.length; i++){
+
     var propCount = responseObject.food.length;
     console.log(responseObject.food[i][i]);
+    
     if(jsonSearch === responseObject.food[i].name) {
       var statContainer = document.getElementById('food-stat-output');
 

@@ -1,0 +1,14 @@
+{
+  "graber":[
+    {
+      "productLine" : "Cellular Shades",
+      "dataName" : "cellular-shades",
+      "uiName": "CrystalPleat Cellular Shades"
+    },
+    {
+      "productLine" : "Pleated Shades",
+      "dataName" : "pleated-shades",
+      "uiName": "Pleated Shades"
+    }
+  ]
+}
