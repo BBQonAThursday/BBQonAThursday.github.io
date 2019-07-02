@@ -10,5 +10,12 @@
       "dataName" : "pleated-shades",
       "uiName": "Pleated Shades"
     }
+  ],
+  "budgetBlinds": [
+    {
+      "productLine" : "Cellular Shades",
+      "dataName" : "cellular-shades",
+      "uiName": "Cellular Shades"
+    }
   ]
 }

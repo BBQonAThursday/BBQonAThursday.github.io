@@ -1,4 +1,4 @@
-var xhr, brand, selectorBrand, brandUnit, brandUI, productGuide, selectorProductGuide, sections, tocStart, tocEnd, graberProductGuidesJSON;
+var xhr, brand, selectorBrand, brandUnit, brandUI, productGuide, selectorProductGuide, sections, tocStart, tocEnd, productGuidesJSON;
 
 selectorBrand = document.getElementById('selector--brand');
 selectorProductGuide = document.getElementById('selector--product-guide');
@@ -17,11 +17,10 @@ function getbrandUnit(brand){
   switch (brand) {
     case 'graber':
       //get the brand for the data structure
-      brandTypeData.brand = 'graber';
-      brandTypeData.brandUnit = 1;
+      brand = 'graber';
+      brandUnit = 1;
       //set the output value in the element
       brandUI.textContent = 'Graber';
-      setProductGuides(brandUnit);
       console.log(brandUnit);
       break;
     
@@ -31,7 +30,6 @@ function getbrandUnit(brand){
       brandUnit = 2;
       //get the brand for the data structure
       brandUI.textContent = 'Budget Blinds';
-      setProductGuides(brandUnit);
       break;
 
     case 'jcp-custom-dec':
@@ -40,32 +38,42 @@ function getbrandUnit(brand){
       brandUnit = 3;
       //get the brand for the data structure
       brandUI.textContent = 'JCPenney Custom Decorator';
-      setProductGuides(brandUnit);
-      break;
-      
+      break;   
   }
-
- 
-
-  
+  setProductGuides(brandUnit);
 };
 
+function clearProductGuides() {
+
+}
 
 function setProductGuides(businessUnit) {
   xhr = new XMLHttpRequest();
 
   xhr.onload = function() {
     if(xhr.status === 200){
-      graberProductGuidesJSON = JSON.parse(xhr.responseText);
-    
-      for(var i = 0; i < graberProductGuidesJSON.graber.length; i++){
+      productGuidesJSON = JSON.parse(xhr.responseText);
       
-        pgOption = document.createElement('option');
-        pgOption.text = graberProductGuidesJSON.graber[i].uiName;
-        option.value = graberProductGuidesJSON.graber[i].dataName;
-        selectorProductGuide.add(pgOption);
-        console.log(graberProductGuidesJSON.graber[i].uiName)
-       
+      if(businessUnit === 1) {
+        if(selectorProductGuide.length > 0) {
+          
+        }
+        for(var i = 0; i < productGuidesJSON.graber.length; i++){
+          pgOption = document.createElement('option');
+          pgOption.text = productGuidesJSON.graber[i].uiName;
+          pgOption.value = productGuidesJSON.graber[i].dataName;
+          selectorProductGuide.add(pgOption);
+          console.log(productGuidesJSON.graber[i].uiName)
+        }
+      }
+      if(businessUnit === 2) {
+        for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
+          pgOption = document.createElement('option');
+          pgOption.text = productGuidesJSON.budgetBlinds[i].uiName;
+          pgOption.value = productGuidesJSON.budgetBlinds[i].dataName;
+          selectorProductGuide.add(pgOption);
+          console.log(productGuidesJSON.budgetBlinds[i].uiName)
+        }
       }
     }
   }; 
