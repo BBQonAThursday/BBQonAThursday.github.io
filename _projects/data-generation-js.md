@@ -35,11 +35,14 @@ jsarr:
 ### Build out Section Data
 <section class="build-section-data" id="build-section-data">
 
-  TOC start page?
-  <input id="toc--start-page">
-
-  What is the last page from the TOC?
-  <input id="toc-end-page">
+  <div class="ui-element">
+    <label>TOC start page?</label>
+    <input id="toc--start-page">
+  </div>
+  <div class="ui-element">
+    <label>What is the last page from the TOC?</label>
+    <input id="toc-end-page">
+  </div>
 </section>
 
 
