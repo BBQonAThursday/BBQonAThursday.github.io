@@ -12,7 +12,7 @@ brandTypeData = {
   availableGuides : []
 }
 
-function getbrandUnit(brand){
+function getBrandUnit(brand){
   brand = selectorBrand.value;
   switch (brand) {
     case 'graber':
@@ -43,8 +43,12 @@ function getbrandUnit(brand){
   setProductGuides(brandUnit);
 };
 
-function clearProductGuides() {
-
+function clearProductGuides(id) {
+  var selectObj = id;
+  var selectParentNode = selectObj.parentNode;
+  var newSelectObj = selectObj.cloneNode(false);
+  selectParentNode.replaceChild(newSelectObj, selectObj);
+  return newSelectObj;
 }
 
 function setProductGuides(businessUnit) {
@@ -55,9 +59,7 @@ function setProductGuides(businessUnit) {
       productGuidesJSON = JSON.parse(xhr.responseText);
       
       if(businessUnit === 1) {
-        if(selectorProductGuide.length > 0) {
-          
-        }
+        selectorProductGuide.innerHTML = "";
         for(var i = 0; i < productGuidesJSON.graber.length; i++){
           pgOption = document.createElement('option');
           pgOption.text = productGuidesJSON.graber[i].uiName;
@@ -67,12 +69,19 @@ function setProductGuides(businessUnit) {
         }
       }
       if(businessUnit === 2) {
+        selectorProductGuide.innerHTML = "";
         for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
           pgOption = document.createElement('option');
           pgOption.text = productGuidesJSON.budgetBlinds[i].uiName;
           pgOption.value = productGuidesJSON.budgetBlinds[i].dataName;
           selectorProductGuide.add(pgOption);
           console.log(productGuidesJSON.budgetBlinds[i].uiName)
+        }
+      }
+      if(businessUnit === 3) {
+        selectorProductGuide.innerHTML = "";
+        for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
+          
         }
       }
     }
@@ -92,7 +101,6 @@ function evaluateDataInput(e){
 }
 
 
-selectorBrand.addEventListener('change', getbrandUnit, false);
+selectorBrand.addEventListener('change', getBrandUnit, false);
 selectorProductGuide.addEventListener('change', getProductGuide, false);
-
 document.addEventListener('change', evaluateDataInput, false);
