@@ -2,10 +2,15 @@
 /* Home page Display Cards*/
 
 
+.projects-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 
   .project-card {
       height: auto;
-      width: 100%;
+      width: 50%;
       overflow: hidden;
       display: flex;
       flex-direction: row;
