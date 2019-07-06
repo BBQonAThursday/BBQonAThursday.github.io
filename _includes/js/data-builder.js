@@ -62,26 +62,26 @@ function setProductGuides(businessUnit) {
         selectorProductGuide.innerHTML = "";
         for(var i = 0; i < productGuidesJSON.graber.length; i++){
           pgOption = document.createElement('option');
-          pgOption.text = productGuidesJSON.graber[i].uiName;
+          pgOption.text = productGuidesJSON.graber[i].productLine;
           pgOption.value = productGuidesJSON.graber[i].dataName;
           selectorProductGuide.add(pgOption);
-          console.log(productGuidesJSON.graber[i].uiName)
+          console.log(productGuidesJSON.graber[i].productLine)
         }
       }
       if(businessUnit === 2) {
         selectorProductGuide.innerHTML = "";
         for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
           pgOption = document.createElement('option');
-          pgOption.text = productGuidesJSON.budgetBlinds[i].uiName;
+          pgOption.text = productGuidesJSON.budgetBlinds[i].productLine;
           pgOption.value = productGuidesJSON.budgetBlinds[i].dataName;
           selectorProductGuide.add(pgOption);
-          console.log(productGuidesJSON.budgetBlinds[i].uiName)
+          console.log(productGuidesJSON.budgetBlinds[i].productLine)
         }
       }
       if(businessUnit === 3) {
         selectorProductGuide.innerHTML = "";
         for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
-          
+
         }
       }
     }
