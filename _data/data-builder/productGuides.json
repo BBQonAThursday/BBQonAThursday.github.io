@@ -2,7 +2,13 @@
   "graber":[
     {
       "productLine" : "Aluminum Horizontal Blinds",
-      "dataName" : "aluminum-horizontal-blinds"
+      "dataName" : "aluminum-horizontal-blinds",
+      "documentSections" : [
+        "Features adn Size Considerations",
+        "Options",
+        "General Information",
+        "Price Charts and Options Pricing"
+      ]
     },
     {
       "productLine" : "Artisan Collection",
