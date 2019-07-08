@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Working with Data
+class: working-with-data
 post-date: 6/02/2019
 brand: N/a
 type: Data Science

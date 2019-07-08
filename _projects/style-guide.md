@@ -3,6 +3,7 @@ layout: project
 title: Style Guide
 class: style-guide
 image: "/assets/img/style-guide/style-guide-colors.png"
+preview: "You know what this is"
 year: 2019
 jsarr: 
 - js/prism.js

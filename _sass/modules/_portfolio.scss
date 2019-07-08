@@ -5,21 +5,18 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 
 .project-card {
-  width: 30%;
+  width: auto;
+  flex-grow: 1;
+  margin: 4rem 2rem 0;
   overflow: hidden;
   padding: 2rem;
   background-color: $brand-dark-accent; 
-  margin-top: 4rem;
   border-radius: 5px;
-
-  &:hover {
-    .project-intro {
-      //background-color: $brand-first;
-    }
-  }
 
   .project-image {
     max-width: 100%;
@@ -34,9 +31,10 @@
     position: relative;
     z-index: 2;
     margin-top: 0;
-  }
-  .project-title {
-    flex-grow: 1;
+    max-width: 25rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 20rem;
   }
 
   .project-intro {
@@ -64,6 +62,7 @@
     font-style: italic;
     font-size: 1.6rem;
     line-height: 2.4rem;
+    flex-grow: 1;
   }
 
   .project-link {
@@ -75,7 +74,8 @@
     color: $off-white;
     margin-bottom: 2.4rem;
     font-size: 2rem;
-    line-height: 2rem;
+    line-height: 2.6rem;
+    flex-grow: 0;
 
     &:hover {
       text-decoration: none;
