@@ -64,13 +64,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
 
 .home-page {
   width: 100%;
-  height:auto;
-  //grid-gap:$spacing-unit;
-  //grid-template-columns: 1fr minmax(auto,32rem) 1fr;
-  
-  
-
-  //grid-template-rows:  1fr auto 1fr;
+  height:100vh;
 
   .me {
     grid-column: 1 / span 6;

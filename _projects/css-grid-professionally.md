@@ -6,7 +6,7 @@ brand: Bali Blinds
 type: Web Design
 image: /assets/img/css-grid-professionally/css-grid-implementation.png
 year: 2019
-preview: Supporting IE in Grid is doable, but quite annoying. I like using grid-area names but IE doesn't want to play along which makes for more coding. But its alright, its not enough of a hassle that you shouldn't use it. Here is what I did to implement css grid in a menu component.
+preview: Supporting IE in Grid is doable, but quite annoying.
 jsarr: 
 - js/prism.js
 ---

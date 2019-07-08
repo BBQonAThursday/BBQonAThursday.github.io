@@ -4,13 +4,16 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .project-card {
-  width: 50%;
+  width: 30%;
   overflow: hidden;
   padding: 2rem;
- 
+  background-color: $brand-dark-accent; 
+  margin-top: 4rem;
+  border-radius: 5px;
 
   &:hover {
     .project-intro {
@@ -28,8 +31,6 @@
   }
 
   .project-type {
-    background-color: $brand-dark-accent;
-    padding: 2rem;
     position: relative;
     z-index: 2;
     margin-top: 0;
@@ -59,7 +60,10 @@
   }
 
   .project--preview {
-    color: $off-white;  
+    color: $off-white;
+    font-style: italic;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
   }
 
   .project-link {
@@ -69,7 +73,7 @@
   .project-title {
     font-weight: 700;
     color: $off-white;
-    margin-bottom: 0.5rem;
+    margin-bottom: 2.4rem;
     font-size: 2rem;
     line-height: 2rem;
 
