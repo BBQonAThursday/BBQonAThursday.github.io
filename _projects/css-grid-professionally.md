@@ -55,3 +55,5 @@ These are the 2 grid layouts I created. The @include lg is how we use breakpoint
 
   </code>
 </pre>
+
+Yeah. I hate that you have to scroll too, but the grid comes out really nice.

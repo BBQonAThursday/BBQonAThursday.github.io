@@ -3,7 +3,7 @@ layout: project
 title: Data building UI
 post-date: 7/1/2019
 year: 2019
-preview: Notes on test batches of Kombucha
+preview: creating JSON data from user input
 jsarr: 
 - js/prism.js
 - js/data-builder.js
@@ -27,14 +27,27 @@ jsarr:
 <select id="selector--product-guide">
 </select>
 
-#### Enter Document Sections
+#### Document Sections
 <section class="build-document-sections">
   <input class="" id="" placeholder="i.e. Features, Size Considerations, etc.">
+  <table class="article-data" id="">
+    <tr class="article">
+      <td class="article--title" contenteditable="true">Joel</td>
+      <td class="article--start-page" contenteditable="true">20</td>
+      <td class="article--end-page" contenteditable="true">20</td>
+    </tr>
+    <tr class="article">
+    <td class="article--title" contenteditable="true">Joel</td>
+    <td class="article--start-page" contenteditable="true">20</td>
+    <td class="article--end-page" contenteditable="true">20</td>
+    </tr>
+  </table>
+  <button class="" id="">add new article</button>
 </section>
+
 
 ### Build out Section Data
 <section class="build-section-data" id="build-section-data">
-
   <div class="ui-element">
     <label>TOC start page?</label>
     <input id="toc--start-page">

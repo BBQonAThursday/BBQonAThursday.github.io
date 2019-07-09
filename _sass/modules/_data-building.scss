@@ -1,0 +1,27 @@
+.article-data {
+  margin-bottom: 2rem;
+}
+
+.article {
+  font-size: 2rem;
+
+  &--title,
+  &--start-page,
+  &--end-page {
+    border-bottom: 1px solid $brand-dark-accent;
+    padding-top: 1rem;
+  }
+
+  &--title{
+    width: 200ch;
+  }
+
+  &--start-page,
+  &--end-page {
+    width:3ch;
+    text-align:right;
+  }
+
+}
+
+

@@ -1,10 +1,11 @@
 {
   "graber":[
     {
+      "businessUnit" : 1,
       "productLine" : "Aluminum Horizontal Blinds",
       "dataName" : "aluminum-horizontal-blinds",
       "documentSections" : [
-        "Features adn Size Considerations",
+        "Features and Size Considerations",
         "Options",
         "General Information",
         "Price Charts and Options Pricing"
