@@ -31,6 +31,11 @@ jsarr:
 <section class="build-document-sections">
   <input class="" id="" placeholder="i.e. Features, Size Considerations, etc.">
   <table class="article-data" id="">
+  <tr class="table-headings">
+    <th class="heading--title">Article Title</th>
+    <th class="heading--start-page">Start Page</th>
+    <th class="heading--end-page">End Page</th>
+  </tr>
     <tr class="article">
       <td class="article--title" contenteditable="true">Joel</td>
       <td class="article--start-page" contenteditable="true">20</td>
