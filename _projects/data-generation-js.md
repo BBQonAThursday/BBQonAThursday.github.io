@@ -30,7 +30,8 @@ jsarr:
 #### Document Sections
 <section class="build-document-sections">
   <input class="" id="" placeholder="i.e. Features, Size Considerations, etc.">
-  <table class="article-data" id="">
+  <table class="article-data" id="article-data-container">
+  <h3 class="document-section--heading" id="">Features</h3>
   <tr class="table-headings">
     <th class="heading--title">Article Title</th>
     <th class="heading--start-page">Start Page</th>
@@ -47,7 +48,7 @@ jsarr:
     <td class="article--end-page" contenteditable="true">20</td>
     </tr>
   </table>
-  <button class="" id="">add new article</button>
+  <button class="ui--add-article" id="add-new-article">add new article</button>
 </section>
 
 

@@ -82,9 +82,15 @@ h6 {
   //font-family: 'Overpass', sans-serif;
   //font-family: 'Oxygen', sans-serif;
 }
+
+%font-base {
+  font-family: 'Karla', sans-serif;
+  font-size:1.6rem;
+  line-height: 1.24;
+}
+
 p {
   font-family: 'Karla', sans-serif;
-  //font-family: 'Oxygen', sans-serif;
   font-size:1.6rem;
   line-height: 2.8rem;
   max-width: 56ch;

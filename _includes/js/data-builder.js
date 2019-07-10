@@ -1,7 +1,10 @@
-var xhr, brand, selectorBrand, brandUnit, brandUI, productGuide, selectorProductGuide, sections, tocStart, tocEnd, productGuidesJSON;
+var xhr, brand, selectorBrand, brandUnit, brandUI, 
+productGuide, selectorProductGuide, sections, tocStart, tocEnd, 
+productGuidesJSON, articleTable;
 
 selectorBrand = document.getElementById('selector--brand');
 selectorProductGuide = document.getElementById('selector--product-guide');
+articleTable = document.getElementById('article-data-container');
 brandUI = document.getElementById('brand-ui');
 
 
@@ -52,14 +55,20 @@ function clearProductGuides(id) {
 }
 
 function setProductGuides(businessUnit) {
-  xhr = new XMLHttpRequest();
+  function setPlaceHolder(){
+    selectorProductGuide.innerHTML = "";
+    pgOption = document.createElement('option');
+    pgOption.text ="Select a Price List";
+    selectorProductGuide.add(pgOption);
+  }
 
+  xhr = new XMLHttpRequest();
   xhr.onload = function() {
     if(xhr.status === 200){
       productGuidesJSON = JSON.parse(xhr.responseText);
       
       if(businessUnit === 1) {
-        selectorProductGuide.innerHTML = "";
+        setPlaceHolder();
         for(var i = 0; i < productGuidesJSON.graber.length; i++){
           pgOption = document.createElement('option');
           pgOption.text = productGuidesJSON.graber[i].productLine;

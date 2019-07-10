@@ -3,7 +3,7 @@
 }
 
 .article {
-  font-size: 2rem;
+  @extend %font-base;
 
   &--title,
   &--start-page,
@@ -18,10 +18,13 @@
 
   &--start-page,
   &--end-page {
-    width:3ch;
+    width:10ch;
     text-align:right;
   }
 
 }
 
-
+.table-headings {
+  text-align: left;
+  @extend %font-base;
+}

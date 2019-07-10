@@ -5,10 +5,42 @@
       "productLine" : "Aluminum Horizontal Blinds",
       "dataName" : "aluminum-horizontal-blinds",
       "documentSections" : [
-        "Features and Size Considerations",
-        "Options",
-        "General Information",
-        "Price Charts and Options Pricing"
+        {
+          "Features and Size Considerations": [
+            {
+              "page-1": [
+                {
+                  "title": "Summary",
+                  "start-page": 3,
+                  "end-page": 2
+                }
+              ],
+              "page-2": [
+                {
+                  "title": "Warranty",
+                  "start-page": 3,
+                  "end-page": 3
+                }
+              ]
+
+            }
+          ],
+          "Options": [
+            {
+
+            }
+          ],
+          "General Information": [
+            {
+
+            }
+          ],
+          "Price Charts and Options Pricing": [
+            {
+
+            }
+          ]
+        }
       ]
     },
     {
