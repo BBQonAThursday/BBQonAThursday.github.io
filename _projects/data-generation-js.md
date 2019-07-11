@@ -18,6 +18,7 @@ jsarr:
 
 #### Select your brand
 <select id="selector--brand" class="selector--brand">
+<option>Select a Brand</option>
 <option value="graber">Graber</option>
 <option value="budget-blinds">Budget Blinds</option>
 <option value="jcp-custom-dec">JCP Custom Dec</option>

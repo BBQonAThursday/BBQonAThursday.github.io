@@ -16,6 +16,7 @@ brandTypeData = {
 }
 
 function getBrandUnit(brand){
+  setPlaceHolder(selectorBrand);
   brand = selectorBrand.value;
   switch (brand) {
     case 'graber':
@@ -54,21 +55,24 @@ function clearProductGuides(id) {
   return newSelectObj;
 }
 
-function setProductGuides(businessUnit) {
-  function setPlaceHolder(){
+function setPlaceHolder(selector){
+  
+  pgOption = document.createElement('option');
+  if(selector === selectorProductGuide){
     selectorProductGuide.innerHTML = "";
-    pgOption = document.createElement('option');
     pgOption.text ="Select a Price List";
     selectorProductGuide.add(pgOption);
-  }
+  }   
+}
 
+function setProductGuides(businessUnit) {
   xhr = new XMLHttpRequest();
   xhr.onload = function() {
     if(xhr.status === 200){
       productGuidesJSON = JSON.parse(xhr.responseText);
       
       if(businessUnit === 1) {
-        setPlaceHolder();
+        setPlaceHolder(selectorProductGuide);
         for(var i = 0; i < productGuidesJSON.graber.length; i++){
           pgOption = document.createElement('option');
           pgOption.text = productGuidesJSON.graber[i].productLine;
@@ -78,7 +82,7 @@ function setProductGuides(businessUnit) {
         }
       }
       if(businessUnit === 2) {
-        selectorProductGuide.innerHTML = "";
+        setPlaceHolder(selectorProductGuide);
         for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
           pgOption = document.createElement('option');
           pgOption.text = productGuidesJSON.budgetBlinds[i].productLine;
@@ -88,7 +92,7 @@ function setProductGuides(businessUnit) {
         }
       }
       if(businessUnit === 3) {
-        selectorProductGuide.innerHTML = "";
+        setPlaceHolder();
         for(var i = 0; i < productGuidesJSON.budgetBlinds.length; i++){
 
         }
@@ -101,8 +105,11 @@ function setProductGuides(businessUnit) {
 }
 
 
-function getProductGuide(productGuide) {
-  productGuide = selectorProductLine.value; 
+function getProductGuide() {
+  var productGuideSelection = document.getElementById('selector--product-guide');
+  var selectedOption = productGuideSelection.options[selectedOption.selectedIndex];
+  console.log(selectedOption.value);
+  
 }
 
 function evaluateDataInput(e){
