@@ -90,6 +90,24 @@ function displaySelection() {
   }
 
 }
+function createRecipe(selection){
+
+  // get list of foods
+
+  // allow multiple selections
+
+  // on selection of foods, get that foods info
+
+  // get input of each foods weight
+
+  // get number of servings for the full recipe
+
+  // calculate macros per serving
+
+  // output into html
+
+  // store recipe as json
+}
 
 function calculateMacros(){
   var macroOutput = document.getElementById('');
