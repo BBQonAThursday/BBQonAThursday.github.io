@@ -1,17 +1,22 @@
 .site-colors {
   display: flex;
   flex-direction: row;
-  max-width: 60rem;
+  // max-width: 60rem;
   flex-wrap:wrap;
+  justify-content: space-between;
 }
 
 .style-guide-color {
-  width: 20rem;
-  height: 10rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  flex: 0 0 auto;
+  
+  .color-block {
+    width: 10rem;
+    height: 10rem;
+  }
+}
+
+.color-hex {
+  font-size: 1.4rem;
 }
 
 .color-name {
@@ -20,11 +25,6 @@
 
 .brand-primary {
   background-color: $brand-primary;
-  
-  .color-name,
-  .color-hex {
-    color: $brand-fourth;
-  }
 }
 
 .brand-secondary {
@@ -33,11 +33,6 @@
 
 .brand-third {
   background-color: $brand-third;
-
-  .color-name,
-  .color-hex {
-    color: $brand-fourth;
-  }
 }
 
 .brand-fourth {
@@ -46,9 +41,4 @@
 
 .brand-dark-accent {
   background-color: $brand-dark-accent;
-
-  .color-name,
-  .color-hex {
-    color: $brand-fourth;
-  }
 }
