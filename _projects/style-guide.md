@@ -27,6 +27,7 @@ This contains the typography styles for my site as well as the colors used and c
 
 <button class="button">Click Me</button>
 <button class="button--hovered">Hovered</button>
+<a class="project-link" href="{{ project.url | relative_url }}">View Project</a>
 <div class="triangle"></div>
 
 
@@ -37,9 +38,9 @@ to demonstrate what it looks like when a paragraph wraps lines after hitting its
 
 <div id="site-colors" class="site-colors">
   <div class="style-guide-color">
-    <div class="color--block brand-primary"></div>
-    <p class="color--variable">$brand-primary</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #5A2E2E</p>
+    <div class="color--block brand-first"></div>
+    <p class="color--variable">$brand-first</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #6a5d7b</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
@@ -51,19 +52,25 @@ to demonstrate what it looks like when a paragraph wraps lines after hitting its
   <div class="style-guide-color">
     <div class="color--block brand-third"></div>
     <p class="color--variable">$brand-third</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #3E4147</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #749c75</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
     <div class="color--block brand-fourth"></div>
     <p class="color--variable">$brand-fourth</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #FFFEDF</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #957186</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
     <div class="color--block brand-dark-accent"></div>
     <p class="color--variable">$brand-dark-accent</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #2A2C31</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #565264</p>
+    <p class="color-usage"></p>
+  </div>
+  <div class="style-guide-color">
+    <div class="color--block brand-light-accent"></div>
+    <p class="color--variable">$brand-light-accent</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #bdd9bf</p>
     <p class="color-usage"></p>
   </div>
 </div>

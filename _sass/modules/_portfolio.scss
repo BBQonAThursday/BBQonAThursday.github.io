@@ -17,7 +17,18 @@
   padding: 2rem;
   background-color: $brand-first; 
   border-radius: 5px;
+  position: relative;
 
+  &:hover {
+    box-shadow:  0 5px 10px 0 $brand-dark-accent;
+
+
+    .overlay {
+     
+      box-shadow: inset 0 -4px 5px 0 $brand-dark-accent;
+    }
+  }
+}
   .project-image {
     max-width: 100%;
     width: auto;
@@ -65,10 +76,6 @@
     flex-grow: 1;
   }
 
-  .project-link {
-    color: $off-white;  
-  }
-
   .project-title {
     font-weight: 700;
     color: $off-white;
@@ -101,9 +108,33 @@
       }
     }
   }
-}
 
+
+.project-link {
+  @extend %menu-type-small;
+  @extend %base-link-style;
+  color: $off-white;
+  box-shadow: none;
+  border: none;
+
+  &:hover {
+
+  }
+}
 // Project page
+
+.overlay {
+  position: absolute;
+  background-color: $brand-third;
+  opacity: 1;
+  width: 15rem;
+  height: 15rem;
+  transform: rotate(315deg);
+  right: -7.5rem;
+  bottom: -7.5rem;
+  box-shadow: inset 0 5px 2px 0 $brand-dark-accent;
+  border-bottom: 3px solid $brand-dark-accent;
+}
 
 .project-content {
   img {

@@ -28,14 +28,24 @@
 }
 
 .triangle {
-  background-color:$brand-secondary;
+  
+  
+    width: 0; 
+    height: 0; 
+    border-top: 1rem solid transparent;
+    border-bottom: 1rem solid transparent;
+    
+    border-left: 1.5rem solid $brand-secondary;
+    border-radius: 1px;
+
 }
 .color-name {
   font-weight: bold;
 }
 
-.brand-primary {
-  background-color: $brand-primary;
+.brand-first{
+  background-color: $brand-first;
+  content: $brand-first;
 }
 
 .brand-secondary {
@@ -52,4 +62,8 @@
 
 .brand-dark-accent {
   background-color: $brand-dark-accent;
+}
+
+.brand-light-accent {
+  background-color: $brand-light-accent;
 }
