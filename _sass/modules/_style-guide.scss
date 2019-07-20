@@ -9,16 +9,27 @@
 .style-guide-color {
   flex: 0 0 auto;
   
-  .color-block {
+  .color--block {
     width: 10rem;
     height: 10rem;
+    margin-bottom: 1rem;
   }
 }
 
-.color-hex {
+.color--hex,
+.color--variable {
   font-size: 1.4rem;
+  margin-bottom: 0;
 }
 
+.var,
+.hex {
+  // color: $brand-fourth;
+}
+
+.triangle {
+  background-color:$brand-secondary;
+}
 .color-name {
   font-weight: bold;
 }

@@ -19,27 +19,6 @@ jsarr:
 <div class="ui-container">
 <button id="add-new-item">Add New Food</button>
 </div>
-<div class="hidden-form" id="new-food-form">
-<h3></h3>
-<form class="">
-  <div class="fields">
-    <div class="field">
-      
-    </div>
-    <!--<div class="field">
-      <label>First name</label>
-      <input type="text" placeholder="First Name">
-    </div>
-    <div class="field">
-      <label>Middle name</label>
-      <input type="text" placeholder="Middle Name">
-    </div>
-    <div class="field">
-      <label>Last name</label>
-      <input type="text" placeholder="Last Name">
-    </div>-->
-  </div>
-</form>
 <div class="food-stat-output" id="food-stat-output">
   <select id="food-dropdown" name="food-item"></select>
   <button class="data-button" id="display-item">Load Data</button>
@@ -64,7 +43,6 @@ jsarr:
       <p class="stat food-item-sugar" id="macro-sugar"></p>
       <p class="stat food-item-protein" id="macro-protein"></p>
     </div>
-</div>
 </div>
 <div id="food-data-display" class="food-item-container">
 

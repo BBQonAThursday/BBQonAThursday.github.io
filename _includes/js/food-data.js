@@ -2,12 +2,11 @@ window.onload = function() {
   init();
 }
 
-var xhr, dropdown, defaultOption, selection, output, jsonSearch, displayItem, displayMacros;
+var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros;
 const url = '/_data/foods.json';
 
 xhr = new XMLHttpRequest();
 dropDown = document.getElementById("food-dropdown");
-selection = document.getElementById('food-dropdown');
 output = document.getElementById('food-selected');
 
 dropDown.length = 0;
@@ -55,10 +54,10 @@ xhr.onload = function() {
 
 function displaySelection() {
  
-  jsonSearch = selection.value;
+  jsonSearch = dropDown.value;
   //Displays the selection in h3 in form;
-  output.textContent = selection.value;
-  console.log(selection.value);
+  output.textContent = dropDown.value;
+  console.log(dropDown.value);
 
   for(var i = 0; i < responseObject.food.length; i++){
 
@@ -90,7 +89,7 @@ function displaySelection() {
   }
 
 }
-function createRecipe(selection){
+function createRecipe(dropDown){
 
   // get list of foods
 

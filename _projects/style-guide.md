@@ -23,6 +23,13 @@ This contains the typography styles for my site as well as the colors used and c
 
 [This is a link](/style-guide.md)
 
+[This is a hovered link](/style-guide.md){: .hovered--link }
+
+<button class="button">Click Me</button>
+<button class="button--hovered">Hovered</button>
+<div class="triangle"></div>
+
+
 Paragraphs can be long and dangerous. Don't go alone. This one is somewhat short. Just long enough 
 to demonstrate what it looks like when a paragraph wraps lines after hitting its max length.
 
@@ -30,28 +37,33 @@ to demonstrate what it looks like when a paragraph wraps lines after hitting its
 
 <div id="site-colors" class="site-colors">
   <div class="style-guide-color">
-    <div class="color-block brand-primary"></div>
-    <p class="color-hex"><span class="hex">HEX:</span> #5A2E2E</p>
+    <div class="color--block brand-primary"></div>
+    <p class="color--variable">$brand-primary</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #5A2E2E</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color-block brand-secondary"></div>
-    <p class="color-hex"><span class="hex">HEX:</span> #DFBA69</p>
+    <div class="color--block brand-secondary"></div>
+    <p class="color--variable">$brand-secondary</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #DFBA69</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color-block brand-third"></div>
-    <p class="color-hex"><span class="hex">HEX:</span> #3E4147</p>
+    <div class="color--block brand-third"></div>
+    <p class="color--variable">$brand-third</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #3E4147</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color-block brand-fourth"></div>
-    <p class="color-hex"><span class="hex">HEX:</span> #FFFEDF</p>
+    <div class="color--block brand-fourth"></div>
+    <p class="color--variable">$brand-fourth</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #FFFEDF</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color-block brand-dark-accent"></div>
-    <p class="color-hex"><span class="hex">HEX:</span> #2A2C31</p>
+    <div class="color--block brand-dark-accent"></div>
+    <p class="color--variable">$brand-dark-accent</p>
+    <p class="color--hex"><span class="hex">HEX:</span> #2A2C31</p>
     <p class="color-usage"></p>
   </div>
 </div>
