@@ -22,14 +22,13 @@ permalink: /projects/
               {% comment %}
               <p class="project-category">{{project.type}}</p>
               {% if project.post-date != null %}
-              <p class="project-year">{{project.post-date}}</p>
+              <p class="project-year">{{ project.published_at | date: "%b, %y" }}</p>
               {% endif %}
               {% endcomment %}
               <a class="project-link" href="{{ project.url | relative_url }}">View Project</a>
             </div>
-            <div class="overlay">
-              
-            </div>       
+            <div class="overlay"></div>
+            <div class="overlay--2"></div>       
           </div>
     {% endfor %}
     </section>

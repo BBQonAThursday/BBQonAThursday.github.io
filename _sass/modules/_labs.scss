@@ -46,11 +46,9 @@
         text-decoration: none;
 
         &:hover {
-          border-bottom: 1rem $brand-gradient-start solid;
+          border-bottom: 1rem $brand-secondary solid;
         }
       }
-
-      
     }
   }
 }

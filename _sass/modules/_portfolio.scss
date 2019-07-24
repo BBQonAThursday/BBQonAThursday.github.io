@@ -24,8 +24,24 @@
 
 
     .overlay {
-     
       box-shadow: inset 0 -4px 5px 0 $brand-dark-accent;
+      width: 15rem;
+      height: 15rem;
+      right: -7.5rem;
+      bottom: -7.5rem;
+
+    }
+
+    .overlay--2 {
+      transform: translateX(3rem);
+      width: 200%;
+      opacity: .7;
+      height: 100%;
+      right: 0rem;
+      bottom: 0rem;
+      transform: rotate(360deg);
+      background-color: $brand-secondary;
+     
     }
   }
 }
@@ -33,7 +49,7 @@
     max-width: 100%;
     width: auto;
     height: auto;
-    transition: transform 0.2s;
+    transition: transform 0.1s;
     margin: 0;
     position: relative;
   }
@@ -116,24 +132,40 @@
   color: $off-white;
   box-shadow: none;
   border: none;
+  background-color: $brand-dark-accent;
+  border-radius: 15px;
+  width: 10rem;
+  text-align:center;
+  transition: all .2s;
+  transition-timing-function:cubic-bezier(0,0,.58,1);
+
 
   &:hover {
-
+    background-color: $brand-first;
+    text-decoration: underline; 
+    color: $off-white;
+    border: none;
+    box-shadow: none;
   }
 }
 // Project page
 
-.overlay {
+.overlay,
+.overlay--2 {
   position: absolute;
-  background-color: $brand-third;
-  opacity: 1;
-  width: 15rem;
-  height: 15rem;
+  background-color: $brand-light-accent;
+  opacity: .3;
+  width: 8rem;
+  height: 8rem;
+  right: -4rem;
+  bottom: -4rem;
   transform: rotate(315deg);
-  right: -7.5rem;
-  bottom: -7.5rem;
-  box-shadow: inset 0 5px 2px 0 $brand-dark-accent;
-  border-bottom: 3px solid $brand-dark-accent;
+  transition: all .2s;
+  transition-timing-function: cubic-bezier(.31,-0.34,0,.36);
+
+  &--2 {
+    transform: rotate(270deg);
+  }
 }
 
 .project-content {

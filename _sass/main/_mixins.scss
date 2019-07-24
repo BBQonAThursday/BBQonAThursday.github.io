@@ -55,12 +55,6 @@ $lg-width: 1200px;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98b66', endColorstr='#fb0065',GradientType=0 ); /* IE6-9 */
 }
 
-@mixin starry-night-gradient {
-  background: #5F196B;
-  background: -moz-linear-gradient(left,  #497E92 13%, $starry-night 100%); /* FF3.6-15 */
-    background-color: -webkit-linear-gradient(left,  #497E92 13%, $starry-night 100%); /* Chrome10-25,Safari5.1-6 */
-    background-color: linear-gradient(left,  #497E92 13%, $starry-night 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-}
 
 @mixin job-card-animation-on-load {
   animation-delay: .2s;
