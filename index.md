@@ -18,3 +18,29 @@ This is a culmination of my work on the web. I also keep some of my sandbox proj
 ### Professionally, I'm a web designer at Springs Window Fashions. 
 
 My work includes managing product ordering experiences and workflows, designing new landing pages and implementing UI features.
+
+### Featured Projects
+
+
+<section class="projects-container">
+{% assign featured = site.projects %}
+{% for project in featured %}
+    {% if project.featured == 'true' %}
+          <div class="project-card {{project.class}}">
+            <div class="project-type">
+              <h3 class="project-title">{{project.title}}</h3>
+              <p class="project--preview">{{project.preview}}</p>
+              {% comment %}
+              <p class="project-category">{{project.type}}</p>
+              {% if project.post-date != null %}
+              <p class="project-year">{{ project.published_at | date: "%b, %y" }}</p>
+              {% endif %}
+              {% endcomment %}
+              <a class="project-link" href="{{ project.url | relative_url }}">View Project</a>
+            </div>
+            <div class="overlay"></div>
+            <div class="overlay--2"></div>       
+          </div>
+        {% endif %}
+    {% endfor %}
+</section>

@@ -5,12 +5,14 @@ class: working-with-data
 post-date: 6/02/2019
 brand: N/a
 type: Data Science
+featured: true
 image: /assets/img/css-grid-professionally/css-grid-implementation.png
 year: 2019
 preview: Playing around with importing json data and using javascript to work with it.
 jsarr: 
 - js/prism.js
 - js/food-data.js
+
 ---
 # Working with Data
 

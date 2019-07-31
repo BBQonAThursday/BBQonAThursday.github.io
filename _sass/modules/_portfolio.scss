@@ -33,15 +33,16 @@
     }
 
     .overlay--2 {
-      transform: translateX(3rem);
       width: 200%;
       opacity: .7;
       height: 100%;
-      right: 0rem;
-      bottom: 0rem;
-      transform: rotate(360deg);
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      // transform: rotate(360deg);
       background-color: $brand-secondary;
-     
+      
     }
   }
 }
@@ -164,7 +165,7 @@
   transition-timing-function: cubic-bezier(.31,-0.34,0,.36);
 
   &--2 {
-    transform: rotate(270deg);
+    transform: rotate(0deg);
   }
 }
 
