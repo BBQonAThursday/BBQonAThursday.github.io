@@ -1,17 +1,52 @@
-name,food type,serving in grams,fat,carbs,dietary fiber,sugar,protein ,kCal,cal/g,
-ghee,oil,13,13,0,0,0,0,117,9,
-sirloin steak,meat,100,14,0,0,0,27,234,2.34,
-avocado,vegetable,100,15,9,9,0.7,2,179,1.79,
-blueberry,fruit,100,0.3,14,2.4,10,0.7,61.5,0.615,
-banana,fruit,100,0.3,23,2.6,12,1.1,99.1,0.991,
-chicken thigh,meat,100,8,0,0,0,24,168,1.68,
-rice,carb,100,0.3,28,0.4,0.1,2.7,125.5,1.255,
-black beans(boiled),carb,100,0.5,24,9,0,9,136.5,1.365,
-sweet potato,carb,100,0.1,20,3,4.2,1.6,87.3,0.873,
-pork butt,meat,100,19,0,0,0,23,263,2.63,394.5
-shrimp,meat,100,0.3,0.2,0,0,24,99.5,0.995,
-olive oil,oil,13.5,14,0,0,0,0,126,9.333333333,
-coconut oil,oil,13.6,14,0,0,0,0,126,9.264705882,
-egg,egg,50,5,0.6,0,0.6,6,71.4,1.428,
-thai coconut soup,Recipe,309,24,5,0,0,29,352,1.139158576,
-cacao,,5.4,0.7,3.1,1.8,0.1,1.1,23.1,4.277777778,
+Name	food type	serving in grams	fat	carbs	dietary fiber	sugar	protein 	kCal	cal/g
+ghee	oil	13	13	0	0	0	0	117	9
+sirloin steak	meat	100	14	0	0	0	27	234	2.34
+avocado	vegetable	100	15	9	9	0.7	2	179	1.79
+blueberry	fruit	100	0.3	14	2.4	10	0.7	61.5	0.615
+banana	fruit	100	0.3	23	2.6	12	1.1	99.1	0.991
+chicken thigh	meat	100	8	0	0	0	24	168	1.68
+rice	carb	100	0.3	28	0.4	0.1	2.7	125.5	1.255
+black beans(boiled)	carb	100	0.5	24	9	0	9	136.5	1.365
+sweet potato	carb	100	0.1	20	3	4.2	1.6	87.3	0.873
+pork butt	meat	100	19	0	0	0	23	263	2.63
+shrimp	meat	100	0.3	0.2	0	0	24	99.5	0.995
+olive oil	oil	13.5	14	0	0	0	0	126	9.333333333
+coconut oil	oil	13.6	14	0	0	0	0	126	9.264705882
+egg	egg	50	5	0.6	0	0.6	6	71.4	1.428
+thai coconut soup	Recipe	309	24	5	0	0	29	352	1.139158576
+cacao	flavortown	5.4	0.7	3.1	1.8	0.1	1.1	23.1	4.277777778
+canned coconut milk	fat	100	24	6	2.2	3.3	2.3	249.2	2.492
+Laird Turmeric creamer	fat	6	2	4	0	1	0	34	5.666666667
+Laird Cacao creamer	fat	8	2.5	4	0	3	0	38.5	4.8125
+Laird Original creamer	fat	8	3	4	0	3	0	43	5.375
+bacon	fat	100	43	1.4	0	0	36	536.6	5.366
+potatoes	carb	100	0.1	17	2.2	0.8	2	76.9	0.769
+coconut hemp milk	carb	250	4	1	0	0	2	48	0.192
+spinach	green	100	0.8	1.3				12.4	0.124
+carrot	root veggie	100	0.2	8.2	3	3.5	0.8	37.8	0.378
+half & half	fat	100	12	4.3	0	0.2	3	137.2	1.372
+MCT oil	fat	13.6	14	0	0	0	0	126	9.264705882
+Chimichurri	fat	15	6	1	0	0	0.2	58.8	3.92
+White cheddar 	fat	28	9	0.4	0	0.1	7	110.6	3.95
+cherry tomatoes	veggie	100	0	4	1	3	1	20	0.2
+bbq baked chicken	recipe	916	104	41	8	31	230	2020	2.205240175
+tomato sauce		217	0	14	7	7	0	56	0.258064516
+honey	sugar	100	0	82	0.2	82	0.3	329.2	3.292
+Mustard Glazed Chicken	poultry	1050	84	28.7	0.1	29	252.1	1879.2	1.789714286
+slaw	side	485	92	15	6	9	3	900	1.855670103
+chia seeds		100	31	42	34	0	17	515	5.15
+chia seed pudding		569	40	48	25	12	15	612	1.075571178
+olives		100	10.7	6.3	3.2	0	0.8	124.7	1.247
+strawberries	fruit	100	0.3	8	2	4.9	0.7	37.5	0.375
+rum ham sweet steak hash	rum ham	1605	220	150	20	45	130	3100	1.931464174
+Hot & Spicy Chicken	recipes	982	92	0	0	0	178	1534	1.562118126
+ground beef	meat	100	30	0	0	0	14	326	3.26
+ketchup	sauce	100	0.2	26	0.3	22	1.3	111	1.11
+soy sauce	bawss	100	0.6	4.9	0.8	0.4	8	57	0.57
+almonds	NUTZZ	28	14	6	3.5	1	5	170	6.071428571
+pistachios	NUTZZ	28	13	8	3	2	6	173	6.178571429
+butter	fat	14	11	0	0	0	0	99	7.071428571
+bluegill	fish	100	1	1	0	0	19	89	0.89
+whole milk		100	3.3	4.8	0	5	3.2	61.7	0.617
+cauliflower	veggie	100	0.3	5	2	1.9	1.9	30.3	0.303
+walnut	nutz	28	18	3.9	1.9	0.7	4.3	194.8	6.957142857
