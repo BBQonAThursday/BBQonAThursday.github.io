@@ -1,3 +1,52 @@
+.ui-container {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "input input output"
+    "buttons buttons output";
+  max-width: 76rem;
+}
+
+.input-element {
+  max-width: 32rem;
+}
+
+.recipe--item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-bottom: 1.6rem;
+  border-bottom: .1rem solid $brand-primary;
+}
+
+.food--name {
+  flex: 1 1 auto;
+}
+.food--delete {
+  width: 5rem;
+  text-align: center;
+}
+
+.recipe--input {
+  display: flex;
+  grid-area: input;
+  padding: 2rem;
+  flex-direction: column;
+
+}
+
+.recipe--buttons {
+  grid-area: buttons;
+  padding: 1rem;
+}
+
+
+
+
+.recipe--output {
+  grid-area: output;
+}
 .food-item-container {
   display: flex;
   flex-direction: row;

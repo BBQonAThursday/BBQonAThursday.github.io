@@ -18,9 +18,29 @@ jsarr:
 
 6/02/19: This is currently a test with json. Below, I've imported foods.json and then looped through the object to build cards with each one. I want to add a button to add items to the json and also be able to fill out items for logging. Filtering the data would be cool as well. I should build out tags for each item though and have that data validate too.
 
-<div class="ui-container">
-<button id="add-new-item">Add New Food</button>
-</div>
+<section class="ui-container">
+  <div class="recipe--input">
+    
+    <input type="text" id="recipe--name" class="input-element" placeholder="Add a name to your awesome meal" length="25">
+    <div id="" class="recipe--item">
+      <select class="food--name"></select>
+      <input class="recipe--quantity-input" id="recipe--item-quantity-1">
+      <button class="food--delete">x</button>
+    </div>
+    <div id="" class="recipe--item">
+        <select class="food--name"></select>
+        <input class="recipe--quantity-input" id="recipe--item-quantity-1">
+        <button class="food--delete">x</button>
+      </div>
+  </div>
+  <div class="recipe--buttons">
+    <button id="add-new-item">Add New Food</button>
+  </div>
+  <div class="recipe--calculated">
+    <h2 class="recipe--name" contenteditable="true">Recipe</h2> 
+
+  </div>
+</section>
 
 <section class="recipe-builder" id="recipe-builder">
   <h3>Recipe Builder</h3>
@@ -31,7 +51,7 @@ jsarr:
   </div>
 </section>
 
-<div class="food-stat-output" id="food-stat-output">
+<section class="food-stat-output" id="food-stat-output">
   <select id="food-dropdown" name="food-item"></select>
   <button class="data-button" id="display-item">Load Data</button>
   <input id="food-quantity" class="input-field" placeholder="grams to log">
@@ -54,8 +74,8 @@ jsarr:
       <p class="stat food-item-dietary-fiber" id="macro-dietary-fiber"></p>
       <p class="stat food-item-sugar" id="macro-sugar"></p>
       <p class="stat food-item-protein" id="macro-protein"></p>
-    </div>
-</div>
-<div id="food-data-display" class="food-item-container">
+  </div>
+</section>
+<section id="food-data-display" class="food-item-container">
 
-</div>
+</section>
