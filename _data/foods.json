@@ -1,6 +1,7 @@
-[
+{
+"food" : [
   {
-    "Name": "ghee",
+    "name": "ghee",
     "food type": "oil",
     "serving in grams": 13,
     "fat": 13,
@@ -12,7 +13,7 @@
     "cal/g": 9
   },
   {
-    "Name": "sirloin steak",
+    "name": "sirloin steak",
     "food type": "meat",
     "serving in grams": 100,
     "fat": 14,
@@ -24,7 +25,7 @@
     "cal/g": 2.34
   },
   {
-    "Name": "avocado",
+    "name": "avocado",
     "food type": "vegetable",
     "serving in grams": 100,
     "fat": 15,
@@ -36,7 +37,7 @@
     "cal/g": 1.79
   },
   {
-    "Name": "blueberry",
+    "name": "blueberry",
     "food type": "fruit",
     "serving in grams": 100,
     "fat": 0.3,
@@ -48,7 +49,7 @@
     "cal/g": 0.615
   },
   {
-    "Name": "banana",
+    "name": "banana",
     "food type": "fruit",
     "serving in grams": 100,
     "fat": 0.3,
@@ -60,7 +61,7 @@
     "cal/g": 0.991
   },
   {
-    "Name": "chicken thigh",
+    "name": "chicken thigh",
     "food type": "meat",
     "serving in grams": 100,
     "fat": 8,
@@ -72,7 +73,7 @@
     "cal/g": 1.68
   },
   {
-    "Name": "rice",
+    "name": "rice",
     "food type": "carb",
     "serving in grams": 100,
     "fat": 0.3,
@@ -84,7 +85,7 @@
     "cal/g": 1.255
   },
   {
-    "Name": "black beans(boiled)",
+    "name": "black beans(boiled)",
     "food type": "carb",
     "serving in grams": 100,
     "fat": 0.5,
@@ -96,7 +97,7 @@
     "cal/g": 1.365
   },
   {
-    "Name": "sweet potato",
+    "name": "sweet potato",
     "food type": "carb",
     "serving in grams": 100,
     "fat": 0.1,
@@ -108,7 +109,7 @@
     "cal/g": 0.873
   },
   {
-    "Name": "pork butt",
+    "name": "pork butt",
     "food type": "meat",
     "serving in grams": 100,
     "fat": 19,
@@ -120,7 +121,7 @@
     "cal/g": 2.63
   },
   {
-    "Name": "shrimp",
+    "name": "shrimp",
     "food type": "meat",
     "serving in grams": 100,
     "fat": 0.3,
@@ -132,7 +133,7 @@
     "cal/g": 0.995
   },
   {
-    "Name": "olive oil",
+    "name": "olive oil",
     "food type": "oil",
     "serving in grams": 13.5,
     "fat": 14,
@@ -144,7 +145,7 @@
     "cal/g": 9.333333333
   },
   {
-    "Name": "coconut oil",
+    "name": "coconut oil",
     "food type": "oil",
     "serving in grams": 13.6,
     "fat": 14,
@@ -156,7 +157,7 @@
     "cal/g": 9.264705882
   },
   {
-    "Name": "egg",
+    "name": "egg",
     "food type": "egg",
     "serving in grams": 50,
     "fat": 5,
@@ -168,7 +169,7 @@
     "cal/g": 1.428
   },
   {
-    "Name": "thai coconut soup",
+    "name": "thai coconut soup",
     "food type": "Recipe",
     "serving in grams": 309,
     "fat": 24,
@@ -180,7 +181,7 @@
     "cal/g": 1.139158576
   },
   {
-    "Name": "cacao",
+    "name": "cacao",
     "food type": "flavortown",
     "serving in grams": 5.4,
     "fat": 0.7,
@@ -192,7 +193,7 @@
     "cal/g": 4.277777778
   },
   {
-    "Name": "canned coconut milk",
+    "name": "canned coconut milk",
     "food type": "fat",
     "serving in grams": 100,
     "fat": 24,
@@ -204,7 +205,7 @@
     "cal/g": 2.492
   },
   {
-    "Name": "Laird Turmeric creamer",
+    "name": "Laird Turmeric creamer",
     "food type": "fat",
     "serving in grams": 6,
     "fat": 2,
@@ -216,7 +217,7 @@
     "cal/g": 5.666666667
   },
   {
-    "Name": "Laird Cacao creamer",
+    "name": "Laird Cacao creamer",
     "food type": "fat",
     "serving in grams": 8,
     "fat": 2.5,
@@ -228,7 +229,7 @@
     "cal/g": 4.8125
   },
   {
-    "Name": "Laird Original creamer",
+    "name": "Laird Original creamer",
     "food type": "fat",
     "serving in grams": 8,
     "fat": 3,
@@ -240,7 +241,7 @@
     "cal/g": 5.375
   },
   {
-    "Name": "bacon",
+    "name": "bacon",
     "food type": "fat",
     "serving in grams": 100,
     "fat": 43,
@@ -252,7 +253,7 @@
     "cal/g": 5.366
   },
   {
-    "Name": "potatoes",
+    "name": "potatoes",
     "food type": "carb",
     "serving in grams": 100,
     "fat": 0.1,
@@ -264,7 +265,7 @@
     "cal/g": 0.769
   },
   {
-    "Name": "coconut hemp milk",
+    "name": "coconut hemp milk",
     "food type": "carb",
     "serving in grams": 250,
     "fat": 4,
@@ -276,7 +277,7 @@
     "cal/g": 0.192
   },
   {
-    "Name": "spinach",
+    "name": "spinach",
     "food type": "green",
     "serving in grams": 100,
     "fat": 0.8,
@@ -288,7 +289,7 @@
     "cal/g": 0.124
   },
   {
-    "Name": "carrot",
+    "name": "carrot",
     "food type": "root veggie",
     "serving in grams": 100,
     "fat": 0.2,
@@ -300,7 +301,7 @@
     "cal/g": 0.378
   },
   {
-    "Name": "half & half",
+    "name": "half & half",
     "food type": "fat",
     "serving in grams": 100,
     "fat": 12,
@@ -312,7 +313,7 @@
     "cal/g": 1.372
   },
   {
-    "Name": "MCT oil",
+    "name": "MCT oil",
     "food type": "fat",
     "serving in grams": 13.6,
     "fat": 14,
@@ -324,7 +325,7 @@
     "cal/g": 9.264705882
   },
   {
-    "Name": "Chimichurri",
+    "name": "Chimichurri",
     "food type": "fat",
     "serving in grams": 15,
     "fat": 6,
@@ -336,7 +337,7 @@
     "cal/g": 3.92
   },
   {
-    "Name": "White cheddar",
+    "name": "White cheddar",
     "food type": "fat",
     "serving in grams": 28,
     "fat": 9,
@@ -348,7 +349,7 @@
     "cal/g": 3.95
   },
   {
-    "Name": "cherry tomatoes",
+    "name": "cherry tomatoes",
     "food type": "veggie",
     "serving in grams": 100,
     "fat": 0,
@@ -360,7 +361,7 @@
     "cal/g": 0.2
   },
   {
-    "Name": "bbq baked chicken",
+    "name": "bbq baked chicken",
     "food type": "recipe",
     "serving in grams": 916,
     "fat": 104,
@@ -372,7 +373,7 @@
     "cal/g": 2.205240175
   },
   {
-    "Name": "tomato sauce",
+    "name": "tomato sauce",
     "food type": "",
     "serving in grams": 217,
     "fat": 0,
@@ -384,7 +385,7 @@
     "cal/g": 0.258064516
   },
   {
-    "Name": "honey",
+    "name": "honey",
     "food type": "sugar",
     "serving in grams": 100,
     "fat": 0,
@@ -396,7 +397,7 @@
     "cal/g": 3.292
   },
   {
-    "Name": "Mustard Glazed Chicken",
+    "name": "Mustard Glazed Chicken",
     "food type": "poultry",
     "serving in grams": 1050,
     "fat": 84,
@@ -408,7 +409,7 @@
     "cal/g": 1.789714286
   },
   {
-    "Name": "slaw",
+    "name": "slaw",
     "food type": "side",
     "serving in grams": 485,
     "fat": 92,
@@ -420,7 +421,7 @@
     "cal/g": 1.855670103
   },
   {
-    "Name": "chia seeds",
+    "name": "chia seeds",
     "food type": "",
     "serving in grams": 100,
     "fat": 31,
@@ -432,7 +433,7 @@
     "cal/g": 5.15
   },
   {
-    "Name": "chia seed pudding",
+    "name": "chia seed pudding",
     "food type": "",
     "serving in grams": 569,
     "fat": 40,
@@ -444,7 +445,7 @@
     "cal/g": 1.075571178
   },
   {
-    "Name": "olives",
+    "name": "olives",
     "food type": "",
     "serving in grams": 100,
     "fat": 10.7,
@@ -456,7 +457,7 @@
     "cal/g": 1.247
   },
   {
-    "Name": "strawberries",
+    "name": "strawberries",
     "food type": "fruit",
     "serving in grams": 100,
     "fat": 0.3,
@@ -468,7 +469,7 @@
     "cal/g": 0.375
   },
   {
-    "Name": "rum ham sweet steak hash",
+    "name": "rum ham sweet steak hash",
     "food type": "rum ham",
     "serving in grams": 1605,
     "fat": 220,
@@ -480,7 +481,7 @@
     "cal/g": 1.931464174
   },
   {
-    "Name": "Hot & Spicy Chicken",
+    "name": "Hot & Spicy Chicken",
     "food type": "recipes",
     "serving in grams": 982,
     "fat": 92,
@@ -492,7 +493,7 @@
     "cal/g": 1.562118126
   },
   {
-    "Name": "ground beef",
+    "name": "ground beef",
     "food type": "meat",
     "serving in grams": 100,
     "fat": 30,
@@ -504,7 +505,7 @@
     "cal/g": 3.26
   },
   {
-    "Name": "ketchup",
+    "name": "ketchup",
     "food type": "sauce",
     "serving in grams": 100,
     "fat": 0.2,
@@ -516,7 +517,7 @@
     "cal/g": 1.11
   },
   {
-    "Name": "soy sauce",
+    "name": "soy sauce",
     "food type": "bawss",
     "serving in grams": 100,
     "fat": 0.6,
@@ -528,7 +529,7 @@
     "cal/g": 0.57
   },
   {
-    "Name": "almonds",
+    "name": "almonds",
     "food type": "NUTZZ",
     "serving in grams": 28,
     "fat": 14,
@@ -540,7 +541,7 @@
     "cal/g": 6.071428571
   },
   {
-    "Name": "pistachios",
+    "name": "pistachios",
     "food type": "NUTZZ",
     "serving in grams": 28,
     "fat": 13,
@@ -552,7 +553,7 @@
     "cal/g": 6.178571429
   },
   {
-    "Name": "butter",
+    "name": "butter",
     "food type": "fat",
     "serving in grams": 14,
     "fat": 11,
@@ -564,7 +565,7 @@
     "cal/g": 7.071428571
   },
   {
-    "Name": "bluegill",
+    "name": "bluegill",
     "food type": "fish",
     "serving in grams": 100,
     "fat": 1,
@@ -576,7 +577,7 @@
     "cal/g": 0.89
   },
   {
-    "Name": "whole milk",
+    "name": "whole milk",
     "food type": "",
     "serving in grams": 100,
     "fat": 3.3,
@@ -588,7 +589,7 @@
     "cal/g": 0.617
   },
   {
-    "Name": "cauliflower",
+    "name": "cauliflower",
     "food type": "veggie",
     "serving in grams": 100,
     "fat": 0.3,
@@ -600,7 +601,7 @@
     "cal/g": 0.303
   },
   {
-    "Name": "walnut",
+    "name": "walnut",
     "food type": "nutz",
     "serving in grams": 28,
     "fat": 18,
@@ -612,3 +613,4 @@
     "cal/g": 6.957142857
   }
 ]
+}

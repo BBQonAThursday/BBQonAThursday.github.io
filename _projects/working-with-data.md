@@ -23,22 +23,69 @@ jsarr:
     
     <input type="text" id="recipe--name" class="input-element" placeholder="Add a name to your awesome meal" length="25">
     <div id="" class="recipe--item">
-      <select class="food--name"></select>
-      <input class="recipe--quantity-input" id="recipe--item-quantity-1">
+      <select class="food--name">
+        <option>Spicy Red Peppers</option>
+      </select>
+      <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
       <button class="food--delete">x</button>
     </div>
     <div id="" class="recipe--item">
-        <select class="food--name"></select>
-        <input class="recipe--quantity-input" id="recipe--item-quantity-1">
+        <select class="food--name">
+            <option>Ground Beef</option>
+        </select>
+        <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="100g">
         <button class="food--delete">x</button>
       </div>
   </div>
   <div class="recipe--buttons">
     <button id="add-new-item">Add New Food</button>
   </div>
-  <div class="recipe--calculated">
+  <div class="recipe--output">
     <h2 class="recipe--name" contenteditable="true">Recipe</h2> 
+    <div class="recipe--nutrition-label">
+      <ul class="macros">
+        <li>Fat: </li>
+        <li>Carbohydrates: 
+        <ul>
+          <li>Dietary Fiber: </li>
+          <li>Sugar: </li>
+        </ul>
+        </li>
+        <li>Protein: </li>
+      </ul>
+      <ul class="nutrition-outputs">
+        <li>total kCal:
+          <ul>
+            <li>Grams per 4 servings:
+              <ul class="macros">
+                <li>Fat: </li>
+                <li>Carbohydrates: 
+                  <ul>
+                    <li>Dietary Fiber: </li>
+                    <li>Sugar: </li>
+                  </ul>
+                </li>
+                <li>Protein: </li>
+              </ul>
+            </li>
+            <li>Grams per 6 servings: 
+              <ul class="macros">
+                <li>Fat: </li>
+                <li>Carbohydrates: 
+                  <ul>
+                    <li>Dietary Fiber: </li>
+                    <li>Sugar: </li>
+                  </ul>
+                </li>
+              <li>Protein: </li>
+            </ul>
 
+            </li>
+          </ul>
+      </li>
+        
+      </ul>
+    </div>
   </div>
 </section>
 

@@ -46,7 +46,24 @@
 
 .recipe--output {
   grid-area: output;
+  grid-row-start: 1;
+  grid-row-end: 3;
 }
+
+.recipe--nutrition-label {
+  background-color: $color4;
+  padding: 2rem; 
+}
+
+.macros,
+.nutrition-outputs {
+  list-style-type: none;
+
+  & > li > ul{
+    list-style-type: none;
+  }
+}
+
 .food-item-container {
   display: flex;
   flex-direction: row;
