@@ -36,7 +36,7 @@ xhr.onload = function() {
       newContent += "</div>";
       //console.log(responseObject.food[i].name);
       var option;
-      console.log(responseObject.food[i].name);
+      //console.log(responseObject.food[i].name);
       option = document.createElement('option');
       option.text = responseObject.food[i].name;
       option.value = responseObject.food[i].name;
@@ -62,7 +62,7 @@ function displaySelection() {
   for(var i = 0; i < responseObject.food.length; i++){
 
     var propCount = responseObject.food.length;
-    console.log(responseObject.food[i][i]);
+    //console.log(responseObject.food[i][i]);
     
     if(jsonSearch === responseObject.food[i].name) {
       var statContainer = document.getElementById('food-stat-output');
@@ -147,6 +147,15 @@ function init() {
   xhr.send(null);
 }
 
+function calculateFoodMacros() {
+  var weight = this.value;
+  console.log(this.value);
+}
+
+const ingredients = document.querySelectorAll('.recipe--item');
+const itemWeights = document.querySelectorAll('.recipe--quantity-input');
+
+itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', calculateFoodMacros));
 
 
 
