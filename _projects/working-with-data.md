@@ -23,15 +23,15 @@ jsarr:
     
     <input type="text" id="recipe--name" class="input-element" placeholder="Add a name to your awesome meal" length="25">
     <div id="" class="recipe--item">
-      <select class="food--name">
-        <option>Spicy Red Peppers</option>
+      <select class="food-dropdown">
+        <option>Select an Ingredient</option>
       </select>
       <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
       <button class="food--delete">x</button>
     </div>
     <div id="" class="recipe--item">
-        <select class="food--name">
-            <option>Ground Beef</option>
+        <select class="food-dropdown">
+            <option>Select an Ingredient</option>
         </select>
         <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="100g">
         <button class="food--delete">x</button>
@@ -99,7 +99,7 @@ jsarr:
 </section>
 
 <section class="food-stat-output" id="food-stat-output">
-  <select id="food-dropdown" name="food-item"></select>
+  <select id="food-dropdown" class="food-dropdown" name="food-item"></select>
   <button class="data-button" id="display-item">Load Data</button>
   <input id="food-quantity" class="input-field" placeholder="grams to log">
   <button class="data-button" id="calculate-macros">Calculate Macros</button>

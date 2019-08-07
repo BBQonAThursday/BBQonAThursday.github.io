@@ -2,11 +2,12 @@ window.onload = function() {
   init();
 }
 
-var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros;
+var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns;
 const url = '/_data/foods.json';
 
 xhr = new XMLHttpRequest();
 dropDown = document.getElementById("food-dropdown");
+recipeDropdowns = document.querySelectorAll('.food-dropdown');
 output = document.getElementById('food-selected');
 
 dropDown.length = 0;
@@ -46,11 +47,23 @@ xhr.onload = function() {
      
     document.getElementById('food-data-display').innerHTML = newContent;
     
+    buildFoodList();
   }
 };
 
 
-
+function buildFoodList(){
+  var foodData =  responseObject;
+  recipeDropdowns.forEach(recipeDropdown => {
+    for (var i = 0; i < foodData.food.length; i++){
+      // console.log(foodData.food[i].name + ' added');
+      var foodOption = document.createElement('option');
+      foodOption.text = foodData.food[i].name;
+      foodOption.value = foodData.food[i].name;
+      recipeDropdown.add(foodOption);
+    }
+  })  
+}
 
 function displaySelection() {
  
@@ -116,35 +129,13 @@ function removeWhiteSpace(stringInput) {
   return stringInput;
 };
 
-function addFoodItem(name, foodType, serving, fat, carbs, dietaryFiber, sugar, protein, kCal, calg) {
-    // this.name = name;
-    // this.foodType = foodType;
-    // this.serving = serving;
-    // this.fat = fat;
-    // this.carbs = carbs;
-    // this.dietaryFiber = dietaryFiber;
-    // this.sugar = sugars;
-    // this.protein = protein;
-    // this.kCal = kCal;
-    // this.calg = calg;
-    
-    responseObject.food.push({
-      name: newName,
-      foodType: newFoodType,
-      serving: newServing,
-      fat: newFat,
-      carbs: newCarbs,
-      dietaryFiber: newDietaryFiber,
-      sugar: newSugar,
-      protein: newProtein,
-      kCal: newKCal,
-      calg : newCalG
-    })
-}
 
 function init() {
   xhr.open('GET', url, true);
   xhr.send(null);
+}
+function getSelectedFood(selected) {
+
 }
 
 function calculateFoodMacros() {
@@ -155,11 +146,8 @@ function calculateFoodMacros() {
 const ingredients = document.querySelectorAll('.recipe--item');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
 
+
 itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', calculateFoodMacros));
-
-
-
-
 
 var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
