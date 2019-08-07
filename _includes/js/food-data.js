@@ -2,6 +2,11 @@ window.onload = function() {
   init();
 }
 
+function init() {
+  xhr.open('GET', url, true);
+  xhr.send(null);
+}
+
 var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns;
 const url = '/_data/foods.json';
 
@@ -21,6 +26,10 @@ displayMacros = document.getElementById('calculate-macros');
 displayItem.addEventListener('click', displaySelection, false);
 displayMacros.addEventListener('click', calculateMacros, false);
 
+function removeWhiteSpace(stringInput) {
+  stringInput.replace(/\s/g, "-").trim();
+  return stringInput;
+};
 
 xhr.onload = function() {
   if(xhr.status === 200) {
@@ -50,20 +59,6 @@ xhr.onload = function() {
     buildFoodList();
   }
 };
-
-
-function buildFoodList(){
-  var foodData =  responseObject;
-  recipeDropdowns.forEach(recipeDropdown => {
-    for (var i = 0; i < foodData.food.length; i++){
-      // console.log(foodData.food[i].name + ' added');
-      var foodOption = document.createElement('option');
-      foodOption.text = foodData.food[i].name;
-      foodOption.value = foodData.food[i].name;
-      recipeDropdown.add(foodOption);
-    }
-  })  
-}
 
 function displaySelection() {
  
@@ -102,43 +97,28 @@ function displaySelection() {
   }
 
 }
-function createRecipe(dropDown){
 
-  // get list of foods
 
-  // allow multiple selections
 
-  // on selection of foods, get that foods info
-
-  // get input of each foods weight
-
-  // get number of servings for the full recipe
-
-  // calculate macros per serving
-
-  // output into html
-
-  // store recipe as json
+function buildFoodList(){
+  var foodData =  responseObject;
+  recipeDropdowns.forEach(recipeDropdown => {
+    for (var i = 0; i < foodData.food.length; i++){
+      // console.log(foodData.food[i].name + ' added');
+      var foodOption = document.createElement('option');
+      foodOption.text = foodData.food[i].name;
+      foodOption.value = foodData.food[i].name;
+      recipeDropdown.add(foodOption);
+    }
+  });
 }
 
-function calculateMacros(){
-  var macroOutput = document.getElementById('');
-}
-function removeWhiteSpace(stringInput) {
-  stringInput.replace(/\s/g, "-").trim();
-  return stringInput;
-};
-
-
-function init() {
-  xhr.open('GET', url, true);
-  xhr.send(null);
-}
 function getSelectedFood(selected) {
 
 }
 
 function calculateFoodMacros() {
+  var macroOutput = document.getElementById('');
   var weight = this.value;
   console.log(this.value);
 }
