@@ -24,7 +24,7 @@ dropDown.selectedIndex = 0;
 displayItem = document.getElementById('display-item');
 displayMacros = document.getElementById('calculate-macros');
 displayItem.addEventListener('click', displaySelection, false);
-displayMacros.addEventListener('click', calculateMacros, false);
+
 
 function removeWhiteSpace(stringInput) {
   stringInput.replace(/\s/g, "-").trim();
@@ -117,7 +117,7 @@ function getSelectedFood(selected) {
 
 }
 
-function calculateFoodMacros() {
+function calculateFoodMacros(selectedFoodItem) {
   var macroOutput = document.getElementById('');
   var weight = this.value;
   console.log(this.value);
@@ -141,4 +141,4 @@ foodClicked.addEventListener("click", function(e){
   //foodSelected.classList.add(foodSelected.name);
   //newFoodForm.classList.add("show-form");
 
-}, false);
+});

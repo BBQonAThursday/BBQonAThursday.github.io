@@ -89,15 +89,6 @@ jsarr:
   </div>
 </section>
 
-<section class="recipe-builder" id="recipe-builder">
-  <h3>Recipe Builder</h3>
-  <div class="recipe--ingredient">
-    <h4>Ingredient</h4>
-    <select id="recipe--item-1" name="recipe-item"></select>
-    <input class="recipe--quantity-input" id="recipe--item-quantity-1">
-  </div>
-</section>
-
 <section class="food-stat-output" id="food-stat-output">
   <select id="food-dropdown" class="food-dropdown" name="food-item"></select>
   <button class="data-button" id="display-item">Load Data</button>
