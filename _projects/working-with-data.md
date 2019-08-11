@@ -22,15 +22,15 @@ jsarr:
   <div class="recipe--input">
     
     <input type="text" id="recipe--name" class="input-element" placeholder="Add a name to your awesome meal" length="25">
-    <div id="" class="recipe--item">
-      <select class="food-dropdown">
+    <div data-itemNumber="1" class="recipe--item">
+      <select data-dropdown="1" class="food-dropdown">
         <option>Select an Ingredient</option>
       </select>
       <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
       <button class="food--delete">x</button>
     </div>
-    <div id="" class="recipe--item">
-        <select class="food-dropdown">
+    <div data-itemNumber="2" class="recipe--item">
+        <select data-dropdown="2" class="food-dropdown">
             <option>Select an Ingredient</option>
         </select>
         <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="100g">

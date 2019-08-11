@@ -108,12 +108,23 @@ function buildFoodList(){
       var foodOption = document.createElement('option');
       foodOption.text = foodData.food[i].name;
       foodOption.value = foodData.food[i].name;
+      foodOption.dataset.order = i;
       recipeDropdown.add(foodOption);
     }
   });
 }
 
-function getSelectedFood(selected) {
+function getSelectedFoodData(selected) {
+  console.log(selected);
+
+  var  e = recipeDropdowns[selected.target];
+  console.log(e);
+  selectedFood = selected.target.options.selected;
+  console.log(selectedFood)
+  var selectedData =  responseObject;
+  foodKey = selected.target.dataset.order;
+   selectedData.food[foodKey];
+  
 
 }
 
@@ -126,7 +137,7 @@ function calculateFoodMacros(selectedFoodItem) {
 const ingredients = document.querySelectorAll('.recipe--item');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
 
-
+ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
 itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', calculateFoodMacros));
 
 var foodClicked = document.getElementById("food-data-display");
