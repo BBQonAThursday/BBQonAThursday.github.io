@@ -7,7 +7,7 @@ function init() {
   xhr.send(null);
 }
 
-var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns;
+var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns, responseObject;
 const url = '/_data/foods.json';
 
 xhr = new XMLHttpRequest();
@@ -61,14 +61,11 @@ xhr.onload = function() {
 };
 
 function displaySelection() {
- 
-  jsonSearch = dropDown.value;
+   jsonSearch = dropDown.value;
   //Displays the selection in h3 in form;
   output.textContent = dropDown.value;
   console.log(dropDown.value);
-
   for(var i = 0; i < responseObject.food.length; i++){
-
     var propCount = responseObject.food.length;
     //console.log(responseObject.food[i][i]);
     
@@ -114,31 +111,53 @@ function buildFoodList(){
   });
 }
 
-function getSelectedFoodData(selected) {
-  console.log(selected);
-
-  var  e = recipeDropdowns[selected.target];
-  console.log(e);
-  selectedFood = selected.target.options.selected;
-  console.log(selectedFood)
-  var selectedData =  responseObject;
-  foodKey = selected.target.dataset.order;
-   selectedData.food[foodKey];
-  
+function getSelectedFoodData(e) {
+  console.log(responseObject);
+  var dropdown = e.target.selectedIndex;
+  console.log(dropdown);
+  var itemIndex = dropdown - 1;
+  console.log(itemIndex);
+  //console.log(itemIndex);
+  // var selectedFood = dropdown.options[itemIndex];
+  var data = responseObject.food[itemIndex];
+  var foodName = data.name
+  var selectedKCal = Math.floor(data.kCal);
+  var selectedFat =  data.fat;
+  var selectedCarbs = data.carbs;
+  var selectedProtein = data.protein;
+  var servingSize = data.servingSize;
+  var macroData = [foodName,selectedKCal,selectedFat,selectedCarbs,selectedProtein,servingSize];
+  console.log(macroData);
+  return macroData;
+}
+function buildCurrentFoodArray()  {
 
 }
 
-function calculateFoodMacros(selectedFoodItem) {
-  var macroOutput = document.getElementById('');
+function getItemWeight() {  
   var weight = this.value;
   console.log(this.value);
+  return weight;
 }
 
-const ingredients = document.querySelectorAll('.recipe--item');
+function calculateMacros(weight) {
+  var parentDropdown = weight.target.parentNode;
+  var dropdown = parentDropdown.firstChild;
+  getSelectedFoodData();
+  
+  
+  //getSelectedFoodData(food);
+  console.log(dropdown);
+  console.log(food + " " + weight + "g");
+}
+
+
+
+const ingredients = document.querySelectorAll('.food-dropdown');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
 
 ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
-itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', calculateFoodMacros));
+itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', getItemWeight));
 
 var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
@@ -153,3 +172,4 @@ foodClicked.addEventListener("click", function(e){
   //newFoodForm.classList.add("show-form");
 
 });
+

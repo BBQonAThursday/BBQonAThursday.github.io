@@ -14,10 +14,24 @@
 .recipe--item {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 2rem;
   padding-bottom: 1.6rem;
   border-bottom: .1rem solid $brand-primary;
+}
+
+.macros {
+  display: flex;
+  flex-direction: row;
+  margin-left: 0;
+  justify-content: space-between;
+  flex-basis: 100%;
+  margin-top: 1rem;
+}
+
+.macro {
+  font-size: 1.4rem;
 }
 
 .food--name {
@@ -40,9 +54,6 @@
   grid-area: buttons;
   padding: 1rem;
 }
-
-
-
 
 .recipe--output {
   grid-area: output;
