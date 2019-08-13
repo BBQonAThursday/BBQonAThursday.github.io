@@ -130,8 +130,15 @@ function getSelectedFoodData(e) {
   console.log(macroData);
   return macroData;
 }
-function buildCurrentFoodArray()  {
 
+function calculateItemMacros(food, weight) {
+  this.food = food;
+  this.weight = weight;
+  console.log(this.weight);
+}
+
+function calculateRecipeMacros() {
+  
 }
 
 function getItemWeight() {  
@@ -155,9 +162,13 @@ function calculateMacros(weight) {
 
 const ingredients = document.querySelectorAll('.food-dropdown');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
+const calculateButtons = document.querySelectorAll('.food--calculate');
 
 ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
 itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', getItemWeight));
+calculateButtons.forEach(calculateButton => calculateButton.addEventListener('click', () => {
+
+})
 
 var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
