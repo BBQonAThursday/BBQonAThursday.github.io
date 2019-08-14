@@ -111,48 +111,12 @@ function buildFoodList(){
   });
 }
 
-function getSelectedFoodData(e) {
-  console.log(responseObject);
-  var dropdown = e.target.selectedIndex;
-  console.log(dropdown);
-  var itemIndex = dropdown - 1;
-  console.log(itemIndex);
-  //console.log(itemIndex);
-  // var selectedFood = dropdown.options[itemIndex];
-  var data = responseObject.food[itemIndex];
-  var foodName = data.name
-  var selectedKCal = Math.floor(data.kCal);
-  var selectedFat =  data.fat;
-  var selectedCarbs = data.carbs;
-  var selectedProtein = data.protein;
-  var servingSize = data.servingSize;
-  var macroData = [foodName,selectedKCal,selectedFat,selectedCarbs,selectedProtein,servingSize];
-  console.log(macroData);
-  return macroData;
-}
 
-function calculateItemMacros(food, weight) {
-  this.food = food;
-  this.weight = weight;
-  console.log(this.weight);
-}
-
-function calculateRecipeMacros() {
-  
-}
-
-function getItemWeight() {  
-  var weight = this.value;
-  console.log(this.value);
-  return weight;
-}
 
 function calculateMacros(weight) {
   var parentDropdown = weight.target.parentNode;
   var dropdown = parentDropdown.firstChild;
-  getSelectedFoodData();
-  
-  
+
   //getSelectedFoodData(food);
   console.log(dropdown);
   console.log(food + " " + weight + "g");
@@ -164,11 +128,71 @@ const ingredients = document.querySelectorAll('.food-dropdown');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
 const calculateButtons = document.querySelectorAll('.food--calculate');
 
-ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
+// ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
 itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', getItemWeight));
-calculateButtons.forEach(calculateButton => calculateButton.addEventListener('click', () => {
+calculateButtons.forEach(calculateButton => calculateButton.addEventListener('click', (e) => {
+  var parentNode = e.target.parentNode;
+  var parentItemNumber = parentNode.getAttribute('data-itemNumber');
+  var inputs = parentNode.childNodes;
+  // console.log(inputs);
+  var food = (inputs[1].selectedIndex) - 1;
+  var weight = inputs[3].value;
+  // console.log(food,weight);
+  calculateItemMacros(food, weight);
+}));
 
-})
+function calculateItemMacros(food, weight) {
+  
+  this.food = food;
+  this.weight = weight;
+  //var parent = this.parentNode;
+  //var parentDropdown = parent.getAttribute('data-dropdown');
+  console.log(food, weight);
+  var foodData = getSelectedFoodData(food);
+  console.log(foodData);
+  var servingSize = foodData.servingSize;
+
+  var calculatedFoodData = {
+    name : foodData.name,
+    inputWeight: weight,
+    servingSize : servingSize,
+    calcKCal : (foodData.kCal * weight) / servingSize,
+    calcFat :   (foodData.fat * weight) / servingSize,
+    calcProtein : (foodData.protein * weight) / servingSize,
+    calcCarbs : (foodData.carbs * weight) / servingSize
+  };
+  
+  console.log(calculatedFoodData);
+}
+
+function getSelectedFoodData(itemIndex) {
+  
+  //console.log(itemIndex);
+  // var selectedFood = dropdown.options[itemIndex];
+  var data = responseObject.food[itemIndex];
+  console.log(data);
+  var foodName = data.name;
+  var selectedKCal = Math.floor(data.kCal);
+  var selectedFat =  data.fat;
+  var selectedCarbs = data.carbs;
+  var selectedProtein = data.protein;
+  var servingSize = data.servingSize;
+  var macroData =  {
+      name :   foodName,
+      kCal : selectedKCal,
+      fat: selectedFat,
+      carbs: selectedCarbs,
+      protein: selectedProtein,
+      servingSize: servingSize
+  };
+  return macroData;
+}
+
+function getItemWeight() {  
+  var weight = this.value;
+  console.log(this.value);
+  return weight;
+}
 
 var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
