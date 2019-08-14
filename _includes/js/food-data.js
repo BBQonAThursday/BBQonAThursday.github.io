@@ -147,7 +147,7 @@ function calculateItemMacros(food, weight) {
   this.weight = weight;
   //var parent = this.parentNode;
   //var parentDropdown = parent.getAttribute('data-dropdown');
-  console.log(food, weight);
+  //console.log(food, weight);
   var foodData = getSelectedFoodData(food);
   console.log(foodData);
   var servingSize = foodData.servingSize;
@@ -156,10 +156,10 @@ function calculateItemMacros(food, weight) {
     name : foodData.name,
     inputWeight: weight,
     servingSize : servingSize,
-    calcKCal : (foodData.kCal * weight) / servingSize,
-    calcFat :   (foodData.fat * weight) / servingSize,
-    calcProtein : (foodData.protein * weight) / servingSize,
-    calcCarbs : (foodData.carbs * weight) / servingSize
+    calcKCal : Math.round((foodData.kCal * weight) / servingSize),
+    calcFat :   Math.round((foodData.fat * weight) / servingSize),
+    calcProtein : Math.round((foodData.protein * weight) / servingSize),
+    calcCarbs : Math.round((foodData.carbs * weight) / servingSize)
   };
   
   console.log(calculatedFoodData);
@@ -170,7 +170,7 @@ function getSelectedFoodData(itemIndex) {
   //console.log(itemIndex);
   // var selectedFood = dropdown.options[itemIndex];
   var data = responseObject.food[itemIndex];
-  console.log(data);
+  // console.log(data);
   var foodName = data.name;
   var selectedKCal = Math.floor(data.kCal);
   var selectedFat =  data.fat;
@@ -190,7 +190,7 @@ function getSelectedFoodData(itemIndex) {
 
 function getItemWeight() {  
   var weight = this.value;
-  console.log(this.value);
+  // console.log(this.value);
   return weight;
 }
 
