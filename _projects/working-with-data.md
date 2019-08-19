@@ -27,8 +27,8 @@ jsarr:
         <option>Select an Ingredient</option>
       </select>
       <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
-      <button class="food--delete">x</button>
       <button class="food--calculate">Add to Recipe</button>
+      <button class="food--delete">x</button>
         <ul class="macros">
           <li data-macro="calories" class="macro">calorie: </li>
           <li data-macro="fat" class="macro">fat: </li>
@@ -43,8 +43,8 @@ jsarr:
             <option>Select an Ingredient</option>
         </select>
         <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="100g">
-        <button class="food--delete">x</button>
         <button class="food--calculate">Add to Recipe</button>
+        <button class="food--delete">x</button>
         <ul class="macros">
           <li data-macro="calories" class="macro">calorie: </li>
           <li data-macro="fat" class="macro">fat: </li>

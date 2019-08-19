@@ -15,35 +15,14 @@
   margin: 4rem 2rem 0;
   overflow: hidden;
   padding: 2rem;
-  background-color: $brand-first; 
+  transition: background-color .2s ease-in-out;
+  background-color: $color1; 
   border-radius: 5px;
   position: relative;
 
   &:hover {
     box-shadow:  0 5px 10px 0 $brand-dark-accent;
-
-
-    .overlay {
-      box-shadow: inset 0 -4px 5px 0 $brand-dark-accent;
-      width: 15rem;
-      height: 15rem;
-      right: -7.5rem;
-      bottom: -7.5rem;
-
-    }
-
-    .overlay--2 {
-      width: 200%;
-      opacity: .7;
-      height: 100%;
-      left: 0;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      // transform: rotate(360deg);
-      background-color: $brand-secondary;
-      
-    }
+    background-color: $color3;
   }
 }
   .project-image {
@@ -133,7 +112,7 @@
   color: $off-white;
   box-shadow: none;
   border: none;
-  background-color: $brand-dark-accent;
+  background-color: $color2;
   border-radius: 15px;
   width: 10rem;
   text-align:center;
@@ -142,33 +121,15 @@
 
 
   &:hover {
-    background-color: $brand-first;
+    background-color: $color2;
     text-decoration: underline; 
     color: $off-white;
     border: none;
     box-shadow: none;
   }
 }
+
 // Project page
-
-.overlay,
-.overlay--2 {
-  position: absolute;
-  background-color: $brand-light-accent;
-  opacity: .3;
-  width: 8rem;
-  height: 8rem;
-  right: -4rem;
-  bottom: -4rem;
-  transform: rotate(315deg);
-  transition: all .2s;
-  transition-timing-function: cubic-bezier(.31,-0.34,0,.36);
-
-  &--2 {
-    transform: rotate(0deg);
-  }
-}
-
 .project-content {
   img {
     max-width: 100%;
