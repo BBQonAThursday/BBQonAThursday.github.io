@@ -95,8 +95,6 @@ function displaySelection() {
 
 }
 
-
-
 function buildFoodList(){
   var foodData =  responseObject;
   recipeDropdowns.forEach(recipeDropdown => {
@@ -111,8 +109,6 @@ function buildFoodList(){
   });
 }
 
-
-
 function calculateMacros(weight) {
   var parentDropdown = weight.target.parentNode;
   var dropdown = parentDropdown.firstChild;
@@ -122,11 +118,10 @@ function calculateMacros(weight) {
   console.log(food + " " + weight + "g");
 }
 
-
-
 const ingredients = document.querySelectorAll('.food-dropdown');
 const itemWeights = document.querySelectorAll('.recipe--quantity-input');
 const calculateButtons = document.querySelectorAll('.food--calculate');
+const macros = document.querySelectorAll('.macro');
 
 // ingredients.forEach(ingredient => ingredient.addEventListener('change', getSelectedFoodData));
 itemWeights.forEach(itemWeight => itemWeight.addEventListener('change', getItemWeight));
@@ -138,8 +133,14 @@ calculateButtons.forEach(calculateButton => calculateButton.addEventListener('cl
   var food = (inputs[1].selectedIndex) - 1;
   var weight = inputs[3].value;
   // console.log(food,weight);
-  calculateItemMacros(food, weight);
+  var calculatedItem = calculateItemMacros(food, weight);
+  displayItemMacros(calculatedItem);
 }));
+
+// TODO create a function that updates the individually calculated marcos after hitting the add to recipe button
+function displayItemMacros() {
+
+}
 
 function calculateItemMacros(food, weight) {
   
@@ -149,12 +150,12 @@ function calculateItemMacros(food, weight) {
   //var parentDropdown = parent.getAttribute('data-dropdown');
   //console.log(food, weight);
   var foodData = getSelectedFoodData(food);
-  console.log(foodData);
+  //console.log(foodData);
   var servingSize = foodData.servingSize;
 
   var calculatedFoodData = {
     name : foodData.name,
-    inputWeight: weight,
+    inputWeight: Number(weight),
     servingSize : servingSize,
     calcKCal : Math.round((foodData.kCal * weight) / servingSize),
     calcFat :   Math.round((foodData.fat * weight) / servingSize),
@@ -163,6 +164,7 @@ function calculateItemMacros(food, weight) {
   };
   
   console.log(calculatedFoodData);
+  return calculatedFoodData;
 }
 
 function getSelectedFoodData(itemIndex) {
