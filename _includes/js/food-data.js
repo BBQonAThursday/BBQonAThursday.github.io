@@ -133,16 +133,20 @@ calculateButtons.forEach(calculateButton => calculateButton.addEventListener('cl
   var food = (inputs[1].selectedIndex) - 1;
   var weight = inputs[3].value;
   // console.log(food,weight);
-  var calculatedItem = calculateItemMacros(food, weight);
+  var calculatedItem = calculateItemMacros(food, weight, parentNode);
   displayItemMacros(calculatedItem);
 }));
 
 // TODO create a function that updates the individually calculated marcos after hitting the add to recipe button
-function displayItemMacros() {
-
+function displayItemMacros(calculatedItem) {
+  console.log("Item to display in UI:" + toString(calculatedItem));
+  console.table(calculatedItem);
+  var itemContainers = document.querySelectorAll('.recipe--item');  
+  
+  
 }
 
-function calculateItemMacros(food, weight) {
+function calculateItemMacros(food, weight, elementTarget) {
   
   this.food = food;
   this.weight = weight;
@@ -152,7 +156,7 @@ function calculateItemMacros(food, weight) {
   var foodData = getSelectedFoodData(food);
   //console.log(foodData);
   var servingSize = foodData.servingSize;
-
+  console.log(elementTarget);
   var calculatedFoodData = {
     name : foodData.name,
     inputWeight: Number(weight),
@@ -160,7 +164,8 @@ function calculateItemMacros(food, weight) {
     calcKCal : Math.round((foodData.kCal * weight) / servingSize),
     calcFat :   Math.round((foodData.fat * weight) / servingSize),
     calcProtein : Math.round((foodData.protein * weight) / servingSize),
-    calcCarbs : Math.round((foodData.carbs * weight) / servingSize)
+    calcCarbs : Math.round((foodData.carbs * weight) / servingSize),
+    inputIndex: elementTarget.dataset.itemnumber
   };
   
   console.log(calculatedFoodData);
@@ -185,7 +190,8 @@ function getSelectedFoodData(itemIndex) {
       fat: selectedFat,
       carbs: selectedCarbs,
       protein: selectedProtein,
-      servingSize: servingSize
+      servingSize: servingSize,
+      foodIndex: itemIndex
   };
   return macroData;
 }
@@ -203,7 +209,7 @@ var foodItems = document.getElementsByClassName("food-item");
 foodClicked.addEventListener("click", function(e){ 
   var foodSelected = e.target;
   console.log(foodSelected);
-  console.log(foodSelected + " was clicked");
+  console.log(foodSelected.name + " was clicked");
   //var foodSelected = e.target;
   //foodSelected.classList.add(foodSelected.name);
   //newFoodForm.classList.add("show-form");

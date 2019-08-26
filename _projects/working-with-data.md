@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Working with Data
+title: Food Tracking
 class: working-with-data
 post-date: 6/02/2019
 brand: N/a
