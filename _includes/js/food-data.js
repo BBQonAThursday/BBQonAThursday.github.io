@@ -139,11 +139,12 @@ calculateButtons.forEach(calculateButton => calculateButton.addEventListener('cl
 
 // TODO create a function that updates the individually calculated marcos after hitting the add to recipe button
 function displayItemMacros(calculatedItem) {
-  console.log("Item to display in UI:" + toString(calculatedItem));
   console.table(calculatedItem);
-  var itemContainers = document.querySelectorAll('.recipe--item');  
-  
-  
+  var itemContainers = document.querySelectorAll('.recipe--item');
+  console.log(calculatedItem.inputIndex);
+  var inputTarget = itemContainers[calculatedItem.inputIndex - 1];
+  var outputKCal = inputTarget.querySelector('[data-macro="calories"]');
+  outputKCal.textContent = "Calories: " + calculatedItem.calcKCal + "g";
 }
 
 function calculateItemMacros(food, weight, elementTarget) {
