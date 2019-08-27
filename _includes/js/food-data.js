@@ -144,7 +144,16 @@ function displayItemMacros(calculatedItem) {
   console.log(calculatedItem.inputIndex);
   var inputTarget = itemContainers[calculatedItem.inputIndex - 1];
   var outputKCal = inputTarget.querySelector('[data-macro="calories"]');
+  var outputFat = inputTarget.querySelector('[data-macro="fat"]');
+  var outputCarbs = inputTarget.querySelector('[data-macro="carbs"]');
+  var outputProtein = inputTarget.querySelector('[data-macro="protein"]');
+  var outputServingSize = inputTarget.querySelector('[data-macro="servingSize"]');
   outputKCal.textContent = "Calories: " + calculatedItem.calcKCal + "g";
+  outputFat.textContent = "Fat: " + calculatedItem.calcFat + "g";
+  outputCarbs.textContent = "Carbs: " + calculatedItem.calcCarbs + "g";
+  outputProtein.textContent = "Protein: " + calculatedItem.calcProtein + "g";
+  outputServingSize.textContent = "Serving Size: " + calculatedItem.servingSize + "g";
+
 }
 
 function calculateItemMacros(food, weight, elementTarget) {
@@ -217,3 +226,10 @@ foodClicked.addEventListener("click", function(e){
 
 });
 
+var recipeTitle = document.getElementById('recipe--name');
+
+recipeTitle.addEventListener('change', function(){
+  var newTitle = recipeTitle.value
+  var recipeOutputTitle = document.getElementById('recipe--output-name');
+  recipeOutputTitle.textContent = newTitle + " Recipe";
+});

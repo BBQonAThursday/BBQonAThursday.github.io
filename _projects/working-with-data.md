@@ -14,7 +14,7 @@ jsarr:
 - js/food-data.js
 
 ---
-# Working with Data
+# Food Data and Recipe Building
 
 6/02/19: This is currently a test with json. Below, I've imported foods.json and then looped through the object to build cards with each one. I want to add a button to add items to the json and also be able to fill out items for logging. Filtering the data would be cool as well. I should build out tags for each item though and have that data validate too.
 
@@ -30,11 +30,11 @@ jsarr:
       <button class="food--calculate">Add to Recipe</button>
       <button class="food--delete">x</button>
         <ul class="macros">
+          <li data-macro="servingSize" class="macro">Serving Size: </li>
           <li data-macro="calories" class="macro">Calories: </li>
           <li data-macro="fat" class="macro">Fat: </li>
           <li data-macro="carbs" class="macro">Carb: </li>
           <li data-macro="protein" class="macro">Protein: </li>
-          <li data-macro="servingSize" class="macro">Serving Size: </li>
         </ul>
 
     </div>
@@ -46,11 +46,11 @@ jsarr:
         <button class="food--calculate">Add to Recipe</button>
         <button class="food--delete">x</button>
         <ul class="macros">
+          <li data-macro="servingSize" class="macro">serving size: </li>
           <li data-macro="calories" class="macro">calorie: </li>
           <li data-macro="fat" class="macro">fat: </li>
           <li data-macro="carbs" class="macro">carb: </li>
           <li data-macro="protein" class="macro">protein: </li>
-          <li data-macro="servingSize" class="macro">serving size: </li>
         </ul>
       </div>
   </div>
@@ -58,7 +58,7 @@ jsarr:
     <button id="add-new-item">Add New Food</button>
   </div>
   <div class="recipe--output">
-    <h2 class="recipe--name" contenteditable="true">Recipe</h2> 
+    <h2 class="recipe--name" id="recipe--output-name">Recipe</h2> 
     <div class="recipe--nutrition-label">
       <ul class="macros">
         <li>Fat: </li>
