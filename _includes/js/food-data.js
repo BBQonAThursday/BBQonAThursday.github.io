@@ -60,6 +60,29 @@ xhr.onload = function() {
   }
 };
 
+function addNewItem() {
+  var itemCount = 3;
+  var ingredList = document.querySelector('.recipe--input');
+  var foodItemTemplate = `<div data-itemNumber="${itemCount}" class="recipe--item">
+  <select data-dropdown="${itemCount}" class="food-dropdown">
+      <option>Select an Ingredient</option>
+  </select>
+  <input class="recipe--quantity-input" id="recipe--item-quantity-${itemCount}" placeholder="100g">
+  <button class="food--calculate">Add to Recipe</button>
+  <button class="food--delete">x</button>
+  <ul class="macros">
+    <li data-macro="servingSize" class="macro">Serving Size: </li>
+    <li data-macro="calories" class="macro">Calories: </li>
+    <li data-macro="fat" class="macro">Fat: </li>
+    <li data-macro="carbs" class="macro">Carb: </li>
+    <li data-macro="protein" class="macro">Protein: </li>
+  </ul>
+</div>
+</div>`;
+ingredList.appendChild(foodItemTemplate);
+return itemCount++;
+}
+
 function displaySelection() {
    jsonSearch = dropDown.value;
   //Displays the selection in h3 in form;
@@ -206,6 +229,7 @@ function getSelectedFoodData(itemIndex) {
   return macroData;
 }
 
+//Get the Item Weight
 function getItemWeight() {  
   var weight = this.value;
   // console.log(this.value);
@@ -215,6 +239,9 @@ function getItemWeight() {
 var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
 var foodItems = document.getElementsByClassName("food-item");
+var addIngredientButton = document.getElementById('add-new-item');
+
+addIngredientButton.addEventListener("click", addNewItem);
 
 foodClicked.addEventListener("click", function(e){ 
   var foodSelected = e.target;

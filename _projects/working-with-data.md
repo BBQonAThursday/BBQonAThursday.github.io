@@ -42,15 +42,15 @@ jsarr:
         <select data-dropdown="2" class="food-dropdown">
             <option>Select an Ingredient</option>
         </select>
-        <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="100g">
+        <input class="recipe--quantity-input" id="recipe--item-quantity-2" placeholder="100g">
         <button class="food--calculate">Add to Recipe</button>
         <button class="food--delete">x</button>
         <ul class="macros">
-          <li data-macro="servingSize" class="macro">serving size: </li>
-          <li data-macro="calories" class="macro">calorie: </li>
-          <li data-macro="fat" class="macro">fat: </li>
-          <li data-macro="carbs" class="macro">carb: </li>
-          <li data-macro="protein" class="macro">protein: </li>
+          <li data-macro="servingSize" class="macro">Serving Size: </li>
+          <li data-macro="calories" class="macro">Calories: </li>
+          <li data-macro="fat" class="macro">Fat: </li>
+          <li data-macro="carbs" class="macro">Carb: </li>
+          <li data-macro="protein" class="macro">Protein: </li>
         </ul>
       </div>
   </div>
