@@ -30,11 +30,11 @@ This contains the typography styles for my site as well as the colors used and c
 <a class="project-link" href="{{ project.url | relative_url }}">View Project</a>
 <div class="triangle"></div>
 
-<video class="video--hero" data- loop autoplay muted
+<!--<video class="video--hero" data- loop autoplay muted
     src="http://embed.widencdn.net/stream/sd/springswindowfashions/nzcvivfglq/18-10276-Graber-Video-Loop.mp4?u=fpq9bh"
     poster="//embed.widencdn.net/poster/640/springswindowfashions/nzcvivfglq/18-10276-Graber-Video-Loop.jpg?u=fpq9bh"
     width="100%">
-</video>
+</video>-->
 
 
 Paragraphs can be long and dangerous. Don't go alone. This one is somewhat short. Just long enough 
