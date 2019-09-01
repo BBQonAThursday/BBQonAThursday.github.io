@@ -18,6 +18,8 @@ jsarr:
 
 6/02/19: This is currently a test with json. Below, I've imported foods.json and then looped through the object to build cards with each one. I want to add a button to add items to the json and also be able to fill out items for logging. Filtering the data would be cool as well. I should build out tags for each item though and have that data validate too.
 
+8/29/19: I now have each input calculating the input macros. I'm working on being able to add and delete food items and HTML sections. From there, I'm going to work on having the recipe object with all the ingredients calculated together.
+
 <section class="ui-container">
   <div class="recipe--input">
     
@@ -36,7 +38,6 @@ jsarr:
           <li data-macro="carbs" class="macro">Carb: </li>
           <li data-macro="protein" class="macro">Protein: </li>
         </ul>
-
     </div>
     <div data-itemNumber="2" class="recipe--item">
         <select data-dropdown="2" class="food-dropdown">
@@ -57,9 +58,9 @@ jsarr:
   <div class="recipe--buttons">
     <button id="add-new-item">Add New Food</button>
   </div>
-  <div class="recipe--output">
-    <h2 class="recipe--name" id="recipe--output-name">Recipe</h2> 
+  <div class="recipe--output"> 
     <div class="recipe--nutrition-label">
+      <h2 class="recipe--name" id="recipe--output-name">Recipe</h2>
       <ul class="macros">
         <li>Fat: </li>
         <li>Carbohydrates: 

@@ -7,12 +7,14 @@ function init() {
   xhr.send(null);
 }
 
-var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns, responseObject;
+var xhr, dropdown, defaultOption, output, jsonSearch, displayItem, displayMacros, recipeDropdowns, responseObject, recipeItemContainer;
 const url = '/_data/foods.json';
+
+recipeItemContainer = document.querySelector('.recipe--input');
+recipeDropdowns = document.querySelectorAll('.food-dropdown');
 
 xhr = new XMLHttpRequest();
 dropDown = document.getElementById("food-dropdown");
-recipeDropdowns = document.querySelectorAll('.food-dropdown');
 output = document.getElementById('food-selected');
 
 dropDown.length = 0;
@@ -61,26 +63,38 @@ xhr.onload = function() {
 };
 
 function addNewItem() {
-  var itemCount = 3;
+  var itemCount = document.querySelectorAll('.recipe--item').length;
+  console.log(itemCount);
   var ingredList = document.querySelector('.recipe--input');
-  var foodItemTemplate = `<div data-itemNumber="${itemCount}" class="recipe--item">
-  <select data-dropdown="${itemCount}" class="food-dropdown">
-      <option>Select an Ingredient</option>
-  </select>
-  <input class="recipe--quantity-input" id="recipe--item-quantity-${itemCount}" placeholder="100g">
-  <button class="food--calculate">Add to Recipe</button>
-  <button class="food--delete">x</button>
-  <ul class="macros">
-    <li data-macro="servingSize" class="macro">Serving Size: </li>
-    <li data-macro="calories" class="macro">Calories: </li>
-    <li data-macro="fat" class="macro">Fat: </li>
-    <li data-macro="carbs" class="macro">Carb: </li>
-    <li data-macro="protein" class="macro">Protein: </li>
-  </ul>
-</div>
-</div>`;
-ingredList.appendChild(foodItemTemplate);
-return itemCount++;
+  var recipeItem = document.createElement('div');
+  recipeItem.classList.add('recipe--item');
+  recipeItem.setAttribute('data-itemNumber', itemCount + 1);
+  var foodItemTemplate = `
+    <select data-dropdown="${itemCount}" class="food-dropdown">
+        <option>Select an Ingredient</option>
+      </select>
+      <input class="recipe--quantity-input" id="recipe--item-quantity-${itemCount}" placeholder="100g">
+      <button class="food--calculate">Add to Recipe</button>
+      <button class="food--delete">x</button>
+      <ul class="macros">
+        <li data-macro="servingSize" class="macro">Serving Size: </li>
+        <li data-macro="calories" class="macro">Calories: </li>
+        <li data-macro="fat" class="macro">Fat: </li>
+        <li data-macro="carbs" class="macro">Carb: </li>
+        <li data-macro="protein" class="macro">Protein: </li>
+      </ul>`;
+    recipeItem.innerHTML = foodItemTemplate;
+ingredList.appendChild(recipeItem);
+buildFoodList();
+}
+
+function removeFoodItem(e) {
+  var parentItemNumber = e.target.parentNode.dataset.itemnumber;
+  var parentDiv = document.querySelector('[data-itemNumber="' + `${parentItemNumber}` + '"]');
+  recipeItemContainer.removeChild(parentDiv);
+
+  
+  //console.log(parentDiv);
 }
 
 function displaySelection() {
@@ -118,9 +132,12 @@ function displaySelection() {
 
 }
 
+// TODO need to add other element node lists here so that they get regenerated on add new food
+
 function buildFoodList(){
   var foodData =  responseObject;
-  recipeDropdowns.forEach(recipeDropdown => {
+  var ingredDropdowns = document.querySelectorAll('.food-dropdown');
+  ingredDropdowns.forEach(recipeDropdown => {
     for (var i = 0; i < foodData.food.length; i++){
       // console.log(foodData.food[i].name + ' added');
       var foodOption = document.createElement('option');
@@ -240,6 +257,9 @@ var foodClicked = document.getElementById("food-data-display");
 var newFoodForm = document.getElementById("new-food-form");
 var foodItems = document.getElementsByClassName("food-item");
 var addIngredientButton = document.getElementById('add-new-item');
+const removeIngredientButtons = document.querySelectorAll('.food--delete');
+
+removeIngredientButtons.forEach(deleteButton => deleteButton.addEventListener('click', removeFoodItem));
 
 addIngredientButton.addEventListener("click", addNewItem);
 
