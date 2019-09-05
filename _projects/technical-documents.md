@@ -27,6 +27,35 @@ All documents can be viewed from this <a target="_blank" href="https://springswi
 
 Measuring Guides are brand specific. These should be flagged as 1_Sharable as well as by the brand that the document is. I.E. Graber, Bali, etc. Only use one of these.
 
+brand-measuring-guide-product-line(s)-title(if different)
+
+i.e. bali-measuring-guide-wood-faux-wood-blinds.pdf
+
+### Measuring Guide Locations
+
+#### Bali - Episerver
+Baliblinds and costco US/CA all share the same blocks, meaning these only need to be updated once to effectively update in all 3 locations
+* [https://www.baliblinds.com/how-to-center/how-to-measure/measuring-instructions/](https://www.baliblinds.com/how-to-center/how-to-measure/measuring-instructions/)
+* [https://member.baliblinds.com/how-to-center/how-to-measure/measuring-instructions/](https://member.baliblinds.com/how-to-center/how-to-measure/measuring-instructions/)
+* [https://member.baliblinds.ca/how-to-center/how-to-measure/measuring-instructions/](https://member.baliblinds.ca/how-to-center/how-to-measure/measuring-instructions/)
+  
+#### Bali - Java
+These are also shared between all the java sites. updating in one will update all.
+* [http://baliblinds.jcpenney.com/measure/index.jsp](http://baliblinds.jcpenney.com/measure/index.jsp)
+* [http://lowes.baliblinds.ca/measure/index.jsp](http://lowes.baliblinds.ca/measure/index.jsp)
+* [http://homedepot.baliblinds.com/measure/index.jsp](http://homedepot.baliblinds.com/measure/index.jsp)
+
+#### Graberdirect - Sharepoint
+Just overwrite these in the resource library.
+
+#### Lowes Graber Retail CA - Java
+This is located in the Graber Retail project within Eclipse
+
+* [http://lowes.graberblinds.ca/measure/index.jsp](http://lowes.graberblinds.ca/measure/index.jsp)
+
+
+
+
 ## Installation Guides
 
 Install guides are non-brand specific. These should all be flagged in asset security as 1_Sharable and 2_All Company Assets. This will allow them to show up in the API query.
