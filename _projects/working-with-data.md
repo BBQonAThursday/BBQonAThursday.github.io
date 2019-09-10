@@ -30,7 +30,7 @@ jsarr:
       </select>
       <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
       <button class="food--calculate">Add to Recipe</button>
-      <button class="food--delete">x</button>
+      <button class="food--delete">Delete Item</button>
         <ul class="macros">
           <li data-macro="servingSize" class="macro">Serving Size: </li>
           <li data-macro="calories" class="macro">Calories: </li>
@@ -61,7 +61,7 @@ jsarr:
   <div class="recipe--output"> 
     <div class="recipe--nutrition-label">
       <h2 class="recipe--name" id="recipe--output-name">Recipe</h2>
-      <ul class="macros">
+      <ul class="recipe--macros">
         <li>Fat: </li>
         <li>Carbohydrates: 
         <ul>
@@ -75,7 +75,7 @@ jsarr:
         <li>total kCal:
           <ul>
             <li>Grams per 4 servings:
-              <ul class="macros">
+              <ul class="recipe--macros">
                 <li>Fat: </li>
                 <li>Carbohydrates: 
                   <ul>
@@ -87,7 +87,7 @@ jsarr:
               </ul>
             </li>
             <li>Grams per 6 servings: 
-              <ul class="macros">
+              <ul class="recipe--macros">
                 <li>Fat: </li>
                 <li>Carbohydrates: 
                   <ul>

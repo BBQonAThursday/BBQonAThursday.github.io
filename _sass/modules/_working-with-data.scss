@@ -12,7 +12,7 @@
 
 .recipe--item {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 2rem;
@@ -20,13 +20,18 @@
   border-bottom: .1rem solid $brand-primary;
 }
 
+.buttons {
+
+}
 .macros {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   margin-left: 0;
   justify-content: space-between;
   flex-basis: 100%;
   margin-top: 1rem;
+  margin-left:2rem;
+  padding: 2rem;
 }
 
 .macro {
