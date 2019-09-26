@@ -53,6 +53,8 @@ This is located in the Graber Retail project within Eclipse
 
 * [http://lowes.graberblinds.ca/measure/index.jsp](http://lowes.graberblinds.ca/measure/index.jsp)
 
+#### SWFconnect
+This one is lovely. We have a number of accounts and pages here for bali, graber and sig series. Sig Series is the easy one here as its all encapsulated under 045344.
 
 
 
