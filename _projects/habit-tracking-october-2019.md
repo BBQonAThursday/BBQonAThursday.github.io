@@ -53,6 +53,10 @@ Convert the table below into a json file and have it build html from there. Work
 Probably where I'll track my start weight and end weight.
 
 ## Habit
+### Fasting
+Lets Fast! 14-16 hours. 5 days a week.
+
+## Habit
 ### Track Sleep
 Track Sleep in sleep cycle every day.
 I ultimately want to get better sleep.
