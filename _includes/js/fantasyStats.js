@@ -4,7 +4,6 @@ xhr.onload = function() {
   if(xhr.status === 200) {
     responseObject = JSON.parse(xhr.responseText);
     var htmlDis = "";
-    var recArr = responseObject.receiving;
     var week1Stats = responseObject.receiving.week1;
 
     
@@ -15,7 +14,12 @@ xhr.onload = function() {
         console.log(playerName);
         console.log(receptions + " / " + targets);
   
-        //htmlDis += ``
+        htmlDis += `
+        <div class="player">
+          <h3 class="player-name">${playerName}</h3>
+          <p>target/receptions: ${targets} / ${receptions}</p>
+        </div>
+        `;
       }
     
 
