@@ -1,6 +1,5 @@
 [
   {
-    "Rk": 1,
     "Player": "Sammy Watkins",
     "Pos": "WR",
     "Location": "@",
@@ -18,7 +17,6 @@
     "Y/Tgt": 18
   },
   {
-    "Rk": 2,
     "Player": "Michael Gallup",
     "Pos": "WR",
     "Location": "",
@@ -36,7 +34,6 @@
     "Y/Tgt": 22.57
   },
   {
-    "Rk": 3,
     "Player": "John Ross",
     "Pos": "WR",
     "Location": "@",
@@ -54,7 +51,6 @@
     "Y/Tgt": 13.17
   },
   {
-    "Rk": 4,
     "Player": "DeSean Jackson",
     "Pos": "WR",
     "Location": "",
@@ -72,7 +68,6 @@
     "Y/Tgt": 15.4
   },
   {
-    "Rk": 5,
     "Player": "Marquise Brown",
     "Pos": "WR",
     "Location": "@",
@@ -90,7 +85,6 @@
     "Y/Tgt": 29.4
   },
   {
-    "Rk": 6,
     "Player": "DJ Chark",
     "Pos": "WR",
     "Location": "",
@@ -108,7 +102,6 @@
     "Y/Tgt": 36.5
   },
   {
-    "Rk": 7,
     "Player": "T.J. Hockenson",
     "Pos": "TE",
     "Location": "@",
@@ -126,7 +119,6 @@
     "Y/Tgt": 14.56
   },
   {
-    "Rk": 8,
     "Player": "Terry McLaurin",
     "Pos": "WR",
     "Location": "@",
@@ -144,7 +136,6 @@
     "Y/Tgt": 17.86
   },
   {
-    "Rk": 9,
     "Player": "Keenan Allen",
     "Pos": "WR",
     "Location": "",
@@ -162,7 +153,6 @@
     "Y/Tgt": 12.3
   },
   {
-    "Rk": 10,
     "Player": "John Brown",
     "Pos": "WR",
     "Location": "@",
@@ -180,7 +170,6 @@
     "Y/Tgt": 12.3
   },
   {
-    "Rk": 11,
     "Player": "Michael Thomas",
     "Pos": "WR",
     "Location": "",
@@ -198,7 +187,6 @@
     "Y/Tgt": 9.46
   },
   {
-    "Rk": 12,
     "Player": "Courtland Sutton",
     "Pos": "WR",
     "Location": "@",
@@ -216,7 +204,6 @@
     "Y/Tgt": 15
   },
   {
-    "Rk": 13,
     "Player": "Evan Engram",
     "Pos": "TE",
     "Location": "@",
@@ -234,7 +221,6 @@
     "Y/Tgt": 8.29
   },
   {
-    "Rk": 14,
     "Player": "Larry Fitzgerald",
     "Pos": "WR",
     "Location": "",
@@ -252,7 +238,6 @@
     "Y/Tgt": 8.69
   },
   {
-    "Rk": 15,
     "Player": "DeAndre Hopkins",
     "Pos": "WR",
     "Location": "@",
@@ -270,7 +255,6 @@
     "Y/Tgt": 8.54
   },
   {
-    "Rk": 16,
     "Player": "Mark Andrews",
     "Pos": "TE",
     "Location": "@",
@@ -288,7 +272,6 @@
     "Y/Tgt": 13.5
   },
   {
-    "Rk": 17,
     "Player": "Amari Cooper",
     "Pos": "WR",
     "Location": "",
@@ -306,7 +289,6 @@
     "Y/Tgt": 11.78
   },
   {
-    "Rk": 18,
     "Player": "Tyrell Williams",
     "Pos": "WR",
     "Location": "",
@@ -324,7 +306,6 @@
     "Y/Tgt": 15
   },
   {
-    "Rk": 19,
     "Player": "Danny Amendola",
     "Pos": "WR",
     "Location": "@",
@@ -342,7 +323,6 @@
     "Y/Tgt": 8
   },
   {
-    "Rk": 20,
     "Player": "Allen Robinson",
     "Pos": "WR",
     "Location": "",
@@ -360,7 +340,6 @@
     "Y/Tgt": 7.85
   },
   {
-    "Rk": 21,
     "Player": "Ted Ginn",
     "Pos": "WR",
     "Location": "",
@@ -378,7 +357,6 @@
     "Y/Tgt": 14.43
   },
   {
-    "Rk": 22,
     "Player": "A.J. Brown",
     "Pos": "WR",
     "Location": "@",
@@ -396,7 +374,6 @@
     "Y/Tgt": 25
   },
   {
-    "Rk": 23,
     "Player": "Jamison Crowder",
     "Pos": "WR",
     "Location": "",
@@ -414,7 +391,6 @@
     "Y/Tgt": 5.82
   },
   {
-    "Rk": 24,
     "Player": "Chris Conley",
     "Pos": "WR",
     "Location": "",
@@ -432,7 +408,6 @@
     "Y/Tgt": 13.86
   },
   {
-    "Rk": 25,
     "Player": "Austin Ekeler",
     "Pos": "RB",
     "Location": "",
@@ -450,7 +425,6 @@
     "Y/Tgt": 13.71
   },
   {
-    "Rk": 26,
     "Player": "Phillip Dorsett",
     "Pos": "WR",
     "Location": "",
@@ -468,7 +442,6 @@
     "Y/Tgt": 23.75
   },
   {
-    "Rk": 27,
     "Player": "D.K. Metcalf",
     "Pos": "WR",
     "Location": "",
@@ -486,7 +459,6 @@
     "Y/Tgt": 14.83
   },
   {
-    "Rk": 28,
     "Player": "Travis Kelce",
     "Pos": "TE",
     "Location": "@",
@@ -504,7 +476,6 @@
     "Y/Tgt": 11
   },
   {
-    "Rk": 29,
     "Player": "T.Y. Hilton",
     "Pos": "WR",
     "Location": "@",
@@ -522,7 +493,6 @@
     "Y/Tgt": 9.67
   },
   {
-    "Rk": 30,
     "Player": "Emmanuel Sanders",
     "Pos": "WR",
     "Location": "@",
@@ -540,7 +510,6 @@
     "Y/Tgt": 12.29
   },
   {
-    "Rk": 31,
     "Player": "Julian Edelman",
     "Pos": "WR",
     "Location": "",
@@ -558,7 +527,6 @@
     "Y/Tgt": 7.55
   },
   {
-    "Rk": 32,
     "Player": "Christian McCaffrey",
     "Pos": "RB",
     "Location": "",
@@ -576,7 +544,6 @@
     "Y/Tgt": 7.36
   },
   {
-    "Rk": 33,
     "Player": "JuJu Smith-Schuster",
     "Pos": "WR",
     "Location": "@",
@@ -594,7 +561,6 @@
     "Y/Tgt": 9.75
   },
   {
-    "Rk": 34,
     "Player": "Austin Hooper",
     "Pos": "TE",
     "Location": "@",
@@ -612,7 +578,6 @@
     "Y/Tgt": 8.56
   },
   {
-    "Rk": 35,
     "Player": "D.J. Moore",
     "Pos": "WR",
     "Location": "",
@@ -630,7 +595,6 @@
     "Y/Tgt": 7.6
   },
   {
-    "Rk": 36,
     "Player": "Derrick Henry",
     "Pos": "RB",
     "Location": "@",
@@ -648,7 +612,6 @@
     "Y/Tgt": 37.5
   },
   {
-    "Rk": 37,
     "Player": "DeVante Parker",
     "Pos": "WR",
     "Location": "",
@@ -666,7 +629,6 @@
     "Y/Tgt": 10.71
   },
   {
-    "Rk": 38,
     "Player": "Cody Latimer",
     "Pos": "WR",
     "Location": "@",
@@ -684,7 +646,6 @@
     "Y/Tgt": 9.25
   },
   {
-    "Rk": 39,
     "Player": "Josh Gordon",
     "Pos": "WR",
     "Location": "",
@@ -702,7 +663,6 @@
     "Y/Tgt": 18.25
   },
   {
-    "Rk": 40,
     "Player": "Alvin Kamara",
     "Pos": "RB",
     "Location": "",
@@ -720,7 +680,6 @@
     "Y/Tgt": 9
   },
   {
-    "Rk": 41,
     "Player": "Odell Beckham",
     "Pos": "WR",
     "Location": "",
@@ -738,7 +697,6 @@
     "Y/Tgt": 6.45
   },
   {
-    "Rk": 42,
     "Player": "Darren Waller",
     "Pos": "TE",
     "Location": "",
@@ -756,7 +714,6 @@
     "Y/Tgt": 8.75
   },
   {
-    "Rk": 43,
     "Player": "Robert Woods",
     "Pos": "WR",
     "Location": "@",
@@ -774,7 +731,6 @@
     "Y/Tgt": 5.38
   },
   {
-    "Rk": 44,
     "Player": "Randall Cobb",
     "Pos": "WR",
     "Location": "",
@@ -792,7 +748,6 @@
     "Y/Tgt": 13.8
   },
   {
-    "Rk": 45,
     "Player": "Will Fuller",
     "Pos": "WR",
     "Location": "@",
@@ -810,7 +765,6 @@
     "Y/Tgt": 23
   },
   {
-    "Rk": 46,
     "Player": "Chris Thompson",
     "Pos": "RB",
     "Location": "@",
@@ -828,7 +782,6 @@
     "Y/Tgt": 6.8
   },
   {
-    "Rk": 47,
     "Player": "Jarvis Landry",
     "Pos": "WR",
     "Location": "",
@@ -846,7 +799,6 @@
     "Y/Tgt": 9.57
   },
   {
-    "Rk": 48,
     "Player": "C.J. Uzomah",
     "Pos": "TE",
     "Location": "@",
@@ -864,7 +816,6 @@
     "Y/Tgt": 13.2
   },
   {
-    "Rk": 49,
     "Player": "Calvin Ridley",
     "Pos": "WR",
     "Location": "@",
@@ -882,7 +833,6 @@
     "Y/Tgt": 10.67
   },
   {
-    "Rk": 50,
     "Player": "Tyler Boyd",
     "Pos": "WR",
     "Location": "@",
@@ -900,7 +850,6 @@
     "Y/Tgt": 5.45
   },
   {
-    "Rk": 51,
     "Player": "Hunter Henry",
     "Pos": "TE",
     "Location": "",
@@ -918,7 +867,6 @@
     "Y/Tgt": 12
   },
   {
-    "Rk": 52,
     "Player": "Vernon Davis",
     "Pos": "TE",
     "Location": "@",
@@ -936,7 +884,6 @@
     "Y/Tgt": 8.43
   },
   {
-    "Rk": 53,
     "Player": "Mohamed Sanu",
     "Pos": "WR",
     "Location": "@",
@@ -954,7 +901,6 @@
     "Y/Tgt": 9.5
   },
   {
-    "Rk": 54,
     "Player": "Marvin Jones",
     "Pos": "WR",
     "Location": "@",
@@ -972,7 +918,6 @@
     "Y/Tgt": 14
   },
   {
-    "Rk": 55,
     "Player": "James White",
     "Pos": "RB",
     "Location": "",
@@ -990,7 +935,6 @@
     "Y/Tgt": 8
   },
   {
-    "Rk": 56,
     "Player": "David Johnson",
     "Pos": "RB",
     "Location": "",
@@ -1008,7 +952,6 @@
     "Y/Tgt": 7.86
   },
   {
-    "Rk": 57,
     "Player": "Delanie Walker",
     "Pos": "TE",
     "Location": "@",
@@ -1026,7 +969,6 @@
     "Y/Tgt": 9.17
   },
   {
-    "Rk": 58,
     "Player": "Zach Ertz",
     "Pos": "TE",
     "Location": "",
@@ -1044,7 +986,6 @@
     "Y/Tgt": 7.71
   },
   {
-    "Rk": 59,
     "Player": "George Kittle",
     "Pos": "TE",
     "Location": "@",
@@ -1062,7 +1003,6 @@
     "Y/Tgt": 5.4
   },
   {
-    "Rk": 60,
     "Player": "Chris Godwin",
     "Pos": "WR",
     "Location": "",
@@ -1080,7 +1020,6 @@
     "Y/Tgt": 8.83
   },
   {
-    "Rk": 61,
     "Player": "Marquez Valdes-Scantling",
     "Pos": "WR",
     "Location": "@",
@@ -1098,7 +1037,6 @@
     "Y/Tgt": 8.67
   },
   {
-    "Rk": 62,
     "Player": "James Washington",
     "Pos": "WR",
     "Location": "@",
@@ -1116,7 +1054,6 @@
     "Y/Tgt": 8.5
   },
   {
-    "Rk": 63,
     "Player": "Tarik Cohen",
     "Pos": "RB",
     "Location": "",
@@ -1134,7 +1071,6 @@
     "Y/Tgt": 4.9
   },
   {
-    "Rk": 64,
     "Player": "Alshon Jeffery",
     "Pos": "WR",
     "Location": "",
@@ -1152,7 +1088,6 @@
     "Y/Tgt": 8.17
   },
   {
-    "Rk": 65,
     "Player": "Rashard Higgins",
     "Pos": "WR",
     "Location": "",
@@ -1170,7 +1105,6 @@
     "Y/Tgt": 15.33
   },
   {
-    "Rk": 66,
     "Player": "KeeSean Johnson",
     "Pos": "WR",
     "Location": "",
@@ -1188,7 +1122,6 @@
     "Y/Tgt": 4.6
   },
   {
-    "Rk": 67,
     "Player": "Cooper Kupp",
     "Pos": "WR",
     "Location": "@",
@@ -1206,7 +1139,6 @@
     "Y/Tgt": 4.6
   },
   {
-    "Rk": 68,
     "Player": "James Conner",
     "Pos": "RB",
     "Location": "@",
@@ -1224,7 +1156,6 @@
     "Y/Tgt": 11
   },
   {
-    "Rk": 69,
     "Player": "Tyler Lockett",
     "Pos": "WR",
     "Location": "",
@@ -1242,7 +1173,6 @@
     "Y/Tgt": 22
   },
   {
-    "Rk": 70,
     "Player": "Adam Thielen",
     "Pos": "WR",
     "Location": "",
@@ -1260,7 +1190,6 @@
     "Y/Tgt": 14.33
   },
   {
-    "Rk": 71,
     "Player": "Giovani Bernard",
     "Pos": "HB",
     "Location": "@",
@@ -1278,7 +1207,6 @@
     "Y/Tgt": 14
   },
   {
-    "Rk": 72,
     "Player": "Damiere Byrd",
     "Pos": "WR",
     "Location": "",
@@ -1296,7 +1224,6 @@
     "Y/Tgt": 6
   },
   {
-    "Rk": 73,
     "Player": "Kenny Golladay",
     "Pos": "WR",
     "Location": "@",
@@ -1314,7 +1241,6 @@
     "Y/Tgt": 4.67
   },
   {
-    "Rk": 74,
     "Player": "Sterling Shepard",
     "Pos": "WR",
     "Location": "@",
@@ -1332,7 +1258,6 @@
     "Y/Tgt": 6
   },
   {
-    "Rk": 75,
     "Player": "Rex Burkhead",
     "Pos": "RB",
     "Location": "",
@@ -1350,7 +1275,6 @@
     "Y/Tgt": 5.13
   },
   {
-    "Rk": 76,
     "Player": "Justin Hardy",
     "Pos": "WR",
     "Location": "@",
@@ -1368,7 +1292,6 @@
     "Y/Tgt": 8.2
   },
   {
-    "Rk": 77,
     "Player": "Hayden Hurst",
     "Pos": "TE",
     "Location": "@",
@@ -1386,7 +1309,6 @@
     "Y/Tgt": 10.25
   },
   {
-    "Rk": 78,
     "Player": "Willie Snead",
     "Pos": "WR/RS",
     "Location": "@",
@@ -1404,7 +1326,6 @@
     "Y/Tgt": 13.67
   },
   {
-    "Rk": 79,
     "Player": "Cole Beasley",
     "Pos": "WR",
     "Location": "@",
@@ -1422,7 +1343,6 @@
     "Y/Tgt": 4.44
   },
   {
-    "Rk": 80,
     "Player": "Bennie Fowler",
     "Pos": "WR",
     "Location": "@",
@@ -1440,7 +1360,6 @@
     "Y/Tgt": 8
   },
   {
-    "Rk": 81,
     "Player": "Vance McDonald",
     "Pos": "TE",
     "Location": "@",
@@ -1458,7 +1377,6 @@
     "Y/Tgt": 10
   },
   {
-    "Rk": 82,
     "Player": "Brandin Cooks",
     "Pos": "WR",
     "Location": "@",
@@ -1476,7 +1394,6 @@
     "Y/Tgt": 6.5
   },
   {
-    "Rk": 83,
     "Player": "Richie James",
     "Pos": "WR",
     "Location": "@",
@@ -1494,7 +1411,6 @@
     "Y/Tgt": 19.5
   },
   {
-    "Rk": 84,
     "Player": "Blake Jarwin",
     "Pos": "TE",
     "Location": "",
@@ -1512,7 +1428,6 @@
     "Y/Tgt": 13
   },
   {
-    "Rk": 85,
     "Player": "Damien Williams",
     "Pos": "RB",
     "Location": "@",
@@ -1530,7 +1445,6 @@
     "Y/Tgt": 6.5
   },
   {
-    "Rk": 86,
     "Player": "Jared Cook",
     "Pos": "TE",
     "Location": "",
@@ -1548,7 +1462,6 @@
     "Y/Tgt": 12.33
   },
   {
-    "Rk": 87,
     "Player": "Stefon Diggs",
     "Pos": "WR",
     "Location": "",
@@ -1566,7 +1479,6 @@
     "Y/Tgt": 18.5
   },
   {
-    "Rk": 88,
     "Player": "David Njoku",
     "Pos": "TE",
     "Location": "",
@@ -1584,7 +1496,6 @@
     "Y/Tgt": 6.17
   },
   {
-    "Rk": 89,
     "Player": "Kenny Stills",
     "Pos": "WR",
     "Location": "@",
@@ -1602,7 +1513,6 @@
     "Y/Tgt": 12.33
   },
   {
-    "Rk": 90,
     "Player": "Davante Adams",
     "Pos": "WR",
     "Location": "@",
@@ -1620,7 +1530,6 @@
     "Y/Tgt": 4.5
   },
   {
-    "Rk": 91,
     "Player": "Greg Olsen",
     "Pos": "TE",
     "Location": "",
@@ -1638,7 +1547,6 @@
     "Y/Tgt": 4
   },
   {
-    "Rk": 92,
     "Player": "Paul Richardson",
     "Pos": "WR",
     "Location": "@",
@@ -1656,7 +1564,6 @@
     "Y/Tgt": 5.14
   },
   {
-    "Rk": 93,
     "Player": "Deon Cain",
     "Pos": "WR",
     "Location": "@",
@@ -1674,7 +1581,6 @@
     "Y/Tgt": 17.5
   },
   {
-    "Rk": 94,
     "Player": "Chris Carson",
     "Pos": "RB",
     "Location": "",
@@ -1692,7 +1598,6 @@
     "Y/Tgt": 5
   },
   {
-    "Rk": 95,
     "Player": "Tommy Sweeney",
     "Pos": "TE",
     "Location": "@",
@@ -1710,7 +1615,6 @@
     "Y/Tgt": 17.5
   },
   {
-    "Rk": 96,
     "Player": "Tevin Coleman",
     "Pos": "RB",
     "Location": "@",
@@ -1728,7 +1632,6 @@
     "Y/Tgt": 11
   },
   {
-    "Rk": 97,
     "Player": "Duke Johnson",
     "Pos": "RB",
     "Location": "@",
@@ -1746,7 +1649,6 @@
     "Y/Tgt": 6.6
   },
   {
-    "Rk": 98,
     "Player": "Dare Ogunbowale",
     "Pos": "RB",
     "Location": "",
@@ -1764,7 +1666,6 @@
     "Y/Tgt": 6.6
   },
   {
-    "Rk": 99,
     "Player": "Trey Quinn",
     "Pos": "WR",
     "Location": "@",
@@ -1782,7 +1683,6 @@
     "Y/Tgt": 5.5
   },
   {
-    "Rk": 100,
     "Player": "Le'Veon Bell",
     "Pos": "RB",
     "Location": "",
