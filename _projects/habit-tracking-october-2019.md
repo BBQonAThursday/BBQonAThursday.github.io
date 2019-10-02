@@ -73,7 +73,7 @@ I ultimately want to get better sleep.
     <th class="habit-heading run-walk">Run / Walk</th>
     <th class="habit-heading write">Write</th>
     <th class="habit-heading code">Coding Practice</th>
-    <th class="habit-heading mystery">Mystery</th>
+    <th class="habit-heading mystery">Fast</th>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Tuesday</span><span class="day">October 1</span></td>
@@ -83,368 +83,368 @@ I ultimately want to get better sleep.
     <td class="daily-habit">X</td>
     <td class="daily-habit">X</td>
     <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
     <td class="daily-habit">X</td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Wednesday</span><span class="day">October 2</span></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
     <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
     <td class="daily-habit">X</td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Thursday</span><span class="day">October 3</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Friday</span><span class="day">October 4</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Saturday</span><span class="day">October 5</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Sunday</span><span class="day">October 6</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Monday</span><span class="day">October 7</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Tuesday</span><span class="day">October 8</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Wednesday</span><span class="day">October 9</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Thursday</span><span class="day">October 10</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Friday</span><span class="day">October 11</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Saturday</span><span class="day">October 12</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Sunday</span><span class="day">October 13</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Monday</span><span class="day">October 14</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Tuesday</span><span class="day">October 15</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Wednesday</span><span class="day">October 16</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Thursday</span><span class="day">October 17</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Friday</span><span class="day">October 18</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Saturday</span><span class="day">October 19</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Sunday</span><span class="day">October 20</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Monday</span><span class="day">October 21</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Tuesday</span><span class="day">October 22</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Wednesday</span><span class="day">October 23</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Thursday</span><span class="day">October 24</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Friday</span><span class="day">October 25</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Saturday</span><span class="day">October 26</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Sunday</span><span class="day">October 27</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Monday</span><span class="day">October 28</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Tuesday</span><span class="day">October 29</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Wednesday</span><span class="day">October 30</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
   <tr class="daily-tracker">
     <td class="date-day"><span class="day-of-week">Thursday</span><span class="day">October 31</span></td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
-    <td class="daily-habit">X</td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
+    <td class="daily-habit"></td>
   </tr>
 </table>

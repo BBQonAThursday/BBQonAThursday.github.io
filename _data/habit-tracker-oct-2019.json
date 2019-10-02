@@ -3,60 +3,143 @@
   "habit": "hang",
   "habitDisplay": "Hang",
   "frequencyTarget": 7,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    },
+    {
+      "oct2" : false
+    }
+  ]
 },
 {
   "habit": "iron-grip",
   "habitDisplay": "Grip Training",
   "frequencyTarget": 5,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    },
+    {
+      "oct2" : false
+    }
+  ]
 },
 {
   "habit": "count-calories",
   "habitDisplay": "Track Food",
   "frequencyTarget": 6,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    },
+    {
+      "oct2" : true
+    }
+  ]
+},
+{
+  "habit": "fast",
+  "habitDisplay": "Fast",
+  "frequencyTarget": 7,
+  "daysCompleted": [
+    {
+      "oct1" : true,
+      "length": 16
+    },
+    {
+      "oct2" : false,
+      "length" : 15
+    }
+  ]
 },
 {
   "habit": "read",
   "habitDisplay": "Read",
   "frequencyTarget": 7,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    }
+    ,
+    {
+      "oct2" : true
+    }
+  ]
 },
 {
   "habit": "yoga",
   "habitDisplay": "Yoga",
   "frequencyTarget": 5,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    },
+    {
+      "oct2" : true
+    }
+  ]
 },
 {
   "habit": "run-walk",
   "habitDisplay": "Run / Walk",
   "frequencyTarget": 4,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : false
+    },
+    {
+      "oct2" : false
+    }
+    
+  ]
 },
 {
   "habit": "write",
   "habitDisplay": "Write",
   "frequencyTarget": 4,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : false
+    },
+    {
+      "oct2" : false
+    }
+    
+  ]
 },
 {
   "habit": "development",
   "habitDisplay": "Web Development",
   "frequencyTarget": 4,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : false
+    },
+    {
+      "oct2" : false
+    }
+  ]
 },
 {
   "habit": "track-sleep",
   "habitDisplay": "Track Sleep",
   "frequencyTarget": 7,
-  "daysCompleted": []
+  "daysCompleted": [
+    {
+      "oct1" : true
+    },
+    {
+      "oct2" : true
+    }
+  ]
 },
 {
   "habit": "weight",
   "habitDisplay": "Weight Tracker",
   "frequencyTarget": 1,
-  "weightAndDate": []
+  "weightAndDate": [
+
+  ]
 }
 ]
