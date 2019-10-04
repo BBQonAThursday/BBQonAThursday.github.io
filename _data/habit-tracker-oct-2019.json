@@ -8,7 +8,13 @@
       "oct1" : true
     },
     {
-      "oct2" : false
+      "oct2" : true
+    },
+    {
+      "oct3" : true
+    },
+    {
+      "oct4" : true
     }
   ]
 },
@@ -22,7 +28,14 @@
     },
     {
       "oct2" : false
+    },
+    {
+      "oct3" : false
+    },
+    {
+      "oct4" : true
     }
+
   ]
 },
 {
@@ -35,6 +48,12 @@
     },
     {
       "oct2" : true
+    },
+    {
+      "oct3" : true
+    },
+    {
+      "oct4" : true
     }
   ]
 },
@@ -50,6 +69,13 @@
     {
       "oct2" : false,
       "length" : 15
+    },
+    {
+      "oct3" : true,
+      "length" : 15
+    },
+    {
+      "oct4" : false
     }
   ]
 },
@@ -64,6 +90,12 @@
     ,
     {
       "oct2" : true
+    },
+    {
+      "oct3" : true
+    },
+    {
+      "oct4" : true
     }
   ]
 },
@@ -77,6 +109,12 @@
     },
     {
       "oct2" : true
+    },
+    {
+      "oct3" : false
+    },
+    {
+      "oct4" : false
     }
   ]
 },
@@ -90,6 +128,12 @@
     },
     {
       "oct2" : false
+    },
+    {
+      "oct3" : false
+    },
+    {
+      "oct4" : true
     }
     
   ]
@@ -104,6 +148,12 @@
     },
     {
       "oct2" : false
+    },
+    {
+      "oct3" : false
+    },
+    {
+      "oct4" : false
     }
     
   ]
@@ -118,7 +168,14 @@
     },
     {
       "oct2" : false
+    },
+    {
+      "oct3" : false
+    },
+    {
+      "oct4" : true
     }
+
   ]
 },
 {
@@ -131,7 +188,14 @@
     },
     {
       "oct2" : true
+    },
+    {
+      "oct3" : true
+    },
+    {
+      "oct4" : true
     }
+
   ]
 },
 {
@@ -139,7 +203,9 @@
   "habitDisplay": "Weight Tracker",
   "frequencyTarget": 1,
   "weightAndDate": [
-
+    {
+      "oct3" : 202.6
+    }
   ]
 }
 ]
