@@ -1,211 +1,134 @@
 [
-{
-  "habit": "hang",
-  "habitDisplay": "Hang",
-  "frequencyTarget": 7,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    },
-    {
-      "oct2" : true
-    },
-    {
-      "oct3" : true
-    },
-    {
-      "oct4" : true
-    }
-  ]
-},
-{
-  "habit": "iron-grip",
-  "habitDisplay": "Grip Training",
-  "frequencyTarget": 5,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    },
-    {
-      "oct2" : false
-    },
-    {
-      "oct3" : false
-    },
-    {
-      "oct4" : true
-    }
-
-  ]
-},
-{
-  "habit": "count-calories",
-  "habitDisplay": "Track Food",
-  "frequencyTarget": 6,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    },
-    {
-      "oct2" : true
-    },
-    {
-      "oct3" : true
-    },
-    {
-      "oct4" : true
-    }
-  ]
-},
-{
-  "habit": "fast",
-  "habitDisplay": "Fast",
-  "frequencyTarget": 7,
-  "daysCompleted": [
-    {
-      "oct1" : true,
-      "length": 16
-    },
-    {
-      "oct2" : false,
-      "length" : 15
-    },
-    {
-      "oct3" : true,
-      "length" : 15
-    },
-    {
-      "oct4" : false
-    }
-  ]
-},
-{
-  "habit": "read",
-  "habitDisplay": "Read",
-  "frequencyTarget": 7,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    }
-    ,
-    {
-      "oct2" : true
-    },
-    {
-      "oct3" : true
-    },
-    {
-      "oct4" : true
-    }
-  ]
-},
-{
-  "habit": "yoga",
-  "habitDisplay": "Yoga",
-  "frequencyTarget": 5,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    },
-    {
-      "oct2" : true
-    },
-    {
-      "oct3" : false
-    },
-    {
-      "oct4" : false
-    }
-  ]
-},
-{
-  "habit": "run-walk",
-  "habitDisplay": "Run / Walk",
-  "frequencyTarget": 4,
-  "daysCompleted": [
-    {
-      "oct1" : false
-    },
-    {
-      "oct2" : false
-    },
-    {
-      "oct3" : false
-    },
-    {
-      "oct4" : true
-    }
-    
-  ]
-},
-{
-  "habit": "write",
-  "habitDisplay": "Write",
-  "frequencyTarget": 4,
-  "daysCompleted": [
-    {
-      "oct1" : false
-    },
-    {
-      "oct2" : false
-    },
-    {
-      "oct3" : false
-    },
-    {
-      "oct4" : false
-    }
-    
-  ]
-},
-{
-  "habit": "development",
-  "habitDisplay": "Web Development",
-  "frequencyTarget": 4,
-  "daysCompleted": [
-    {
-      "oct1" : false
-    },
-    {
-      "oct2" : false
-    },
-    {
-      "oct3" : false
-    },
-    {
-      "oct4" : true
-    }
-
-  ]
-},
-{
-  "habit": "track-sleep",
-  "habitDisplay": "Track Sleep",
-  "frequencyTarget": 7,
-  "daysCompleted": [
-    {
-      "oct1" : true
-    },
-    {
-      "oct2" : true
-    },
-    {
-      "oct3" : true
-    },
-    {
-      "oct4" : true
-    }
-
-  ]
-},
-{
-  "habit": "weight",
-  "habitDisplay": "Weight Tracker",
-  "frequencyTarget": 1,
-  "weightAndDate": [
-    {
-      "oct3" : 202.6
-    }
-  ]
-}
+  {
+    "habit": "hang",
+    "habitDisplay": "Hang",
+    "frequencyTarget": 7
+  },
+  {
+    "habit": "iron-grip",
+    "habitDisplay": "Grip Training",
+    "frequencyTarget": 5
+  },
+  {
+    "habit": "count-calories",
+    "habitDisplay": "Track Food",
+    "frequencyTarget": 6
+  },
+  {
+    "habit": "fast",
+    "habitDisplay": "Fast",
+    "frequencyTarget": 7
+  },
+  {
+    "habit": "read",
+    "habitDisplay": "Read",
+    "frequencyTarget": 7
+  },
+  {
+    "habit": "yoga",
+    "habitDisplay": "Yoga",
+    "frequencyTarget": 5
+  },
+  {
+    "habit": "run-walk",
+    "habitDisplay": "Run / Walk",
+    "frequencyTarget": 4
+  },
+  {
+    "habit": "write",
+    "habitDisplay": "Write",
+    "frequencyTarget": 4
+  },
+  {
+    "habit": "development",
+    "habitDisplay": "Web Development",
+    "frequencyTarget": 4
+  },
+  {
+    "habit": "track-sleep",
+    "habitDisplay": "Track Sleep",
+    "frequencyTarget": 7
+  },
+  {
+    "habit": "weight",
+    "habitDisplay": "Weight Tracker",
+    "frequencyTarget": 1
+  },
+  {
+    "habitTracker" : {
+      "oct1": {
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": true, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      "oct2": {
+        "hang": true,
+        "ironGrip": false,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": true, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      "oct3": {
+        "hang": true,
+        "ironGrip": false,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true,
+        "weight": 203.6
+      },
+      "oct4": {
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": true,
+        "trackSleep": true,
+      },
+      "oct5": {
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": false,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": true,
+        "trackSleep": false
+      },
+      "oct6": {
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": true,
+        "trackSleep": true
+      }
+    }    
+  }
 ]

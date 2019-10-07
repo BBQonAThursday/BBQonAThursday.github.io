@@ -1,8 +1,7 @@
-[
+"week4" : [
   {
-    "Player": "Davante Adams\\AdamDa01",
+    "Player": "Davante Adams",
     "Pos": "WR",
-    "Tm": "GNB",
     "": "",
     "Opp": "PHI",
     "Result": "L 27-34",
@@ -15,9 +14,8 @@
     "Y/Tgt": 12
   },
   {
-    "Player": "Chris Godwin\\GodwCh00",
+    "Player": "Chris Godwin",
     "Pos": "WR",
-    "Tm": "TAM",
     "": "@",
     "Opp": "LAR",
     "Result": "W 55-40",
@@ -30,9 +28,8 @@
     "Y/Tgt": 12.29
   },
   {
-    "Player": "Jarvis Landry\\LandJa00",
+    "Player": "Jarvis Landry",
     "Pos": "WR",
-    "Tm": "CLE",
     "": "@",
     "Opp": "BAL",
     "Result": "W 40-25",
@@ -45,9 +42,8 @@
     "Y/Tgt": 16.7
   },
   {
-    "Player": "Robert Woods\\WoodRo02",
+    "Player": "Robert Woods",
     "Pos": "WR",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -60,9 +56,8 @@
     "Y/Tgt": 10.93
   },
   {
-    "Player": "Austin Hooper\\HoopAu00",
+    "Player": "Austin Hooper",
     "Pos": "TE",
-    "Tm": "ATL",
     "": "",
     "Opp": "TEN",
     "Result": "L 10-24",
@@ -75,9 +70,8 @@
     "Y/Tgt": 11.82
   },
   {
-    "Player": "Cooper Kupp\\KuppCo00",
+    "Player": "Cooper Kupp",
     "Pos": "WR",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -90,9 +84,8 @@
     "Y/Tgt": 8.07
   },
   {
-    "Player": "Stefon Diggs\\DiggSt00",
+    "Player": "Stefon Diggs",
     "Pos": "WR",
-    "Tm": "MIN",
     "": "@",
     "Opp": "CHI",
     "Result": "L 6-16",
@@ -105,9 +98,8 @@
     "Y/Tgt": 15.43
   },
   {
-    "Player": "Emmanuel Sanders\\SandEm00",
+    "Player": "Emmanuel Sanders",
     "Pos": "WR",
-    "Tm": "DEN",
     "": "",
     "Opp": "JAX",
     "Result": "L 24-26",
@@ -120,9 +112,8 @@
     "Y/Tgt": 11.56
   },
   {
-    "Player": "David Johnson\\JohnDa08",
+    "Player": "David Johnson",
     "Pos": "RB",
-    "Tm": "ARI",
     "": "",
     "Opp": "SEA",
     "Result": "L 10-27",
@@ -135,9 +126,8 @@
     "Y/Tgt": 9
   },
   {
-    "Player": "Michael Thomas\\ThomMi05",
+    "Player": "Michael Thomas",
     "Pos": "WR",
-    "Tm": "NOR",
     "": "",
     "Opp": "DAL",
     "Result": "W 12-10",
@@ -150,9 +140,8 @@
     "Y/Tgt": 10.56
   },
   {
-    "Player": "A.J. Brown\\BrowAJ00",
+    "Player": "A.J. Brown",
     "Pos": "WR",
-    "Tm": "TEN",
     "": "@",
     "Opp": "ATL",
     "Result": "W 24-10",
@@ -165,9 +154,8 @@
     "Y/Tgt": 31.33
   },
   {
-    "Player": "Corey Davis\\DaviCo03",
+    "Player": "Corey Davis",
     "Pos": "WR",
-    "Tm": "TEN",
     "": "@",
     "Opp": "ATL",
     "Result": "W 24-10",
@@ -180,9 +168,8 @@
     "Y/Tgt": 15.17
   },
   {
-    "Player": "Mohamed Sanu\\SanuMo00",
+    "Player": "Mohamed Sanu",
     "Pos": "WR",
-    "Tm": "ATL",
     "": "",
     "Opp": "TEN",
     "Result": "L 10-24",
@@ -195,9 +182,8 @@
     "Y/Tgt": 7.58
   },
   {
-    "Player": "Mike Evans\\EvanMi00",
+    "Player": "Mike Evans",
     "Pos": "WR",
-    "Tm": "TAM",
     "": "@",
     "Opp": "LAR",
     "Result": "W 55-40",
@@ -210,9 +196,8 @@
     "Y/Tgt": 12.71
   },
   {
-    "Player": "Christian McCaffrey\\McCaCh01",
+    "Player": "Christian McCaffrey",
     "Pos": "RB",
-    "Tm": "CAR",
     "": "@",
     "Opp": "HOU",
     "Result": "W 16-10",
@@ -225,9 +210,8 @@
     "Y/Tgt": 8.6
   },
   {
-    "Player": "Travis Kelce\\KelcTr00",
+    "Player": "Travis Kelce",
     "Pos": "TE",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -240,9 +224,8 @@
     "Y/Tgt": 10.63
   },
   {
-    "Player": "James Conner\\ConnJa00",
+    "Player": "James Conner",
     "Pos": "RB",
-    "Tm": "PIT",
     "": "",
     "Opp": "CIN",
     "Result": "W 27-3",
@@ -255,9 +238,8 @@
     "Y/Tgt": 10.38
   },
   {
-    "Player": "Ricky Seals-Jones\\SealRi00",
+    "Player": "Ricky Seals-Jones",
     "Pos": "TE",
-    "Tm": "CLE",
     "": "@",
     "Opp": "BAL",
     "Result": "W 40-25",
@@ -270,9 +252,8 @@
     "Y/Tgt": 27.33
   },
   {
-    "Player": "Diontae Johnson\\JohnDi01",
+    "Player": "Diontae Johnson",
     "Pos": "WR",
-    "Tm": "PIT",
     "": "",
     "Opp": "CIN",
     "Result": "W 27-3",
@@ -285,9 +266,8 @@
     "Y/Tgt": 12.83
   },
   {
-    "Player": "Marvin Jones\\JoneMa02",
+    "Player": "Marvin Jones",
     "Pos": "WR",
-    "Tm": "DET",
     "": "",
     "Opp": "KAN",
     "Result": "L 30-34",
@@ -300,9 +280,8 @@
     "Y/Tgt": 15.4
   },
   {
-    "Player": "Allen Robinson\\RobiAl02",
+    "Player": "Allen Robinson",
     "Pos": "WR",
-    "Tm": "CHI",
     "": "",
     "Opp": "MIN",
     "Result": "W 16-6",
@@ -315,9 +294,8 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Dontrelle Inman\\InmaDo00",
+    "Player": "Dontrelle Inman",
     "Pos": "WR",
-    "Tm": "LAC",
     "": "@",
     "Opp": "MIA",
     "Result": "W 30-10",
@@ -330,9 +308,8 @@
     "Y/Tgt": 10.86
   },
   {
-    "Player": "Sterling Shepard\\ShepSt00",
+    "Player": "Sterling Shepard",
     "Pos": "WR",
-    "Tm": "NYG",
     "": "",
     "Opp": "WAS",
     "Result": "W 24-3",
@@ -345,9 +322,8 @@
     "Y/Tgt": 8.44
   },
   {
-    "Player": "Cole Beasley\\BeasCo00",
+    "Player": "Cole Beasley",
     "Pos": "WR",
-    "Tm": "BUF",
     "": "",
     "Opp": "NWE",
     "Result": "L 10-16",
@@ -360,9 +336,8 @@
     "Y/Tgt": 5.77
   },
   {
-    "Player": "Devonta Freeman\\FreeDe00",
+    "Player": "Devonta Freeman",
     "Pos": "RB",
-    "Tm": "ATL",
     "": "",
     "Opp": "TEN",
     "Result": "L 10-24",
@@ -375,9 +350,8 @@
     "Y/Tgt": 8
   },
   {
-    "Player": "Zach Pascal\\PascZa00",
+    "Player": "Zach Pascal",
     "Pos": "WR",
-    "Tm": "IND",
     "": "",
     "Opp": "OAK",
     "Result": "L 24-31",
@@ -390,9 +364,8 @@
     "Y/Tgt": 10.29
   },
   {
-    "Player": "Brandin Cooks\\CookBr00",
+    "Player": "Brandin Cooks",
     "Pos": "WR",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -405,9 +378,8 @@
     "Y/Tgt": 7.89
   },
   {
-    "Player": "DeVante Parker\\ParkDe01",
+    "Player": "DeVante Parker",
     "Pos": "WR",
-    "Tm": "MIA",
     "": "",
     "Opp": "LAC",
     "Result": "L 10-30",
@@ -420,9 +392,8 @@
     "Y/Tgt": 17.5
   },
   {
-    "Player": "John Brown\\BrowJo02",
+    "Player": "John Brown",
     "Pos": "WR",
-    "Tm": "BUF",
     "": "",
     "Opp": "NWE",
     "Result": "L 10-16",
@@ -435,9 +406,8 @@
     "Y/Tgt": 6.27
   },
   {
-    "Player": "T.J. Yeldon\\YeldT.00",
+    "Player": "T.J. Yeldon",
     "Pos": "RB",
-    "Tm": "BUF",
     "": "",
     "Opp": "NWE",
     "Result": "L 10-16",
@@ -450,9 +420,8 @@
     "Y/Tgt": 17
   },
   {
-    "Player": "Kenny Golladay\\GollKe00",
+    "Player": "Kenny Golladay",
     "Pos": "WR",
-    "Tm": "DET",
     "": "",
     "Opp": "KAN",
     "Result": "L 30-34",
@@ -465,9 +434,8 @@
     "Y/Tgt": 7.44
   },
   {
-    "Player": "Dede Westbrook\\WestDe00",
+    "Player": "Dede Westbrook",
     "Pos": "WR",
-    "Tm": "JAX",
     "": "@",
     "Opp": "DEN",
     "Result": "W 26-24",
@@ -480,9 +448,8 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Zach Ertz\\ErtzZa00",
+    "Player": "Zach Ertz",
     "Pos": "TE",
-    "Tm": "PHI",
     "": "@",
     "Opp": "GNB",
     "Result": "W 34-27",
@@ -495,9 +462,8 @@
     "Y/Tgt": 8.13
   },
   {
-    "Player": "Austin Ekeler\\EkelAu00",
+    "Player": "Austin Ekeler",
     "Pos": "RB",
-    "Tm": "LAC",
     "": "@",
     "Opp": "MIA",
     "Result": "W 30-10",
@@ -510,9 +476,8 @@
     "Y/Tgt": 12.4
   },
   {
-    "Player": "Courtland Sutton\\SuttCo00",
+    "Player": "Courtland Sutton",
     "Pos": "WR",
-    "Tm": "DEN",
     "": "",
     "Opp": "JAX",
     "Result": "L 24-26",
@@ -525,9 +490,8 @@
     "Y/Tgt": 6.89
   },
   {
-    "Player": "Jimmy Graham\\GrahJi00",
+    "Player": "Jimmy Graham",
     "Pos": "TE",
-    "Tm": "GNB",
     "": "",
     "Opp": "PHI",
     "Result": "L 27-34",
@@ -540,9 +504,8 @@
     "Y/Tgt": 6.78
   },
   {
-    "Player": "Willie Snead\\SneaWi00",
+    "Player": "Willie Snead",
     "Pos": "WR/RS",
-    "Tm": "BAL",
     "": "",
     "Opp": "CLE",
     "Result": "L 25-40",
@@ -555,9 +518,8 @@
     "Y/Tgt": 30.5
   },
   {
-    "Player": "Jarius Wright\\WrigJa02",
+    "Player": "Jarius Wright",
     "Pos": "WR",
-    "Tm": "CAR",
     "": "@",
     "Opp": "HOU",
     "Result": "W 16-10",
@@ -570,9 +532,8 @@
     "Y/Tgt": 9.83
   },
   {
-    "Player": "Dawson Knox\\KnoxDa00",
+    "Player": "Dawson Knox",
     "Pos": "TE",
-    "Tm": "BUF",
     "": "",
     "Opp": "NWE",
     "Result": "L 10-16",
@@ -585,9 +546,8 @@
     "Y/Tgt": 19.33
   },
   {
-    "Player": "Will Dissly\\DissWi00",
+    "Player": "Will Dissly",
     "Pos": "TE",
-    "Tm": "SEA",
     "": "@",
     "Opp": "ARI",
     "Result": "W 27-10",
@@ -600,9 +560,8 @@
     "Y/Tgt": 7.13
   },
   {
-    "Player": "DaeSean Hamilton\\HamiDa01",
+    "Player": "DaeSean Hamilton",
     "Pos": "WR",
-    "Tm": "DEN",
     "": "",
     "Opp": "JAX",
     "Result": "L 24-26",
@@ -615,9 +574,8 @@
     "Y/Tgt": 11.4
   },
   {
-    "Player": "Jaylen Samuels\\SamuJa00",
+    "Player": "Jaylen Samuels",
     "Pos": "RB",
-    "Tm": "PIT",
     "": "",
     "Opp": "CIN",
     "Result": "W 27-3",
@@ -630,9 +588,8 @@
     "Y/Tgt": 7.13
   },
   {
-    "Player": "James White\\WhitJa02",
+    "Player": "James White",
     "Pos": "RB",
-    "Tm": "NWE",
     "": "@",
     "Opp": "BUF",
     "Result": "W 16-10",
@@ -645,9 +602,8 @@
     "Y/Tgt": 5.7
   },
   {
-    "Player": "Chris Thompson\\ThomCh03",
+    "Player": "Chris Thompson",
     "Pos": "RB",
-    "Tm": "WAS",
     "": "@",
     "Opp": "NYG",
     "Result": "L 3-24",
@@ -660,9 +616,8 @@
     "Y/Tgt": 11.2
   },
   {
-    "Player": "Javon Wims\\WimsJa00",
+    "Player": "Javon Wims",
     "Pos": "WR",
-    "Tm": "CHI",
     "": "",
     "Opp": "MIN",
     "Result": "W 16-6",
@@ -675,9 +630,8 @@
     "Y/Tgt": 11.2
   },
   {
-    "Player": "Wayne Gallman\\GallWa00",
+    "Player": "Wayne Gallman",
     "Pos": "RB",
-    "Tm": "NYG",
     "": "",
     "Opp": "WAS",
     "Result": "W 24-3",
@@ -690,9 +644,8 @@
     "Y/Tgt": 7.86
   },
   {
-    "Player": "Evan Engram\\EngrEv00",
+    "Player": "Evan Engram",
     "Pos": "TE",
-    "Tm": "NYG",
     "": "",
     "Opp": "WAS",
     "Result": "W 24-3",
@@ -705,9 +658,8 @@
     "Y/Tgt": 7.71
   },
   {
-    "Player": "Todd Gurley\\GurlTo01",
+    "Player": "Todd Gurley",
     "Pos": "RB",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -720,9 +672,8 @@
     "Y/Tgt": 4.91
   },
   {
-    "Player": "Sammy Watkins\\WatkSa00",
+    "Player": "Sammy Watkins",
     "Pos": "WR",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -735,9 +686,8 @@
     "Y/Tgt": 9
   },
   {
-    "Player": "Darren Waller\\WallDa01",
+    "Player": "Darren Waller",
     "Pos": "TE",
-    "Tm": "OAK",
     "": "@",
     "Opp": "IND",
     "Result": "W 31-24",
@@ -750,9 +700,8 @@
     "Y/Tgt": 6.63
   },
   {
-    "Player": "Geronimo Allison\\AlliGe01",
+    "Player": "Geronimo Allison",
     "Pos": "WR",
-    "Tm": "GNB",
     "": "",
     "Opp": "PHI",
     "Result": "L 27-34",
@@ -765,9 +714,8 @@
     "Y/Tgt": 13
   },
   {
-    "Player": "Julio Jones\\JoneJu02",
+    "Player": "Julio Jones",
     "Pos": "WR",
-    "Tm": "ATL",
     "": "",
     "Opp": "TEN",
     "Result": "L 10-24",
@@ -780,9 +728,8 @@
     "Y/Tgt": 7.43
   },
   {
-    "Player": "Tyler Lockett\\LockTy00",
+    "Player": "Tyler Lockett",
     "Pos": "WR",
-    "Tm": "SEA",
     "": "@",
     "Opp": "ARI",
     "Result": "W 27-10",
@@ -795,9 +742,8 @@
     "Y/Tgt": 12.75
   },
   {
-    "Player": "Jaron Brown\\BrowJa03",
+    "Player": "Jaron Brown",
     "Pos": "WR",
-    "Tm": "SEA",
     "": "@",
     "Opp": "ARI",
     "Result": "W 27-10",
@@ -810,9 +756,8 @@
     "Y/Tgt": 16.67
   },
   {
-    "Player": "Auden Tate\\TateAu00",
+    "Player": "Auden Tate",
     "Pos": "WR",
-    "Tm": "CIN",
     "": "@",
     "Opp": "PIT",
     "Result": "L 3-27",
@@ -825,9 +770,8 @@
     "Y/Tgt": 8.33
   },
   {
-    "Player": "Jason Witten\\WittJa00",
+    "Player": "Jason Witten",
     "Pos": "TE",
-    "Tm": "DAL",
     "": "@",
     "Opp": "NOR",
     "Result": "L 10-12",
@@ -840,9 +784,8 @@
     "Y/Tgt": 12.5
   },
   {
-    "Player": "Blake Jarwin\\JarwBl00",
+    "Player": "Blake Jarwin",
     "Pos": "TE",
-    "Tm": "DAL",
     "": "@",
     "Opp": "NOR",
     "Result": "L 10-12",
@@ -855,9 +798,8 @@
     "Y/Tgt": 16.33
   },
   {
-    "Player": "Keenan Allen\\AlleKe00",
+    "Player": "Keenan Allen",
     "Pos": "WR",
-    "Tm": "LAC",
     "": "@",
     "Opp": "MIA",
     "Result": "W 30-10",
@@ -870,9 +812,8 @@
     "Y/Tgt": 8
   },
   {
-    "Player": "Amari Cooper\\CoopAm00",
+    "Player": "Amari Cooper",
     "Pos": "WR",
-    "Tm": "DAL",
     "": "@",
     "Opp": "NOR",
     "Result": "L 10-12",
@@ -885,9 +826,8 @@
     "Y/Tgt": 6
   },
   {
-    "Player": "Eric Ebron\\EbroEr00",
+    "Player": "Eric Ebron",
     "Pos": "TE",
-    "Tm": "IND",
     "": "",
     "Opp": "OAK",
     "Result": "L 24-31",
@@ -900,9 +840,8 @@
     "Y/Tgt": 9.6
   },
   {
-    "Player": "Chester Rogers\\RogeCh02",
+    "Player": "Chester Rogers",
     "Pos": "WR",
-    "Tm": "IND",
     "": "",
     "Opp": "OAK",
     "Result": "L 24-31",
@@ -915,9 +854,8 @@
     "Y/Tgt": 8
   },
   {
-    "Player": "Larry Fitzgerald\\FitzLa00",
+    "Player": "Larry Fitzgerald",
     "Pos": "WR",
-    "Tm": "ARI",
     "": "",
     "Opp": "SEA",
     "Result": "L 10-27",
@@ -930,9 +868,8 @@
     "Y/Tgt": 9.4
   },
   {
-    "Player": "Marvin Hall\\HallMa02",
+    "Player": "Marvin Hall",
     "Pos": "WR",
-    "Tm": "DET",
     "": "",
     "Opp": "KAN",
     "Result": "L 30-34",
@@ -945,9 +882,8 @@
     "Y/Tgt": 15.67
   },
   {
-    "Player": "Marquez Valdes-Scantling\\ValdMa00",
+    "Player": "Marquez Valdes-Scantling",
     "Pos": "WR",
-    "Tm": "GNB",
     "": "",
     "Opp": "PHI",
     "Result": "L 27-34",
@@ -960,9 +896,8 @@
     "Y/Tgt": 6.71
   },
   {
-    "Player": "Josh Gordon\\GordJo02",
+    "Player": "Josh Gordon",
     "Pos": "WR",
-    "Tm": "NWE",
     "": "@",
     "Opp": "BUF",
     "Result": "W 16-10",
@@ -975,9 +910,8 @@
     "Y/Tgt": 6.57
   },
   {
-    "Player": "Preston Williams\\WillPr01",
+    "Player": "Preston Williams",
     "Pos": "WR",
-    "Tm": "MIA",
     "": "",
     "Opp": "LAC",
     "Result": "L 10-30",
@@ -990,9 +924,8 @@
     "Y/Tgt": 6.57
   },
   {
-    "Player": "DJ Chark\\CharDJ00",
+    "Player": "DJ Chark",
     "Pos": "WR",
-    "Tm": "JAX",
     "": "@",
     "Opp": "DEN",
     "Result": "W 26-24",
@@ -1005,9 +938,8 @@
     "Y/Tgt": 5.5
   },
   {
-    "Player": "Gerald Everett\\EverGe00",
+    "Player": "Gerald Everett",
     "Pos": "TE",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -1020,9 +952,8 @@
     "Y/Tgt": 5.5
   },
   {
-    "Player": "D.J. Moore\\MoorD.00",
+    "Player": "D.J. Moore",
     "Pos": "WR",
-    "Tm": "CAR",
     "": "@",
     "Opp": "HOU",
     "Result": "W 16-10",
@@ -1035,9 +966,8 @@
     "Y/Tgt": 8.8
   },
   {
-    "Player": "Darrel Williams\\WillDa10",
+    "Player": "Darrel Williams",
     "Pos": "RB",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -1050,9 +980,8 @@
     "Y/Tgt": 10.75
   },
   {
-    "Player": "Deon Yelder\\YeldDe00",
+    "Player": "Deon Yelder",
     "Pos": "TE",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -1065,9 +994,8 @@
     "Y/Tgt": 21.5
   },
   {
-    "Player": "Chris Carson\\CarsCh00",
+    "Player": "Chris Carson",
     "Pos": "RB",
-    "Tm": "SEA",
     "": "@",
     "Opp": "ARI",
     "Result": "W 27-10",
@@ -1080,9 +1008,8 @@
     "Y/Tgt": 10.25
   },
   {
-    "Player": "Randall Cobb\\CobbRa00",
+    "Player": "Randall Cobb",
     "Pos": "WR",
-    "Tm": "DAL",
     "": "@",
     "Opp": "NOR",
     "Result": "L 10-12",
@@ -1095,9 +1022,8 @@
     "Y/Tgt": 6.83
   },
   {
-    "Player": "Tyler Higbee\\HigbTy00",
+    "Player": "Tyler Higbee",
     "Pos": "TE",
-    "Tm": "LAR",
     "": "",
     "Opp": "TAM",
     "Result": "L 40-55",
@@ -1110,9 +1036,8 @@
     "Y/Tgt": 5.86
   },
   {
-    "Player": "DeAndre Hopkins\\HopkDe00",
+    "Player": "DeAndre Hopkins",
     "Pos": "WR",
-    "Tm": "HOU",
     "": "",
     "Opp": "CAR",
     "Result": "L 10-16",
@@ -1125,9 +1050,8 @@
     "Y/Tgt": 5.13
   },
   {
-    "Player": "Nyheim Hines\\HineNy00",
+    "Player": "Nyheim Hines",
     "Pos": "RB",
-    "Tm": "IND",
     "": "",
     "Opp": "OAK",
     "Result": "L 24-31",
@@ -1140,9 +1064,8 @@
     "Y/Tgt": 6.5
   },
   {
-    "Player": "Hayden Hurst\\HursHa00",
+    "Player": "Hayden Hurst",
     "Pos": "TE",
-    "Tm": "BAL",
     "": "",
     "Opp": "CLE",
     "Result": "L 25-40",
@@ -1155,9 +1078,8 @@
     "Y/Tgt": 19.5
   },
   {
-    "Player": "Alshon Jeffery\\JeffAl00",
+    "Player": "Alshon Jeffery",
     "Pos": "WR",
-    "Tm": "PHI",
     "": "@",
     "Opp": "GNB",
     "Result": "W 34-27",
@@ -1170,9 +1092,8 @@
     "Y/Tgt": 4.22
   },
   {
-    "Player": "Aaron Jones\\JoneAa00",
+    "Player": "Aaron Jones",
     "Pos": "RB",
-    "Tm": "GNB",
     "": "",
     "Opp": "PHI",
     "Result": "L 27-34",
@@ -1185,9 +1106,8 @@
     "Y/Tgt": 5.29
   },
   {
-    "Player": "Lance Kendricks\\KendLa00",
+    "Player": "Lance Kendricks",
     "Pos": "TE",
-    "Tm": "LAC",
     "": "@",
     "Opp": "MIA",
     "Result": "W 30-10",
@@ -1200,9 +1120,8 @@
     "Y/Tgt": 12.33
   },
   {
-    "Player": "Christian Kirk\\KirkCh01",
+    "Player": "Christian Kirk",
     "Pos": "WR",
-    "Tm": "ARI",
     "": "",
     "Opp": "SEA",
     "Result": "L 10-27",
@@ -1215,9 +1134,8 @@
     "Y/Tgt": 7.4
   },
   {
-    "Player": "Cameron Brate\\BratCa00",
+    "Player": "Cameron Brate",
     "Pos": "TE",
-    "Tm": "TAM",
     "": "@",
     "Opp": "LAR",
     "Result": "W 55-40",
@@ -1230,9 +1148,8 @@
     "Y/Tgt": 12
   },
   {
-    "Player": "Seth Roberts\\RobeSe00",
+    "Player": "Seth Roberts",
     "Pos": "WR",
-    "Tm": "BAL",
     "": "",
     "Opp": "CLE",
     "Result": "L 25-40",
@@ -1245,9 +1162,8 @@
     "Y/Tgt": 7.2
   },
   {
-    "Player": "John Ross\\RossJo00",
+    "Player": "John Ross",
     "Pos": "WR",
-    "Tm": "CIN",
     "": "@",
     "Opp": "PIT",
     "Result": "L 3-27",
@@ -1260,9 +1176,8 @@
     "Y/Tgt": 6
   },
   {
-    "Player": "Tyrell Williams\\WillTy00",
+    "Player": "Tyrell Williams",
     "Pos": "WR",
-    "Tm": "OAK",
     "": "@",
     "Opp": "IND",
     "Result": "W 31-24",
@@ -1275,9 +1190,8 @@
     "Y/Tgt": 5.14
   },
   {
-    "Player": "Dalvin Cook\\CookDa01",
+    "Player": "Dalvin Cook",
     "Pos": "RB",
-    "Tm": "MIN",
     "": "@",
     "Opp": "CHI",
     "Result": "L 6-16",
@@ -1290,9 +1204,8 @@
     "Y/Tgt": 4.38
   },
   {
-    "Player": "Olabisi Johnson\\JohnOl00",
+    "Player": "Olabisi Johnson",
     "Pos": "WR",
-    "Tm": "MIN",
     "": "@",
     "Opp": "CHI",
     "Result": "L 6-16",
@@ -1305,9 +1218,8 @@
     "Y/Tgt": 8.75
   },
   {
-    "Player": "Demarcus Robinson\\RobiDe01",
+    "Player": "Demarcus Robinson",
     "Pos": "WR",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -1320,9 +1232,8 @@
     "Y/Tgt": 3.89
   },
   {
-    "Player": "Royce Freeman\\FreeRo00",
+    "Player": "Royce Freeman",
     "Pos": "RB",
-    "Tm": "DEN",
     "": "",
     "Opp": "JAX",
     "Result": "L 24-26",
@@ -1335,9 +1246,8 @@
     "Y/Tgt": 5.67
   },
   {
-    "Player": "Tyler Boyd\\BoydTy00",
+    "Player": "Tyler Boyd",
     "Pos": "WR",
-    "Tm": "CIN",
     "": "@",
     "Opp": "PIT",
     "Result": "L 3-27",
@@ -1350,9 +1260,8 @@
     "Y/Tgt": 5.5
   },
   {
-    "Player": "O.J. Howard\\HowaO.00",
+    "Player": "O.J. Howard",
     "Pos": "TE",
-    "Tm": "TAM",
     "": "@",
     "Opp": "LAR",
     "Result": "W 55-40",
@@ -1365,9 +1274,8 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "LeSean McCoy\\McCoLe01",
+    "Player": "LeSean McCoy",
     "Pos": "RB",
-    "Tm": "KAN",
     "": "@",
     "Opp": "DET",
     "Result": "W 34-30",
@@ -1380,9 +1288,8 @@
     "Y/Tgt": 8.25
   },
   {
-    "Player": "Miles Boykin\\BoykMi00",
+    "Player": "Miles Boykin",
     "Pos": "WR",
-    "Tm": "BAL",
     "": "",
     "Opp": "CLE",
     "Result": "L 25-40",
@@ -1395,9 +1302,8 @@
     "Y/Tgt": 10.67
   },
   {
-    "Player": "Kerryon Johnson\\JohnKe06",
+    "Player": "Kerryon Johnson",
     "Pos": "RB",
-    "Tm": "DET",
     "": "",
     "Opp": "KAN",
     "Result": "L 30-34",
@@ -1410,9 +1316,8 @@
     "Y/Tgt": 10.67
   },
   {
-    "Player": "Calvin Ridley\\RidlCa00",
+    "Player": "Calvin Ridley",
     "Pos": "WR",
-    "Tm": "ATL",
     "": "",
     "Opp": "TEN",
     "Result": "L 10-24",
@@ -1425,9 +1330,8 @@
     "Y/Tgt": 5.33
   },
   {
-    "Player": "Curtis Samuel\\SamuCu00",
+    "Player": "Curtis Samuel",
     "Pos": "WR",
-    "Tm": "CAR",
     "": "@",
     "Opp": "HOU",
     "Result": "W 16-10",
@@ -1440,9 +1344,8 @@
     "Y/Tgt": 4.57
   },
   {
-    "Player": "Mark Andrews\\AndrMa00",
+    "Player": "Mark Andrews",
     "Pos": "TE",
-    "Tm": "BAL",
     "": "",
     "Opp": "CLE",
     "Result": "L 25-40",
@@ -1455,9 +1358,8 @@
     "Y/Tgt": 3.88
   },
   {
-    "Player": "Noah Fant\\FantNo00",
+    "Player": "Noah Fant",
     "Pos": "TE",
-    "Tm": "DEN",
     "": "",
     "Opp": "JAX",
     "Result": "L 24-26",
@@ -1470,9 +1372,8 @@
     "Y/Tgt": 7.75
   },
   {
-    "Player": "Julian Edelman\\EdelJu00",
+    "Player": "Julian Edelman",
     "Pos": "WR",
-    "Tm": "NWE",
     "": "@",
     "Opp": "BUF",
     "Result": "W 16-10",
@@ -1485,9 +1386,8 @@
     "Y/Tgt": 4.29
   },
   {
-    "Player": "Ezekiel Elliott\\ElliEz00",
+    "Player": "Ezekiel Elliott",
     "Pos": "RB",
-    "Tm": "DAL",
     "": "@",
     "Opp": "NOR",
     "Result": "L 10-12",

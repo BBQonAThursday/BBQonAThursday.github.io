@@ -1,7 +1,7 @@
 {
   "week3": [
   {
-    "Player": "Mike Evans\\EvanMi00",
+    "Player": "Mike Evans",
     "Pos": "WR",
     "Tm": "TAM",
     "Location": "",
@@ -16,7 +16,7 @@
     "Y/Tgt": 12.67
   },
   {
-    "Player": "Keenan Allen\\AlleKe00",
+    "Player": "Keenan Allen",
     "Pos": "WR",
     "Tm": "LAC",
     "Location": "",
@@ -31,7 +31,7 @@
     "Y/Tgt": 10.76
   },
   {
-    "Player": "Tyler Lockett\\LockTy00",
+    "Player": "Tyler Lockett",
     "Pos": "WR",
     "Tm": "SEA",
     "Location": "",
@@ -46,7 +46,7 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Darren Waller\\WallDa01",
+    "Player": "Darren Waller",
     "Pos": "TE",
     "Tm": "OAK",
     "Location": "@",
@@ -61,7 +61,7 @@
     "Y/Tgt": 9.57
   },
   {
-    "Player": "Julio Jones\\JoneJu02",
+    "Player": "Julio Jones",
     "Pos": "WR",
     "Tm": "ATL",
     "Location": "@",
@@ -76,7 +76,7 @@
     "Y/Tgt": 14.22
   },
   {
-    "Player": "Evan Engram\\EngrEv00",
+    "Player": "Evan Engram",
     "Pos": "TE",
     "Tm": "NYG",
     "Location": "@",
@@ -91,7 +91,7 @@
     "Y/Tgt": 14.13
   },
   {
-    "Player": "Brandin Cooks\\CookBr00",
+    "Player": "Brandin Cooks",
     "Pos": "WR",
     "Tm": "LAR",
     "Location": "@",
@@ -106,7 +106,7 @@
     "Y/Tgt": 9.33
   },
   {
-    "Player": "Marvin Jones\\JoneMa02",
+    "Player": "Marvin Jones",
     "Pos": "WR",
     "Tm": "DET",
     "Location": "@",
@@ -121,7 +121,7 @@
     "Y/Tgt": 11.22
   },
   {
-    "Player": "Cooper Kupp\\KuppCo00",
+    "Player": "Cooper Kupp",
     "Pos": "WR",
     "Tm": "LAR",
     "Location": "@",
@@ -136,7 +136,7 @@
     "Y/Tgt": 8.42
   },
   {
-    "Player": "Sterling Shepard\\ShepSt00",
+    "Player": "Sterling Shepard",
     "Pos": "WR",
     "Tm": "NYG",
     "Location": "@",
@@ -151,7 +151,7 @@
     "Y/Tgt": 11.11
   },
   {
-    "Player": "Marquez Valdes-Scantling\\ValdMa00",
+    "Player": "Marquez Valdes-Scantling",
     "Pos": "WR",
     "Tm": "GNB",
     "Location": "",
@@ -166,7 +166,7 @@
     "Y/Tgt": 9.9
   },
   {
-    "Player": "Mecole Hardman\\HardMe00",
+    "Player": "Mecole Hardman",
     "Pos": "WR",
     "Tm": "KAN",
     "Location": "",
@@ -181,7 +181,7 @@
     "Y/Tgt": 19.4
   },
   {
-    "Player": "Adam Humphries\\HumpAd00",
+    "Player": "Adam Humphries",
     "Pos": "WR",
     "Tm": "TEN",
     "Location": "@",
@@ -196,7 +196,7 @@
     "Y/Tgt": 10.33
   },
   {
-    "Player": "Alvin Kamara\\KamaAl00",
+    "Player": "Alvin Kamara",
     "Pos": "RB",
     "Tm": "NOR",
     "Location": "@",
@@ -211,7 +211,7 @@
     "Y/Tgt": 9.2
   },
   {
-    "Player": "Travis Kelce\\KelcTr00",
+    "Player": "Travis Kelce",
     "Pos": "TE",
     "Tm": "KAN",
     "Location": "",
@@ -226,7 +226,7 @@
     "Y/Tgt": 11.13
   },
   {
-    "Player": "Kenny Stills\\StilKe00",
+    "Player": "Kenny Stills",
     "Pos": "WR",
     "Tm": "HOU",
     "Location": "@",
@@ -241,7 +241,7 @@
     "Y/Tgt": 14.83
   },
   {
-    "Player": "Amari Cooper\\CoopAm00",
+    "Player": "Amari Cooper",
     "Pos": "WR",
     "Tm": "DAL",
     "Location": "",
@@ -256,7 +256,7 @@
     "Y/Tgt": 12.57
   },
   {
-    "Player": "Auden Tate\\TateAu00",
+    "Player": "Auden Tate",
     "Pos": "WR",
     "Tm": "CIN",
     "Location": "@",
@@ -271,7 +271,7 @@
     "Y/Tgt": 8.8
   },
   {
-    "Player": "Courtland Sutton\\SuttCo00",
+    "Player": "Courtland Sutton",
     "Pos": "WR",
     "Tm": "DEN",
     "Location": "@",
@@ -286,7 +286,7 @@
     "Y/Tgt": 12.43
   },
   {
-    "Player": "Josh Gordon\\GordJo02",
+    "Player": "Josh Gordon",
     "Pos": "WR",
     "Tm": "NWE",
     "Location": "",
@@ -301,7 +301,7 @@
     "Y/Tgt": 7.55
   },
   {
-    "Player": "Paul Richardson\\RichPa01",
+    "Player": "Paul Richardson",
     "Pos": "WR",
     "Tm": "WAS",
     "Location": "",
@@ -316,7 +316,7 @@
     "Y/Tgt": 9.22
   },
   {
-    "Player": "Darius Slayton\\SlayDa01",
+    "Player": "Darius Slayton",
     "Pos": "WR",
     "Tm": "NYG",
     "Location": "@",
@@ -331,7 +331,7 @@
     "Y/Tgt": 16.4
   },
   {
-    "Player": "JuJu Smith-Schuster\\SmitJu00",
+    "Player": "JuJu Smith-Schuster",
     "Pos": "WR",
     "Tm": "PIT",
     "Location": "@",
@@ -346,7 +346,7 @@
     "Y/Tgt": 11.57
   },
   {
-    "Player": "Chris Thompson\\ThomCh03",
+    "Player": "Chris Thompson",
     "Pos": "RB",
     "Tm": "WAS",
     "Location": "",
@@ -361,7 +361,7 @@
     "Y/Tgt": 15.8
   },
   {
-    "Player": "DJ Chark\\CharDJ00",
+    "Player": "DJ Chark",
     "Pos": "WR",
     "Tm": "JAX",
     "Location": "",
@@ -376,7 +376,7 @@
     "Y/Tgt": 15.2
   },
   {
-    "Player": "Taylor Gabriel\\GabrTa00",
+    "Player": "Taylor Gabriel",
     "Pos": "WR",
     "Tm": "CHI",
     "Location": "@",
@@ -391,7 +391,7 @@
     "Y/Tgt": 10.71
   },
   {
-    "Player": "Greg Olsen\\OlseGr00",
+    "Player": "Greg Olsen",
     "Pos": "TE",
     "Tm": "CAR",
     "Location": "@",
@@ -406,7 +406,7 @@
     "Y/Tgt": 10.71
   },
   {
-    "Player": "Mohamed Sanu\\SanuMo00",
+    "Player": "Mohamed Sanu",
     "Pos": "WR",
     "Tm": "ATL",
     "Location": "@",
@@ -421,7 +421,7 @@
     "Y/Tgt": 12.5
   },
   {
-    "Player": "Jordan Akins\\AkinJo00",
+    "Player": "Jordan Akins",
     "Pos": "TE",
     "Tm": "HOU",
     "Location": "@",
@@ -436,7 +436,7 @@
     "Y/Tgt": 14.6
   },
   {
-    "Player": "Miles Sanders\\SandMi01",
+    "Player": "Miles Sanders",
     "Pos": "RB",
     "Tm": "PHI",
     "Location": "",
@@ -451,7 +451,7 @@
     "Y/Tgt": 18.25
   },
   {
-    "Player": "Terry McLaurin\\McLaTe00",
+    "Player": "Terry McLaurin",
     "Pos": "WR",
     "Tm": "WAS",
     "Location": "",
@@ -466,7 +466,7 @@
     "Y/Tgt": 8.75
   },
   {
-    "Player": "Tajae Sharpe\\SharTa00",
+    "Player": "Tajae Sharpe",
     "Pos": "WR",
     "Tm": "TEN",
     "Location": "@",
@@ -481,7 +481,7 @@
     "Y/Tgt": 23.33
   },
   {
-    "Player": "Tyler Boyd\\BoydTy00",
+    "Player": "Tyler Boyd",
     "Pos": "WR",
     "Tm": "CIN",
     "Location": "@",
@@ -496,7 +496,7 @@
     "Y/Tgt": 6.18
   },
   {
-    "Player": "Preston Williams\\WillPr01",
+    "Player": "Preston Williams",
     "Pos": "WR",
     "Tm": "MIA",
     "Location": "@",
@@ -511,7 +511,7 @@
     "Y/Tgt": 5.67
   },
   {
-    "Player": "DeAndre Hopkins\\HopkDe00",
+    "Player": "DeAndre Hopkins",
     "Pos": "WR",
     "Tm": "HOU",
     "Location": "@",
@@ -526,7 +526,7 @@
     "Y/Tgt": 9.57
   },
   {
-    "Player": "Dawson Knox\\KnoxDa00",
+    "Player": "Dawson Knox",
     "Pos": "TE",
     "Tm": "BUF",
     "Location": "",
@@ -541,7 +541,7 @@
     "Y/Tgt": 16.75
   },
   {
-    "Player": "D.K. Metcalf\\MetcDK00",
+    "Player": "D.K. Metcalf",
     "Pos": "WR",
     "Tm": "SEA",
     "Location": "",
@@ -556,7 +556,7 @@
     "Y/Tgt": 11.17
   },
   {
-    "Player": "Austin Hooper\\HoopAu00",
+    "Player": "Austin Hooper",
     "Pos": "TE",
     "Tm": "ATL",
     "Location": "@",
@@ -571,7 +571,7 @@
     "Y/Tgt": 9.43
   },
   {
-    "Player": "O.J. Howard\\HowaO.00",
+    "Player": "O.J. Howard",
     "Pos": "TE",
     "Tm": "TAM",
     "Location": "",
@@ -586,7 +586,7 @@
     "Y/Tgt": 16.5
   },
   {
-    "Player": "T.Y. Hilton\\HiltT.00",
+    "Player": "T.Y. Hilton",
     "Pos": "WR",
     "Tm": "IND",
     "Location": "",
@@ -601,7 +601,7 @@
     "Y/Tgt": 6.5
   },
   {
-    "Player": "Zach Ertz\\ErtzZa00",
+    "Player": "Zach Ertz",
     "Pos": "TE",
     "Tm": "PHI",
     "Location": "",
@@ -616,7 +616,7 @@
     "Y/Tgt": 9.14
   },
   {
-    "Player": "Delanie Walker\\WalkHu00",
+    "Player": "Delanie Walker",
     "Pos": "TE",
     "Tm": "TEN",
     "Location": "@",
@@ -631,7 +631,7 @@
     "Y/Tgt": 7.11
   },
   {
-    "Player": "Sammy Watkins\\WatkSa00",
+    "Player": "Sammy Watkins",
     "Pos": "WR",
     "Tm": "KAN",
     "Location": "",
@@ -646,7 +646,7 @@
     "Y/Tgt": 8
   },
   {
-    "Player": "Will Dissly\\DissWi00",
+    "Player": "Will Dissly",
     "Pos": "TE",
     "Tm": "SEA",
     "Location": "",
@@ -661,7 +661,7 @@
     "Y/Tgt": 8.86
   },
   {
-    "Player": "Julian Edelman\\EdelJu00",
+    "Player": "Julian Edelman",
     "Pos": "WR",
     "Tm": "NWE",
     "Location": "",
@@ -676,7 +676,7 @@
     "Y/Tgt": 6.2
   },
   {
-    "Player": "Mack Hollins\\HollMa00",
+    "Player": "Mack Hollins",
     "Pos": "WR",
     "Tm": "PHI",
     "Location": "",
@@ -691,7 +691,7 @@
     "Y/Tgt": 8.86
   },
   {
-    "Player": "Jarvis Landry\\LandJa00",
+    "Player": "Jarvis Landry",
     "Pos": "WR",
     "Tm": "CLE",
     "Location": "",
@@ -706,7 +706,7 @@
     "Y/Tgt": 6.89
   },
   {
-    "Player": "Allen Robinson\\RobiAl02",
+    "Player": "Allen Robinson",
     "Pos": "WR",
     "Tm": "CHI",
     "Location": "@",
@@ -721,7 +721,7 @@
     "Y/Tgt": 8.57
   },
   {
-    "Player": "Irv Smith Jr.\\SmitIr01",
+    "Player": "Irv Smith Jr.",
     "Pos": "TE",
     "Tm": "MIN",
     "Location": "",
@@ -736,7 +736,7 @@
     "Y/Tgt": 20
   },
   {
-    "Player": "Christian Kirk\\KirkCh01",
+    "Player": "Christian Kirk",
     "Pos": "WR",
     "Tm": "ARI",
     "Location": "",
@@ -751,7 +751,7 @@
     "Y/Tgt": 4.92
   },
   {
-    "Player": "Nick Boyle\\BoylNi00",
+    "Player": "Nick Boyle",
     "Pos": "TE",
     "Tm": "BAL",
     "Location": "@",
@@ -766,7 +766,7 @@
     "Y/Tgt": 11.6
   },
   {
-    "Player": "George Kittle\\KittGe00",
+    "Player": "George Kittle",
     "Pos": "TE",
     "Tm": "SFO",
     "Location": "",
@@ -781,7 +781,7 @@
     "Y/Tgt": 7.13
   },
   {
-    "Player": "Davante Adams\\AdamDa01",
+    "Player": "Davante Adams",
     "Pos": "WR",
     "Tm": "GNB",
     "Location": "",
@@ -796,7 +796,7 @@
     "Y/Tgt": 14
   },
   {
-    "Player": "Odell Beckham\\BeckOd00",
+    "Player": "Odell Beckham",
     "Pos": "WR",
     "Tm": "CLE",
     "Location": "",
@@ -811,7 +811,7 @@
     "Y/Tgt": 6.22
   },
   {
-    "Player": "DeVante Parker\\ParkDe01",
+    "Player": "DeVante Parker",
     "Pos": "WR",
     "Tm": "MIA",
     "Location": "@",
@@ -826,7 +826,7 @@
     "Y/Tgt": 9.33
   },
   {
-    "Player": "Adam Thielen\\ThieAd00",
+    "Player": "Adam Thielen",
     "Pos": "WR",
     "Tm": "MIN",
     "Location": "",
@@ -841,7 +841,7 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Michael Thomas\\ThomMi05",
+    "Player": "Michael Thomas",
     "Pos": "WR",
     "Tm": "NOR",
     "Location": "@",
@@ -856,7 +856,7 @@
     "Y/Tgt": 7.71
   },
   {
-    "Player": "Jason Witten\\WittJa00",
+    "Player": "Jason Witten",
     "Pos": "TE",
     "Tm": "DAL",
     "Location": "",
@@ -871,7 +871,7 @@
     "Y/Tgt": 13.5
   },
   {
-    "Player": "Phillip Dorsett\\DorsPh00",
+    "Player": "Phillip Dorsett",
     "Pos": "WR",
     "Tm": "NWE",
     "Location": "",
@@ -886,7 +886,7 @@
     "Y/Tgt": 7.57
   },
   {
-    "Player": "Zach Pascal\\PascZa00",
+    "Player": "Zach Pascal",
     "Pos": "WR",
     "Tm": "IND",
     "Location": "",
@@ -901,7 +901,7 @@
     "Y/Tgt": 17.67
   },
   {
-    "Player": "Curtis Samuel\\SamuCu00",
+    "Player": "Curtis Samuel",
     "Pos": "WR",
     "Tm": "CAR",
     "Location": "@",
@@ -916,7 +916,7 @@
     "Y/Tgt": 7.57
   },
   {
-    "Player": "Diontae Johnson\\JohnDi01",
+    "Player": "Diontae Johnson",
     "Pos": "WR",
     "Tm": "PIT",
     "Location": "@",
@@ -931,7 +931,7 @@
     "Y/Tgt": 8.67
   },
   {
-    "Player": "D.J. Moore\\MoorD.00",
+    "Player": "D.J. Moore",
     "Pos": "WR",
     "Tm": "CAR",
     "Location": "@",
@@ -946,7 +946,7 @@
     "Y/Tgt": 26
   },
   {
-    "Player": "John Brown\\BrowJo02",
+    "Player": "John Brown",
     "Pos": "WR",
     "Tm": "BUF",
     "Location": "",
@@ -961,7 +961,7 @@
     "Y/Tgt": 10.2
   },
   {
-    "Player": "Will Fuller\\FullWi01",
+    "Player": "Will Fuller",
     "Pos": "WR",
     "Tm": "HOU",
     "Location": "@",
@@ -976,7 +976,7 @@
     "Y/Tgt": 7.29
   },
   {
-    "Player": "Kyle Juszczyk\\JuszKy00",
+    "Player": "Kyle Juszczyk",
     "Pos": "RB",
     "Tm": "SFO",
     "Location": "",
@@ -991,7 +991,7 @@
     "Y/Tgt": 17
   },
   {
-    "Player": "Nelson Agholor\\AghoNe00",
+    "Player": "Nelson Agholor",
     "Pos": "WR",
     "Tm": "PHI",
     "Location": "",
@@ -1006,7 +1006,7 @@
     "Y/Tgt": 4.17
   },
   {
-    "Player": "Marquise Brown\\BrowMa04",
+    "Player": "Marquise Brown",
     "Pos": "WR",
     "Tm": "BAL",
     "Location": "@",
@@ -1021,7 +1021,7 @@
     "Y/Tgt": 5.44
   },
   {
-    "Player": "Darren Fells\\FellDa01",
+    "Player": "Darren Fells",
     "Pos": "TE",
     "Tm": "HOU",
     "Location": "@",
@@ -1036,7 +1036,7 @@
     "Y/Tgt": 8.17
   },
   {
-    "Player": "Phillip Lindsay\\LindPh00",
+    "Player": "Phillip Lindsay",
     "Pos": "RB",
     "Tm": "DEN",
     "Location": "@",
@@ -1051,7 +1051,7 @@
     "Y/Tgt": 9.8
   },
   {
-    "Player": "Cole Beasley\\BeasCo00",
+    "Player": "Cole Beasley",
     "Pos": "WR",
     "Tm": "BUF",
     "Location": "",
@@ -1066,7 +1066,7 @@
     "Y/Tgt": 4.8
   },
   {
-    "Player": "Eric Ebron\\EbroEr00",
+    "Player": "Eric Ebron",
     "Pos": "TE",
     "Tm": "IND",
     "Location": "",
@@ -1081,7 +1081,7 @@
     "Y/Tgt": 11.75
   },
   {
-    "Player": "Willie Snead\\SneaWi00",
+    "Player": "Willie Snead",
     "Pos": "WR/RS",
     "Tm": "BAL",
     "Location": "@",
@@ -1096,7 +1096,7 @@
     "Y/Tgt": 9.4
   },
   {
-    "Player": "Darrel Williams\\WillDa10",
+    "Player": "Darrel Williams",
     "Pos": "RB",
     "Tm": "KAN",
     "Location": "",
@@ -1111,7 +1111,7 @@
     "Y/Tgt": 9.4
   },
   {
-    "Player": "Jack Doyle\\DoylJa00",
+    "Player": "Jack Doyle",
     "Pos": "TE",
     "Tm": "IND",
     "Location": "",
@@ -1126,7 +1126,7 @@
     "Y/Tgt": 11.5
   },
   {
-    "Player": "Dede Westbrook\\WestDe00",
+    "Player": "Dede Westbrook",
     "Pos": "WR",
     "Tm": "JAX",
     "Location": "",
@@ -1141,7 +1141,7 @@
     "Y/Tgt": 5.11
   },
   {
-    "Player": "Austin Ekeler\\EkelAu00",
+    "Player": "Austin Ekeler",
     "Pos": "RB",
     "Tm": "LAC",
     "Location": "",
@@ -1156,7 +1156,7 @@
     "Y/Tgt": 6.43
   },
   {
-    "Player": "Mike Williams\\WillMi07",
+    "Player": "Mike Williams",
     "Pos": "WR",
     "Tm": "LAC",
     "Location": "",
@@ -1171,7 +1171,7 @@
     "Y/Tgt": 6.43
   },
   {
-    "Player": "Corey Davis\\DaviCo03",
+    "Player": "Corey Davis",
     "Pos": "WR",
     "Tm": "TEN",
     "Location": "@",
@@ -1186,7 +1186,7 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Deebo Samuel\\SamuDe00",
+    "Player": "Deebo Samuel",
     "Pos": "WR",
     "Tm": "SFO",
     "Location": "",
@@ -1201,7 +1201,7 @@
     "Y/Tgt": 11
   },
   {
-    "Player": "Demarcus Robinson\\RobiDe01",
+    "Player": "Demarcus Robinson",
     "Pos": "WR",
     "Tm": "KAN",
     "Location": "",
@@ -1216,7 +1216,7 @@
     "Y/Tgt": 10.75
   },
   {
-    "Player": "Marquise Goodwin\\GoodMa00",
+    "Player": "Marquise Goodwin",
     "Pos": "WR",
     "Tm": "SFO",
     "Location": "",
@@ -1231,7 +1231,7 @@
     "Y/Tgt": 20.5
   },
   {
-    "Player": "Ryan Izzo\\IzzoRy00",
+    "Player": "Ryan Izzo",
     "Pos": "TE",
     "Tm": "NWE",
     "Location": "",
@@ -1246,7 +1246,7 @@
     "Y/Tgt": 41
   },
   {
-    "Player": "Ronald Jones\\JoneRo01",
+    "Player": "Ronald Jones",
     "Pos": "RB",
     "Tm": "TAM",
     "Location": "",
@@ -1261,7 +1261,7 @@
     "Y/Tgt": 41
   },
   {
-    "Player": "Chris Godwin\\GodwCh00",
+    "Player": "Chris Godwin",
     "Pos": "WR",
     "Tm": "TAM",
     "Location": "",
@@ -1276,7 +1276,7 @@
     "Y/Tgt": 10
   },
   {
-    "Player": "Robert Woods\\WoodRo02",
+    "Player": "Robert Woods",
     "Pos": "WR",
     "Tm": "LAR",
     "Location": "@",
@@ -1291,7 +1291,7 @@
     "Y/Tgt": 5
   },
   {
-    "Player": "Devin Smith\\SmitDe04",
+    "Player": "Devin Smith",
     "Pos": "WR",
     "Tm": "DAL",
     "Location": "",
@@ -1306,7 +1306,7 @@
     "Y/Tgt": 7.8
   },
   {
-    "Player": "Jakobi Meyers\\MeyeJa01",
+    "Player": "Jakobi Meyers",
     "Pos": "WR",
     "Tm": "NWE",
     "Location": "",
@@ -1321,7 +1321,7 @@
     "Y/Tgt": 12.67
   },
   {
-    "Player": "C.J. Prosise\\ProsC.00",
+    "Player": "C.J. Prosise",
     "Pos": "RB",
     "Tm": "SEA",
     "Location": "",
@@ -1336,7 +1336,7 @@
     "Y/Tgt": 7.6
   },
   {
-    "Player": "Jarius Wright\\WrigJa02",
+    "Player": "Jarius Wright",
     "Pos": "WR",
     "Tm": "CAR",
     "Location": "@",
@@ -1351,7 +1351,7 @@
     "Y/Tgt": 19
   },
   {
-    "Player": "Danny Amendola\\AmenDa00",
+    "Player": "Danny Amendola",
     "Pos": "WR",
     "Tm": "DET",
     "Location": "@",
@@ -1366,7 +1366,7 @@
     "Y/Tgt": 7.4
   },
   {
-    "Player": "Noah Fant\\FantNo00",
+    "Player": "Noah Fant",
     "Pos": "TE",
     "Tm": "DEN",
     "Location": "@",
@@ -1381,7 +1381,7 @@
     "Y/Tgt": 12.33
   },
   {
-    "Player": "Seth Roberts\\RobeSe00",
+    "Player": "Seth Roberts",
     "Pos": "WR",
     "Tm": "BAL",
     "Location": "@",
@@ -1396,7 +1396,7 @@
     "Y/Tgt": 18.5
   },
   {
-    "Player": "Larry Fitzgerald\\FitzLa00",
+    "Player": "Larry Fitzgerald",
     "Pos": "WR",
     "Tm": "ARI",
     "Location": "",
@@ -1411,7 +1411,7 @@
     "Y/Tgt": 5.14
   },
   {
-    "Player": "JJ Nelson\\NelsJJ00",
+    "Player": "JJ Nelson",
     "Pos": "WR",
     "Tm": "OAK",
     "Location": "@",
@@ -1426,7 +1426,7 @@
     "Y/Tgt": 7.2
   },
   {
-    "Player": "Nick Chubb\\ChubNi00",
+    "Player": "Nick Chubb",
     "Pos": "RB",
     "Tm": "CLE",
     "Location": "",
@@ -1441,7 +1441,7 @@
     "Y/Tgt": 5
   },
   {
-    "Player": "Christian McCaffrey\\McCaCh01",
+    "Player": "Christian McCaffrey",
     "Pos": "RB",
     "Tm": "CAR",
     "Location": "@",
@@ -1456,7 +1456,7 @@
     "Y/Tgt": 8.75
   },
   {
-    "Player": "Kenyan Drake\\DrakKe00",
+    "Player": "Kenyan Drake",
     "Pos": "RB",
     "Tm": "MIA",
     "Location": "@",
@@ -1471,7 +1471,7 @@
     "Y/Tgt": 5.67
   },
   {
-    "Player": "Joe Mixon\\MixoJo00",
+    "Player": "Joe Mixon",
     "Pos": "HB",
     "Tm": "CIN",
     "Location": "@",
@@ -1486,7 +1486,7 @@
     "Y/Tgt": 17
   },
   {
-    "Player": "Dalvin Cook\\CookDa01",
+    "Player": "Dalvin Cook",
     "Pos": "RB",
     "Tm": "MIN",
     "Location": "",
