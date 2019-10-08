@@ -140,6 +140,18 @@
         "write": false,
         "development": true,
         "trackSleep": true
+      },
+      "oct8": {
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
       }
     }    
   }
