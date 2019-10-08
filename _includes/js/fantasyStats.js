@@ -2,8 +2,27 @@ var xhr = new XMLHttpRequest();
 
 xhr.onload = function() {
   if(xhr.status === 200) {
+    let qb = [];
+    let wr = [];
+    let te = [];
+    let rb = [];
     responseObject = JSON.parse(xhr.responseText);
-    var htmlDis = "";
+    
+    for (var i = 0; i < responseObject.players.length; i++) {
+      if (responseObject.players[i].position == "WR") {
+        wr.push(responseObject.players[i]);
+      }
+      if (responseObject.players[i].position == "QB") {
+        qb.push(responseObject.players[i]);
+      }
+      if (responseObject.players[i].position == "RB") {
+        rb.push(responseObject.players[i]);
+      }
+      if (responseObject.players[i].position == "TE") {
+        te.push(responseObject.players[i]);
+      }
+      
+    /*var htmlDis = "";
     var recData = {};
     var week1Stats = responseObject.receiving.week1;
     var week2Stats = responseObject.receiving.week2;
@@ -37,15 +56,17 @@ xhr.onload = function() {
           <p>target/receptions: ${week1.targets} / ${week1.receptions}</p>
         </div>
         `;
-      }
-    
-      console.log(recData);
+      }*/
     
   }
-  document.getElementById('stats-test').innerHTML = htmlDis;
-};
+  // document.getElementById('stats-test').innerHTML = htmlDis;
+  };
+}
 
-xhr.open('GET', '/_data/fantasy-stats-2019/receiving-stats/receiving-stats.json', true);
+//xhr.open('GET', '/_data/fantasy-stats-2019/receiving-stats/receiving-stats.json', true);
+
+
+xhr.open('GET', 'https://api.fantasy.nfl.com/v1/players/stats?statType=seasonStats&season=2019&week=1&format=json', true);
 xhr.send(null);
 
 var playerDataStructure = {
