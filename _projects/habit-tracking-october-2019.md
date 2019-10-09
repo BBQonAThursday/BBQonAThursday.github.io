@@ -62,5 +62,4 @@ Track Sleep in sleep cycle every day.
 I ultimately want to get better sleep.
 
 <div class="habit-tracker">
-
 </div>
