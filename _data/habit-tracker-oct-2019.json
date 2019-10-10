@@ -164,6 +164,18 @@
         "write": false,
         "development": false,
         "trackSleep": true
+      },
+      "oct10": {
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": true,
+        "development": false,
+        "trackSleep": true
       }
 
     }    

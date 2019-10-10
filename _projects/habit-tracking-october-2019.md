@@ -6,7 +6,7 @@ preview: "October 2019"
 year: 2019
 jsarr: 
 - js/prism.js
-- js/app.js
+- js/habitTracking.js
 ---
 
 # Habit Tracking for October 2019
@@ -60,6 +60,18 @@ Lets Fast! 14-16 hours. 5 days a week.
 ### Track Sleep
 Track Sleep in sleep cycle every day.
 I ultimately want to get better sleep.
+
+
+## Update 10/10/2019
+I'm 10 days in now. It's been easy going for the most part regarding the habits. I clearly have been prioritizing hanging, counting calories and walking over development, writing and yoga. I'm beginning to realize that this may be a few too many things to track and focus on.
+
+Along with all this, not drinking has been interesting. I feel good, but I've also wanted to have a few beers. I've almost broke a few times now. Is it really worth being so tough on myself? Dunno yet. Work has been taxing and I've had a few days were I just want to unwind. I'm going to give it some thought before I drink, but my first planned drinking night, oct. 18 is coming up in a week. I can probably hold out until then.
+
+I'm curious to see my weight over the month. It will probably be largely unchanged, but I've cut out alcohol calories. I did also snack hard of some cheezits and some good good malt vinegar chips. 
+
+This counts as writing. Mark it dood. ta ta til next time
+
+-JG
 
 <div class="habit-tracker">
 </div>
