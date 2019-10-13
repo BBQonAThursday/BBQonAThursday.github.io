@@ -155,5 +155,19 @@
         "write": true,
         "development": true,
         "trackSleep": true
+      },
+      {
+        "day": "Oct. 13",
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": true,
+        "development": true,
+        "trackSleep": true
       }
+
 ]
