@@ -1,0 +1,75 @@
+.product-page {
+  height: 100%;
+}
+
+.rubber-plant {
+  background-color: #444640;
+
+  .product--name,
+  .product--scientific-name,
+  .product--lede,
+  .attribute {
+    color: #fed9a5;
+  }
+}
+.product {
+  display: flex;
+  flex-direction: row;
+  height:100%
+}
+
+.product--images {
+  width: 75rem;
+  max-height:100vh;
+  flex-basis: 75rem;
+
+
+  .product--image {
+    margin: 0;
+    width: auto;
+    height: 100%;
+    position: fixed;
+  }
+}
+
+.product--info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 60%;
+  margin-left: 2rem;
+}
+
+.product--name {
+  margin-bottom: 0; 
+  font-family: 'Cardo', serif;
+}
+
+.product--scientific-name {
+  font-weight: normal;
+  font-style: italic;
+  margin-bottom: 5rem;
+  font-family: 'Cardo', serif;
+}
+
+.product--lede {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
+}
+.product--attributes {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 0; 
+
+  .attribute {
+    padding-right: 5rem;
+  }
+
+  .icon {
+    width: 5rem;
+    height: 5rem;
+    margin-right: 2.5rem;
+  }
+}

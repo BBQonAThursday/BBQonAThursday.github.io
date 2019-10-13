@@ -11,6 +11,20 @@ jsarr:
 
 # Habit Tracking for October 2019
 
+<div class="habit-tracker">
+<ul class="habits-header habits">
+        <li class="habit-header day">Day</li>
+        <li class="habit-header hang">Hang</li>
+        <li class="habit-header ironGrip">Iron Grip</li>
+        <li class="habit-header countCalories">Count Calories</li>
+        <li class="habit-header fast">Fast</li>
+        <li class="habit-header read">Read</li>
+        <li class="habit-header runWalk">Run or Walk</li>
+        <li class="habit-header development">Development</li>
+        <li class="habit-header trackSleep">Track</li>
+        </ul>
+</div>
+
 <p class="lede"> My goal here is to gain some focus towards some activites that I want to incorporate into my life. I consider these the small tasks that lead into my long term pursuits.</p>
 
 ## Habit
@@ -73,5 +87,3 @@ This counts as writing. Mark it dood. ta ta til next time
 
 -JG
 
-<div class="habit-tracker">
-</div>

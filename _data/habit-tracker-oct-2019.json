@@ -1,62 +1,6 @@
 [
-  {
-    "habit": "hang",
-    "habitDisplay": "Hang",
-    "frequencyTarget": 7
-  },
-  {
-    "habit": "iron-grip",
-    "habitDisplay": "Grip Training",
-    "frequencyTarget": 5
-  },
-  {
-    "habit": "count-calories",
-    "habitDisplay": "Track Food",
-    "frequencyTarget": 6
-  },
-  {
-    "habit": "fast",
-    "habitDisplay": "Fast",
-    "frequencyTarget": 7
-  },
-  {
-    "habit": "read",
-    "habitDisplay": "Read",
-    "frequencyTarget": 7
-  },
-  {
-    "habit": "yoga",
-    "habitDisplay": "Yoga",
-    "frequencyTarget": 5
-  },
-  {
-    "habit": "run-walk",
-    "habitDisplay": "Run / Walk",
-    "frequencyTarget": 4
-  },
-  {
-    "habit": "write",
-    "habitDisplay": "Write",
-    "frequencyTarget": 4
-  },
-  {
-    "habit": "development",
-    "habitDisplay": "Web Development",
-    "frequencyTarget": 4
-  },
-  {
-    "habit": "track-sleep",
-    "habitDisplay": "Track Sleep",
-    "frequencyTarget": 7
-  },
-  {
-    "habit": "weight",
-    "habitDisplay": "Weight Tracker",
-    "frequencyTarget": 1
-  },
-  {
-    "habitTracker" : {
-      "oct1": {
+      {
+        "day": "Oct. 1",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -68,7 +12,8 @@
         "development": false,
         "trackSleep": true
       },
-      "oct2": {
+      {
+        "day": "Oct. 2",
         "hang": true,
         "ironGrip": false,
         "countCalories": true,
@@ -80,7 +25,8 @@
         "development": false,
         "trackSleep": true
       },
-      "oct3": {
+      {
+        "day": "Oct. 3",
         "hang": true,
         "ironGrip": false,
         "countCalories": true,
@@ -93,7 +39,8 @@
         "trackSleep": true,
         "weight": 203.6
       },
-      "oct4": {
+      {
+        "day": "Oct. 4",
         "hang": false,
         "ironGrip": true,
         "countCalories": true,
@@ -103,9 +50,10 @@
         "runWalk": true,
         "write": false,
         "development": true,
-        "trackSleep": true,
+        "trackSleep": true
       },
-      "oct5": {
+      {
+        "day": "Oct. 5",
         "hang": true,
         "ironGrip": true,
         "countCalories": false,
@@ -117,7 +65,8 @@
         "development": true,
         "trackSleep": false
       },
-      "oct6": {
+      {
+        "day": "Oct. 6",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -129,7 +78,8 @@
         "development": true,
         "trackSleep": true
       },
-      "oct7": {
+      {
+        "day": "Oct. 7",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -141,7 +91,8 @@
         "development": true,
         "trackSleep": true
       },
-      "oct8": {
+      {
+        "day": "Oct. 8",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -153,7 +104,8 @@
         "development": false,
         "trackSleep": true
       },
-      "oct9": {
+      {
+        "day": "Oct. 9",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -165,7 +117,8 @@
         "development": false,
         "trackSleep": true
       },
-      "oct10": {
+      {
+        "day": "Oct. 10",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -176,8 +129,31 @@
         "write": true,
         "development": false,
         "trackSleep": true
+      },
+      {
+        "day": "Oct. 11",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": false,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 12",
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": false,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": true,
+        "development": true,
+        "trackSleep": true
       }
-
-    }    
-  }
 ]

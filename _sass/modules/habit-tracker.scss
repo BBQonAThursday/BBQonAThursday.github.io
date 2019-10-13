@@ -18,23 +18,26 @@
 .habit-tracker {
   width: 100%;
   max-width: 100rem;
-  border: 1px solid $color1;
-  border-collapse: collapse;
-  
-  .habit-heading,
-  date-day,
-  .daily-habit {
-    width: 10%;
+ 
+}
+
+.habits {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  width: 100%;
+  justify-content:space-between;
+  margin-left: 0;
+  padding:.5rem;
+
+  .day {
+    
   }
 }
 
-.heading-row {
-  text-align: center;
-
-  .habit-heading {
-    padding: 3rem 1rem;
-    border-right: 1px solid $color1;
-  }
+.habits-header {
+  font-weight: bold;
+  background-color: $color1;
 }
 
 .daily-tracker {
