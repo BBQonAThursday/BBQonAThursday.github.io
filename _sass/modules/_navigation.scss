@@ -1,4 +1,4 @@
-.navigation-container {
+  .navigation-container {
   grid-column: main-content / span 4;
   grid-row: navigation;
 }
@@ -12,28 +12,44 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
+    height:5rem;
+    align-items: center;
   }
 
   .page-link {
-    padding: 1.5rem $spacing-unit;
+    padding:1rem;
     color: $black70;
     text-decoration: none;
     display: block;
     transition: all 0.2s ease;
     font-size: 1.4rem;
     @extend %menu-type;
+    border-bottom: 0;
+    box-shadow: none;
 
     &:hover {
       color: $color3;
+      border-bottom: 0;
+      box-shadow: none;
     }
   }
 }
 
 .logo {
   flex-grow: 1;
-  text-decoration: none;
+  
+  a {
+    text-decoration: none;
+    border-bottom: none;
+    box-shadow: none;
+
+    &:hover {
+      background: none;
+    }
+  }
 
   .logo-img {
-    width: 50px;
+    width: 10rem;
+    clip-path: polygon(0% 24px, 42% -2px, 84% 22px, 85.00% 63.43%, 43% 88.49%, -1px 65.35%);
   }
 }
