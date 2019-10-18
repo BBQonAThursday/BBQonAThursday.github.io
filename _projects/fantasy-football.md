@@ -9,4 +9,8 @@ jsarr:
 - js/fantasyStats.js
 ---
 
+CSV row headings for full week stats:
+
+player,position,passCompletions,passAttempts,passYards,passTD,int,rushAttempts,rushYards,rushYardsPerAttempt,rushTD,targets,receptions,recYds,yardsPerRec,recTD,fumbles,fumbLost,totalTD,2PointsMade,2PointsPass
+
 <div id="stats-test"></div>

@@ -196,7 +196,7 @@
         "trackSleep": true
       },
       {
-        "day": "Oct. 65",
+        "day": "Oct. 16",
         "hang": true,
         "ironGrip": true,
         "countCalories": true,
@@ -207,6 +207,33 @@
         "write": false,
         "development": false,
         "trackSleep": true
+      },
+      {
+        "day": "Oct. 17",
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 17",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
       }
+
 
 ]
