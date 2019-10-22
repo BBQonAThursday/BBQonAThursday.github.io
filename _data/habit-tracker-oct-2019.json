@@ -222,17 +222,54 @@
         "trackSleep": true
       },
       {
+<<<<<<< HEAD
         "day": "Oct. 17",
         "hang": false,
         "ironGrip": true,
         "countCalories": true,
+=======
+        "day": "Oct. 18",
+        "hang": false,
+        "ironGrip": false,
+        "countCalories": false,
+        "fast": false,
+        "read": false,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 19",
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": false,
+>>>>>>> bc41517be964d6876cd908973532c5f897530d3c
         "fast": false,
         "read": true,
         "yoga": false, 
         "runWalk": true,
         "write": false,
         "development": false,
+<<<<<<< HEAD
         "trackSleep": true
+=======
+        "trackSleep": false
+      },
+      {
+        "day": "Oct. 20",
+        "hang": true,
+        "ironGrip": false,
+        "countCalories": false,
+        "fast": false,
+        "read": false,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": false
+>>>>>>> bc41517be964d6876cd908973532c5f897530d3c
       }
 
 
