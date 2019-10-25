@@ -284,6 +284,46 @@
         "runWalk": true,
         "write": false,
         "development": false,
-        "trackSleep": false
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 23",
+        "hang": true,
+        "ironGrip": false,
+        "countCalories": true,
+        "fast": true,
+        "read": false,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 24",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": false,
+        "fast": true,
+        "read": false,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 25",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": true,
+        "read": false,
+        "yoga": false, 
+        "runWalk": true,
+        "write": false,
+        "development": false,
+        "trackSleep": true
       }
+
 ]
