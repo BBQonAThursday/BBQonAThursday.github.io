@@ -21,17 +21,13 @@
 .job-container {
   padding-top: $spacing-unit;
 }
+
 .job-card {
-  
-  min-height: 15rem;
   display: flex;
   flex-direction: row;
-  
   margin-bottom: $spacing-unit;
-  width: 66rem;
   padding: 0 $spacing-unit 0 0;
-  @include job-card-animation-on-load;
-
+  
   &::first-child {
     margin-top: 10rem;
   }
@@ -41,47 +37,39 @@
     
   }
   .job-title {
-    padding:$spacing-unit;
-    background-color: $brand-dark-accent;
+    padding: $spacing-unit;
     text-align: right;
-    width: 20rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    height: 30rem;
-    z-index:2;
-    align-self: center;
-    @include border-shadow-2;
+    justify-content: flex-start;
+    width: 32rem;
 
     p {
       margin-bottom: 0;
-      color: $neutral-white;
+      
     }
     .company {
-      font-weight: 700;
-      font-size: 2.2rem;
+      font-style: italic;
+      font-size: 1.4rem;
     }
     .job-name {
-      font-style: italic;
+      
+      font-weight: 700;
     }
     .job-timeline {
-      justify-self: flex-end;
-      padding-top: 4rem;
+      font-size: 1.2rem;
     }
   }
   
   .job-description {
-    background-color: lighten($brand-fourth, 20%);
-    width: 44rem;
-    margin-left: -7.5rem;
-    padding: 4rem $spacing-unit $spacing-unit 10rem;
+    padding: $spacing-unit $spacing-unit $spacing-unit 8rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    @include border-shadow-2;
-    z-index:1;
+    justify-content: flex-start;
 
-    .job-responsiblities {
+    .job-accomplishments {
+      max-width: 56rem;
+      margin-left: 0;
 
       li {
         font-size: 1.7rem;
@@ -93,38 +81,6 @@
   }
 }
 
-.color-lovers {
-  margin: 2rem 0 2rem 0;
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  height: 12rem;
-
-
-  &.aviato {
-    background-color: #85F3E9;
-
-    a {
-      color: $text-darker;
-    }
-  }
-
-  &.the-art-of-forgery {
-    background-color: #5A77AA;
-
-    a {
-      color: $off-white;
-    }
-  }
-
-  &.full-metal-jacket {
-    background-color: #3DB06F;
-
-    a {
-      color: $off-white;
-    }
-  }
-}
 
 .skills {
   span {
