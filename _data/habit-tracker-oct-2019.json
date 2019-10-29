@@ -351,6 +351,32 @@
         "development": true,
         "trackSleep": false,
         "weight": 205
+      },
+      {
+        "day": "Oct. 28",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": false,
+        "read": false,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 29",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
       }
 
 
