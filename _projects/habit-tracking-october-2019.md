@@ -13,7 +13,7 @@ jsarr:
 
 <div class="habit-tracker">
 <ul class="habits-header habits">
-        <li class="habit-header day">Day</li>
+<li class="habit-header day">Day</li>
         <li class="habit-header hang">Hang</li>
         <li class="habit-header ironGrip">Iron Grip</li>
         <li class="habit-header countCalories">Count Calories</li>
@@ -86,4 +86,12 @@ I'm curious to see my weight over the month. It will probably be largely unchang
 This counts as writing. Mark it dood. ta ta til next time
 
 -JG
+
+## Update 10/31/2019
+Today is the last day. After doing the tracking for a month, I realized quite a few things on here become much less important to me. Yoga fell to the way side, mostly because I got hurt and didn't want to spend the money on a membership. Writing is a lot to do. I feel like I could have focused on it more, but it didn't feel right.
+
+My plan for sober october fell through too. I feel good about my choice though especially given that I had two days pre-planned where I would drink. I think tracking some habits was helpful here. I think I'll continue but on a weekly basis and change it up each week. I think I set out with too many things to track and that made it hard to be consistent. Even though I set up desired weekly frequencies for each habit, I felt a little bad when I didnt meet each one everyday.
+
+Going forward, I want to try and do a sober month, but I want to plan it out a bit better. I think February would be great for this. With winter coming, I want to focus on my fitness.
+
 
