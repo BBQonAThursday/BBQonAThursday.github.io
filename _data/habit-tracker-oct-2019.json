@@ -377,8 +377,31 @@
         "write": false,
         "development": false,
         "trackSleep": true
+      },
+      {
+        "day": "Oct. 30",
+        "hang": true,
+        "ironGrip": true,
+        "countCalories": false,
+        "fast": false,
+        "read": true,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
+      },
+      {
+        "day": "Oct. 31",
+        "hang": false,
+        "ironGrip": true,
+        "countCalories": true,
+        "fast": true,
+        "read": true,
+        "yoga": false, 
+        "runWalk": false,
+        "write": false,
+        "development": false,
+        "trackSleep": true
       }
-
-
-
 ]
