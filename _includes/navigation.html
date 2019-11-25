@@ -1,4 +1,5 @@
-<header class="navigation-container" id="navigation-display-hook" role="banner">  
+<header class="navigation-container" id="navigation-display-hook" role="banner">
+  <img  class="topo-header" src="/assets/img/SVG/topographic-header-480.svg" width="100%"">
   {% assign default_paths = site.pages | map: "path" %}
   {% assign page_paths = site.header_pages | default: default_paths %}
   <section class="navigation">
@@ -19,3 +20,40 @@
     </div>
   </section>
 </header>
+<script>
+
+
+var navContainer = document.querySelector('.navigation-container');
+var navBG = document.querySelector('.topo-header');
+var navWidth = navContainer.clientWidth;
+
+
+function calcHeight() {
+  
+  
+  console.log( "W = " + navWidth);
+  navHeight = navWidth * .1875;
+  console.log( "H = " + navHeight);
+
+  if(navContainer.clientWidth < 660) {
+    navBG.src = "/assets/img/SVG/topographic-header-480.svg";
+  } else {
+    navBG.src = "/assets/img/SVG/topographic-header-v1.svg";
+  }
+
+  if(navContainer.clientWidth > 1200) {
+    
+  navContainer.style.height = navHeight + "px";
+  }
+  else {
+    navBG.style.height = "30rem";
+    navContainer.style.height = "30rem";
+  }
+}
+
+
+window.addEventListener('load', calcHeight);
+
+window.addEventListener('resize', calcHeight);
+
+</script>

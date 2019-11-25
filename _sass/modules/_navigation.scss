@@ -1,12 +1,24 @@
   .navigation-container {
-  grid-column: main-content / span 4;
+  grid-column: left-col / span 6;
   grid-row: navigation;
+  position: relative;
+  min-height: 30rem;
+  // background-image: url('../assets/img/SVG/topographic-header-v1.svg');
+  // background-repeat: no-repeat;
+  // background-size: cover;
+}
+
+.topo-header {
+  position: absolute;
+  margin: 0;
+  z-index: 0;
 }
 
 .navigation {
   padding: $spacing-unit 0;
   display: flex;
   flex-direction: row;
+ 
   
   .menu-list-container {
     display: flex;
@@ -14,6 +26,7 @@
     justify-content: flex-end;
     height:5rem;
     align-items: center;
+    z-index: 1;
   }
 
   .page-link {

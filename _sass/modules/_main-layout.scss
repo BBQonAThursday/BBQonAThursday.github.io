@@ -9,7 +9,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
   margin:auto;
   background-color: $gray-lighter;
   grid-template-columns: [left-col] .5fr repeat(4, [main-content] 4fr) [menu-col] .5fr;
-  grid-template-rows: [navigation] 12rem [main-row] auto  [footer-row] 1fr;
+  grid-template-rows: [navigation] auto [main-row] auto  [footer-row] 1fr;
  
   @include md {
     grid-template-columns: [left-col] 2fr repeat(4, [main-content] 4fr) [menu-col] 2fr;
@@ -135,6 +135,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     line-height: 3rem;
     font-weight: lighter; 
     margin-bottom: 10rem;
+    z-index: 1;
 
     @include sm {
       padding-top: 2rem;
