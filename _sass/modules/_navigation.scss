@@ -50,9 +50,10 @@
     box-shadow: none;
 
     &:hover {
-      color: $color3;
+      color: $color4;
       border-bottom: 0;
       box-shadow: none;
+      background-color: $c5;
     }
   }
 }

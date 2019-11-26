@@ -16,13 +16,13 @@
   overflow: hidden;
   padding: 2rem;
   transition: background-color .2s ease-in-out;
-  background-color: $color2; 
+  background-color: $c5; 
   border-radius: 5px;
   position: relative;
 
   &:hover {
     box-shadow:  0 5px 10px 0 $brand-dark-accent;
-    background-color: $color1;
+    background-color: lighten($c5, 10%);
   }
 }
   .project-image {
