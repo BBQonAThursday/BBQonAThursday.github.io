@@ -1,9 +1,14 @@
   .navigation-container {
   grid-column: left-col / span 6;
-  grid-row: navigation;
+  grid-row: header;
   position: relative;
   min-height: 30rem;
-  // background-image: url('../assets/img/SVG/topographic-header-v1.svg');
+   background-image: url('../assets/img/SVG/topo-lines.svg');
+   background-color: $c5;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
   // background-repeat: no-repeat;
   // background-size: cover;
 }
@@ -15,9 +20,13 @@
 }
 
 .navigation {
+  grid-column: left-col / span 6;
+  grid-row: navigation;
   padding: $spacing-unit 0;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
  
   
   .menu-list-container {
@@ -49,7 +58,7 @@
 }
 
 .logo {
-  flex-grow: 1;
+  
   
   a {
     text-decoration: none;
@@ -62,7 +71,7 @@
   }
 
   .logo-img {
-    width: 10rem;
+    width: 15rem;
     clip-path: polygon(0% 24px, 42% -2px, 84% 22px, 85.00% 63.43%, 43% 88.49%, -1px 65.35%);
   }
 }

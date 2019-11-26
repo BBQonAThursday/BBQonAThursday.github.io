@@ -1,25 +1,25 @@
 <header class="navigation-container" id="navigation-display-hook" role="banner">
-  <img  class="topo-header" src="/assets/img/SVG/topographic-header-480.svg" width="100%"">
   {% assign default_paths = site.pages | map: "path" %}
   {% assign page_paths = site.header_pages | default: default_paths %}
-  <section class="navigation">
-    <div class="logo">
+  <div class="logo">
       <a href="/">
         <img class="logo-img" src="/assets/img/logo-v2.svg">
       </a>
     </div>
-    <div class="menu-list-container">
-        {% for path in page_paths %}
-          {% assign my_page = site.pages | where: "path", path | first %}
-          {% if my_page.menu-item %}
-            {% if my_page.title != "home"%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.menu-item | escape }}</a>
-            {% endif %}
-          {% endif %}
-        {% endfor%}
-    </div>
-  </section>
 </header>
+  <section class="navigation">
+      <nav class="menu-list-container">
+          {% for path in page_paths %}
+            {% assign my_page = site.pages | where: "path", path | first %}
+            {% if my_page.menu-item %}
+              {% if my_page.title != "home"%}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.menu-item | escape }}</a>
+              {% endif %}
+            {% endif %}
+          {% endfor%}
+      </nav>
+  </section>
+
 <script>
 
 
