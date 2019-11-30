@@ -1,14 +1,16 @@
-  .navigation-container {
+.navigation-container {
   grid-column: left-col / span 6;
   grid-row: header;
   position: relative;
   min-height: 30rem;
-   background-image: url('../assets/img/SVG/topo-lines.svg');
-   background-color: $c5;
-   display: flex;
-   flex-direction: row;
-   justify-content: center;
-   align-items: center;
+  background-image: url("../assets/img/SVG/contours.svg");
+  background-color: $c5;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-position: 50%;
   // background-repeat: no-repeat;
   // background-size: cover;
 }
@@ -27,19 +29,18 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
- 
-  
+
   .menu-list-container {
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
-    height:5rem;
+    height: 5rem;
     align-items: center;
     z-index: 1;
   }
 
   .page-link {
-    padding:1rem;
+    padding: 1rem;
     color: $black70;
     text-decoration: none;
     display: block;
@@ -59,8 +60,6 @@
 }
 
 .logo {
-  
-  
   a {
     text-decoration: none;
     border-bottom: none;
@@ -73,6 +72,13 @@
 
   .logo-img {
     width: 15rem;
-    clip-path: polygon(0% 24px, 42% -2px, 84% 22px, 85.00% 63.43%, 43% 88.49%, -1px 65.35%);
+    clip-path: polygon(
+      0% 24px,
+      42% -2px,
+      84% 22px,
+      85% 63.43%,
+      43% 88.49%,
+      -1px 65.35%
+    );
   }
 }
