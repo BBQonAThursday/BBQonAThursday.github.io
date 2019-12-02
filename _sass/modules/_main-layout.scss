@@ -6,32 +6,31 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
 
 .app {
   display: grid;
-  margin:auto;
+  margin: auto;
   background-color: $gray-lighter;
-  grid-template-columns: [left-col] .5fr repeat(4, [main-content] 4fr) [menu-col] .5fr;
-  grid-template-rows: [header] 30rem [navigation] auto [main-row] auto  [footer-row] 1fr;
- 
+  grid-template-columns: [left-col] 0.5fr repeat(4, [main-content] 4fr) [menu-col] 0.5fr;
+  grid-template-rows: [header] 30rem [navigation] auto [main-row] auto [footer-row] 1fr;
+
   @include md {
     grid-template-columns: [left-col] 2fr repeat(4, [main-content] 4fr) [menu-col] 2fr;
   }
-  
+
   .mobile-menu-icon {
     display: inline-block;
-    position:fixed;
-    top:0;
-    right:left;
+    position: fixed;
+    top: 0;
+    right: left;
     color: $brand-dark-accent;
-    padding-left:$spacing-unit;
-    padding-right:$spacing-unit;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
 
-    @include md{
+    @include md {
       display: none;
     }
-
   }
   .site-header {
     grid-row-start: 2;
-    text-align:center;
+    text-align: center;
     min-height: $spacing-unit * 1.865;
     padding: 0;
 
@@ -39,31 +38,31 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     //position: relative;
 
     .hidden-menu {
-      display:none;
+      display: none;
     }
     @include md {
-      justify-items:stretch;
-      display:grid;
-      grid-template-rows:max-content max-content auto;
-      grid-gap:2rem;
+      justify-items: stretch;
+      display: grid;
+      grid-template-rows: max-content max-content auto;
+      grid-gap: 2rem;
       width: 40rem;
     }
     .navigation {
-      display:flex;
+      display: flex;
 
       .page-link {
-          padding: 1rem;
-          width:100%;
-          font-size: 1.6rem;
-          display: block;
-        }
+        padding: 1rem;
+        width: 100%;
+        font-size: 1.6rem;
+        display: block;
       }
     }
-  }  
+  }
+}
 
 .home-page {
   width: 100%;
-  height:100vh;
+  height: 100vh;
 
   .me {
     grid-column: 1 / span 6;
@@ -75,7 +74,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     }
 
     @include md {
-      grid-column: 2 / span 4; 
+      grid-column: 2 / span 4;
     }
   }
 
@@ -91,7 +90,6 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     @include lg {
       grid-column: 3 / span 3;
     }
-
   }
 
   .menu-icon {
@@ -103,13 +101,12 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     background-position: bottom left;
     width: 2.4rem;
     height: 2.4rem;
-    background-image: url('/assets/img/menu-icon.svg');
+    background-image: url("/assets/img/menu-icon.svg");
     background-repeat: no-repeat;
-    transition: all 0.3s cubic-bezier(0,.51,.95,.55);
-    z-index:10;
+    transition: all 0.3s cubic-bezier(0, 0.51, 0.95, 0.55);
+    z-index: 10;
 
     @include sm {
-
     }
 
     @include md {
@@ -122,8 +119,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
       position: absolute;
       top: 2rem;
       right: 2rem;
-      background-image: url('/assets/img/menu-icon-inverse.svg');
-
+      background-image: url("/assets/img/menu-icon-inverse.svg");
     }
   }
 
@@ -133,8 +129,11 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     grid-column: main-content / span 4;
     font-size: 1.9rem;
     line-height: 3rem;
-    font-weight: lighter; 
+    font-weight: lighter;
     margin-bottom: 10rem;
+    max-width: 96rem;
+    margin-left: auto;
+    margin-right: auto;
     z-index: 1;
 
     @include sm {
@@ -159,7 +158,6 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
   justify-content: center;
 }
 .header-top-container {
-
   .site-header {
     grid-row-start: 1;
   }
@@ -175,26 +173,23 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
 }
 
 .location {
-    display: flex;
-    flex-direction: row;
-    justify-content: bend;
-    grid-column: 3 / span 2;
-    align-items: center;
-    justify-self: start;
+  display: flex;
+  flex-direction: row;
+  justify-content: bend;
+  grid-column: 3 / span 2;
+  align-items: center;
+  justify-self: start;
 
-
-
-    .city {
-      margin: 1rem 1rem 1rem 0;
-      font-size: 1.2rem;
-    }
+  .city {
+    margin: 1rem 1rem 1rem 0;
+    font-size: 1.2rem;
   }
+}
 
- 
 //Start of loaded content
 .page-content {
   grid-column-start: 2;
-  grid-row-start: 1; 
+  grid-row-start: 1;
 }
 
 .app {
@@ -203,7 +198,7 @@ April 30, 2019 - Moving the menu back to the top of grid system. It was floated 
     .title-town {
       justify-self: center;
       background: none;
-      box-shadow :none;
+      box-shadow: none;
     }
   }
 }

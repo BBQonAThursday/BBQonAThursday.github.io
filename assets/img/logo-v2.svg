@@ -7,7 +7,7 @@
 	.st1{display:none;fill:#8B5752;stroke:#8B5752;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
 	.st2{display:none;fill:#485851;stroke:#485851;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
 	.st3{fill:#8B5752;stroke:#8B5752;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
-	.st4{fill:#485851;stroke:#485851;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#1a535c;stroke:#1a535c;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
 	.st5{fill:#D5B86F;stroke:#D5B86F;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
 	.st6{fill:none;stroke:#1E1E24;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
 	.st7{fill:#1E1E24;}
