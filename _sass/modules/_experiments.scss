@@ -3,13 +3,52 @@
   width: 100%;
   height: 60rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: flex-end;
   align-items: flex-end;
   padding: 10rem;
+  overflow: hidden;
 }
 
 .banner--heading {
   font-size: 20rem;
   line-height: 22rem;
+  animation-duration: 0.5s;
+  animation-name: slideUpReveal;
+  animation-timing-function: ease-in;
+}
+
+.banner--subheading {
+  animation-duration: 0.7s;
+  animation-name: slideUpRevealDelayed;
+  animation-timing-function: ease-in;
+}
+
+@keyframes slideUpReveal {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+@keyframes slideUpRevealDelayed {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  50% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
 }
