@@ -8,25 +8,55 @@
   align-items: flex-end;
   padding: 10rem;
   overflow: hidden;
+  position: relative;
+  position: relative;
+  margin-bottom: 10rem;
 }
 
 .banner--heading {
   font-size: 20rem;
+  font-style: italic;
   line-height: 22rem;
   animation-duration: 0.5s;
   animation-name: slideUpReveal;
   animation-timing-function: ease-in;
+  letter-spacing: 2px;
+  z-index: 2;
+}
+
+.twenty-two {
+  margin-left: 5rem;
 }
 
 .banner--subheading {
   animation-duration: 0.7s;
   animation-name: slideUpRevealDelayed;
   animation-timing-function: ease-in;
+  z-index: 2;
+}
+
+.banner--angle {
+  position: absolute;
+  height: 1000px;
+  width: 600px;
+  background-color: #fff;
+  top: 0;
+  right: -242px;
+  transform: rotate(20deg);
+  z-index: 1;
+  animation-duration: 0.8s;
+  animation-name: bannerSwipe;
+  animation-timing-function: ease-in;
+  animation-delay: 0.8s;
 }
 
 @keyframes slideUpReveal {
   0% {
     transform: translateY(100%);
+    opacity: 0;
+  }
+
+  40% {
     opacity: 0;
   }
 
@@ -50,5 +80,16 @@
   100% {
     transform: translateY(0%);
     opacity: 1;
+  }
+}
+
+@keyframes bannerSwipe {
+  0% {
+    right: -600px;
+    transform: rotate(20deg);
+  }
+
+  100% {
+    right: -242px;
   }
 }
