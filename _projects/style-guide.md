@@ -44,39 +44,28 @@ to demonstrate what it looks like when a paragraph wraps lines after hitting its
 
 <div id="site-colors" class="site-colors">
   <div class="style-guide-color">
-    <div class="color--block brand-first"></div>
-    <p class="color--variable">$brand-first</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #6a5d7b</p>
+    <div class="color--block c1"></div>
+    <p class="color--hex"><span class="hex">HEX:</span> #d5b86f</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color--block brand-secondary"></div>
-    <p class="color--variable">$brand-secondary</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #DFBA69</p>
+    <div class="color--block c2"></div>
+    <p class="color--hex"><span class="hex">HEX:</span> #485851</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color--block brand-third"></div>
-    <p class="color--variable">$brand-third</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #749c75</p>
+    <div class="color--block c3"></div>
+    <p class="color--hex"><span class="hex">HEX:</span> #1e1e24</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color--block brand-fourth"></div>
-    <p class="color--variable">$brand-fourth</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #957186</p>
+    <div class="color--block c4"></div>
+    <p class="color--hex"><span class="hex">HEX:</span> #8b5752</p>
     <p class="color-usage"></p>
   </div>
   <div class="style-guide-color">
-    <div class="color--block brand-dark-accent"></div>
-    <p class="color--variable">$brand-dark-accent</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #565264</p>
-    <p class="color-usage"></p>
-  </div>
-  <div class="style-guide-color">
-    <div class="color--block brand-light-accent"></div>
-    <p class="color--variable">$brand-light-accent</p>
-    <p class="color--hex"><span class="hex">HEX:</span> #bdd9bf</p>
+    <div class="color--block c5"></div>
+    <p class="color--hex"><span class="hex">HEX:</span> #1a535c</p>
     <p class="color-usage"></p>
   </div>
 </div>
