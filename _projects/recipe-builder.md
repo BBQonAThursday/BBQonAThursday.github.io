@@ -9,11 +9,11 @@ featured: true
 image: /assets/img/css-grid-professionally/css-grid-implementation.png
 year: 2019
 preview: Playing around with importing json data and using javascript to work with it.
-jsarr: 
-- js/prism.js
-- js/food-data.js
-
+jsarr:
+  - js/prism.js
+  - js/food-data.js
 ---
+
 # Food Data and Recipe Building
 
 6/02/19: This is currently a test with json. Below, I've imported foods.json and then looped through the object to build cards with each one. I want to add a button to add items to the json and also be able to fill out items for logging. Filtering the data would be cool as well. I should build out tags for each item though and have that data validate too.
@@ -24,13 +24,16 @@ jsarr:
   <div class="recipe--input">
     
     <input type="text" id="recipe--name" class="input-element" placeholder="Add a name to your awesome meal" length="25">
+    <h2 class="recipe--name" id="recipe--output-name">Recipe</h2>
     <div data-itemNumber="1" class="recipe--item">
       <select data-dropdown="1" class="food-dropdown">
         <option>Select an Ingredient</option>
       </select>
       <input class="recipe--quantity-input" id="recipe--item-quantity-1" placeholder="150g">
-      <button class="food--calculate">Add to Recipe</button>
-      <button class="food--delete">Delete Item</button>
+      <div class="buttons">
+          <button class="food--calculate">Add to Recipe</button>
+          <button class="food--delete">&times;</button>
+      </div>
         <ul class="macros">
           <li data-macro="servingSize" class="macro">Serving Size: </li>
           <li data-macro="calories" class="macro">Calories: </li>
@@ -44,8 +47,10 @@ jsarr:
             <option>Select an Ingredient</option>
         </select>
         <input class="recipe--quantity-input" id="recipe--item-quantity-2" placeholder="100g">
-        <button class="food--calculate">Add to Recipe</button>
-        <button class="food--delete">x</button>
+        <div class="buttons">
+            <button class="food--calculate">Add to Recipe</button>
+            <button class="food--delete">&times;</button>
+        </div>
         <ul class="macros">
           <li data-macro="servingSize" class="macro">Serving Size: </li>
           <li data-macro="calories" class="macro">Calories: </li>
@@ -60,50 +65,15 @@ jsarr:
   </div>
   <div class="recipe--output"> 
     <div class="recipe--nutrition-label">
-      <h2 class="recipe--name" id="recipe--output-name">Recipe</h2>
-      <ul class="recipe--macros">
-        <li>Fat: </li>
-        <li>Carbohydrates: 
-        <ul>
-          <li>Dietary Fiber: </li>
-          <li>Sugar: </li>
-        </ul>
-        </li>
-        <li>Protein: </li>
-      </ul>
-      <ul class="nutrition-outputs">
-        <li>total kCal:
-          <ul>
-            <li>Grams per 4 servings:
-              <ul class="recipe--macros">
-                <li>Fat: </li>
-                <li>Carbohydrates: 
-                  <ul>
-                    <li>Dietary Fiber: </li>
-                    <li>Sugar: </li>
-                  </ul>
-                </li>
-                <li>Protein: </li>
-              </ul>
-            </li>
-            <li>Grams per 6 servings: 
-              <ul class="recipe--macros">
-                <li>Fat: </li>
-                <li>Carbohydrates: 
-                  <ul>
-                    <li>Dietary Fiber: </li>
-                    <li>Sugar: </li>
-                  </ul>
-                </li>
-              <li>Protein: </li>
-            </ul>
-
-            </li>
-          </ul>
-      </li>
-        
-      </ul>
+      
+      <h3>Nutritional Information</h3>
+      <div class="recipe--macros">
+        <p class="macro fat--output">Fat: </p>
+        <p class="macro protein--output">Protein: </p>
+        <p class="macro carbs--output">Carbs: </p>
+      </div>
     </div>
+
   </div>
 </section>
 

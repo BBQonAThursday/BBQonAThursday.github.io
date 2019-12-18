@@ -1,9 +1,18 @@
 .ui-container {
   display: grid;
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: 3fr 1fr auto;
   grid-template-areas:
     "input input output"
+    "recipe recipe output"
     "buttons buttons output";
+  background-color: $body-bg;
+  margin-bottom: 4rem;
+  grid-template-columns: minmax(auto, 66%) minmax(auto, 33%);
+  border-radius: 4px;
+}
+
+.inverse-text-color * {
+  color: $color4;
 }
 
 .input-element {
@@ -17,12 +26,12 @@
   justify-content: space-between;
   margin-top: 2rem;
   padding-bottom: 1.6rem;
-  border-bottom: .1rem solid $brand-primary;
+  border-bottom: 0.1rem solid $brand-primary;
 }
 
 .buttons {
-
 }
+
 .macros {
   display: flex;
   flex-direction: column;
@@ -30,7 +39,7 @@
   justify-content: space-between;
   flex-basis: 100%;
   margin-top: 1rem;
-  margin-left:2rem;
+  margin-left: 2rem;
   padding: 2rem;
 }
 
@@ -51,7 +60,6 @@
   grid-area: input;
   padding: 2rem;
   flex-direction: column;
-
 }
 
 .recipe--buttons {
@@ -61,21 +69,25 @@
 
 .recipe--output {
   grid-area: output;
-  grid-row-start: 1;
-  grid-row-end: 3;
+  border-radius: 0 4px 4px 0;
+  background-color: $black70;
 }
 
 .recipe--nutrition-label {
-  background-color: $color5;
-  padding: 2rem; 
+  padding: 2rem;
+
+  * {
+    color: $color4;
+  }
 }
 
 .macros,
 .nutrition-outputs {
-  list-style-type: none;
+}
 
-  & > li > ul{
-    list-style-type: none;
+.recipe--macros {
+  .macro {
+    color: $color4;
   }
 }
 
@@ -92,7 +104,7 @@
   margin: 1rem;
   width: auto;
   padding: 2rem;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   background-color: $brand-first;
   flex-grow: 1;
 
@@ -116,7 +128,7 @@
   }
 
   &:hover {
-    background-color:$brand-primary;
+    background-color: $brand-primary;
 
     .food-name,
     .kcal-serving,
@@ -129,14 +141,14 @@
   }
 }
 
-.food-stat-output{
+.food-stat-output {
   padding: 2rem;
   background-color: $brand-secondary;
   min-height: 15rem;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
 
   .stat {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 }
 
