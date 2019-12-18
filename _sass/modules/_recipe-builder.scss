@@ -8,6 +8,7 @@
   background-color: $body-bg;
   margin-bottom: 4rem;
   grid-template-columns: minmax(auto, 66%) minmax(auto, 33%);
+  border-radius: 4px;
 }
 
 .inverse-text-color * {
@@ -68,6 +69,7 @@
 
 .recipe--output {
   grid-area: output;
+  border-radius: 0 4px 4px 0;
   background-color: $black70;
 }
 
