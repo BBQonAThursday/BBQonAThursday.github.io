@@ -17,13 +17,17 @@
 
 .input-element {
   max-width: 32rem;
+  height: 40px;
+  border: none;
+  border-bottom: 1px solid $color-dark-navy;
+  font-size: 1.8rem;
 }
 
 .recipe--item {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   margin-top: 2rem;
   padding-bottom: 1.6rem;
   border-bottom: 0.1rem solid $brand-primary;
@@ -45,14 +49,28 @@
 
 .macro {
   font-size: 1.4rem;
+  list-style-type: none;
 }
 
 .food--name {
   flex: 1 1 auto;
 }
+
+.food--calculate {
+  background-color: $color-lime-green;
+  border: none;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  border: 1px solid $color-dark-navy;
+}
+
 .food--delete {
-  width: 5rem;
+  width: 3.6rem;
   text-align: center;
+  border-radius: 50%;
+  border: none;
+  padding: 1rem;
+  border: 1px solid $color-dark-navy;
 }
 
 .recipe--input {
