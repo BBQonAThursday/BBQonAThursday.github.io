@@ -1,4 +1,5 @@
 var xhr = new XMLHttpRequest();
+var playerDropDown = document.querySelector('.player-dropdown');
 
 xhr.onload = function() {
   if(xhr.status === 200) {
@@ -6,67 +7,40 @@ xhr.onload = function() {
     let wr = [];
     let te = [];
     let rb = [];
-    responseObject = JSON.parse(xhr.responseText);
+    fullStats = JSON.parse(xhr.responseText);
+    console.log(fullStats);
     
-    for (var i = 0; i < responseObject.players.length; i++) {
-      if (responseObject.players[i].position == "WR") {
-        wr.push(responseObject.players[i]);
+    for (var i = 0; i < fullStats.length; i++) {
+      if (fullStats[i].position === "WR") {
+        wr.push(fullStats[i]);
       }
-      if (responseObject.players[i].position == "QB") {
-        qb.push(responseObject.players[i]);
+      else if (fullStats[i].position === "QB") {
+        qb.push(fullStats[i]);
       }
-      if (responseObject.players[i].position == "RB") {
-        rb.push(responseObject.players[i]);
+      else if (fullStats[i].position === "RB") {
+        rb.push(fullStats[i]);
       }
-      if (responseObject.players[i].position == "TE") {
-        te.push(responseObject.players[i]);
+      if (fullStats[i].position === "TE") {
+        te.push(fullStats[i]);
       }
-      
-    /*var htmlDis = "";
-    var recData = {};
-    var week1Stats = responseObject.receiving.week1;
-    var week2Stats = responseObject.receiving.week2;
-    var week3Stats = responseObject.receiving.week3;
-    var week4Stats = responseObject.receiving.week4;
-    
-    
-      for(var i = 0; i < week1Stats.length; i++){
-        var playerName = week1Stats[i].Player;
-        recData[playerName] = {};
-        recData[playerName].week1 = {};
-        var week1 = recData[playerName].week1;
-        week1.gameLocation = week1Stats[i].Location;
-        week1.gameResult = week1Stats[i].Result
-        week1.opponent = week1Stats[i].Opp;
-        week1.targets = week1Stats[i].Tgt;
-        week1.receptions = week1Stats[i].Rec;
-        week1.receivingYards = week1Stats[i].recYards;
-        week1.touchdowns = week1Stats[i].TD;
-        week1.yardsPerReception  = week1Stats[i].yardsPerReception
-        week1.yardsPerTarget = week1Stats[i].yardsPerTarget;
-        week1.catchPercent = week1Stats[i].CtchPer;
-       
-  
-         htmlDis += `
-        <div class="player">
-          <h3 class="player-name">${playerName}</h3>
-          <h4>Week 1</h4>
-          <p>Catch Percent: ${week1.catchPercent}</p>
-          <p>Yards per target: ${week1.yardsPerTarget}</p>
-          <p>target/receptions: ${week1.targets} / ${week1.receptions}</p>
-        </div>
-        `;
-      }*/
-    
+      var option = document.createElement('option');
+      option.value = fullStats[i].player;
+      option.innerHTML = fullStats[i].player; 
+      playerDropDown.add(option);
   }
+
+
+
+  console.log(wr);
   // document.getElementById('stats-test').innerHTML = htmlDis;
   };
 }
 
+
 //xhr.open('GET', '/_data/fantasy-stats-2019/receiving-stats/receiving-stats.json', true);
 
 
-xhr.open('GET', 'https://api.fantasy.nfl.com/v1/players/stats?statType=seasonStats&season=2019&week=1&format=json', true);
+xhr.open('GET', '/_data/fantasy-stats-2019/full-stats-week16.json', true);
 xhr.send(null);
 
 var playerDataStructure = {
