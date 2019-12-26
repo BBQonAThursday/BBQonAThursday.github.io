@@ -1,5 +1,27 @@
 var xhr = new XMLHttpRequest();
 var playerDropDown = document.querySelector('.player-dropdown');
+var fullStats;
+
+playerDropDown.addEventListener('change', function(){
+  findPlayer(playerDropDown.value);
+});
+
+
+function findPlayer(playerName) {
+  fullStats.forEach((player, i) => {
+    if(playerName === fullStats[i].player) {
+      var player = fullStats[i];
+      console.log(player);
+      for(var prop in player) {
+        console.log(`${prop}: ${player[prop]}`); 
+      }
+    }
+  }); 
+}
+
+function getPlayerStats(player) {
+  
+}
 
 xhr.onload = function() {
   if(xhr.status === 200) {
@@ -43,58 +65,7 @@ xhr.onload = function() {
 xhr.open('GET', '/_data/fantasy-stats-2019/full-stats-week16.json', true);
 xhr.send(null);
 
-var playerDataStructure = {
-  "player": "name",
-  "position": "POS",
-  "week1": {
-    "location": "",
-    "opponent": "opp",
-    "gameResult": "",
-    "targets": 0,
-    "receptions": 0,
-    "receivingYards": 0,
-    "yardsPerReception": 0,
-    "receivingTouchdowns": 0,
-    "catch%": "00.0%",
-    "yardsPerTarget": 0
-  },
-  "week2": {
-    "location": "",
-    "opponent": "opp",
-    "gameResult": "",
-    "targets": 0,
-    "receptions": 0,
-    "receivingYards": 0,
-    "yardsPerReception": 0,
-    "receivingTouchdowns": 0,
-    "catch%": "00.0%",
-    "yardsPerTarget": 0
-  },
-  "week3": {
-    "location": "",
-    "opponent": "opp",
-    "gameResult": "",
-    "targets": 0,
-    "receptions": 0,
-    "receivingYards": 0,
-    "yardsPerReception": 0,
-    "receivingTouchdowns": 0,
-    "catch%": "00.0%",
-    "yardsPerTarget": 0
-  },
-  "week4": {
-    "location": "",
-    "opponent": "opp",
-    "gameResult": "",
-    "targets": 0,
-    "receptions": 0,
-    "receivingYards": 0,
-    "yardsPerReception": 0,
-    "receivingTouchdowns": 0,
-    "catch%": "00.0%",
-    "yardsPerTarget": 0
-  }
-};
+
 
 
 
