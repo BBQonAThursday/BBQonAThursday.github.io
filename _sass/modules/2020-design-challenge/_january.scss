@@ -15,14 +15,24 @@
     font-size: 3rem;
     box-shadow: none;
     border-bottom: 0;
+    color: #fff;
 }
 
 .flying--menu {
     grid-column-start: slider;
     grid-row-start: navigation;
+    list-style-type: none;
+
+    .flying--menu-item {
+        color: #fff;
+    }
 }
 
 .flying--booking-form {
     grid-column-start: form;
     grid-row-start: main-body;
+
+    .booking-form--heading {
+        color: #fff;
+    }
 }
