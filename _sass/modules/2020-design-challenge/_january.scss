@@ -1,5 +1,28 @@
 .flying {
-    background-image {
-        
-    }
+    background-image: url('/assets/img/design-challenge/january/peter-gonzalez.jpg');
+    background-size: cover;
+    display: grid;
+    grid-gap: 4rem;
+    padding: 2rem;
+    grid-template-columns: [form] 3fr [slider] 3fr [scroll-bar] 1fr;
+    grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
+    height: 100vh;
+}
+
+.flying--logo {
+    grid-column-start: form;
+    grid-row-start: navigation;
+    font-size: 3rem;
+    box-shadow: none;
+    border-bottom: 0;
+}
+
+.flying--menu {
+    grid-column-start: slider;
+    grid-row-start: navigation;
+}
+
+.flying--booking-form {
+    grid-column-start: form;
+    grid-row-start: main-body;
 }
