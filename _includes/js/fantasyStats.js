@@ -11,9 +11,10 @@ function findPlayer(playerName) {
   fullStats.forEach((player, i) => {
     if(playerName === fullStats[i].player) {
       var player = fullStats[i];
+      var stats;
       console.log(player);
       for(var prop in player) {
-        console.log(`${prop}: ${player[prop]}`); 
+        console.log(`${prop}: ${player[prop]}`);
       }
     }
   }); 

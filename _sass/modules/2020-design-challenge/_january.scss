@@ -1,12 +1,12 @@
 .flying {
-    background-image: url('/assets/img/design-challenge/january/peter-gonzalez.jpg');
+    background-image: url('/assets/img/design-challenge/january/peter-gonzalez2.jpg');
     background-size: cover;
     display: grid;
     grid-gap: 4rem;
     padding: 2rem;
     grid-template-columns: [form] 3fr [slider] 3fr [scroll-bar] 1fr;
     grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
-    height: 100vh;
+    width: 100%;
 }
 
 .flying--logo {
@@ -34,5 +34,32 @@
 
     .booking-form--heading {
         color: #fff;
+    }
+}
+
+.booking-form--trip-types {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    min-width: 32rem;
+
+    input[type="radio"] {
+        visibility: hidden;
+        margin: 0;
+        height: 0;
+        width: 0;
+    }
+    .trip-type label {
+        color:hsla(0,0%,100%,.5);
+        padding: .5rem 1rem;
+        background-color:hsla(0,0%,100%,.1);
+        border-radius: 2rem;
+        margin-right: 1rem;
+    }
+
+    .booking:checked + label {
+        background-color:hsla(0,0%,100%,.7);
+        color: hsla(175, 100%, 0%, 0.88);
     }
 }

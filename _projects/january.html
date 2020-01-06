@@ -21,12 +21,39 @@ jsarr:
     </ul>
 
     <section class="flying--booking-form">
-        <div class="booking-form--buttons">
-            <button class="booking">Round trip</button>
-            <button class="booking">One way</button>
-            <button class="booking">Multi-Destination</button>
-        </div>
         <h1 class="booking-form--heading">Where we going?</h1>
+        <form class="flight-form">
+            <ul class="booking-form--trip-types">
+                <li class="trip-type">
+                    <input type="radio" class="booking" id="roundTrip" name="tripType" checked>
+                    <label for="roundTrip">Round trip</label>
+                </li>
+                <li class="trip-type">
+                    <input type="radio" name="tripType" id="oneWay" class="booking">
+                    <label for="oneWay">One way</label>
+                <li>
+                <li class="trip-type">
+                    <input type="radio" name="tripType" id="multiDes" class="booking">
+                    <label for="multiDes">Multi-Destination</label>
+                </li>
+            </ul>
+
+            <label for="from">From</label>
+            <input type="search" name="from">
+            <label for="toDest">To</label>
+            <input type="search" name="toDest">
+
+
+            <label for="from">Depart</label>
+            <input type="datetime-local" name="departDate">
+            <label for="from">Return</label>
+            <input type="datetime-local" name="returnDate">
+            <label for="from">Cabin Class & Travelers</label>
+
+
+
+            <button class="search-flights">Search Flights</button>
+        </form>
     </section>
 
 
