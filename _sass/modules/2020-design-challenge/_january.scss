@@ -4,9 +4,10 @@
     display: grid;
     grid-gap: 4rem;
     padding: 2rem;
-    grid-template-columns: [form] 3fr [slider] 3fr [scroll-bar] 1fr;
+    grid-template-columns: [form] 4fr [slider] 3fr [scroll-bar] 1fr;
     grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
     width: 100%;
+    font-family: 'Sarabun', sans-serif;
 }
 
 .flying--logo {
@@ -16,6 +17,7 @@
     box-shadow: none;
     border-bottom: 0;
     color: #fff;
+    font-weight: 700;
 }
 
 .flying--menu {
@@ -31,9 +33,23 @@
 .flying--booking-form {
     grid-column-start: form;
     grid-row-start: main-body;
+    font-weight: 700;
+    letter-spacing: -.03em;
 
     .booking-form--heading {
         color: #fff;
+    }
+
+    label {
+        color: #fff;
+        margin-bottom: .5rem;
+    }
+
+    input {
+        border: none;
+        height: 3rem;
+        line-height: 2rem;
+        padding: .5rem .5rem .5rem 1.5rem;
     }
 }
 
@@ -43,6 +59,7 @@
     flex-direction: row;
     flex-wrap: nowrap;
     min-width: 32rem;
+    margin-bottom: 4rem;
 
     input[type="radio"] {
         visibility: hidden;
@@ -56,10 +73,66 @@
         background-color:hsla(0,0%,100%,.1);
         border-radius: 2rem;
         margin-right: 1rem;
+        font-weight: 400;
+        font-size: 1.6rem;
     }
 
     .booking:checked + label {
         background-color:hsla(0,0%,100%,.7);
         color: hsla(175, 100%, 0%, 0.88);
     }
+}
+
+.flight-location {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: row;
+
+    .location-from {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .location-to {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.flight-dates {
+    margin-bottom: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: row;
+    
+    .dates-depart {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dates-return {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .class-travelers {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.form-pill--left {
+    border-radius: 1.5rem 0 0 1.5rem;
+}
+
+.form-pill--right {
+    border-radius: 0 1.5rem 1.5rem 0 ;
+}
+
+.search-flights {
+    color: #fff;
+    background-color: #f2413b;
+    padding: .75rem 1.5rem;
+    border: none;
+    border-radius: 1.5rem;
 }

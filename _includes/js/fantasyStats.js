@@ -18,14 +18,11 @@ function findPlayer(playerName) {
       console.log(player);
       for(var prop in player) {
         console.log(`${prop}: ${player[prop]}`);
-<<<<<<< HEAD
-=======
         let playerStat = document.createElement('li');
         playerStat.classList.add(`${prop}`);
         playerStat.innerHTML = `${prop}: ${player[prop]}`;
 
         statsOutput.appendChild(playerStat);
->>>>>>> ab3232da6959cbbaeadfe47102d2d3dd36b33c04
       }
     }
   }); 
