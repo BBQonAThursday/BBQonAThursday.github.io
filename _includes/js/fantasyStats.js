@@ -1,5 +1,8 @@
 var xhr = new XMLHttpRequest();
 var playerDropDown = document.querySelector('.player-dropdown');
+const positionDropDown = document.querySelector('.position-dropdown');
+const statsOutput = document.querySelector('.stats-output');
+
 var fullStats;
 
 playerDropDown.addEventListener('change', function(){
@@ -13,7 +16,12 @@ function findPlayer(playerName) {
       var player = fullStats[i];
       console.log(player);
       for(var prop in player) {
-        console.log(`${prop}: ${player[prop]}`); 
+        console.log(`${prop}: ${player[prop]}`);
+        let playerStat = document.createElement('li');
+        playerStat.classList.add(`${prop}`);
+        playerStat.innerHTML = `${prop}: ${player[prop]}`;
+
+        statsOutput.appendChild(playerStat);
       }
     }
   }); 
@@ -45,10 +53,13 @@ xhr.onload = function() {
       if (fullStats[i].position === "TE") {
         te.push(fullStats[i]);
       }
+      // populate player dropdown
       var option = document.createElement('option');
       option.value = fullStats[i].player;
       option.innerHTML = fullStats[i].player; 
       playerDropDown.add(option);
+
+
   }
 
 

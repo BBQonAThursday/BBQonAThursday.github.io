@@ -11,15 +11,27 @@ jsarr:
 
 CSV row headings for full week stats:
 
-player,position,passCompletions,passAttempts,passYards,passTD,int,rushAttempts,rushYards,rushYardsPerAttempt,rushTD,targets,receptions,recYds,yardsPerRec,recTD,fumbles,fumbLost,totalTD,2PointsMade,2PointsPass
-
-rank,player,position,games,gamesStarted,passCompletions,passAttempts,passYards,passTD,int,rushAttempts,rushYards,rushYardsPerAttempt,rushTD,targets,receptions,recYds,yardsPerRec,recTD,fumbles,fumbLost,totalTD,2PointsMade,2PointsPass
-
+<div class="json-metadata">
+<p>player,position,passCompletions,passAttempts,passYards,passTD,int,rushAttempts,rushYards,rushYardsPerAttempt,rushTD,targets,receptions,recYds,yardsPerRec,recTD,fumbles,fumbLost,totalTD,2PointsMade,2PointsPass</p>
+<p>rank,player,position,games,gamesStarted,passCompletions,passAttempts,passYards,passTD,int,rushAttempts,rushYards,rushYardsPerAttempt,rushTD,targets,receptions,recYds,yardsPerRec,recTD,fumbles,fumbLost,totalTD,2PointsMade,2PointsPass</p>
+</div>
 only using the top 250 players from after week 16. Also using week 16 as my base for rankings and games started.
 
 <div id="stats-test">
+<select class="position-dropdown">
+  <option>Select Position</option>
+  <option value="QB">QB</option>
+  <option value="RB">RB</option>
+  <option value="WR">WR</option>
+  <option value="TE">TE</option>
+</select>
 <select class="player-dropdown">
-        <option>Select player</option>
-      </select>
+  <option>Select player</option>
+</select>
 
+</div>
+<div class="stats-container">
+  <ul class="stats-output">
+
+  </ul>
 </div>
