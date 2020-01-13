@@ -1,138 +1,160 @@
 .flying {
-    background-image: url('/assets/img/design-challenge/january/peter-gonzalez2.jpg');
-    background-size: cover;
-    display: grid;
-    grid-gap: 4rem;
-    padding: 2rem;
-    grid-template-columns: [form] 4fr [slider] 3fr [scroll-bar] 1fr;
-    grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
-    width: 100%;
-    font-family: 'Sarabun', sans-serif;
+  background-image: url("/assets/img/design-challenge/january/peter-gonzalez2.jpg");
+  background-size: cover;
+  display: grid;
+  grid-gap: 4rem;
+  padding: 2rem;
+  grid-template-columns: [rail] 0.5fr [form] 4fr [slider] 3fr [scroll-bar] 1fr;
+  grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
+  width: 100%;
+  font-family: "Sarabun", sans-serif;
 }
 
 .flying--logo {
-    grid-column-start: form;
-    grid-row-start: navigation;
-    font-size: 3rem;
-    box-shadow: none;
-    border-bottom: 0;
+  grid-column-start: form;
+  grid-row-start: navigation;
+  font-size: 3rem;
+  box-shadow: none;
+  border-bottom: 0;
+  color: #fff;
+  font-weight: 700;
+  justify-self: start;
+  align-self: start;
+
+  &:hover {
+    background: none;
+    text-decoration: underline;
     color: #fff;
-    font-weight: 700;
+  }
 }
 
 .flying--menu {
-    grid-column-start: slider;
-    grid-row-start: navigation;
-    list-style-type: none;
+  grid-column-start: slider;
+  grid-row-start: navigation;
+  list-style-type: none;
+  justify-self: start;
+  align-self: start;
 
-    .flying--menu-item {
-        color: #fff;
+  .flying--menu-item {
+    color: hsla(0, 0%, 100%, 0.5);
+    margin-bottom: 0.7rem;
+
+    &.active {
+      color: #fff;
     }
+  }
 }
 
 .flying--booking-form {
-    grid-column-start: form;
-    grid-row-start: main-body;
-    font-weight: 700;
-    letter-spacing: -.03em;
+  grid-column-start: form;
+  grid-row-start: main-body;
+  font-weight: 700;
+  letter-spacing: -0.03em;
 
-    .booking-form--heading {
-        color: #fff;
-    }
+  .booking-form--heading {
+    color: #fff;
+    font-family: "Sarabun", sans-serif;
+    font-weight: 500;
+    font-size: 6rem;
+  }
 
-    label {
-        color: #fff;
-        margin-bottom: .5rem;
-    }
+  label {
+    color: #fff;
+    margin-bottom: 0.5rem;
+    font-size: 16px;
+    font-weight: normal;
+  }
 
-    input {
-        border: none;
-        height: 3rem;
-        line-height: 2rem;
-        padding: .5rem .5rem .5rem 1.5rem;
-    }
+  input {
+    border: none;
+    height: 3rem;
+    line-height: 2rem;
+    padding: 0.5rem 0.5rem 0.5rem 1.5rem;
+  }
 }
 
 .booking-form--trip-types {
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    min-width: 32rem;
-    margin-bottom: 4rem;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  min-width: 32rem;
+  margin-bottom: 4rem;
+  margin-left: 0;
 
-    input[type="radio"] {
-        visibility: hidden;
-        margin: 0;
-        height: 0;
-        width: 0;
-    }
-    .trip-type label {
-        color:hsla(0,0%,100%,.5);
-        padding: .5rem 1rem;
-        background-color:hsla(0,0%,100%,.1);
-        border-radius: 2rem;
-        margin-right: 1rem;
-        font-weight: 400;
-        font-size: 1.6rem;
-    }
+  input[type="radio"] {
+    visibility: hidden;
+    margin: 0;
+    height: 0;
+    width: 0;
+    display: none;
+  }
+  .trip-type label {
+    color: hsla(0, 0%, 100%, 0.5);
+    padding: 0.5rem 1rem;
+    background-color: hsla(0, 0%, 100%, 0.1);
+    border-radius: 2rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    font-size: 1.6rem;
+  }
 
-    .booking:checked + label {
-        background-color:hsla(0,0%,100%,.7);
-        color: hsla(175, 100%, 0%, 0.88);
-    }
+  .booking:checked + label {
+    background-color: hsla(0, 0%, 100%, 0.7);
+    color: hsla(175, 100%, 0%, 0.88);
+  }
 }
 
 .flight-location {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+
+  .location-from {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+  }
 
-    .location-from {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .location-to {
-        display: flex;
-        flex-direction: column;
-    }
+  .location-to {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .flight-dates {
-    margin-bottom: 2rem;
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+
+  .dates-depart {
     display: flex;
-    flex-direction: row;
-    
-    .dates-depart {
-        display: flex;
-        flex-direction: column;
-    }
+    flex-direction: column;
+  }
 
-    .dates-return {
-        display: flex;
-        flex-direction: column;
-    }
+  .dates-return {
+    display: flex;
+    flex-direction: column;
+  }
 
-    .class-travelers {
-        display: flex;
-        flex-direction: column;
-    }
+  .class-travelers {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .form-pill--left {
-    border-radius: 1.5rem 0 0 1.5rem;
+  border-radius: 1.5rem 0 0 1.5rem;
 }
 
 .form-pill--right {
-    border-radius: 0 1.5rem 1.5rem 0 ;
+  border-radius: 0 1.5rem 1.5rem 0;
 }
 
 .search-flights {
-    color: #fff;
-    background-color: #f2413b;
-    padding: .75rem 1.5rem;
-    border: none;
-    border-radius: 1.5rem;
+  color: #fff;
+  background-color: #f2413b;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 1.5rem;
 }
