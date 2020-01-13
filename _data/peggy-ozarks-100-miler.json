@@ -1,0 +1,59 @@
+{
+  "trip": {
+    "1/13/2020": {
+      "start": {
+        "lat": 35.702938,
+        "long": -94.032883
+      },
+      "end": {
+        "lat": 35.680171,
+        "long":  -93.906905
+      },
+      "distance": 11.7
+    },
+    "1/14/2020": {
+      "start": {
+        "lat": ,
+        "long": 
+      },
+      "end": {
+        "lat": ,
+        "long":
+      },
+      "distance": 11.7
+    }
+  }
+},
+{
+  "trip2": {
+    "1/12/2020": {
+        "lat": 35.702938,
+        "long": -94.032883
+      },
+      "1/13/2020": {
+        "lat": 35.680171,
+        "long":  -93.906905,
+        "distanceSinceLast": 11.7,
+        "totalDistance": 11.7
+      },
+      "1/14/2020": {
+        "lat": ,
+        "long":  ,
+        "distanceSinceLast":,
+        "totalDistance":
+      },
+      "1/15/2020": {
+        "lat": ,
+        "long":  ,
+        "distanceSinceLast":,
+        "totalDistance": 
+      },
+      "1/16/2020": {
+        "lat": ,
+        "long":  ,
+        "distanceSinceLast":,
+        "totalDistance": 
+      },
+    },
+  }
+}
