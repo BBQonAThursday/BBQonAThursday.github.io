@@ -28,6 +28,90 @@ function findPlayer(playerName) {
   }); 
 }
 
+function convertStatNames (prop) {
+  console.log(prop);
+  let friendlyName;
+  switch(prop) {
+    case 'rank': 
+      friendlyName = "Rank";
+      break;
+    case 'player':
+      friendlyName = "Player";
+      break;
+    case 'position':
+      friendlyName = "Position";
+      break;
+    case 'games':
+      friendlyName = "Games Played";
+      break;
+    case 'passCompletions':
+      friendlyName = "Passes Completed";
+      break;
+    case 'passAttempts':
+      friendlyName = "Passing Attempts";
+      break;
+    case 'passYards':
+      friendlyName = "Passing Yards";
+      break;
+    case 'passTD':
+      friendlyName = "Passing Touchdowns";
+      break;
+    case 'int':
+      friendlyName = "Interceptions";
+      break;
+    case 'rushAttempts':
+      friendlyName = "Rushing Attempts";
+      break;
+    case 'rushYards':
+      friendlyName = "Rushing Yards";
+      break;
+    case 'rushYardsPerAttempt':
+      friendlyName = "Rushing Yards Per Attempt";
+      break;
+    case 'rushTD':
+      friendlyName = "Rushing Touchdowns";
+      break;
+    case 'targets':
+      friendlyName = "Targets";
+      break;
+    case 'receptions':
+      friendlyName = "Receptions";
+      break;
+    case 'recYds':
+      friendlyName = "Reception Yards";
+      break;
+    case 'yardsPerRec':
+      friendlyName = "Yards Per Reception";
+      break;
+    case 'recTD':
+      friendlyName = "Receiving Touchdowns";
+      break;
+    case 'fumbles':
+      friendlyName = "Fumbles";
+      break;
+    case 'fumbLost':
+      friendlyName = "Fumbles Lost";
+      break;
+    case 'totalTD':
+      friendlyName = "Total Touchdowns";
+      break;
+    case '2PointsMade':
+      friendlyName = "2 Point Conversions Made";
+      break;
+    case '2PointsPass':
+      friendlyName = "2 Point Conversions - Passing";
+      break;
+  }
+
+  return friendlyName;
+  
+  
+   
+  }
+
+
+}
+
 function getPlayerStats(player) {
   
 }
