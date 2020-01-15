@@ -6,6 +6,9 @@ const statsOutput = document.querySelector('.stats-output');
 var fullStats;
 
 playerDropDown.addEventListener('change', function(){
+  if(statsOutput.childern != 0) {
+    statsOutput.innerHTML = '';
+  }
   findPlayer(playerDropDown.value);
 });
 
@@ -17,10 +20,11 @@ function findPlayer(playerName) {
       var stats;
       console.log(player);
       for(var prop in player) {
-        console.log(`${prop}: ${player[prop]}`);
+        //console.log(`${prop}: ${player[prop]}`);
         let playerStat = document.createElement('li');
+        let statName = convertStatNames(prop);
         playerStat.classList.add(`${prop}`);
-        playerStat.innerHTML = `${prop}: ${player[prop]}`;
+        playerStat.innerHTML = `${statName}: ${player[prop]}`;
 
         statsOutput.appendChild(playerStat);
       }
@@ -29,7 +33,7 @@ function findPlayer(playerName) {
 }
 
 function convertStatNames (prop) {
-  console.log(prop);
+  //console.log(prop);
   let friendlyName;
   switch(prop) {
     case 'rank': 
@@ -101,16 +105,12 @@ function convertStatNames (prop) {
     case '2PointsPass':
       friendlyName = "2 Point Conversions - Passing";
       break;
-  }
-
-  return friendlyName;
-  
-  
-   
+    }
+    return friendlyName;
   }
 
 
-}
+
 
 function getPlayerStats(player) {
   
