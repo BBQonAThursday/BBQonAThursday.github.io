@@ -3,11 +3,12 @@
   background-size: cover;
   display: grid;
   grid-gap: 4rem;
-  padding: 2rem;
+  padding: 4rem 2rem 2rem 2rem;
   grid-template-columns: [rail] 0.5fr [form] 4fr [slider] 3fr [scroll-bar] 1fr;
-  grid-template-rows: [navigation] 2fr [main-body] 3fr [microfooter] 1fr;
+  grid-template-rows: [navigation] 1fr [main-body] 3fr [microfooter] 1fr;
   width: 100%;
   font-family: "Sarabun", sans-serif;
+  filter: contrast(125%);
 }
 
 .flying--logo {
@@ -127,17 +128,10 @@
   display: flex;
   flex-direction: row;
 
-  .dates-depart {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .dates-return {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .class-travelers {
+  .dates-depart,
+  .dates-return,
+  .travelers,
+  .flight-class {
     display: flex;
     flex-direction: column;
   }
@@ -160,29 +154,30 @@
 }
 
 .scroll-bar {
-    grid-column-start: scroll-bar;
+  grid-column-start: scroll-bar;
+  justify-self: center;
 }
 
 .gg-menu {
-    transform: scale(var(--ggs,1))
+  transform: scale(var(--ggs, 1));
 }
 .gg-menu,
 .gg-menu::after,
 .gg-menu::before {
-    box-sizing: border-box;
-    position: relative;
-    display: block;
-    width: 20px;
-    height: 2px;
-    border-radius: 3px;
-    background: #fff;
+  box-sizing: border-box;
+  position: relative;
+  display: block;
+  width: 20px;
+  height: 2px;
+  border-radius: 3px;
+  background: #fff;
 }
 .gg-menu::after,
 .gg-menu::before {
-    content: "";
-    position: absolute;
-    top: -6px
+  content: "";
+  position: absolute;
+  top: -6px;
 }
 .gg-menu::after {
-    top: 6px
+  top: 6px;
 }
