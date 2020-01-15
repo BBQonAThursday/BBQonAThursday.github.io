@@ -6,8 +6,8 @@ const statsOutput = document.querySelector('.stats-output');
 var fullStats;
 
 playerDropDown.addEventListener('change', function(){
-  if(statsOutput.childern != 0) {
-    statsOutput.innerHTML = '';
+  while (statsOutput.firstChild) {
+    statsOutput.removeChild(statsOutput.firstChild);
   }
   findPlayer(playerDropDown.value);
 });
