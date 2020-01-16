@@ -6,6 +6,8 @@ var docContainer = document.querySelector('.widen-quick-links');
 request.onload = function() {
   let documents = JSON.parse(request.responseText);
   queryInfo(documents);
+  buildSubList('Woven Wood Shades', 'woven-wood-shades');
+  buildSubList('Woven Wood Drapes', 'woven-wood-drapes');
   buildHtmlList(documents);
 }
 
@@ -26,9 +28,12 @@ function cleanTitle (documentTitle) {
   }
 }
 
-function buildSubList(subHeadDisplay, docLink, docTitle) {
+
+
+function buildSubList(subHeadDisplay, subListSelector) {
   let subList = document.createElement('ul');
   subList.classList.add('pdf');
+  subList.classList.add(subListSelector);
   let subHeading = document.createElement('h4');
   subHeading.classList.add('document-section-subheading');
   subHeading.textContent = subHeadDisplay;
@@ -36,10 +41,10 @@ function buildSubList(subHeadDisplay, docLink, docTitle) {
   docContainer.appendChild(subList);
 }
 
-function placelistItems(subHeadDisplay) {
-  let subListSelector = document.querySelector(subHea);
+function placeListItems(subListName, docLink, docTitle) {
+  let subListSelector = document.querySelector(subListName);
   let subListItem = `<li class="pdf-link"><a href="${docLink}" class="widen-link" target="_blank">${cleanTitle(docTitle)}</a></li>`;
-  subList.insertAdjacentHTML('beforeend', subListItem);
+  subListSelector.insertAdjacentHTML('beforeend', subListItem);
 }
 
 function buildHtmlList(documents){
@@ -52,15 +57,13 @@ function buildHtmlList(documents){
   documentsList.forEach(document => {
     let docTitle = document.metadata.fields.documentTitle[0];
     let docUrl = document.embeds.document_viewer.share;
-    
-    
     let pageListItem = `<li class="pdf-link"><a href="${docUrl}" class="widen-link" target="_blank">${cleanTitle(docTitle)}</a></li>`
     // console.log(title);
      //console.log(pageListItem);
      if(docTitle.includes('Natural Shades -')) {
-        placeSubList('Woven Wood Shades', docUrl, docTitle);
+        placeListItems('.woven-wood-shades', docUrl, docTitle);
      } else if(docTitle.includes('Natural  -')) {
-        placeSubList('Woven Wood Drapes', docUrl, docTitle);
+        placeListItems('.woven-wood-drapes', docUrl, docTitle);
      } else {
       pdfList.insertAdjacentHTML('beforeend', pageListItem);
      }
