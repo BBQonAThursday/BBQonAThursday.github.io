@@ -43,7 +43,7 @@ function buildSubList(subHeadDisplay, subListSelector) {
 
 function placeListItems(subListName, docLink, docTitle) {
   let subListSelector = document.querySelector(subListName);
-  let subListItem = `<li class="pdf-link"><a href="${docLink}" class="widen-link" target="_blank">${cleanTitle(docTitle)}</a></li>`;
+  let subListItem = `<li class="pdf-link"><a href="${docLink}" class="widen-link" target="_blank">${removeProductLineTitle(cleanTitle(docTitle))}</a></li>`;
   subListSelector.insertAdjacentHTML('beforeend', subListItem);
 }
 
