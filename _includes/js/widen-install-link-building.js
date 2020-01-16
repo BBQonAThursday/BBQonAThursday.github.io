@@ -1,6 +1,7 @@
 let requestURL = '/_data/widen-data/installation/natural-shades.json';
 let request = new XMLHttpRequest();
 var docContainer = document.querySelector('.widen-quick-links');
+var queryContainer = document.querySelector('.query-info');
 
 
 request.onload = function() {
@@ -27,8 +28,6 @@ function cleanTitle (documentTitle) {
     return documentTitle;
   }
 }
-
-
 
 function buildSubList(subHeadDisplay, subListSelector) {
   let subList = document.createElement('ul');
@@ -79,6 +78,6 @@ function queryInfo(jsonObj) {
   queryHTML.textContent = query;
   queryExpHTML.textContent = queryExp;
 
-  docContainer.appendChild(queryHTML);
-  docContainer.appendChild(queryExpHTML);
+  queryContainer.appendChild(queryHTML);
+  queryContainer.appendChild(queryExpHTML);
 }

@@ -23,5 +23,6 @@ jsarr:
   </ul>
 
 </div>
+<div class="query-info"></div>
 <div class="widen-quick-links"></div>
   
