@@ -1,0 +1,2766 @@
+{
+  "query": "bs:({Signature Series}) dt:({Troubleshooting Guide}) pt:({Pleated Shades})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Troubleshooting Guide\" Product Types: \"Pleated Shades\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 24,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "20beb285-b9ab-4363-aa2f-9aa0a3213775",
+      "external_id": "ftxv0z1bhi",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf",
+      "created_date": "2020-01-14T22:50:12Z",
+      "last_update_date": "2020-01-14T22:53:38Z",
+      "file_upload_date": "2020-01-14T22:50:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Creeping Down when Shade is Raised - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/thsyd1/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ftxv0z1bhi/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised\" src=\"https://embed.widencdn.net/img/springswindowfashions/ftxv0z1bhi/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/3in8dt/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8pt9a5/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tazpor/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf</a>",
+          "share": "https://p.widencdn.net/flnxuf/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ftxv0z1bhi/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ftxv0z1bhi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down-when-shade-is-raised.pdf?signature=bt1urxstF86WTMD9LUtYy66yj0E%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/20beb285-b9ab-4363-aa2f-9aa0a3213775",
+        "self_all": "https://api.widencollective.com/v2/assets/20beb285-b9ab-4363-aa2f-9aa0a3213775?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "9b325d3c-0a2f-49db-b60b-2cc68dac9b5b",
+      "external_id": "ebofx5auuy",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf",
+      "created_date": "2020-01-14T22:19:19Z",
+      "last_update_date": "2020-01-14T22:24:10Z",
+      "file_upload_date": "2020-01-14T22:19:19Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Correct Uneven Shades - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-06-17"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mtel1p/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades\" src=\"https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/uigukm/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/knyvwm/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2xsimc/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf</a>",
+          "share": "https://p.widencdn.net/ggwlxz/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?signature=Ahyflp1KJDopgAGB3KCSGYvIZh0%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/9b325d3c-0a2f-49db-b60b-2cc68dac9b5b",
+        "self_all": "https://api.widencollective.com/v2/assets/9b325d3c-0a2f-49db-b60b-2cc68dac9b5b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "eee35f6c-a180-4d5d-b680-176e06345a55",
+      "external_id": "bay8oyaklg",
+      "filename": "troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf",
+      "created_date": "2020-01-14T22:19:19Z",
+      "last_update_date": "2020-01-14T22:26:53Z",
+      "file_upload_date": "2020-01-14T22:19:19Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cord Lift - Adjust Fabric Placement - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/h43cmc/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bay8oyaklg/x300px/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement\" src=\"https://embed.widencdn.net/img/springswindowfashions/bay8oyaklg/x300px/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/u92iae/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3xrqge/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yijmch/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf</a>",
+          "share": "https://p.widencdn.net/qthkch/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bay8oyaklg/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/bay8oyaklg/troubleshooting-cellular-pleated-shades-corded-adjust-fabric-placement.pdf?signature=jUqvtdQ8FIwujd2hEr8Dynh8vzo%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/eee35f6c-a180-4d5d-b680-176e06345a55",
+        "self_all": "https://api.widencollective.com/v2/assets/eee35f6c-a180-4d5d-b680-176e06345a55?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d8f19efe-10be-4fda-bda3-85eaf0fd0356",
+      "external_id": "y7wkgsip3a",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf",
+      "created_date": "2019-09-10T14:26:00Z",
+      "last_update_date": "2020-01-15T21:25:54Z",
+      "file_upload_date": "2019-09-10T14:26:00Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift Operating Instructions"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-01-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "21-1150-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2irdnu/troubleshooting-cellular-pleated-shades-cordless-operating-instructions",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y7wkgsip3a/x300px/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-operating-instructions\" src=\"https://embed.widencdn.net/img/springswindowfashions/y7wkgsip3a/x300px/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ykzzui/troubleshooting-cellular-pleated-shades-cordless-operating-instructions",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bry9xv/troubleshooting-cellular-pleated-shades-cordless-operating-instructions",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fbhqva/troubleshooting-cellular-pleated-shades-cordless-operating-instructions",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf</a>",
+          "share": "https://p.widencdn.net/3dzskz/troubleshooting-cellular-pleated-shades-cordless-operating-instructions",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y7wkgsip3a/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/y7wkgsip3a/troubleshooting-cellular-pleated-shades-cordless-operating-instructions.pdf?signature=1mkICYawryH4IuR%2B19hS00LylgU%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d8f19efe-10be-4fda-bda3-85eaf0fd0356",
+        "self_all": "https://api.widencollective.com/v2/assets/d8f19efe-10be-4fda-bda3-85eaf0fd0356?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "f84825d0-7dcc-4892-8f30-f90f66f8db71",
+      "external_id": "mn7xstwciv",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf",
+      "created_date": "2019-07-18T14:32:46Z",
+      "last_update_date": "2020-01-14T22:57:34Z",
+      "file_upload_date": "2020-01-14T22:15:08Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Correct Locking Mechanism - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hh80ck/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jnb2fe/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zmwxf9/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/it00gg/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/sjeglr/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?signature=08Y3%2F%2F5b8aG7Z9PEhOSVpIPjj00%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/f84825d0-7dcc-4892-8f30-f90f66f8db71",
+        "self_all": "https://api.widencollective.com/v2/assets/f84825d0-7dcc-4892-8f30-f90f66f8db71?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "8934ecc5-1cb2-476d-9de2-d36b4ace9f0a",
+      "external_id": "f7x54k89iy",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:54:46Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Continuous-Loop Lift - Correct Operation - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lc7hkr/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation\" src=\"https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dztz8u/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/w6vggd/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nluv6w/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf</a>",
+          "share": "https://p.widencdn.net/ia0tgp/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?signature=Cqtw3xN3yQTbEm5OVqgnO7a%2FWwU%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/8934ecc5-1cb2-476d-9de2-d36b4ace9f0a",
+        "self_all": "https://api.widencollective.com/v2/assets/8934ecc5-1cb2-476d-9de2-d36b4ace9f0a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "fb640f81-a697-48f4-9a28-90ec13a6da46",
+      "external_id": "drhuzilesc",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:56:02Z",
+      "file_upload_date": "2020-01-14T20:58:16Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Replace Clutch and Continuous-Loop with Dust Cover - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-09-20"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/owmfba/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/x300px/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover\" src=\"https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/x300px/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ur6c3q/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7hgluv/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/f2ws4n/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf</a>",
+          "share": "https://p.widencdn.net/7yzoym/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?signature=WhujqcPYAkIPNKbQmB%2FyZovP7AA%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/fb640f81-a697-48f4-9a28-90ec13a6da46",
+        "self_all": "https://api.widencollective.com/v2/assets/fb640f81-a697-48f4-9a28-90ec13a6da46?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d753b935-fc89-4f92-9eaa-b484c2e2fb19",
+      "external_id": "blmpxc7bwl",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:25Z",
+      "file_upload_date": "2020-01-14T21:50:32Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Restring or Replace Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-06-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fjcpil/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/0ldaks/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/h3jy2m/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tp3ubf/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/pykzbl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?signature=91%2Bzi4fjNDG0Hr%2BRpakN3hGCVEM%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d753b935-fc89-4f92-9eaa-b484c2e2fb19",
+        "self_all": "https://api.widencollective.com/v2/assets/d753b935-fc89-4f92-9eaa-b484c2e2fb19?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7fee184c-ce83-4b66-9ed7-15e8d1911f0f",
+      "external_id": "zlgtlkjmnl",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:51Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cordless Lift - Correct Operation - Mfr. Before 2015"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yad88s/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015\" src=\"https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ycrzgu/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/obgctw/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/s9tcin/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf</a>",
+          "share": "https://p.widencdn.net/wsa03f/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?signature=EPuQFVuITD11KJjDg0Tsjy%2BDLB8%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7fee184c-ce83-4b66-9ed7-15e8d1911f0f",
+        "self_all": "https://api.widencollective.com/v2/assets/7fee184c-ce83-4b66-9ed7-15e8d1911f0f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a",
+      "external_id": "etknlmtk0h",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:37Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cordless Lift - Correct Operation - Mfr. After 2015"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oygyoi/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after\" src=\"https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/2emm6n/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qbsz1j/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qsxbhp/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf</a>",
+          "share": "https://p.widencdn.net/fq4klp/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?signature=2u6ss6M0w4xcOaTTKM2CXLzkxwI%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a",
+        "self_all": "https://api.widencollective.com/v2/assets/f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "dc03fc6f-8387-4673-887f-18bce7f189e0",
+      "external_id": "0rfzbtacfc",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:00Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Continuous-Loop Lift - Correct Uneven - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ncyac0/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven\" src=\"https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/f1gyma/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cpdacg/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6b8xra/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf</a>",
+          "share": "https://p.widencdn.net/oicgdi/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?signature=cCNCev9CSq%2FtdodEFE1dcnEPhYQ%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/dc03fc6f-8387-4673-887f-18bce7f189e0",
+        "self_all": "https://api.widencollective.com/v2/assets/dc03fc6f-8387-4673-887f-18bce7f189e0?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "450b74d3-32f2-4741-93e4-be337d4bbc48",
+      "external_id": "0kv0wpbrln",
+      "filename": "troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-14T21:37:41Z",
+      "file_upload_date": "2020-01-14T21:13:33Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Correct Uneven Continuous-Loop with Dust Cover - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2016-08-24"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8jpbqp/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0kv0wpbrln/x300px/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover\" src=\"https://embed.widencdn.net/img/springswindowfashions/0kv0wpbrln/x300px/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vohocm/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nuslxq/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nl2yis/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf</a>",
+          "share": "https://p.widencdn.net/zot5ce/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0kv0wpbrln/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/0kv0wpbrln/troubleshooting-cellular-pleated-shades-correct-uneven-continuous-loop-with-dust-cover.pdf?signature=jKy7hmjlLGsyXmAGPJn2EiGU9d4%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/450b74d3-32f2-4741-93e4-be337d4bbc48",
+        "self_all": "https://api.widencollective.com/v2/assets/450b74d3-32f2-4741-93e4-be337d4bbc48?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7eba8c8e-ac59-4512-aaed-e3a55513b0b9",
+      "external_id": "rwnpfbjkcf",
+      "filename": "troubleshooting-cellular-shades-color-variance.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-02T22:32:41Z",
+      "file_upload_date": "2019-07-17T22:06:53Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular Shades - Color Variance"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/iwx5fg/troubleshooting-cellular-shades-color-variance",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/rwnpfbjkcf/x300px/troubleshooting-cellular-shades-color-variance.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-shades-color-variance\" src=\"https://embed.widencdn.net/img/springswindowfashions/rwnpfbjkcf/x300px/troubleshooting-cellular-shades-color-variance.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vpseeq/troubleshooting-cellular-shades-color-variance",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cc6dwa/troubleshooting-cellular-shades-color-variance",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/kyuebq/troubleshooting-cellular-shades-color-variance",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-shades-color-variance.pdf</a>",
+          "share": "https://p.widencdn.net/ecm60h/troubleshooting-cellular-shades-color-variance",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/rwnpfbjkcf/{size}px@{scale}x/troubleshooting-cellular-shades-color-variance.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/rwnpfbjkcf/troubleshooting-cellular-shades-color-variance.pdf?signature=g%2Be9R4Cpi9ipUBsORKjKTNr3I2E%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7eba8c8e-ac59-4512-aaed-e3a55513b0b9",
+        "self_all": "https://api.widencollective.com/v2/assets/7eba8c8e-ac59-4512-aaed-e3a55513b0b9?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ddff1223-c410-4802-bfdb-9ef5857c0d05",
+      "external_id": "cpfw43yn2l",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T21:24:09Z",
+      "file_upload_date": "2019-07-17T22:06:53Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Creeping Down - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2015-07-09"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/h51xlk/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cpfw43yn2l/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down\" src=\"https://embed.widencdn.net/img/springswindowfashions/cpfw43yn2l/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/kntwh3/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/p0l5hi/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xqzrt0/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf</a>",
+          "share": "https://p.widencdn.net/ou1jkn/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cpfw43yn2l/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/cpfw43yn2l/troubleshooting-cellular-pleated-shades-cordless-lift-creeping-down.pdf?signature=qYbN2U89rbivmap1MeMyY4bH3FQ%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ddff1223-c410-4802-bfdb-9ef5857c0d05",
+        "self_all": "https://api.widencollective.com/v2/assets/ddff1223-c410-4802-bfdb-9ef5857c0d05?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "c71db9bc-aeb9-4b37-881e-98d64fc5f70e",
+      "external_id": "bepupgceua",
+      "filename": "troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T21:23:26Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Adjust Fabric Placement - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/sohsjy/troubleshooting-cellular-pleated-shades-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bepupgceua/x300px/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-adjust-fabric-placement\" src=\"https://embed.widencdn.net/img/springswindowfashions/bepupgceua/x300px/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/oixchf/troubleshooting-cellular-pleated-shades-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0um3ou/troubleshooting-cellular-pleated-shades-adjust-fabric-placement",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3slyqd/troubleshooting-cellular-pleated-shades-adjust-fabric-placement",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf</a>",
+          "share": "https://p.widencdn.net/977f5c/troubleshooting-cellular-pleated-shades-adjust-fabric-placement",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bepupgceua/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/bepupgceua/troubleshooting-cellular-pleated-shades-adjust-fabric-placement.pdf?signature=wBOpwjPp8X4JV2U2wGILE06GID0%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/c71db9bc-aeb9-4b37-881e-98d64fc5f70e",
+        "self_all": "https://api.widencollective.com/v2/assets/c71db9bc-aeb9-4b37-881e-98d64fc5f70e?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "78772fca-a739-4638-a28a-1928ae408cd6",
+      "external_id": "sjpryv5qul",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf",
+      "created_date": "2019-06-18T15:57:31Z",
+      "last_update_date": "2020-01-15T21:24:50Z",
+      "file_upload_date": "2020-01-14T22:46:31Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Correct Uneven Intermediate Rail - Mfr. After 2015 - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/n0hj4h/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sjpryv5qul/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015\" src=\"https://embed.widencdn.net/img/springswindowfashions/sjpryv5qul/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/uhhphc/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/s3jqc5/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qygxek/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf</a>",
+          "share": "https://p.widencdn.net/rtesph/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sjpryv5qul/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/sjpryv5qul/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven-intermediate-rail-bottom-up-top-down-models-after-2015.pdf?signature=f3jSHIJsLzoySk0OK%2FfYbizFKEE%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/78772fca-a739-4638-a28a-1928ae408cd6",
+        "self_all": "https://api.widencollective.com/v2/assets/78772fca-a739-4638-a28a-1928ae408cd6?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "29f1e7f0-fc4c-45a5-b2bb-4da262b3e5c7",
+      "external_id": "htwh87iidq",
+      "filename": "troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf",
+      "created_date": "2019-06-18T15:57:29Z",
+      "last_update_date": "2020-01-15T21:26:48Z",
+      "file_upload_date": "2019-06-18T15:57:29Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Correct Uneven Intermediate Rail - Mfr. Before 2015 - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bgig7d/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/htwh87iidq/x300px/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015\" src=\"https://embed.widencdn.net/img/springswindowfashions/htwh87iidq/x300px/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/8ag9r2/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ne3a7p/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/neuors/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf</a>",
+          "share": "https://p.widencdn.net/z2stxa/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/htwh87iidq/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/htwh87iidq/troubleshooting-cellular-pleated-shades-correct-uneven-intermediate-rail-of-cordless-bottom-up-top-down-models-before-2015.pdf?signature=EPiGXV8723sfSnarZnG8ox7k7gE%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/29f1e7f0-fc4c-45a5-b2bb-4da262b3e5c7",
+        "self_all": "https://api.widencollective.com/v2/assets/29f1e7f0-fc4c-45a5-b2bb-4da262b3e5c7?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "3e0d659b-f391-4987-911d-c988c8cc6cb9",
+      "external_id": "cexe9gkftj",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf",
+      "created_date": "2019-06-18T15:51:06Z",
+      "last_update_date": "2020-01-15T15:08:52Z",
+      "file_upload_date": "2020-01-14T22:40:34Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Adjust Length/Creeping Up - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/z7k129/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cexe9gkftj/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up\" src=\"https://embed.widencdn.net/img/springswindowfashions/cexe9gkftj/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/k96fyi/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/09j3vk/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/5tlahn/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf</a>",
+          "share": "https://p.widencdn.net/dqqxvi/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cexe9gkftj/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/cexe9gkftj/troubleshooting-cellular-pleated-shades-cordless-lift-adjust-length-creeping-up.pdf?signature=aE14H1%2Bse07BwRZxYo7KBvpctCI%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/3e0d659b-f391-4987-911d-c988c8cc6cb9",
+        "self_all": "https://api.widencollective.com/v2/assets/3e0d659b-f391-4987-911d-c988c8cc6cb9?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "c012a97e-104f-49ef-9535-cd440e53a251",
+      "external_id": "y51qjrun5g",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf",
+      "created_date": "2019-06-18T15:44:17Z",
+      "last_update_date": "2020-01-15T22:55:17Z",
+      "file_upload_date": "2020-01-14T21:43:58Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Adjust Length - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-30"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xtkndx/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length\" src=\"https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/amrc02/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uzwxs6/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pxtske/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf</a>",
+          "share": "https://p.widencdn.net/pxvmis/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?signature=zHQL2OOls%2FX84S73WpcMxzvWDFU%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/c012a97e-104f-49ef-9535-cd440e53a251",
+        "self_all": "https://api.widencollective.com/v2/assets/c012a97e-104f-49ef-9535-cd440e53a251?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "fd79cc6a-9641-4551-bf04-79f8fc9e3a5d",
+      "external_id": "c9uqvktqsb",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf",
+      "created_date": "2019-06-18T15:40:48Z",
+      "last_update_date": "2020-01-15T21:25:09Z",
+      "file_upload_date": "2020-01-14T22:43:44Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Correct Uneven - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uzpcxy/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/c9uqvktqsb/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven\" src=\"https://embed.widencdn.net/img/springswindowfashions/c9uqvktqsb/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/donyxj/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/sijhrc/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/surlli/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf</a>",
+          "share": "https://p.widencdn.net/r9bsgs/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/c9uqvktqsb/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/c9uqvktqsb/troubleshooting-cellular-pleated-shades-cordless-lift-correct-uneven.pdf?signature=5FvO8e16bouRgqbBGlGqDpTjpug%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/fd79cc6a-9641-4551-bf04-79f8fc9e3a5d",
+        "self_all": "https://api.widencollective.com/v2/assets/fd79cc6a-9641-4551-bf04-79f8fc9e3a5d?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "a80f61da-259a-4a5c-b4d7-ed6b0ffd9b34",
+      "external_id": "829pa3oji0",
+      "filename": "troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf",
+      "created_date": "2019-06-18T15:34:51Z",
+      "last_update_date": "2020-01-15T21:27:27Z",
+      "file_upload_date": "2019-06-18T15:34:51Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Replace Continuous-Loop Mfr. After 11/99 - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lagb9r/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/829pa3oji0/x300px/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99\" src=\"https://embed.widencdn.net/img/springswindowfashions/829pa3oji0/x300px/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/kwuckc/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/jkmopk/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lp3827/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf</a>",
+          "share": "https://p.widencdn.net/sxreic/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/829pa3oji0/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/829pa3oji0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-after-11-01-99.pdf?signature=EOdv34O17yrxA803iuHQT4Kddo4%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/a80f61da-259a-4a5c-b4d7-ed6b0ffd9b34",
+        "self_all": "https://api.widencollective.com/v2/assets/a80f61da-259a-4a5c-b4d7-ed6b0ffd9b34?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "c8cb2c42-9a04-4bcd-840f-705e87911a73",
+      "external_id": "afioftre7y",
+      "filename": "troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf",
+      "created_date": "2019-06-18T15:31:05Z",
+      "last_update_date": "2020-01-15T21:27:17Z",
+      "file_upload_date": "2019-06-18T15:31:05Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Replace Continuous-Loop Mfr. 11/98 to 11/99 - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yhrqnx/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/afioftre7y/x300px/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99\" src=\"https://embed.widencdn.net/img/springswindowfashions/afioftre7y/x300px/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/u5rty0/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/b8cpbo/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7jgkgi/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf</a>",
+          "share": "https://p.widencdn.net/au3ysd/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/afioftre7y/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/afioftre7y/troubleshooting-cellular-pleated-shades-replacing-continuous-loop-manufactured-11-04-98-to-11-01-99.pdf?signature=VIEzhDfXX6t2xKv3yApqtkZab9M%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/c8cb2c42-9a04-4bcd-840f-705e87911a73",
+        "self_all": "https://api.widencollective.com/v2/assets/c8cb2c42-9a04-4bcd-840f-705e87911a73?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "003fccf4-877d-4a82-9d4a-120e7b541679",
+      "external_id": "2tqodzdvcu",
+      "filename": "troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf",
+      "created_date": "2019-06-18T15:26:04Z",
+      "last_update_date": "2020-01-14T22:38:24Z",
+      "file_upload_date": "2020-01-14T22:38:23Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular and Pleated Shades - Cordless Lift - Correct Bowing Bottomrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-29"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/codmrw/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/2tqodzdvcu/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail\" src=\"https://embed.widencdn.net/img/springswindowfashions/2tqodzdvcu/x300px/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/bh6qie/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rbpr0w/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/5trxzg/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf</a>",
+          "share": "https://p.widencdn.net/badpu8/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/2tqodzdvcu/{size}px@{scale}x/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/2tqodzdvcu/troubleshooting-cellular-pleated-shades-cordless-lift-correct-bowing-bottomrail.pdf?signature=NMsinVCPe9RocOnpvvzeAvJ74E4%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/003fccf4-877d-4a82-9d4a-120e7b541679",
+        "self_all": "https://api.widencollective.com/v2/assets/003fccf4-877d-4a82-9d4a-120e7b541679?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "81455e62-c54b-4410-b593-e36ed4d861a2",
+      "external_id": "zghs9k5jop",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf",
+      "created_date": "2019-06-18T15:14:09Z",
+      "last_update_date": "2020-01-15T21:22:01Z",
+      "file_upload_date": "2019-06-18T15:14:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Reattaching Cord Release Device - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2014-01-31T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/iajido/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device\" src=\"https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/mu4hcq/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/441uqi/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/aywkhz/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf</a>",
+          "share": "https://p.widencdn.net/cnivcj/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?signature=hFP9FFzMdrqKHdo0kDmUc8%2F5I90%3D&expires=1579295588647&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/81455e62-c54b-4410-b593-e36ed4d861a2",
+        "self_all": "https://api.widencollective.com/v2/assets/81455e62-c54b-4410-b593-e36ed4d861a2?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1836 @@
+{
+  "query": "bs:({Signature Series}) dt:({Troubleshooting Guide}) pl:({01 - Drapery Hardware} or {07 - Roman Shades} or {17 - Soft Treatments})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Troubleshooting Guide\" Product Lines: \"01 - Drapery Hardware\" or \"07 - Roman Shades\" or \"17 - Soft Treatments\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 16,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "9b325d3c-0a2f-49db-b60b-2cc68dac9b5b",
+      "external_id": "ebofx5auuy",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf",
+      "created_date": "2020-01-14T22:19:19Z",
+      "last_update_date": "2020-01-14T22:24:10Z",
+      "file_upload_date": "2020-01-14T22:19:19Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Correct Uneven Shades - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-06-17"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mtel1p/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades\" src=\"https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/uigukm/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/knyvwm/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2xsimc/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf</a>",
+          "share": "https://p.widencdn.net/ggwlxz/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ebofx5auuy/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ebofx5auuy/troubleshooting-cellular-pleated-roman-shades-cord-lift-straighten-uneven-shades.pdf?signature=p8NMVM0dlTWauYtZZ%2Bwqk1y3P10%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/9b325d3c-0a2f-49db-b60b-2cc68dac9b5b",
+        "self_all": "https://api.widencollective.com/v2/assets/9b325d3c-0a2f-49db-b60b-2cc68dac9b5b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7196e76d-70f4-44ea-a368-fadd3d9769a0",
+      "external_id": "gbhankfxai",
+      "filename": "troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:31:59Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Restring an Adjustable Traverse Rod - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-10T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nhew0h/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gbhankfxai/x300px/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod\" src=\"https://embed.widencdn.net/img/springswindowfashions/gbhankfxai/x300px/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/1danfc/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pwaatf/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/y2vhxx/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf</a>",
+          "share": "https://p.widencdn.net/r80shm/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gbhankfxai/{size}px@{scale}x/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/gbhankfxai/troubleshooting-drapery-hardware-restring-an-adjustable-traverse-rod.pdf?signature=hi2K4gpzUHmCdnVryCIkzUMZvMc%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7196e76d-70f4-44ea-a368-fadd3d9769a0",
+        "self_all": "https://api.widencollective.com/v2/assets/7196e76d-70f4-44ea-a368-fadd3d9769a0?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "18a6c73b-245c-4e20-95b6-0f1f23bc0690",
+      "external_id": "jxaozlxhq2",
+      "filename": "troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:32:12Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Traverse Rod Adjust Carriers for Even Stack - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-10T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hnb2rh/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jxaozlxhq2/x300px/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack\" src=\"https://embed.widencdn.net/img/springswindowfashions/jxaozlxhq2/x300px/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/sb2fqz/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2o3opg/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lcict6/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf</a>",
+          "share": "https://p.widencdn.net/cjirew/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jxaozlxhq2/{size}px@{scale}x/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/jxaozlxhq2/troubleshooting-drapery-hardware-traverse-rod-adjust-carriers-for-even-stack.pdf?signature=UlDVyW%2FR4BR%2F12gzbS2NTmX0kB0%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/18a6c73b-245c-4e20-95b6-0f1f23bc0690",
+        "self_all": "https://api.widencollective.com/v2/assets/18a6c73b-245c-4e20-95b6-0f1f23bc0690?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "06727e1b-6b9f-420c-adf6-09aa747d7f17",
+      "external_id": "zppo6ynvo6",
+      "filename": "troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:31:29Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Dauphine Rod Center Support Installation - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-12-22T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/az34r5/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zppo6ynvo6/x300px/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-dauphine-rod-center-support-installation\" src=\"https://embed.widencdn.net/img/springswindowfashions/zppo6ynvo6/x300px/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/bvoku9/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mx5lhs/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/25uzfx/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf</a>",
+          "share": "https://p.widencdn.net/olvwr8/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zppo6ynvo6/{size}px@{scale}x/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zppo6ynvo6/troubleshooting-drapery-hardware-dauphine-rod-center-support-installation.pdf?signature=%2FloLwSgXXlY%2Bgr6pjjiHjqPU67k%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/06727e1b-6b9f-420c-adf6-09aa747d7f17",
+        "self_all": "https://api.widencollective.com/v2/assets/06727e1b-6b9f-420c-adf6-09aa747d7f17?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "04bd1083-9c74-4144-b117-3c3c0e130907",
+      "external_id": "gfjbewi4qp",
+      "filename": "troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:30:23Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Convert Decorative or Super Heavy Duty Traverse Rods to One Way - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-06T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/n8vtg8/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gfjbewi4qp/x300px/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way\" src=\"https://embed.widencdn.net/img/springswindowfashions/gfjbewi4qp/x300px/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ufuijt/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/f9x81v/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ycwf77/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf</a>",
+          "share": "https://p.widencdn.net/hs9ebp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gfjbewi4qp/{size}px@{scale}x/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/gfjbewi4qp/troubleshooting-drapery-hardware-convert-decorative-or-super-heavy-duty-traverse-rods-to-one-way.pdf?signature=MedV2TUbdD%2BNVbfQvJGZRPAjUgk%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/04bd1083-9c74-4144-b117-3c3c0e130907",
+        "self_all": "https://api.widencollective.com/v2/assets/04bd1083-9c74-4144-b117-3c3c0e130907?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "b187acbc-e4a9-4921-ad69-a5ec635833f0",
+      "external_id": "06kkpye2rc",
+      "filename": "troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:31:18Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Correct Miss Fit Between Inside and Outside Traverse Rod Sections - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-12-22T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oz8gyr/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/06kkpye2rc/x300px/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections\" src=\"https://embed.widencdn.net/img/springswindowfashions/06kkpye2rc/x300px/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/la4kox/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/q8rjaj/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dvyw7c/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf</a>",
+          "share": "https://p.widencdn.net/oryc33/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/06kkpye2rc/{size}px@{scale}x/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/06kkpye2rc/troubleshooting-drapery-hardware-correct-miss-fit-between-inside-outside-traverse-rod-sections.pdf?signature=ZmQhaKRgdG6YJDJcPFpvWlwE%2BlM%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/b187acbc-e4a9-4921-ad69-a5ec635833f0",
+        "self_all": "https://api.widencollective.com/v2/assets/b187acbc-e4a9-4921-ad69-a5ec635833f0?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "8a53aa29-580f-47b6-b7f4-9e129eab6711",
+      "external_id": "pfoxalujv1",
+      "filename": "troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf",
+      "created_date": "2019-07-26T14:44:10Z",
+      "last_update_date": "2020-01-15T21:30:43Z",
+      "file_upload_date": "2019-07-26T14:44:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Drapery Hardware - Convert Flex Rod to One Way - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-06T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Drapery Hardware"
+          ],
+          "productLine1": [
+            "01 - Drapery Hardware"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2snojf/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/pfoxalujv1/x300px/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-drapery-hardware-convert-flex-rod-to-one-way\" src=\"https://embed.widencdn.net/img/springswindowfashions/pfoxalujv1/x300px/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/uo9ehx/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/igklzt/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/spwlxh/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf</a>",
+          "share": "https://p.widencdn.net/gtfcij/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/pfoxalujv1/{size}px@{scale}x/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/pfoxalujv1/troubleshooting-drapery-hardware-convert-flex-rod-to-one-way.pdf?signature=WeuQYBnC%2FL1SfaCBAf3lvLmCQ%2FA%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/8a53aa29-580f-47b6-b7f4-9e129eab6711",
+        "self_all": "https://api.widencollective.com/v2/assets/8a53aa29-580f-47b6-b7f4-9e129eab6711?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "f84825d0-7dcc-4892-8f30-f90f66f8db71",
+      "external_id": "mn7xstwciv",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf",
+      "created_date": "2019-07-18T14:32:46Z",
+      "last_update_date": "2020-01-14T22:57:34Z",
+      "file_upload_date": "2020-01-14T22:15:08Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Correct Locking Mechanism - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hh80ck/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jnb2fe/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zmwxf9/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/it00gg/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/sjeglr/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mn7xstwciv/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/mn7xstwciv/troubleshooting-cellular-pleated-roman-shades-cord-lift-correct-locking-mechanism.pdf?signature=8i7qg%2FYikqSiTlImSHIEOQKLJBs%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/f84825d0-7dcc-4892-8f30-f90f66f8db71",
+        "self_all": "https://api.widencollective.com/v2/assets/f84825d0-7dcc-4892-8f30-f90f66f8db71?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "8934ecc5-1cb2-476d-9de2-d36b4ace9f0a",
+      "external_id": "f7x54k89iy",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:54:46Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Continuous-Loop Lift - Correct Operation - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lc7hkr/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation\" src=\"https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dztz8u/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/w6vggd/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nluv6w/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf</a>",
+          "share": "https://p.widencdn.net/ia0tgp/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/f7x54k89iy/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/f7x54k89iy/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-operation.pdf?signature=6QNURVfS88OdKWn4u1esgQlslds%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/8934ecc5-1cb2-476d-9de2-d36b4ace9f0a",
+        "self_all": "https://api.widencollective.com/v2/assets/8934ecc5-1cb2-476d-9de2-d36b4ace9f0a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "fb640f81-a697-48f4-9a28-90ec13a6da46",
+      "external_id": "drhuzilesc",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:56:02Z",
+      "file_upload_date": "2020-01-14T20:58:16Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Replace Clutch and Continuous-Loop with Dust Cover - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-09-20"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/owmfba/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/x300px/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover\" src=\"https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/x300px/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ur6c3q/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7hgluv/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/f2ws4n/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf</a>",
+          "share": "https://p.widencdn.net/7yzoym/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/drhuzilesc/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/drhuzilesc/troubleshooting-cellular-pleated-roman-shades-replace-clutch-and-continuous-loop-with-dust-cover.pdf?signature=qRKoDkm9tB9amxv1AuUbuiOPZY8%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/fb640f81-a697-48f4-9a28-90ec13a6da46",
+        "self_all": "https://api.widencollective.com/v2/assets/fb640f81-a697-48f4-9a28-90ec13a6da46?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d753b935-fc89-4f92-9eaa-b484c2e2fb19",
+      "external_id": "blmpxc7bwl",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:25Z",
+      "file_upload_date": "2020-01-14T21:50:32Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Restring or Replace Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-06-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fjcpil/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/0ldaks/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/h3jy2m/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tp3ubf/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/pykzbl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/blmpxc7bwl/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/blmpxc7bwl/troubleshooting-cellular-pleated-roman-shades-cord-lift-restring-or-replace-cord-lock.pdf?signature=JrOs51f9xjIH%2F9c1j%2Fe4NRE55vM%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d753b935-fc89-4f92-9eaa-b484c2e2fb19",
+        "self_all": "https://api.widencollective.com/v2/assets/d753b935-fc89-4f92-9eaa-b484c2e2fb19?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7fee184c-ce83-4b66-9ed7-15e8d1911f0f",
+      "external_id": "zlgtlkjmnl",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:51Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cordless Lift - Correct Operation - Mfr. Before 2015"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yad88s/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015\" src=\"https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ycrzgu/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/obgctw/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/s9tcin/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf</a>",
+          "share": "https://p.widencdn.net/wsa03f/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zlgtlkjmnl/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zlgtlkjmnl/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-before-2015.pdf?signature=CapIiSiFn0LisjqGxfBs6J2WI%2BY%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7fee184c-ce83-4b66-9ed7-15e8d1911f0f",
+        "self_all": "https://api.widencollective.com/v2/assets/7fee184c-ce83-4b66-9ed7-15e8d1911f0f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a",
+      "external_id": "etknlmtk0h",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:37Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cordless Lift - Correct Operation - Mfr. After 2015"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-08"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oygyoi/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after\" src=\"https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/x300px/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/2emm6n/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qbsz1j/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qsxbhp/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf</a>",
+          "share": "https://p.widencdn.net/fq4klp/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/etknlmtk0h/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/etknlmtk0h/troubleshooting-cellular-pleated-roman-shades-cordless-lift-correct-operation-2015-and-after.pdf?signature=iR83i82%2FLlZ1TH34%2FJKfOKTQGDU%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a",
+        "self_all": "https://api.widencollective.com/v2/assets/f852e2d7-b2ef-46d2-a9ec-f6ce40bdac8a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "dc03fc6f-8387-4673-887f-18bce7f189e0",
+      "external_id": "0rfzbtacfc",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf",
+      "created_date": "2019-07-17T22:06:52Z",
+      "last_update_date": "2020-01-15T22:55:00Z",
+      "file_upload_date": "2019-07-17T22:06:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Continuous-Loop Lift - Correct Uneven - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-07"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ncyac0/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven\" src=\"https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/x300px/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/f1gyma/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cpdacg/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6b8xra/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf</a>",
+          "share": "https://p.widencdn.net/oicgdi/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0rfzbtacfc/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/0rfzbtacfc/troubleshooting-cellular-pleated-roman-shades-continuous-loop-lift-correct-uneven.pdf?signature=062I6iF24ZQXdkhXRE1voU7G%2BUc%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/dc03fc6f-8387-4673-887f-18bce7f189e0",
+        "self_all": "https://api.widencollective.com/v2/assets/dc03fc6f-8387-4673-887f-18bce7f189e0?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "c012a97e-104f-49ef-9535-cd440e53a251",
+      "external_id": "y51qjrun5g",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf",
+      "created_date": "2019-06-18T15:44:17Z",
+      "last_update_date": "2020-01-15T22:55:17Z",
+      "file_upload_date": "2020-01-14T21:43:58Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Adjust Length - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-05-30"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xtkndx/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length\" src=\"https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/amrc02/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uzwxs6/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pxtske/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf</a>",
+          "share": "https://p.widencdn.net/pxvmis/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/y51qjrun5g/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/y51qjrun5g/troubleshooting-cellular-pleated-roman-shades-cord-lift-adjust-length.pdf?signature=QRc6h6mAbRkilJpmGWu33wRgmnE%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/c012a97e-104f-49ef-9535-cd440e53a251",
+        "self_all": "https://api.widencollective.com/v2/assets/c012a97e-104f-49ef-9535-cd440e53a251?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "81455e62-c54b-4410-b593-e36ed4d861a2",
+      "external_id": "zghs9k5jop",
+      "filename": "troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf",
+      "created_date": "2019-06-18T15:14:09Z",
+      "last_update_date": "2020-01-15T21:22:01Z",
+      "file_upload_date": "2019-06-18T15:14:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Cord Lift - Reattaching Cord Release Device - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2014-01-31T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/iajido/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device\" src=\"https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/x300px/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/mu4hcq/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/441uqi/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/aywkhz/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf</a>",
+          "share": "https://p.widencdn.net/cnivcj/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zghs9k5jop/{size}px@{scale}x/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zghs9k5jop/troubleshooting-cellular-pleated-roman-shades-cord-lift-reattaching-cord-release-device.pdf?signature=GnIqlAQLHiTpUoZqK5ZInJuplzo%3D&expires=1579284608645&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/81455e62-c54b-4410-b593-e36ed4d861a2",
+        "self_all": "https://api.widencollective.com/v2/assets/81455e62-c54b-4410-b593-e36ed4d861a2?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

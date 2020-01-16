@@ -1,0 +1,1069 @@
+{
+  "query": "dt:({Installation Guide}) pl:({10 - Natural Shades})",
+  "sort": "-created_date",
+  "query_explained": "Document Type: \"Installation Guide\" Product Lines: \"10 - Natural Shades\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 9,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "d90b906f-40a9-4272-b2d4-eaed24397322",
+      "external_id": "nhk3t28ygc",
+      "filename": "installation-sliding-panels-natural-shades.pdf",
+      "created_date": "2019-12-19T19:14:43Z",
+      "last_update_date": "2020-01-08T23:11:10Z",
+      "file_upload_date": "2019-12-19T19:14:43Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Sliding Panels - Natural Shade Materials - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2017-04-04"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78004-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Sliding Panels"
+          ],
+          "productLine1": [
+            "10 - Natural Shades",
+            "16 - Panel Track"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/adkhzs/installation-sliding-panels-natural-shades",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/nhk3t28ygc/x300px/installation-sliding-panels-natural-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-sliding-panels-natural-shades\" src=\"https://embed.widencdn.net/img/springswindowfashions/nhk3t28ygc/x300px/installation-sliding-panels-natural-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/yg3hob/installation-sliding-panels-natural-shades",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6m7l46/installation-sliding-panels-natural-shades",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wfixji/installation-sliding-panels-natural-shades",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?u=rhpxwm\" target=\"_blank\">installation-sliding-panels-natural-shades.pdf</a>",
+          "share": "https://p.widencdn.net/aknw54/installation-sliding-panels-natural-shades",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/nhk3t28ygc/{size}px@{scale}x/installation-sliding-panels-natural-shades.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/nhk3t28ygc/installation-sliding-panels-natural-shades.pdf?signature=xcsDWBTpiHiPZUV%2F%2BRif5gOHL4Q%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d90b906f-40a9-4272-b2d4-eaed24397322",
+        "self_all": "https://api.widencollective.com/v2/assets/d90b906f-40a9-4272-b2d4-eaed24397322?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "921cee6d-c5f7-4596-846a-bba02a6dbfb8",
+      "external_id": "46cj6f4jfz",
+      "filename": "installation-natural-shades-motorization-12-volt-radio-frequency.pdf",
+      "created_date": "2019-12-19T19:14:40Z",
+      "last_update_date": "2020-01-15T20:18:20Z",
+      "file_upload_date": "2019-12-19T19:14:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Motorized RTS Power and Controls - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2014-05-22"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78218-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dwh8vf/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/x300px/installation-natural-shades-motorization-12-volt-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-motorization-12-volt-radio-frequency\" src=\"https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/x300px/installation-natural-shades-motorization-12-volt-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vsczt0/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mtnb5u/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xwp5t4/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-motorization-12-volt-radio-frequency.pdf</a>",
+          "share": "https://p.widencdn.net/urrqui/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/{size}px@{scale}x/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?signature=Iey0rIv9ghBYIQA1fqAEuG5InzQ%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/921cee6d-c5f7-4596-846a-bba02a6dbfb8",
+        "self_all": "https://api.widencollective.com/v2/assets/921cee6d-c5f7-4596-846a-bba02a6dbfb8?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "cf0b9b04-2c3f-405a-b31f-0440f77131d8",
+      "external_id": "kpqfshmr0v",
+      "filename": "installation-natural-shades-motorized.pdf",
+      "created_date": "2019-12-19T19:14:27Z",
+      "last_update_date": "2020-01-09T20:08:48Z",
+      "file_upload_date": "2019-12-19T19:14:27Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Motorization Virtual Cord - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "19-12236"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2019-10-28"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79073-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/by0nto/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/x300px/installation-natural-shades-motorized.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-motorized\" src=\"https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/x300px/installation-natural-shades-motorized.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ngkk9y/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/npjh3x/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8j2wmu/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-motorized.pdf</a>",
+          "share": "https://p.widencdn.net/2py8fc/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/{size}px@{scale}x/installation-natural-shades-motorized.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?signature=vNVRVQeUUOhF6MvPonWim9kcujo%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/cf0b9b04-2c3f-405a-b31f-0440f77131d8",
+        "self_all": "https://api.widencollective.com/v2/assets/cf0b9b04-2c3f-405a-b31f-0440f77131d8?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d3ffaf3e-0fb5-45ca-bbf2-2237126ca601",
+      "external_id": "vricbowmiw",
+      "filename": "installation-natural-shades-inside-ceiling-outside-mount.pdf",
+      "created_date": "2019-07-19T14:48:37Z",
+      "last_update_date": "2020-01-09T20:00:17Z",
+      "file_upload_date": "2019-07-19T14:48:37Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Inside/Ceiling/Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "16-3898"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2016-09-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79036-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dyrttz/installation-natural-shades-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/vricbowmiw/x300px/installation-natural-shades-inside-ceiling-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-inside-ceiling-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/vricbowmiw/x300px/installation-natural-shades-inside-ceiling-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/wagcq1/installation-natural-shades-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pzg8kw/installation-natural-shades-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qaa724/installation-natural-shades-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-inside-ceiling-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/l2ekgv/installation-natural-shades-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/vricbowmiw/{size}px@{scale}x/installation-natural-shades-inside-ceiling-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/vricbowmiw/installation-natural-shades-inside-ceiling-outside-mount.pdf?signature=3f7gm93O8PQQstg3aLjTmHS5d1o%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d3ffaf3e-0fb5-45ca-bbf2-2237126ca601",
+        "self_all": "https://api.widencollective.com/v2/assets/d3ffaf3e-0fb5-45ca-bbf2-2237126ca601?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d491b968-29be-4331-bdc4-a25734a3249c",
+      "external_id": "69qqopkahs",
+      "filename": "installation-natural-shades-12-volt-motorized-lift.pdf",
+      "created_date": "2019-07-19T14:48:36Z",
+      "last_update_date": "2020-01-09T22:58:09Z",
+      "file_upload_date": "2019-07-19T14:48:36Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - 12-Volt Motorized Lift - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "16-2874"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2016-05-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78218-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7fwhuv/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/x300px/installation-natural-shades-12-volt-motorized-lift.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-12-volt-motorized-lift\" src=\"https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/x300px/installation-natural-shades-12-volt-motorized-lift.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/p93b5d/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yntkw4/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cm2gzc/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-12-volt-motorized-lift.pdf</a>",
+          "share": "https://p.widencdn.net/dsjchf/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/{size}px@{scale}x/installation-natural-shades-12-volt-motorized-lift.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?signature=a2OhCoVT%2FTG5eN%2FlHBoT0ua3OgI%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d491b968-29be-4331-bdc4-a25734a3249c",
+        "self_all": "https://api.widencollective.com/v2/assets/d491b968-29be-4331-bdc4-a25734a3249c?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ba106341-a776-476b-aecc-21b6f2637cae",
+      "external_id": "pej1r4lqlz",
+      "filename": "installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf",
+      "created_date": "2019-07-19T14:48:36Z",
+      "last_update_date": "2020-01-15T20:17:56Z",
+      "file_upload_date": "2019-07-19T14:48:36Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Cordless Lift - Inside/Ceiling/Outside/Side Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2013-01-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79037-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dq2mk9/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/pej1r4lqlz/x300px/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/pej1r4lqlz/x300px/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vwdjnu/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cjzstm/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/b0sp6w/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf</a>",
+          "share": "https://p.widencdn.net/ozf5mw/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/pej1r4lqlz/{size}px@{scale}x/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/pej1r4lqlz/installation-natural-shades-cordless-lift-inside-ceiling-outside-side-mount.pdf?signature=zREIDHOuONn4%2BrkLKyThmImaSaE%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ba106341-a776-476b-aecc-21b6f2637cae",
+        "self_all": "https://api.widencollective.com/v2/assets/ba106341-a776-476b-aecc-21b6f2637cae?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "32ae725c-111d-4c0c-b2c3-a611e0105f2f",
+      "external_id": "sxkwxv1esg",
+      "filename": "installation-natural-shades-optional-valance.pdf",
+      "created_date": "2019-07-19T14:48:35Z",
+      "last_update_date": "2020-01-09T20:03:25Z",
+      "file_upload_date": "2019-07-19T14:48:35Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Optional Valance - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2012-07-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79034-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/atyrja/installation-natural-shades-optional-valance",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sxkwxv1esg/x300px/installation-natural-shades-optional-valance.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-optional-valance\" src=\"https://embed.widencdn.net/img/springswindowfashions/sxkwxv1esg/x300px/installation-natural-shades-optional-valance.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/o4q78n/installation-natural-shades-optional-valance",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/i0m0s9/installation-natural-shades-optional-valance",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bkgx61/installation-natural-shades-optional-valance",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-optional-valance.pdf</a>",
+          "share": "https://p.widencdn.net/r8ulph/installation-natural-shades-optional-valance",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sxkwxv1esg/{size}px@{scale}x/installation-natural-shades-optional-valance.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/sxkwxv1esg/installation-natural-shades-optional-valance.pdf?signature=EyYPIt6LHf1oARAjBHPznjRCk4w%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/32ae725c-111d-4c0c-b2c3-a611e0105f2f",
+        "self_all": "https://api.widencollective.com/v2/assets/32ae725c-111d-4c0c-b2c3-a611e0105f2f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7f25eb3a-7659-4411-be17-8f13056dd9ac",
+      "external_id": "gv5keurf9q",
+      "filename": "installation-natural-drapes-inside-outside-mount.pdf",
+      "created_date": "2019-07-19T14:48:34Z",
+      "last_update_date": "2020-01-09T20:05:14Z",
+      "file_upload_date": "2019-07-19T14:48:34Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Drapes - Inside/Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "16-3896"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2016-09-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78204-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Drapes"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uxqykw/installation-natural-drapes-inside-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gv5keurf9q/x300px/installation-natural-drapes-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-drapes-inside-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/gv5keurf9q/x300px/installation-natural-drapes-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dqxua2/installation-natural-drapes-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rwso3t/installation-natural-drapes-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nf0bkq/installation-natural-drapes-inside-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-drapes-inside-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/exhtse/installation-natural-drapes-inside-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gv5keurf9q/{size}px@{scale}x/installation-natural-drapes-inside-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/gv5keurf9q/installation-natural-drapes-inside-outside-mount.pdf?signature=VDgEu%2Bg7lL4Cbhf7J%2BeB11SpxnE%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7f25eb3a-7659-4411-be17-8f13056dd9ac",
+        "self_all": "https://api.widencollective.com/v2/assets/7f25eb3a-7659-4411-be17-8f13056dd9ac?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "83e81516-307d-425b-a316-99658cf994c2",
+      "external_id": "77pg0hs65r",
+      "filename": "installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf",
+      "created_date": "2019-07-19T14:48:30Z",
+      "last_update_date": "2020-01-09T22:58:38Z",
+      "file_upload_date": "2019-12-19T19:14:06Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller, Solar, and Natural Shades - Low Voltage Power Source for 24 Volt RTS Motorized Lift Shade - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "18-8415"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2018-08-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78219-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/psz25d/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/x300px/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source\" src=\"https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/x300px/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/elc1an/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/q6acna/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/eyxyjd/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf</a>",
+          "share": "https://p.widencdn.net/kpmakl/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/{size}px@{scale}x/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?signature=q5lEOhLQIxxVFPYEceHutksekIA%3D&expires=1579299121794&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/83e81516-307d-425b-a316-99658cf994c2",
+        "self_all": "https://api.widencollective.com/v2/assets/83e81516-307d-425b-a316-99658cf994c2?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

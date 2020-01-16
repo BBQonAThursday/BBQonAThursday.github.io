@@ -1,0 +1,2870 @@
+{
+  "query": "bs:({Signature Series}) dt:({Troubleshooting Guide}) pl:({04 - Horizontals})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Troubleshooting Guide\" Product Lines: \"04 - Horizontals\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 25,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "c6d1c37e-5def-4a4d-bf25-c29274f69f4f",
+      "external_id": "i2kflzzc2y",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf",
+      "created_date": "2019-09-11T20:55:27Z",
+      "last_update_date": "2020-01-15T21:41:53Z",
+      "file_upload_date": "2019-09-11T20:55:27Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Light Gap Between Slats - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2009-01-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/n7hjtb/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/i2kflzzc2y/x300px/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats\" src=\"https://embed.widencdn.net/img/springswindowfashions/i2kflzzc2y/x300px/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jxdet2/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8rcp0l/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/sqti4f/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf</a>",
+          "share": "https://p.widencdn.net/jejjj8/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/i2kflzzc2y/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/i2kflzzc2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-slats.pdf?signature=bH%2B0BD3aMk0TE0LQ0%2FosjvJg9kA%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/c6d1c37e-5def-4a4d-bf25-c29274f69f4f",
+        "self_all": "https://api.widencollective.com/v2/assets/c6d1c37e-5def-4a4d-bf25-c29274f69f4f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "9090148a-184f-48d9-9436-6b6bae813597",
+      "external_id": "q9btj9ujot",
+      "filename": "troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf",
+      "created_date": "2019-07-26T16:56:13Z",
+      "last_update_date": "2020-01-15T21:38:36Z",
+      "file_upload_date": "2019-07-26T16:56:13Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1\" Aluminum - Cordless Lift - Wand Assembly - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-31"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/5bxt0j/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/q9btj9ujot/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly\" src=\"https://embed.widencdn.net/img/springswindowfashions/q9btj9ujot/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/pewapi/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/20pird/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rmmkqa/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf</a>",
+          "share": "https://p.widencdn.net/wcuryw/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/q9btj9ujot/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/q9btj9ujot/troubleshooting-horizontal-aluminum-1-inch-cordless-wand-assembly.pdf?signature=CgE%2B3m1iuEaGWD%2BTBZ%2FX0J4uNXE%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/9090148a-184f-48d9-9436-6b6bae813597",
+        "self_all": "https://api.widencollective.com/v2/assets/9090148a-184f-48d9-9436-6b6bae813597?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e9235660-030a-43dc-8f25-3081704bf317",
+      "external_id": "gyis45blxo",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:34:24Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Replacing Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-31"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6h0gwg/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gyis45blxo/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/gyis45blxo/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/nnl6dq/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bfdnlg/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/vdqcbw/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/kct1fd/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/gyis45blxo/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/gyis45blxo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-replacing-cord-lock.pdf?signature=2elhBByMpn2%2FoBWpNKpWHA0oJj8%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e9235660-030a-43dc-8f25-3081704bf317",
+        "self_all": "https://api.widencollective.com/v2/assets/e9235660-030a-43dc-8f25-3081704bf317?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "997799bf-9bcd-4d14-b58d-5297f1f091ae",
+      "external_id": "13sao2a2sy",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:33:54Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Releasing Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-05-25"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/n8c3dg/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/13sao2a2sy/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/13sao2a2sy/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/8bfajq/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2xamkd/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/jcpdrm/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/hmn1ok/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/13sao2a2sy/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/13sao2a2sy/troubleshooting-horizontal-aluminum-1-2-and-1-inch-releasing-cord-lock.pdf?signature=b0ZAK%2BvlNBLezCL1Kp8twuTb0gU%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/997799bf-9bcd-4d14-b58d-5297f1f091ae",
+        "self_all": "https://api.widencollective.com/v2/assets/997799bf-9bcd-4d14-b58d-5297f1f091ae?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "3b5bb5c4-a24c-4de2-89bd-57f6bf0235a5",
+      "external_id": "skihojhg2v",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:36:33Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Wand Tilter Replacement and Wand or Ring Attachment - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-15T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/m4vow5/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/skihojhg2v/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment\" src=\"https://embed.widencdn.net/img/springswindowfashions/skihojhg2v/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/fv5jph/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pgttfz/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oot9aq/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf</a>",
+          "share": "https://p.widencdn.net/ozrbq5/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/skihojhg2v/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/skihojhg2v/troubleshooting-horizontal-aluminum-1-2-and-1-inch-wand-tilter-replacement-and-wand-or-ring-attachment.pdf?signature=Ku5IXqDcD7QbnUi9lGO%2FVJWTkdg%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/3b5bb5c4-a24c-4de2-89bd-57f6bf0235a5",
+        "self_all": "https://api.widencollective.com/v2/assets/3b5bb5c4-a24c-4de2-89bd-57f6bf0235a5?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e5b43d35-f2f2-426f-a778-a7ba1e565cbc",
+      "external_id": "zsa1vuikd9",
+      "filename": "troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:38:00Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1\" Aluminum - Cordless Lift - Hard To or Will Not Tilt - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-12-19T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/sei1lm/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zsa1vuikd9/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt\" src=\"https://embed.widencdn.net/img/springswindowfashions/zsa1vuikd9/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/fe1onp/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8cwrsf/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dlwcv6/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf</a>",
+          "share": "https://p.widencdn.net/343h3v/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zsa1vuikd9/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zsa1vuikd9/troubleshooting-horizontal-aluminum-1-inch-cordless-hard-to-or-will-not-tilt.pdf?signature=wIk8kcAT77bUU9eCJkd%2FBuYqeTM%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e5b43d35-f2f2-426f-a778-a7ba1e565cbc",
+        "self_all": "https://api.widencollective.com/v2/assets/e5b43d35-f2f2-426f-a778-a7ba1e565cbc?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "36af973a-b955-4109-bd3b-8d9349ab9ca2",
+      "external_id": "qhj4nobke8",
+      "filename": "troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:39:13Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1\" Aluminum - Cordless Lift - Will Not Raise or Lower - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-31"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/kkgs8i/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/qhj4nobke8/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower\" src=\"https://embed.widencdn.net/img/springswindowfashions/qhj4nobke8/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/5hvqvt/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/y1pwyj/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6xj7ju/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf</a>",
+          "share": "https://p.widencdn.net/eakao9/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/qhj4nobke8/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/qhj4nobke8/troubleshooting-horizontal-aluminum-1-inch-cordless-will-not-raise-or-lower.pdf?signature=s8LMX6pyi350NjSQBoHoa%2BDvyv8%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/36af973a-b955-4109-bd3b-8d9349ab9ca2",
+        "self_all": "https://api.widencollective.com/v2/assets/36af973a-b955-4109-bd3b-8d9349ab9ca2?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "6cd69fe1-23e6-48a9-978a-6cff7484b669",
+      "external_id": "rugqsgogfi",
+      "filename": "troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf",
+      "created_date": "2019-07-26T16:56:12Z",
+      "last_update_date": "2020-01-15T21:37:23Z",
+      "file_upload_date": "2019-07-26T16:56:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cordless Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1\" Aluminum - Cordless Lift - Hangs or Raises Unevenly - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-21"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/20rmpx/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/rugqsgogfi/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly\" src=\"https://embed.widencdn.net/img/springswindowfashions/rugqsgogfi/x300px/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/abgefs/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zewtnz/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hnvuen/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf</a>",
+          "share": "https://p.widencdn.net/lh4dbc/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/rugqsgogfi/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/rugqsgogfi/troubleshooting-horizontal-aluminum-1-inch-cordless-hangs-or-raises-unevenly.pdf?signature=pP6veoEqNDSN4nXpaNRfpL3S4A0%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/6cd69fe1-23e6-48a9-978a-6cff7484b669",
+        "self_all": "https://api.widencollective.com/v2/assets/6cd69fe1-23e6-48a9-978a-6cff7484b669?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "4062a497-d771-4ee1-95ae-15afdb3a5e1c",
+      "external_id": "9jxrumajdx",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf",
+      "created_date": "2019-07-26T16:56:11Z",
+      "last_update_date": "2020-01-15T21:33:10Z",
+      "file_upload_date": "2019-07-26T16:56:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Lift Cords and Ladder Tape Adjustments - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-31"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ec09xl/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/9jxrumajdx/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments\" src=\"https://embed.widencdn.net/img/springswindowfashions/9jxrumajdx/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vkhdhd/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ydrzv0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dmb2g6/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf</a>",
+          "share": "https://p.widencdn.net/fqmpoo/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/9jxrumajdx/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/9jxrumajdx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-lift-cords-and-ladder-tape-adjustments.pdf?signature=C83oNPrlaWS5ZKyP2sLI8%2BZfmi8%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/4062a497-d771-4ee1-95ae-15afdb3a5e1c",
+        "self_all": "https://api.widencollective.com/v2/assets/4062a497-d771-4ee1-95ae-15afdb3a5e1c?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "25f06e13-ad85-4cb8-8f15-e3dbb4c18a94",
+      "external_id": "qjm7v1xxh0",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf",
+      "created_date": "2019-07-26T16:56:11Z",
+      "last_update_date": "2020-01-15T21:33:38Z",
+      "file_upload_date": "2019-07-26T16:56:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Light Gap Between Slats - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-06-13"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qlswqa/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/qjm7v1xxh0/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats\" src=\"https://embed.widencdn.net/img/springswindowfashions/qjm7v1xxh0/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/81wice/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/digfmc/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3mrjfc/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf</a>",
+          "share": "https://p.widencdn.net/harjyq/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/qjm7v1xxh0/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/qjm7v1xxh0/troubleshooting-horizontal-aluminum-1-2-and-1-inch-light-gap-between-slats.pdf?signature=zOxKwBsRwR%2FB2DgfISCE82gqj48%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/25f06e13-ad85-4cb8-8f15-e3dbb4c18a94",
+        "self_all": "https://api.widencollective.com/v2/assets/25f06e13-ad85-4cb8-8f15-e3dbb4c18a94?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "09bc5daa-8d47-4631-b15d-c007763848d5",
+      "external_id": "ezpdbhrc93",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf",
+      "created_date": "2019-07-26T16:56:11Z",
+      "last_update_date": "2020-01-15T21:34:41Z",
+      "file_upload_date": "2019-07-26T16:56:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Shorten Blind Length - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-06-13"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ar5jmz/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ezpdbhrc93/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length\" src=\"https://embed.widencdn.net/img/springswindowfashions/ezpdbhrc93/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ompkuk/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wugzjg/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ajv3v5/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf</a>",
+          "share": "https://p.widencdn.net/hgxxmi/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ezpdbhrc93/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ezpdbhrc93/troubleshooting-horizontal-aluminum-1-2-and-1-inch-shorten-blind-length.pdf?signature=IsFcsXuk30GEgZ7yHeVspEhchnc%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/09bc5daa-8d47-4631-b15d-c007763848d5",
+        "self_all": "https://api.widencollective.com/v2/assets/09bc5daa-8d47-4631-b15d-c007763848d5?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ed76358d-00ce-44e2-91fa-7615d10b0e9d",
+      "external_id": "jckq5e3chs",
+      "filename": "troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf",
+      "created_date": "2019-07-26T16:56:11Z",
+      "last_update_date": "2020-01-15T21:35:37Z",
+      "file_upload_date": "2019-07-26T16:56:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 1/2\" and 1\" Aluminum - Slats Will Not Tilt - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-08-31"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pgbyas/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jckq5e3chs/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt\" src=\"https://embed.widencdn.net/img/springswindowfashions/jckq5e3chs/x300px/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/1dzouj/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/aahbcx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0mlwwp/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf</a>",
+          "share": "https://p.widencdn.net/hzeovx/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jckq5e3chs/{size}px@{scale}x/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/jckq5e3chs/troubleshooting-horizontal-aluminum-1-2-and-1-inch-slats-will-not-tilt.pdf?signature=8eNu%2BNmBSpdKdEro5goQr9ZdkR8%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ed76358d-00ce-44e2-91fa-7615d10b0e9d",
+        "self_all": "https://api.widencollective.com/v2/assets/ed76358d-00ce-44e2-91fa-7615d10b0e9d?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7bbfd445-89be-4fe4-861b-d1567053f13f",
+      "external_id": "vwucmwafy6",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf",
+      "created_date": "2019-07-25T19:21:11Z",
+      "last_update_date": "2020-01-15T21:40:04Z",
+      "file_upload_date": "2019-07-25T19:21:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Cord Tilter Replacement with Wand Tilter - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cbd5yb/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/vwucmwafy6/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter\" src=\"https://embed.widencdn.net/img/springswindowfashions/vwucmwafy6/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/piddxq/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3cjqga/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hhfnph/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf</a>",
+          "share": "https://p.widencdn.net/pi7keo/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/vwucmwafy6/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/vwucmwafy6/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement-with-wand-tilter.pdf?signature=vZ3vL0qclCxD5HUJ19kD1SLJav4%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7bbfd445-89be-4fe4-861b-d1567053f13f",
+        "self_all": "https://api.widencollective.com/v2/assets/7bbfd445-89be-4fe4-861b-d1567053f13f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "162ec2f7-c52b-481b-969c-c7a7d5523ec3",
+      "external_id": "bst0nxrmud",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf",
+      "created_date": "2019-07-25T19:21:11Z",
+      "last_update_date": "2020-01-15T21:42:53Z",
+      "file_upload_date": "2019-07-25T19:21:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Wand Tilter Replacement with Wand Attachment - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/svky28/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bst0nxrmud/x300px/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment\" src=\"https://embed.widencdn.net/img/springswindowfashions/bst0nxrmud/x300px/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/2jewyv/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/f0evsq/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dbjnkx/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf</a>",
+          "share": "https://p.widencdn.net/7yegyi/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/bst0nxrmud/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/bst0nxrmud/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-wand-attachment.pdf?signature=igFr1RLWIA79O2vBxEMiL5yNqZg%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/162ec2f7-c52b-481b-969c-c7a7d5523ec3",
+        "self_all": "https://api.widencollective.com/v2/assets/162ec2f7-c52b-481b-969c-c7a7d5523ec3?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "0e1b95ae-5b01-46a2-958d-0c55b5675a4d",
+      "external_id": "hjbxwg4lf9",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:41:22Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Install Replacement Slats with Route Holes - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0bb2yc/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/hjbxwg4lf9/x300px/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes\" src=\"https://embed.widencdn.net/img/springswindowfashions/hjbxwg4lf9/x300px/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/fv4a01/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6gt98r/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2kf4cl/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf</a>",
+          "share": "https://p.widencdn.net/dkuysa/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/hjbxwg4lf9/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/hjbxwg4lf9/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-route-holes.pdf?signature=1eN5fHKKvU%2FK%2FUI2u%2Bk5rDdNTy0%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/0e1b95ae-5b01-46a2-958d-0c55b5675a4d",
+        "self_all": "https://api.widencollective.com/v2/assets/0e1b95ae-5b01-46a2-958d-0c55b5675a4d?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "5e61372d-4120-4a6c-8221-0e55ea700939",
+      "external_id": "in4qs6hdo8",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:39:57Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Replace Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-04-17"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/4oj35d/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/in4qs6hdo8/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement\" src=\"https://embed.widencdn.net/img/springswindowfashions/in4qs6hdo8/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/v4smw2/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qcp1ow/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/um1znl/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf</a>",
+          "share": "https://p.widencdn.net/uabgu0/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/in4qs6hdo8/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/in4qs6hdo8/troubleshooting-horizontal-wood-faux-blinds-cord-lock-replacement.pdf?signature=FuZBWoPtwQGF4lqlvp8iFSAoUMU%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/5e61372d-4120-4a6c-8221-0e55ea700939",
+        "self_all": "https://api.widencollective.com/v2/assets/5e61372d-4120-4a6c-8221-0e55ea700939?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "b4dfa089-9b6c-4dbc-81d5-fd09d7e20769",
+      "external_id": "mwazbyum8q",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:42:46Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Wand Tilter Replacement with Cord Tilter - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ypjvtk/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mwazbyum8q/x300px/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter\" src=\"https://embed.widencdn.net/img/springswindowfashions/mwazbyum8q/x300px/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/wnmeuq/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3tiqrr/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/i5xlwu/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf</a>",
+          "share": "https://p.widencdn.net/3xyumz/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/mwazbyum8q/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/mwazbyum8q/troubleshooting-horizontal-wood-faux-blinds-wand-tilter-replacement-with-cord-tilter.pdf?signature=UDFOa6h8aUyd8vKcRbnSnHwn4pY%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/b4dfa089-9b6c-4dbc-81d5-fd09d7e20769",
+        "self_all": "https://api.widencollective.com/v2/assets/b4dfa089-9b6c-4dbc-81d5-fd09d7e20769?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d5411be0-e6bc-4c04-becc-913d00ff2d63",
+      "external_id": "a8mqp9dtvb",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:42:21Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Replace Bottomrail with Route Holes - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-15"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8oqqk7/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/a8mqp9dtvb/x300px/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes\" src=\"https://embed.widencdn.net/img/springswindowfashions/a8mqp9dtvb/x300px/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/9ro6ew/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/haphit/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oznp4t/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf</a>",
+          "share": "https://p.widencdn.net/2mg5jv/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/a8mqp9dtvb/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/a8mqp9dtvb/troubleshooting-horizontal-wood-faux-blinds-replace-bottomrail-with-route-holes.pdf?signature=X9eEtZeWOG3dALIcwaS%2FNLV1%2Bys%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d5411be0-e6bc-4c04-becc-913d00ff2d63",
+        "self_all": "https://api.widencollective.com/v2/assets/d5411be0-e6bc-4c04-becc-913d00ff2d63?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "762fed90-5358-437a-a5c5-e5ff8ea48035",
+      "external_id": "7f4wfbuo3l",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:42:27Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Shorten Blinds - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-11-10T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zey7vv/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/7f4wfbuo3l/x300px/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-shorten-blinds\" src=\"https://embed.widencdn.net/img/springswindowfashions/7f4wfbuo3l/x300px/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/lpsrnh/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qhlgcb/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dcx22q/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf</a>",
+          "share": "https://p.widencdn.net/hi0cxl/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/7f4wfbuo3l/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/7f4wfbuo3l/troubleshooting-horizontal-wood-faux-blinds-shorten-blinds.pdf?signature=7J4Ddh%2F6bX43WCN4waIWZ2voXFw%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/762fed90-5358-437a-a5c5-e5ff8ea48035",
+        "self_all": "https://api.widencollective.com/v2/assets/762fed90-5358-437a-a5c5-e5ff8ea48035?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ef59f663-8d14-4635-8341-fbe476c75fd4",
+      "external_id": "6dpolqmbwt",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf",
+      "created_date": "2019-07-25T19:21:10Z",
+      "last_update_date": "2020-01-15T21:42:00Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Release Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rl6rfu/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/6dpolqmbwt/x300px/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-release-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/6dpolqmbwt/x300px/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/snn8x9/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/razysv/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/gnnadb/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/saxfwu/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/6dpolqmbwt/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/6dpolqmbwt/troubleshooting-horizontal-wood-faux-blinds-release-cord-lock.pdf?signature=dN3R4rOwEsCL%2BBRAjtv1v8YC4ZQ%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ef59f663-8d14-4635-8341-fbe476c75fd4",
+        "self_all": "https://api.widencollective.com/v2/assets/ef59f663-8d14-4635-8341-fbe476c75fd4?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "bb915f6f-aefa-4d1c-a8e6-a55c4c2d9f1e",
+      "external_id": "yciag3eiik",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf",
+      "created_date": "2019-07-25T19:21:09Z",
+      "last_update_date": "2020-01-15T21:41:04Z",
+      "file_upload_date": "2019-07-25T19:21:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Install Replacement Slats with No Route Holes - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-02-16T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rgwtre/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/yciag3eiik/x300px/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes\" src=\"https://embed.widencdn.net/img/springswindowfashions/yciag3eiik/x300px/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/r5144r/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oqfuyf/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xyrrx5/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf</a>",
+          "share": "https://p.widencdn.net/canctp/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/yciag3eiik/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/yciag3eiik/troubleshooting-horizontal-wood-faux-blinds-install-replacement-slats-with-no-route-holes.pdf?signature=IT4f7Mcy6qFgTgmxY9t%2BY4j0%2FV0%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/bb915f6f-aefa-4d1c-a8e6-a55c4c2d9f1e",
+        "self_all": "https://api.widencollective.com/v2/assets/bb915f6f-aefa-4d1c-a8e6-a55c4c2d9f1e?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "441fe8d7-fb8e-4529-9b7e-f56dd326af64",
+      "external_id": "cdvvmtcdjh",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf",
+      "created_date": "2019-07-25T19:21:09Z",
+      "last_update_date": "2020-01-15T21:40:54Z",
+      "file_upload_date": "2019-07-25T19:21:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Correct Uneven Hanging or Operation - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tv1nrk/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cdvvmtcdjh/x300px/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation\" src=\"https://embed.widencdn.net/img/springswindowfashions/cdvvmtcdjh/x300px/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dnr6wh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/r911gy/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mt9cko/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf</a>",
+          "share": "https://p.widencdn.net/zp6frs/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/cdvvmtcdjh/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/cdvvmtcdjh/troubleshooting-horizontal-wood-faux-blinds-correct-uneven-hanging-or-operation.pdf?signature=f59IIJCAb%2FzTX6%2Boo%2F451U0QsCI%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/441fe8d7-fb8e-4529-9b7e-f56dd326af64",
+        "self_all": "https://api.widencollective.com/v2/assets/441fe8d7-fb8e-4529-9b7e-f56dd326af64?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "b73daee2-450b-43a6-8a58-e9c36b040e4b",
+      "external_id": "0feggqyjjz",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf",
+      "created_date": "2019-07-25T19:21:09Z",
+      "last_update_date": "2020-01-15T21:40:14Z",
+      "file_upload_date": "2019-07-25T19:21:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Cord Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Cord Tilter Replacement - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/civ4ln/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0feggqyjjz/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement\" src=\"https://embed.widencdn.net/img/springswindowfashions/0feggqyjjz/x300px/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jqdzmf/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ohughu/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/drf9zl/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf</a>",
+          "share": "https://p.widencdn.net/z8aapc/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/0feggqyjjz/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/0feggqyjjz/troubleshooting-horizontal-wood-faux-blinds-cord-tilter-replacement.pdf?signature=QX4zac0%2BQxxn3CRvio1khvGl%2BRo%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/b73daee2-450b-43a6-8a58-e9c36b040e4b",
+        "self_all": "https://api.widencollective.com/v2/assets/b73daee2-450b-43a6-8a58-e9c36b040e4b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "310327bf-6a0f-41a9-87b6-b774fe620570",
+      "external_id": "kmppfdqhy1",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf",
+      "created_date": "2019-07-25T19:21:09Z",
+      "last_update_date": "2020-01-15T21:40:35Z",
+      "file_upload_date": "2019-07-25T19:21:09Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Correct Tilter Mechanism - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-07-18"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wymbem/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kmppfdqhy1/x300px/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/kmppfdqhy1/x300px/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/20yg0q/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7pdtpi/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/m3pc7e/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/gczcu3/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kmppfdqhy1/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/kmppfdqhy1/troubleshooting-horizontal-wood-faux-blinds-correct-tilter-mechanism.pdf?signature=B5EDbV6oyOpVOEKajUu6YTjSD2U%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/310327bf-6a0f-41a9-87b6-b774fe620570",
+        "self_all": "https://api.widencollective.com/v2/assets/310327bf-6a0f-41a9-87b6-b774fe620570?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7d33be5b-f05a-49d0-94f6-f95a163d5ffc",
+      "external_id": "2vdqaympbo",
+      "filename": "troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf",
+      "created_date": "2019-07-25T19:21:09Z",
+      "last_update_date": "2020-01-15T21:41:30Z",
+      "file_upload_date": "2019-07-25T19:21:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - Wood and Faux Wood - Light Gap Between Headrail and Top Slat - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2009-01-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Composite Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ixeahq/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/2vdqaympbo/x300px/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat\" src=\"https://embed.widencdn.net/img/springswindowfashions/2vdqaympbo/x300px/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/fmrdzb/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/109g2y/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qa2dny/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf</a>",
+          "share": "https://p.widencdn.net/sms3t2/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/2vdqaympbo/{size}px@{scale}x/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/2vdqaympbo/troubleshooting-horizontal-wood-faux-blinds-light-gap-between-headrail-and-top-slat.pdf?signature=lXqAv1ksz5U%2F%2FUN6MKlyfUIUhrI%3D&expires=1579294356887&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7d33be5b-f05a-49d0-94f6-f95a163d5ffc",
+        "self_all": "https://api.widencollective.com/v2/assets/7d33be5b-f05a-49d0-94f6-f95a163d5ffc?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2462 @@
+{
+  "query": "bs:({Signature Series}) dt:({Troubleshooting Guide}) pl:({03 - Verticals})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Troubleshooting Guide\" Product Lines: \"03 - Verticals\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 22,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "e1986bfb-ee8b-4773-95c6-d361f6cc5d78",
+      "external_id": "sxovhnltsz",
+      "filename": "troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf",
+      "created_date": "2020-01-15T22:12:53Z",
+      "last_update_date": "2020-01-15T22:16:24Z",
+      "file_upload_date": "2020-01-15T22:12:53Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Realignment of Side Rails and Material - Kicks Towards Glass - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tw8yoj/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sxovhnltsz/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass\" src=\"https://embed.widencdn.net/img/springswindowfashions/sxovhnltsz/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/iuqqsx/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nrim7w/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ibn5j2/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf</a>",
+          "share": "https://p.widencdn.net/qs51vj/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/sxovhnltsz/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/sxovhnltsz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-glass.pdf?signature=9RDJneuZnenl8k4mYM40lgAvOmI%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e1986bfb-ee8b-4773-95c6-d361f6cc5d78",
+        "self_all": "https://api.widencollective.com/v2/assets/e1986bfb-ee8b-4773-95c6-d361f6cc5d78?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "81232eb2-44a8-450d-a15c-b98cf5864232",
+      "external_id": "dijulr1dvg",
+      "filename": "troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf",
+      "created_date": "2020-01-15T22:12:53Z",
+      "last_update_date": "2020-01-15T22:15:39Z",
+      "file_upload_date": "2020-01-15T22:12:53Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Cord Too Short or End Plate Will Not Reach Right Side - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2019-07-15"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/jadmuj/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/dijulr1dvg/x300px/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side\" src=\"https://embed.widencdn.net/img/springswindowfashions/dijulr1dvg/x300px/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/l73usw/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tkzwyq/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/llb7a7/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf</a>",
+          "share": "https://p.widencdn.net/gvhejl/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/dijulr1dvg/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/dijulr1dvg/troubleshooting-vertical-cellular-shades-cord-too-short-or-end-plate-will-not-reach-right-side.pdf?signature=ig4fFnVZLEPzsrGNFrh%2FR040tyM%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/81232eb2-44a8-450d-a15c-b98cf5864232",
+        "self_all": "https://api.widencollective.com/v2/assets/81232eb2-44a8-450d-a15c-b98cf5864232?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "faa6d7d3-42a4-4453-b8f4-6ab9e6b5afe1",
+      "external_id": "kfvflwkv8s",
+      "filename": "troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf",
+      "created_date": "2020-01-15T22:12:52Z",
+      "last_update_date": "2020-01-15T22:14:40Z",
+      "file_upload_date": "2020-01-15T22:12:52Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Realignment of Side Rails and Material - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ptbdvz/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kfvflwkv8s/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material\" src=\"https://embed.widencdn.net/img/springswindowfashions/kfvflwkv8s/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ildcu2/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/a11bqu/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/eovwz8/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf</a>",
+          "share": "https://p.widencdn.net/tdus8m/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kfvflwkv8s/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/kfvflwkv8s/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material.pdf?signature=U6Sv7ndy7JNmK1G%2FQhf8PhfNihQ%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/faa6d7d3-42a4-4453-b8f4-6ab9e6b5afe1",
+        "self_all": "https://api.widencollective.com/v2/assets/faa6d7d3-42a4-4453-b8f4-6ab9e6b5afe1?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ad835e10-0802-4d25-a9fc-c70cd3e6e8c6",
+      "external_id": "jafvd5zo9m",
+      "filename": "troubleshooting-vertical-blinds-s-shaped-louver-information.pdf",
+      "created_date": "2019-12-19T19:13:27Z",
+      "last_update_date": "2020-01-02T22:38:31Z",
+      "file_upload_date": "2019-12-19T19:13:27Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - S-Shaped Louver (Vane) Information"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2014-05-22"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/1mp2bl/troubleshooting-vertical-blinds-s-shaped-louver-information",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jafvd5zo9m/x300px/troubleshooting-vertical-blinds-s-shaped-louver-information.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-s-shaped-louver-information\" src=\"https://embed.widencdn.net/img/springswindowfashions/jafvd5zo9m/x300px/troubleshooting-vertical-blinds-s-shaped-louver-information.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/arezb3/troubleshooting-vertical-blinds-s-shaped-louver-information",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/v9tgpq/troubleshooting-vertical-blinds-s-shaped-louver-information",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/3ylyy5/troubleshooting-vertical-blinds-s-shaped-louver-information",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-s-shaped-louver-information.pdf</a>",
+          "share": "https://p.widencdn.net/l9u5ra/troubleshooting-vertical-blinds-s-shaped-louver-information",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/jafvd5zo9m/{size}px@{scale}x/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/jafvd5zo9m/troubleshooting-vertical-blinds-s-shaped-louver-information.pdf?signature=b2N6L4CAAgRCBa5uvc9hsdO1dyA%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ad835e10-0802-4d25-a9fc-c70cd3e6e8c6",
+        "self_all": "https://api.widencollective.com/v2/assets/ad835e10-0802-4d25-a9fc-c70cd3e6e8c6?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "3f7d8f89-f2b3-4d97-b115-43b37e7f6700",
+      "external_id": "umtlfsqvrp",
+      "filename": "troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf",
+      "created_date": "2019-09-11T20:12:12Z",
+      "last_update_date": "2020-01-15T21:52:09Z",
+      "file_upload_date": "2019-09-11T20:12:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Replace Control Mechanism for G98 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-11-28T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ohekpe/troubleshooting-vertical-blinds-G98-replace-control-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/umtlfsqvrp/x300px/troubleshooting-vertical-blinds-G98-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G98-replace-control-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/umtlfsqvrp/x300px/troubleshooting-vertical-blinds-G98-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/rhwpo8/troubleshooting-vertical-blinds-G98-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mu6v4f/troubleshooting-vertical-blinds-G98-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tnu1nt/troubleshooting-vertical-blinds-G98-replace-control-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/psrskc/troubleshooting-vertical-blinds-G98-replace-control-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/umtlfsqvrp/{size}px@{scale}x/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/umtlfsqvrp/troubleshooting-vertical-blinds-G98-replace-control-mechanism.pdf?signature=fe0wBkYB1oToP9LI151QMClV55g%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/3f7d8f89-f2b3-4d97-b115-43b37e7f6700",
+        "self_all": "https://api.widencollective.com/v2/assets/3f7d8f89-f2b3-4d97-b115-43b37e7f6700?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "b5aa8134-6e2d-4a74-9d0b-ce7d84c311dc",
+      "external_id": "a4d7p6ehve",
+      "filename": "troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:52:55Z",
+      "file_upload_date": "2019-09-11T20:12:12Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Louvers Will Not Traverse (Slide) - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-15"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pbnf4f/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/a4d7p6ehve/x300px/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-louvers-will-not-traverse-slide\" src=\"https://embed.widencdn.net/img/springswindowfashions/a4d7p6ehve/x300px/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ujnrhq/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/owp1cd/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/okcw2u/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf</a>",
+          "share": "https://p.widencdn.net/dickyj/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/a4d7p6ehve/{size}px@{scale}x/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/a4d7p6ehve/troubleshooting-vertical-blinds-louvers-will-not-traverse-slide.pdf?signature=Qn7s0cCatJEjAcARypXpWNjWh1M%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/b5aa8134-6e2d-4a74-9d0b-ce7d84c311dc",
+        "self_all": "https://api.widencollective.com/v2/assets/b5aa8134-6e2d-4a74-9d0b-ce7d84c311dc?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "10f2de75-3f43-436c-91c9-e5c393c11c5a",
+      "external_id": "zkcm5da7xt",
+      "filename": "troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:50:40Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Louvers are Hard to or Won't Rotate for G71 and G85 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-11"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zvltku/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zkcm5da7xt/x300px/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate\" src=\"https://embed.widencdn.net/img/springswindowfashions/zkcm5da7xt/x300px/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jgt2tb/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/6n0do5/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/u3vff4/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf</a>",
+          "share": "https://p.widencdn.net/bjsydv/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zkcm5da7xt/{size}px@{scale}x/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zkcm5da7xt/troubleshooting-vertical-blinds-G71-G85-louvers-are-hard-to-or-wont-rotate.pdf?signature=qsFDWJPWj2WUYfwFd6y1loVvASw%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/10f2de75-3f43-436c-91c9-e5c393c11c5a",
+        "self_all": "https://api.widencollective.com/v2/assets/10f2de75-3f43-436c-91c9-e5c393c11c5a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e8af6775-8d16-480e-b392-23338e5d50d5",
+      "external_id": "ihhpc8qsez",
+      "filename": "troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:51:55Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Replace Control Mechanism for G85 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-12"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/y1mpvt/troubleshooting-vertical-blinds-G85-replace-control-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ihhpc8qsez/x300px/troubleshooting-vertical-blinds-G85-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G85-replace-control-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/ihhpc8qsez/x300px/troubleshooting-vertical-blinds-G85-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/wzbjtk/troubleshooting-vertical-blinds-G85-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7xerld/troubleshooting-vertical-blinds-G85-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ybf38e/troubleshooting-vertical-blinds-G85-replace-control-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/q9nkf1/troubleshooting-vertical-blinds-G85-replace-control-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ihhpc8qsez/{size}px@{scale}x/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ihhpc8qsez/troubleshooting-vertical-blinds-G85-replace-control-mechanism.pdf?signature=kIhEow5Z6%2BifoTG7lJe%2Fb8EMxVI%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e8af6775-8d16-480e-b392-23338e5d50d5",
+        "self_all": "https://api.widencollective.com/v2/assets/e8af6775-8d16-480e-b392-23338e5d50d5?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "dcc48b80-11c3-4677-a34e-4f726e160c28",
+      "external_id": "10aunbgoxn",
+      "filename": "troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:51:27Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Shorten Traverse Cords for G71 and G85 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-15"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/w168mq/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/10aunbgoxn/x300px/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords\" src=\"https://embed.widencdn.net/img/springswindowfashions/10aunbgoxn/x300px/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/gsusl8/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/daod8o/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cwzkbd/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf</a>",
+          "share": "https://p.widencdn.net/3hrile/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/10aunbgoxn/{size}px@{scale}x/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/10aunbgoxn/troubleshooting-vertical-blinds-G71-G85-shorten-traverse-cords.pdf?signature=2ZkbEOVsrUfXAtCiBmnQkYxMgiM%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/dcc48b80-11c3-4677-a34e-4f726e160c28",
+        "self_all": "https://api.widencollective.com/v2/assets/dcc48b80-11c3-4677-a34e-4f726e160c28?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7e31d35f-cfba-4991-af88-c3e3064affa7",
+      "external_id": "oznbovxkax",
+      "filename": "troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:50:11Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Attaching One Touch Wand to Stem - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-11-13T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qgfk5c/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/oznbovxkax/x300px/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem\" src=\"https://embed.widencdn.net/img/springswindowfashions/oznbovxkax/x300px/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/zbptw7/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/y8hdh0/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yo2vz5/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf</a>",
+          "share": "https://p.widencdn.net/x4pgrn/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/oznbovxkax/{size}px@{scale}x/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/oznbovxkax/troubleshooting-vertical-blinds-attaching-one-touch-wand-to-stem.pdf?signature=P083Fh%2Fx3SpwOKrJwdb4b0KPi0g%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7e31d35f-cfba-4991-af88-c3e3064affa7",
+        "self_all": "https://api.widencollective.com/v2/assets/7e31d35f-cfba-4991-af88-c3e3064affa7?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "03d23751-736d-4f43-8143-a2d42c9589e8",
+      "external_id": "ufeogzlkbi",
+      "filename": "troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:50:59Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Only One Side of Split Stack Traverses, Gap in Center of Split Stack for G71 and G85 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-12"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/upervf/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ufeogzlkbi/x300px/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack\" src=\"https://embed.widencdn.net/img/springswindowfashions/ufeogzlkbi/x300px/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/lgraew/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/4rdq24/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/gb5i3a/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf</a>",
+          "share": "https://p.widencdn.net/hbpsva/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ufeogzlkbi/{size}px@{scale}x/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ufeogzlkbi/troubleshooting-vertical-blinds-G71-G85-only-one-side-of-split-stack-traverses-gap-in-split-stack.pdf?signature=o4wJqrd0mA2C9f04sB2URF5v1IM%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/03d23751-736d-4f43-8143-a2d42c9589e8",
+        "self_all": "https://api.widencollective.com/v2/assets/03d23751-736d-4f43-8143-a2d42c9589e8?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e1e2e3d5-2ecf-4c14-a69c-8640e564956a",
+      "external_id": "xnnq5tiaiy",
+      "filename": "troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:51:12Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Replacing Louver Stems and Realigning Louvers for G71 and G85 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-12"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/c7kmjq/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xnnq5tiaiy/x300px/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers\" src=\"https://embed.widencdn.net/img/springswindowfashions/xnnq5tiaiy/x300px/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/wctvuv/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/vmp3sh/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/m5p9sr/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf</a>",
+          "share": "https://p.widencdn.net/unaduw/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xnnq5tiaiy/{size}px@{scale}x/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/xnnq5tiaiy/troubleshooting-vertical-blinds-G71-G85-replacing-louver-stems-and-realigning-louvers.pdf?signature=5W3HqcfMS94ma2es%2Fj0hEvFol2U%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e1e2e3d5-2ecf-4c14-a69c-8640e564956a",
+        "self_all": "https://api.widencollective.com/v2/assets/e1e2e3d5-2ecf-4c14-a69c-8640e564956a?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "5e6919d3-ca52-47ec-99a7-06ca3bc26df4",
+      "external_id": "5zrtp3mxro",
+      "filename": "troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:51:33Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Replace Control Mechanism for G71 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-12"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/z9d7i3/troubleshooting-vertical-blinds-G71-replace-control-mechanism",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/5zrtp3mxro/x300px/troubleshooting-vertical-blinds-G71-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G71-replace-control-mechanism\" src=\"https://embed.widencdn.net/img/springswindowfashions/5zrtp3mxro/x300px/troubleshooting-vertical-blinds-G71-replace-control-mechanism.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/rlemq5/troubleshooting-vertical-blinds-G71-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/kxm3tc/troubleshooting-vertical-blinds-G71-replace-control-mechanism",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yyagpp/troubleshooting-vertical-blinds-G71-replace-control-mechanism",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf</a>",
+          "share": "https://p.widencdn.net/pla2as/troubleshooting-vertical-blinds-G71-replace-control-mechanism",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/5zrtp3mxro/{size}px@{scale}x/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/5zrtp3mxro/troubleshooting-vertical-blinds-G71-replace-control-mechanism.pdf?signature=LQ32wIkJMzMkeT2ekDoXbz91TlA%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/5e6919d3-ca52-47ec-99a7-06ca3bc26df4",
+        "self_all": "https://api.widencollective.com/v2/assets/5e6919d3-ca52-47ec-99a7-06ca3bc26df4?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "10191023-f573-4980-a569-0c174c766850",
+      "external_id": "n05lznimee",
+      "filename": "troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:52:33Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Shorten Traverse Cords for G98 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-12"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rkzeru/troubleshooting-vertical-blinds-G98-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/n05lznimee/x300px/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G98-shorten-traverse-cords\" src=\"https://embed.widencdn.net/img/springswindowfashions/n05lznimee/x300px/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/komexf/troubleshooting-vertical-blinds-G98-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bc0hyh/troubleshooting-vertical-blinds-G98-shorten-traverse-cords",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/oxm0q8/troubleshooting-vertical-blinds-G98-shorten-traverse-cords",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf</a>",
+          "share": "https://p.widencdn.net/q2ytt9/troubleshooting-vertical-blinds-G98-shorten-traverse-cords",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/n05lznimee/{size}px@{scale}x/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/n05lznimee/troubleshooting-vertical-blinds-G98-shorten-traverse-cords.pdf?signature=4GCgLulRJDan%2Bmz%2Foa1IcGYbfR8%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/10191023-f573-4980-a569-0c174c766850",
+        "self_all": "https://api.widencollective.com/v2/assets/10191023-f573-4980-a569-0c174c766850?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "124712eb-f214-4f94-a167-791caf5654fd",
+      "external_id": "eek3xwkcx4",
+      "filename": "troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf",
+      "created_date": "2019-09-11T20:12:11Z",
+      "last_update_date": "2020-01-15T21:52:14Z",
+      "file_upload_date": "2019-09-11T20:12:11Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Replace Louver Stems for G98 Headrail - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-15"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zo2iol/troubleshooting-vertical-blinds-G98-replace-louver-stems",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/eek3xwkcx4/x300px/troubleshooting-vertical-blinds-G98-replace-louver-stems.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-G98-replace-louver-stems\" src=\"https://embed.widencdn.net/img/springswindowfashions/eek3xwkcx4/x300px/troubleshooting-vertical-blinds-G98-replace-louver-stems.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/3rmiy2/troubleshooting-vertical-blinds-G98-replace-louver-stems",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zyetsk/troubleshooting-vertical-blinds-G98-replace-louver-stems",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ucxjrv/troubleshooting-vertical-blinds-G98-replace-louver-stems",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf</a>",
+          "share": "https://p.widencdn.net/epeceo/troubleshooting-vertical-blinds-G98-replace-louver-stems",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/eek3xwkcx4/{size}px@{scale}x/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/eek3xwkcx4/troubleshooting-vertical-blinds-G98-replace-louver-stems.pdf?signature=rBkQfaSq2EXRYnwv6g4HVEgnFhY%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/124712eb-f214-4f94-a167-791caf5654fd",
+        "self_all": "https://api.widencollective.com/v2/assets/124712eb-f214-4f94-a167-791caf5654fd?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "4f7d5572-7351-492a-bde6-634e6cb0d686",
+      "external_id": "3t2qrlgh6n",
+      "filename": "troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf",
+      "created_date": "2019-09-11T20:12:10Z",
+      "last_update_date": "2020-01-15T21:50:31Z",
+      "file_upload_date": "2019-09-11T20:12:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Fabric Falling Out of Channel Panel - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-11"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tflp6c/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/3t2qrlgh6n/x300px/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel\" src=\"https://embed.widencdn.net/img/springswindowfashions/3t2qrlgh6n/x300px/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/v1psth/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rpcs73/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/h3bm7y/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf</a>",
+          "share": "https://p.widencdn.net/4pifyf/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/3t2qrlgh6n/{size}px@{scale}x/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/3t2qrlgh6n/troubleshooting-vertical-blinds-fabric-falling-out-of-channel-panel.pdf?signature=Tis070MtV3BIc53TJG2gFAgUK9s%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/4f7d5572-7351-492a-bde6-634e6cb0d686",
+        "self_all": "https://api.widencollective.com/v2/assets/4f7d5572-7351-492a-bde6-634e6cb0d686?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7823958b-206d-4d2a-9eff-6d76b1544aa3",
+      "external_id": "iovjw8yckz",
+      "filename": "troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf",
+      "created_date": "2019-09-11T20:12:10Z",
+      "last_update_date": "2020-01-15T21:50:01Z",
+      "file_upload_date": "2019-09-11T20:12:10Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Wand Control"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Blinds - Adjust Rotation Chain Length - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-10-11"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lryelx/troubleshooting-vertical-blinds-adjust-rotation-chain-length",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/iovjw8yckz/x300px/troubleshooting-vertical-blinds-adjust-rotation-chain-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-blinds-adjust-rotation-chain-length\" src=\"https://embed.widencdn.net/img/springswindowfashions/iovjw8yckz/x300px/troubleshooting-vertical-blinds-adjust-rotation-chain-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ovjy1v/troubleshooting-vertical-blinds-adjust-rotation-chain-length",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/md13g6/troubleshooting-vertical-blinds-adjust-rotation-chain-length",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/boilal/troubleshooting-vertical-blinds-adjust-rotation-chain-length",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf</a>",
+          "share": "https://p.widencdn.net/8bvbu2/troubleshooting-vertical-blinds-adjust-rotation-chain-length",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/iovjw8yckz/{size}px@{scale}x/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/iovjw8yckz/troubleshooting-vertical-blinds-adjust-rotation-chain-length.pdf?signature=dVA%2BOJe6lYnVJ41H1qjOlU9LudY%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7823958b-206d-4d2a-9eff-6d76b1544aa3",
+        "self_all": "https://api.widencollective.com/v2/assets/7823958b-206d-4d2a-9eff-6d76b1544aa3?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "8ee44859-6f20-4e0c-a748-5f822a76facb",
+      "external_id": "dzmacbawdz",
+      "filename": "troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf",
+      "created_date": "2019-07-17T22:17:15Z",
+      "last_update_date": "2020-01-15T21:53:32Z",
+      "file_upload_date": "2019-07-17T22:17:15Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Fabric Crinkled - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-01-03T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/2hbymc/troubleshooting-vertical-cellular-shades-fabric-crinkled",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/dzmacbawdz/x300px/troubleshooting-vertical-cellular-shades-fabric-crinkled.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-fabric-crinkled\" src=\"https://embed.widencdn.net/img/springswindowfashions/dzmacbawdz/x300px/troubleshooting-vertical-cellular-shades-fabric-crinkled.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/kf3o4x/troubleshooting-vertical-cellular-shades-fabric-crinkled",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/62zct5/troubleshooting-vertical-cellular-shades-fabric-crinkled",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ae6ark/troubleshooting-vertical-cellular-shades-fabric-crinkled",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf</a>",
+          "share": "https://p.widencdn.net/zf6kid/troubleshooting-vertical-cellular-shades-fabric-crinkled",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/dzmacbawdz/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/dzmacbawdz/troubleshooting-vertical-cellular-shades-fabric-crinkled.pdf?signature=R1P%2FlwpF9%2BPhcsW9sq%2BXtvqas6U%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/8ee44859-6f20-4e0c-a748-5f822a76facb",
+        "self_all": "https://api.widencollective.com/v2/assets/8ee44859-6f20-4e0c-a748-5f822a76facb?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "7c7ec3f3-2e9c-422f-a505-42da3360be95",
+      "external_id": "fowboyye8m",
+      "filename": "troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf",
+      "created_date": "2019-07-17T22:17:14Z",
+      "last_update_date": "2020-01-15T21:56:07Z",
+      "file_upload_date": "2020-01-15T21:56:06Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Loosen or Tighten Cord Tension - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/icmq4g/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/fowboyye8m/x300px/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension\" src=\"https://embed.widencdn.net/img/springswindowfashions/fowboyye8m/x300px/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/1kpuwo/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lp6hip/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dsc9dm/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf</a>",
+          "share": "https://p.widencdn.net/ikzmae/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/fowboyye8m/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/fowboyye8m/troubleshooting-vertical-cellular-shades-loosen-or-tighten-cord-tension.pdf?signature=hnB5nsmQXT%2BGxff0fVikqY2frPA%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/7c7ec3f3-2e9c-422f-a505-42da3360be95",
+        "self_all": "https://api.widencollective.com/v2/assets/7c7ec3f3-2e9c-422f-a505-42da3360be95?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d3a4c177-e960-4b07-a630-ed9f0aa66828",
+      "external_id": "ynew7ocdfi",
+      "filename": "troubleshooting-vertical-cellular-shades-hard-to-operate.pdf",
+      "created_date": "2019-07-17T22:17:14Z",
+      "last_update_date": "2020-01-15T22:02:37Z",
+      "file_upload_date": "2020-01-15T22:02:36Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Hard to Operate - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hfqb0c/troubleshooting-vertical-cellular-shades-hard-to-operate",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ynew7ocdfi/x300px/troubleshooting-vertical-cellular-shades-hard-to-operate.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-hard-to-operate\" src=\"https://embed.widencdn.net/img/springswindowfashions/ynew7ocdfi/x300px/troubleshooting-vertical-cellular-shades-hard-to-operate.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/oanxbv/troubleshooting-vertical-cellular-shades-hard-to-operate",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qjw1ia/troubleshooting-vertical-cellular-shades-hard-to-operate",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lm1a13/troubleshooting-vertical-cellular-shades-hard-to-operate",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-hard-to-operate.pdf</a>",
+          "share": "https://p.widencdn.net/wv8beb/troubleshooting-vertical-cellular-shades-hard-to-operate",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ynew7ocdfi/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ynew7ocdfi/troubleshooting-vertical-cellular-shades-hard-to-operate.pdf?signature=6ndXwfXij6JDP04FNfoSLM3n7xY%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d3a4c177-e960-4b07-a630-ed9f0aa66828",
+        "self_all": "https://api.widencollective.com/v2/assets/d3a4c177-e960-4b07-a630-ed9f0aa66828?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "950fd0e8-b16c-4abe-bceb-2b5dc2cb908e",
+      "external_id": "hfzxmh0ngr",
+      "filename": "troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf",
+      "created_date": "2019-07-17T22:17:14Z",
+      "last_update_date": "2020-01-15T22:00:22Z",
+      "file_upload_date": "2020-01-15T22:00:21Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Fabric Billowing, Puckering, Bowing - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/anciyh/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/hfzxmh0ngr/x300px/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing\" src=\"https://embed.widencdn.net/img/springswindowfashions/hfzxmh0ngr/x300px/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/cb9q8o/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/nmzqvo/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/b6wxfc/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf</a>",
+          "share": "https://p.widencdn.net/3rqxn6/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/hfzxmh0ngr/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/hfzxmh0ngr/troubleshooting-vertical-cellular-shades-fabric-billowing-puckering-bowing.pdf?signature=S3sceVhFN23LEwpDWc%2FjoE%2Bjgkw%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/950fd0e8-b16c-4abe-bceb-2b5dc2cb908e",
+        "self_all": "https://api.widencollective.com/v2/assets/950fd0e8-b16c-4abe-bceb-2b5dc2cb908e?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "339bbee7-e4f4-4a40-b6b1-6c1d75fc8b8e",
+      "external_id": "ywyy7zw1ue",
+      "filename": "troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf",
+      "created_date": "2019-07-17T22:17:14Z",
+      "last_update_date": "2020-01-15T22:05:31Z",
+      "file_upload_date": "2020-01-15T22:05:31Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Vertical Cellular Shades - Realignment of Side Rails and Material that Kicks Towards Room - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2013-02-01T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Vertical Blinds"
+          ],
+          "productLine1": [
+            "03 - Verticals",
+            "06 - Cellular Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/npdmuw/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ywyy7zw1ue/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room\" src=\"https://embed.widencdn.net/img/springswindowfashions/ywyy7zw1ue/x300px/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/hguvul/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/ecrtiw/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/t1ede3/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf</a>",
+          "share": "https://p.widencdn.net/w8n5id/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ywyy7zw1ue/{size}px@{scale}x/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ywyy7zw1ue/troubleshooting-vertical-cellular-shades-realignment-of-side-rails-and-material-kicks-towards-room.pdf?signature=uwRNvKhakrrJJ0%2BrQo9uH5TdN1I%3D&expires=1579296750097&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/339bbee7-e4f4-4a40-b6b1-6c1d75fc8b8e",
+        "self_all": "https://api.widencollective.com/v2/assets/339bbee7-e4f4-4a40-b6b1-6c1d75fc8b8e?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

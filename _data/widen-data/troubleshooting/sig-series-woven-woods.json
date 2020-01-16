@@ -1,0 +1,905 @@
+{
+  "query": "bs:({Signature Series}) dt:({Troubleshooting Guide}) pl:({10 - Natural Shades})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Troubleshooting Guide\" Product Lines: \"10 - Natural Shades\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 8,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "609b396a-7aaf-4d8c-802e-9d2641d1e735",
+      "external_id": "riqkeoyjgj",
+      "filename": "troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf",
+      "created_date": "2019-07-25T20:00:41Z",
+      "last_update_date": "2020-01-15T21:43:59Z",
+      "file_upload_date": "2019-07-25T20:00:41Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Cracks in Edges of Slats or Threads Fraying - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-11-17T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/vcsdqx/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/riqkeoyjgj/x300px/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material\" src=\"https://embed.widencdn.net/img/springswindowfashions/riqkeoyjgj/x300px/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dpkomr/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fxggp6/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zjutye/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf</a>",
+          "share": "https://p.widencdn.net/ipqcdw/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/riqkeoyjgj/{size}px@{scale}x/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/riqkeoyjgj/troubleshooting-natural-shades-cracks-in-edges-of-slats-or-threads-fraying-from-side-of-material.pdf?signature=y7wQU3xmVaAG8ChcFhvmA2FIX0c%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/609b396a-7aaf-4d8c-802e-9d2641d1e735",
+        "self_all": "https://api.widencollective.com/v2/assets/609b396a-7aaf-4d8c-802e-9d2641d1e735?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "4ec5d9cc-1fd7-4fde-a722-5d9c42bb9ba9",
+      "external_id": "zdjo3qrqvq",
+      "filename": "troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:45:14Z",
+      "file_upload_date": "2019-07-25T20:00:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Replace Broken Cord Loop or Beaded Chain - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2006-06-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78101-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/shlq39/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zdjo3qrqvq/x300px/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain\" src=\"https://embed.widencdn.net/img/springswindowfashions/zdjo3qrqvq/x300px/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/uf5qcf/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/1qw90r/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/4pl4zs/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf</a>",
+          "share": "https://p.widencdn.net/bowis4/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/zdjo3qrqvq/{size}px@{scale}x/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/zdjo3qrqvq/troubleshooting-natural-shades-replacing-broken-cord-loop-or-beaded-chain.pdf?signature=XP9gvvlXOFCr9r0xITnctB%2BFBos%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/4ec5d9cc-1fd7-4fde-a722-5d9c42bb9ba9",
+        "self_all": "https://api.widencollective.com/v2/assets/4ec5d9cc-1fd7-4fde-a722-5d9c42bb9ba9?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "f5f9c34b-7f0e-4d91-94db-c658e336008c",
+      "external_id": "ihtpmo8nfw",
+      "filename": "troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:44:57Z",
+      "file_upload_date": "2019-07-25T20:00:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Replace Continuous-Loop Clutch - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-24T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/amttqn/troubleshooting-natural-shades-replace-continuous-loop-clutch",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ihtpmo8nfw/x300px/troubleshooting-natural-shades-replace-continuous-loop-clutch.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-replace-continuous-loop-clutch\" src=\"https://embed.widencdn.net/img/springswindowfashions/ihtpmo8nfw/x300px/troubleshooting-natural-shades-replace-continuous-loop-clutch.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/c8shqi/troubleshooting-natural-shades-replace-continuous-loop-clutch",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rrbxvm/troubleshooting-natural-shades-replace-continuous-loop-clutch",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mwyryp/troubleshooting-natural-shades-replace-continuous-loop-clutch",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf</a>",
+          "share": "https://p.widencdn.net/nn5cfu/troubleshooting-natural-shades-replace-continuous-loop-clutch",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ihtpmo8nfw/{size}px@{scale}x/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ihtpmo8nfw/troubleshooting-natural-shades-replace-continuous-loop-clutch.pdf?signature=%2FqC5ZtG%2B2WPgW53w6j4XnGbAK8o%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/f5f9c34b-7f0e-4d91-94db-c658e336008c",
+        "self_all": "https://api.widencollective.com/v2/assets/f5f9c34b-7f0e-4d91-94db-c658e336008c?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "48b30889-f3dd-40ae-ae5e-294fecc8c352",
+      "external_id": "z8xl1copcc",
+      "filename": "troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:43:50Z",
+      "file_upload_date": "2019-07-25T20:00:41Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Continuous-Loop Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Continuous-Loop Raises Crooked - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-24T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wbcx5y/troubleshooting-natural-shades-continuous-loop-raises-crooked",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/z8xl1copcc/x300px/troubleshooting-natural-shades-continuous-loop-raises-crooked.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-continuous-loop-raises-crooked\" src=\"https://embed.widencdn.net/img/springswindowfashions/z8xl1copcc/x300px/troubleshooting-natural-shades-continuous-loop-raises-crooked.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/5t3xy9/troubleshooting-natural-shades-continuous-loop-raises-crooked",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/igolmn/troubleshooting-natural-shades-continuous-loop-raises-crooked",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bm8gxu/troubleshooting-natural-shades-continuous-loop-raises-crooked",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf</a>",
+          "share": "https://p.widencdn.net/0eejuj/troubleshooting-natural-shades-continuous-loop-raises-crooked",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/z8xl1copcc/{size}px@{scale}x/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/z8xl1copcc/troubleshooting-natural-shades-continuous-loop-raises-crooked.pdf?signature=fH9QgD7dK7299KkkQwMAFIf7oMA%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/48b30889-f3dd-40ae-ae5e-294fecc8c352",
+        "self_all": "https://api.widencollective.com/v2/assets/48b30889-f3dd-40ae-ae5e-294fecc8c352?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "45794748-9cd2-44d9-88df-d95e58b8eb04",
+      "external_id": "ldbmo2ghzo",
+      "filename": "troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:44:30Z",
+      "file_upload_date": "2019-07-25T20:00:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Reattach Rings on Back of Material - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-24T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/okgsks/troubleshooting-natural-shades-reattach-rings-on-back-of-material",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ldbmo2ghzo/x300px/troubleshooting-natural-shades-reattach-rings-on-back-of-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-reattach-rings-on-back-of-material\" src=\"https://embed.widencdn.net/img/springswindowfashions/ldbmo2ghzo/x300px/troubleshooting-natural-shades-reattach-rings-on-back-of-material.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/f1s1dj/troubleshooting-natural-shades-reattach-rings-on-back-of-material",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/5hcj6a/troubleshooting-natural-shades-reattach-rings-on-back-of-material",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wkkoek/troubleshooting-natural-shades-reattach-rings-on-back-of-material",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf</a>",
+          "share": "https://p.widencdn.net/airijz/troubleshooting-natural-shades-reattach-rings-on-back-of-material",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ldbmo2ghzo/{size}px@{scale}x/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ldbmo2ghzo/troubleshooting-natural-shades-reattach-rings-on-back-of-material.pdf?signature=Eu0z8yZSPRW9Qpr0a4CyMrgM4sg%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/45794748-9cd2-44d9-88df-d95e58b8eb04",
+        "self_all": "https://api.widencollective.com/v2/assets/45794748-9cd2-44d9-88df-d95e58b8eb04?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "27054c6c-c813-440e-9712-6218a4b30d03",
+      "external_id": "ut5ues5r8b",
+      "filename": "troubleshooting-natural-shades-hangs-uneven.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:44:23Z",
+      "file_upload_date": "2019-07-25T20:00:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Hangs Uneven - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-24T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/jeflrh/troubleshooting-natural-shades-hangs-uneven",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ut5ues5r8b/x300px/troubleshooting-natural-shades-hangs-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-hangs-uneven\" src=\"https://embed.widencdn.net/img/springswindowfashions/ut5ues5r8b/x300px/troubleshooting-natural-shades-hangs-uneven.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/zpgyk7/troubleshooting-natural-shades-hangs-uneven",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hutkur/troubleshooting-natural-shades-hangs-uneven",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uwno03/troubleshooting-natural-shades-hangs-uneven",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-hangs-uneven.pdf</a>",
+          "share": "https://p.widencdn.net/fou9f9/troubleshooting-natural-shades-hangs-uneven",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ut5ues5r8b/{size}px@{scale}x/troubleshooting-natural-shades-hangs-uneven.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ut5ues5r8b/troubleshooting-natural-shades-hangs-uneven.pdf?signature=Z3pynaqZ9eaervTs7dBsVmptTyU%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/27054c6c-c813-440e-9712-6218a4b30d03",
+        "self_all": "https://api.widencollective.com/v2/assets/27054c6c-c813-440e-9712-6218a4b30d03?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "68161d90-fa84-49ec-994e-7da2f3d0749b",
+      "external_id": "xaoa6tmxaa",
+      "filename": "troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf",
+      "created_date": "2019-07-25T20:00:40Z",
+      "last_update_date": "2020-01-15T21:45:22Z",
+      "file_upload_date": "2019-07-25T20:00:41Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Restring and Replace Cord Lock - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2011-11-16T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/81lmca/troubleshooting-natural-shades-restring-and-replace-cord-lock",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xaoa6tmxaa/x300px/troubleshooting-natural-shades-restring-and-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-restring-and-replace-cord-lock\" src=\"https://embed.widencdn.net/img/springswindowfashions/xaoa6tmxaa/x300px/troubleshooting-natural-shades-restring-and-replace-cord-lock.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/jyv50o/troubleshooting-natural-shades-restring-and-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/hi7p0b/troubleshooting-natural-shades-restring-and-replace-cord-lock",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0ok6ob/troubleshooting-natural-shades-restring-and-replace-cord-lock",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf</a>",
+          "share": "https://p.widencdn.net/nnu0dv/troubleshooting-natural-shades-restring-and-replace-cord-lock",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xaoa6tmxaa/{size}px@{scale}x/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/xaoa6tmxaa/troubleshooting-natural-shades-restring-and-replace-cord-lock.pdf?signature=Gowi0A5FrcyY6LozTFTJ5S3pjxk%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/68161d90-fa84-49ec-994e-7da2f3d0749b",
+        "self_all": "https://api.widencollective.com/v2/assets/68161d90-fa84-49ec-994e-7da2f3d0749b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "6ec1af69-9099-4c44-9342-758f4b2a5ed6",
+      "external_id": "j4btkryl6e",
+      "filename": "troubleshooting-natural-shades-adjust-shade-length.pdf",
+      "created_date": "2019-07-25T20:00:39Z",
+      "last_update_date": "2020-01-15T21:43:13Z",
+      "file_upload_date": "2019-07-25T20:00:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Non-Brand Specific",
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Adjust Shade Length - Troubleshooting Guide"
+          ],
+          "documentType": [
+            "Troubleshooting Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English"
+          ],
+          "LaunchDate": [
+            "2012-01-24T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades"
+          ],
+          "productLine1": [
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/a26jpb/troubleshooting-natural-shades-adjust-shade-length",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/j4btkryl6e/x300px/troubleshooting-natural-shades-adjust-shade-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"troubleshooting-natural-shades-adjust-shade-length\" src=\"https://embed.widencdn.net/img/springswindowfashions/j4btkryl6e/x300px/troubleshooting-natural-shades-adjust-shade-length.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/9pdy27/troubleshooting-natural-shades-adjust-shade-length",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0zswta/troubleshooting-natural-shades-adjust-shade-length",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lpxkiw/troubleshooting-natural-shades-adjust-shade-length",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?u=rhpxwm\" target=\"_blank\">troubleshooting-natural-shades-adjust-shade-length.pdf</a>",
+          "share": "https://p.widencdn.net/jad6mv/troubleshooting-natural-shades-adjust-shade-length",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/j4btkryl6e/{size}px@{scale}x/troubleshooting-natural-shades-adjust-shade-length.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/j4btkryl6e/troubleshooting-natural-shades-adjust-shade-length.pdf?signature=5S12crkiQWmm4zgaNdy3ipvHA8g%3D&expires=1579298452482&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/6ec1af69-9099-4c44-9342-758f4b2a5ed6",
+        "self_all": "https://api.widencollective.com/v2/assets/6ec1af69-9099-4c44-9342-758f4b2a5ed6?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

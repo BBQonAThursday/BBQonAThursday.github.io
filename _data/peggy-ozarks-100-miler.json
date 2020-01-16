@@ -17,10 +17,10 @@
         "totalDistance": 35.5
       },
       "1/15/2020": {
-        "lat": 0,
-        "long": 0,
-        "distanceSinceLast": 0,
-        "totalDistance": 0 
+        "lat": 35.693733,
+        "long": -93.712091,
+        "distanceSinceLast": 13,
+        "totalDistance": 48.5 
       },
       "1/16/2020": {
         "lat":0 ,
@@ -28,5 +28,11 @@
         "distanceSinceLast":0 ,
         "totalDistance": 0
       },
-    },
+      "1/17/2020": {
+        "lat":0 ,
+        "long":  0,
+        "distanceSinceLast":0 ,
+        "totalDistance": 0
+      },
+    }
   }
