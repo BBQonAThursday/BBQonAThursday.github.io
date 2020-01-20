@@ -1,4 +1,4 @@
-let requestURL = '/_data/widen-data/troubleshooting/sig-series-cellular.json';
+let requestURL = '/_data/widen-data/troubleshooting/sig-series-all-troubleshooting.json';
 let request = new XMLHttpRequest();
 var docContainer = document.querySelector('.widen-quick-links');
 var queryContainer = document.querySelector('.query-info');
@@ -63,6 +63,70 @@ function buildHtmlList(documents){
      }
       
   });
+}
+
+
+
+function getDocProductLine(docProdLine) {
+  switch(docProductLine) {
+    case '00 - Motorization / Multiple Products':
+
+      break;
+    case '01 - Drapery Hardware':
+
+      break;
+    case '02 - MTM Products':
+
+      break;
+    case '03 - Verticals':
+
+      break;
+    case '04 - Horizontals':
+
+      break;
+    case '05 - Pleated Shades':
+
+      break;
+    case '06 - Cellular Shades':
+
+      break;
+    case '07 - Roman Shades':
+
+      break;
+    case '08 - Stock Blinds & Shades':
+
+      break;
+    case '09 - Wood Blinds':
+
+      break;
+    case '10 - Natural Shades':
+
+      break;
+    case '11 - Composite Shutters':
+
+      break;
+    case '12 - DD Install & Repair':
+
+      break;
+    case '13 - Wood Shutters':
+
+      break;
+    case '14 - Solar & Roller Shades':
+
+      break;
+    case '15 - Faux Wood Blinds':
+
+      break;
+    case '16 - Panel Track':
+
+      break;
+    case '17 - Soft Treatments':
+
+      break;
+    case '18 - Sheer & Layered Shades':
+      
+      break;
+  }
 }
 
 function queryInfo(jsonObj) {

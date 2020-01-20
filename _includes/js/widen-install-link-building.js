@@ -1,4 +1,4 @@
-let requestURL = '/_data/widen-data/installation/natural-shades.json';
+let requestURL = '/_data/widen-data/installation/motorization.json';
 let request = new XMLHttpRequest();
 var docContainer = document.querySelector('.widen-quick-links');
 var queryContainer = document.querySelector('.query-info');

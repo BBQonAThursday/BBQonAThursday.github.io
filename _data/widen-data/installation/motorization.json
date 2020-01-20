@@ -1,0 +1,1691 @@
+{
+  "query": "bs:({Signature Series}) dt:({Installation Guide}) pl:({00 - Motorization / Multiple Products})",
+  "sort": "-created_date",
+  "query_explained": "Brand(s): \"Signature Series\" Document Type: \"Installation Guide\" Product Lines: \"00 - Motorization / Multiple Products\"",
+  "sort_explained": "Created date (descending)",
+  "scroll_id": null,
+  "scroll_timeout": null,
+  "query_syntax_ok": true,
+  "include_archived": false,
+  "include_deleted": false,
+  "item_type": "asset",
+  "total_count": 14,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+    {
+      "id": "94744433-1f7e-4d54-9cf3-8560526448eb",
+      "external_id": "nnilod00b7",
+      "filename": "installation-solar-roller-sheer-layered-shades-motorized-shades.pdf",
+      "created_date": "2019-12-19T19:14:44Z",
+      "last_update_date": "2020-01-09T18:49:54Z",
+      "file_upload_date": "2019-12-19T19:14:44Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller, Solar, Sheer, and Layered Shades - Motorized Shades Virtual Cord - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "18-8285"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2018-03-08T06:00:00Z"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79074-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Layered Shades",
+            "Roller Shades",
+            "Sheer Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades",
+            "18 - Sheer & Layered Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pcle4k/installation-solar-roller-sheer-layered-shades-motorized-shades",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/nnilod00b7/x300px/installation-solar-roller-sheer-layered-shades-motorized-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-solar-roller-sheer-layered-shades-motorized-shades\" src=\"https://embed.widencdn.net/img/springswindowfashions/nnilod00b7/x300px/installation-solar-roller-sheer-layered-shades-motorized-shades.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/gridhz/installation-solar-roller-sheer-layered-shades-motorized-shades",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xicj9y/installation-solar-roller-sheer-layered-shades-motorized-shades",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/l8z9qw/installation-solar-roller-sheer-layered-shades-motorized-shades",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?u=rhpxwm\" target=\"_blank\">installation-solar-roller-sheer-layered-shades-motorized-shades.pdf</a>",
+          "share": "https://p.widencdn.net/e2qr47/installation-solar-roller-sheer-layered-shades-motorized-shades",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/nnilod00b7/{size}px@{scale}x/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/nnilod00b7/installation-solar-roller-sheer-layered-shades-motorized-shades.pdf?signature=vzW6mpFCx3DNe61TsNr%2Fp5APqIs%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/94744433-1f7e-4d54-9cf3-8560526448eb",
+        "self_all": "https://api.widencollective.com/v2/assets/94744433-1f7e-4d54-9cf3-8560526448eb?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e960472b-fc51-4e6f-93f5-d22dc127769b",
+      "external_id": "xuqf0nu7fy",
+      "filename": "installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf",
+      "created_date": "2019-12-19T19:14:40Z",
+      "last_update_date": "2020-01-08T23:24:01Z",
+      "file_upload_date": "2019-12-19T19:14:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Sheer and Layered Shades - Motorized Shade Battery with Radio Frequency - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "16-2276"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2016-05-02"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79081-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Layered Shades",
+            "Sheer Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "18 - Sheer & Layered Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/waagqq/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xuqf0nu7fy/x300px/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-sheer-layered-shades-motorized-shade-battery-radio-frequency\" src=\"https://embed.widencdn.net/img/springswindowfashions/xuqf0nu7fy/x300px/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/w3cznn/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/j23nw3/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/wsbots/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?u=rhpxwm\" target=\"_blank\">installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf</a>",
+          "share": "https://p.widencdn.net/cqjssy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/xuqf0nu7fy/{size}px@{scale}x/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/xuqf0nu7fy/installation-sheer-layered-shades-motorized-shade-battery-radio-frequency.pdf?signature=bNUvK%2B%2BJF0YaYk3IrjuUOFEPZ9I%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e960472b-fc51-4e6f-93f5-d22dc127769b",
+        "self_all": "https://api.widencollective.com/v2/assets/e960472b-fc51-4e6f-93f5-d22dc127769b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "921cee6d-c5f7-4596-846a-bba02a6dbfb8",
+      "external_id": "46cj6f4jfz",
+      "filename": "installation-natural-shades-motorization-12-volt-radio-frequency.pdf",
+      "created_date": "2019-12-19T19:14:40Z",
+      "last_update_date": "2020-01-15T20:18:20Z",
+      "file_upload_date": "2019-12-19T19:14:40Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Motorized RTS Power and Controls - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2014-05-22"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78218-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/dwh8vf/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/x300px/installation-natural-shades-motorization-12-volt-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-motorization-12-volt-radio-frequency\" src=\"https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/x300px/installation-natural-shades-motorization-12-volt-radio-frequency.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/vsczt0/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/mtnb5u/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xwp5t4/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-motorization-12-volt-radio-frequency.pdf</a>",
+          "share": "https://p.widencdn.net/urrqui/installation-natural-shades-motorization-12-volt-radio-frequency",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/46cj6f4jfz/{size}px@{scale}x/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/46cj6f4jfz/installation-natural-shades-motorization-12-volt-radio-frequency.pdf?signature=5F5BcsWNfiucyRfVpHHfotvyJFk%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/921cee6d-c5f7-4596-846a-bba02a6dbfb8",
+        "self_all": "https://api.widencollective.com/v2/assets/921cee6d-c5f7-4596-846a-bba02a6dbfb8?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "dad0d5fe-fe81-49ea-9448-058f17295eeb",
+      "external_id": "emabeslcvr",
+      "filename": "installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf",
+      "created_date": "2019-12-19T19:14:39Z",
+      "last_update_date": "2020-01-09T18:47:14Z",
+      "file_upload_date": "2019-12-19T19:14:39Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller and Solar Shades - 120 Volt (Line Voltage) Inside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "17-5502"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2017-06-19"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79003-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pwknfi/installation-roller-solar-shades-motorized-120-volt-inside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/emabeslcvr/x300px/installation-roller-solar-shades-motorized-120-volt-inside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-shades-motorized-120-volt-inside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/emabeslcvr/x300px/installation-roller-solar-shades-motorized-120-volt-inside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/wwawse/installation-roller-solar-shades-motorized-120-volt-inside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/pt0krk/installation-roller-solar-shades-motorized-120-volt-inside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/l6zyuq/installation-roller-solar-shades-motorized-120-volt-inside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/ngn9cl/installation-roller-solar-shades-motorized-120-volt-inside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/emabeslcvr/{size}px@{scale}x/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/emabeslcvr/installation-roller-solar-shades-motorized-120-volt-inside-mount.pdf?signature=NQCJCBMt3qyNzTKqJqUGkse1YzI%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/dad0d5fe-fe81-49ea-9448-058f17295eeb",
+        "self_all": "https://api.widencollective.com/v2/assets/dad0d5fe-fe81-49ea-9448-058f17295eeb?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "4d6b8e92-029c-4ae9-9d51-c93af3e78700",
+      "external_id": "u7hgw2bcsx",
+      "filename": "installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf",
+      "created_date": "2019-12-19T19:14:39Z",
+      "last_update_date": "2020-01-09T18:45:08Z",
+      "file_upload_date": "2019-12-19T19:14:39Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller and Solar Shades - 120 Volt (Line Voltage) Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "17-5507"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2017-06-20"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79004-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/awpjus/installation-roller-solar-shades-motorized-120-volt-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/u7hgw2bcsx/x300px/installation-roller-solar-shades-motorized-120-volt-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-shades-motorized-120-volt-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/u7hgw2bcsx/x300px/installation-roller-solar-shades-motorized-120-volt-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ogunzo/installation-roller-solar-shades-motorized-120-volt-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fmmhw7/installation-roller-solar-shades-motorized-120-volt-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/0y7iyi/installation-roller-solar-shades-motorized-120-volt-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/yc9f6l/installation-roller-solar-shades-motorized-120-volt-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/u7hgw2bcsx/{size}px@{scale}x/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/u7hgw2bcsx/installation-roller-solar-shades-motorized-120-volt-outside-mount.pdf?signature=G9k63qWdYbQOpaHB0fGQNX419sE%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/4d6b8e92-029c-4ae9-9d51-c93af3e78700",
+        "self_all": "https://api.widencollective.com/v2/assets/4d6b8e92-029c-4ae9-9d51-c93af3e78700?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "cf0b9b04-2c3f-405a-b31f-0440f77131d8",
+      "external_id": "kpqfshmr0v",
+      "filename": "installation-natural-shades-motorized.pdf",
+      "created_date": "2019-12-19T19:14:27Z",
+      "last_update_date": "2020-01-09T20:08:48Z",
+      "file_upload_date": "2019-12-19T19:14:27Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - Motorization Virtual Cord - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "19-12236"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2019-10-28"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79073-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/by0nto/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/x300px/installation-natural-shades-motorized.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-motorized\" src=\"https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/x300px/installation-natural-shades-motorized.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/ngkk9y/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/npjh3x/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/8j2wmu/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-motorized.pdf</a>",
+          "share": "https://p.widencdn.net/2py8fc/installation-natural-shades-motorized",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/kpqfshmr0v/{size}px@{scale}x/installation-natural-shades-motorized.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/kpqfshmr0v/installation-natural-shades-motorized.pdf?signature=5bPuGTme%2FFWnufUlFm84tlm7dt8%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/cf0b9b04-2c3f-405a-b31f-0440f77131d8",
+        "self_all": "https://api.widencollective.com/v2/assets/cf0b9b04-2c3f-405a-b31f-0440f77131d8?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "ac6f90c5-4cce-4529-a598-80a4a8558acd",
+      "external_id": "oeo0x8uuuw",
+      "filename": "installation-exterior-solar-shades-motorized-inside-outside-mount.pdf",
+      "created_date": "2019-12-19T19:14:23Z",
+      "last_update_date": "2020-01-15T20:14:45Z",
+      "file_upload_date": "2019-12-19T19:14:23Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Exterior Solar Shades - Motorized Lift - Inside/Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2014-05-22"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78213-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Exterior Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/lzkwds/installation-exterior-solar-shades-motorized-inside-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/oeo0x8uuuw/x300px/installation-exterior-solar-shades-motorized-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-exterior-solar-shades-motorized-inside-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/oeo0x8uuuw/x300px/installation-exterior-solar-shades-motorized-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/crajqq/installation-exterior-solar-shades-motorized-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/p4i7f7/installation-exterior-solar-shades-motorized-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/af6ofi/installation-exterior-solar-shades-motorized-inside-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-exterior-solar-shades-motorized-inside-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/ap1q6s/installation-exterior-solar-shades-motorized-inside-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/oeo0x8uuuw/{size}px@{scale}x/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/oeo0x8uuuw/installation-exterior-solar-shades-motorized-inside-outside-mount.pdf?signature=XCKuD2Qf83YFDKBRgHxMDNo2uP4%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/ac6f90c5-4cce-4529-a598-80a4a8558acd",
+        "self_all": "https://api.widencollective.com/v2/assets/ac6f90c5-4cce-4529-a598-80a4a8558acd?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "14295a08-ea54-4281-91cc-5587bf3e8a4b",
+      "external_id": "izxnua9qhs",
+      "filename": "installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf",
+      "created_date": "2019-12-19T19:14:19Z",
+      "last_update_date": "2020-01-15T20:11:41Z",
+      "file_upload_date": "2019-12-19T19:14:19Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [
+            "United States"
+          ],
+          "documentTitle": [
+            "Cellular, Pleated, and Roman Shades - Motorized Lift - Inside/Ceiling/Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "19-12235"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2019-10-28"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79131-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Cellular Shades",
+            "Classic Roman Shades",
+            "Motorization (RTS)",
+            "Pleated Shades"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "05 - Pleated Shades",
+            "06 - Cellular Shades",
+            "07 - Roman Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/frlvvs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/izxnua9qhs/x300px/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/izxnua9qhs/x300px/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/3uteew/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/fdq0g5/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/bmoqww/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/kbqp6v/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/izxnua9qhs/{size}px@{scale}x/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/izxnua9qhs/installation-cellular-pleated-roman-shades-motorized-inside-ceiling-outside-mount.pdf?signature=pCDbLkrelw56jeNwGcQ%2FQISBHJk%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/14295a08-ea54-4281-91cc-5587bf3e8a4b",
+        "self_all": "https://api.widencollective.com/v2/assets/14295a08-ea54-4281-91cc-5587bf3e8a4b?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "62c12ad5-431b-41d0-bf41-d27d5d5fba3d",
+      "external_id": "ynh6tcv4tj",
+      "filename": "owners-manual-motorization-RTS.pdf",
+      "created_date": "2019-07-19T14:48:46Z",
+      "last_update_date": "2020-01-16T17:06:22Z",
+      "file_upload_date": "2019-07-19T14:48:46Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [],
+          "documentRegion": [],
+          "documentTitle": [
+            "RTS Motorized Shades Owner's Manual"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [],
+          "manufacturingSpecNumber": [],
+          "partNumber": [],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "AutoView Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/zbhnml/owners-manual-motorization-RTS",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ynh6tcv4tj/x300px/owners-manual-motorization-RTS.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"owners-manual-motorization-RTS\" src=\"https://embed.widencdn.net/img/springswindowfashions/ynh6tcv4tj/x300px/owners-manual-motorization-RTS.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/bkjbii/owners-manual-motorization-RTS",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/rnqe0k/owners-manual-motorization-RTS",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qygft9/owners-manual-motorization-RTS",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?u=rhpxwm\" target=\"_blank\">owners-manual-motorization-RTS.pdf</a>",
+          "share": "https://p.widencdn.net/ncqo4x/owners-manual-motorization-RTS",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ynh6tcv4tj/{size}px@{scale}x/owners-manual-motorization-RTS.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ynh6tcv4tj/owners-manual-motorization-RTS.pdf?signature=tgJN5t%2Ffu%2BvzdN7RgeV8fqgxieQ%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/62c12ad5-431b-41d0-bf41-d27d5d5fba3d",
+        "self_all": "https://api.widencollective.com/v2/assets/62c12ad5-431b-41d0-bf41-d27d5d5fba3d?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "723b0bbd-63e7-4753-8132-d88cceef252f",
+      "external_id": "ewblrvapbw",
+      "filename": "installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf",
+      "created_date": "2019-07-19T14:48:40Z",
+      "last_update_date": "2020-01-15T20:25:54Z",
+      "file_upload_date": "2019-12-19T19:14:39Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller and Solar Shades - Motorized Lift - Inside/Outside Mount - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "19-11382"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2019-06-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79048-00"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Motorization (RTS)",
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/qftrwj/installation-roller-solar-shades-motorized-lift-inside-outside-mount",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ewblrvapbw/x300px/installation-roller-solar-shades-motorized-lift-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-shades-motorized-lift-inside-outside-mount\" src=\"https://embed.widencdn.net/img/springswindowfashions/ewblrvapbw/x300px/installation-roller-solar-shades-motorized-lift-inside-outside-mount.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/4t6wbc/installation-roller-solar-shades-motorized-lift-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/tr3uae/installation-roller-solar-shades-motorized-lift-inside-outside-mount",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/4alanl/installation-roller-solar-shades-motorized-lift-inside-outside-mount",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf</a>",
+          "share": "https://p.widencdn.net/dhvewv/installation-roller-solar-shades-motorized-lift-inside-outside-mount",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/ewblrvapbw/{size}px@{scale}x/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/ewblrvapbw/installation-roller-solar-shades-motorized-lift-inside-outside-mount.pdf?signature=yzRnGCEdK78TZlDgnIfRt%2FLGQHA%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/723b0bbd-63e7-4753-8132-d88cceef252f",
+        "self_all": "https://api.widencollective.com/v2/assets/723b0bbd-63e7-4753-8132-d88cceef252f?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d491b968-29be-4331-bdc4-a25734a3249c",
+      "external_id": "69qqopkahs",
+      "filename": "installation-natural-shades-12-volt-motorized-lift.pdf",
+      "created_date": "2019-07-19T14:48:36Z",
+      "last_update_date": "2020-01-09T22:58:09Z",
+      "file_upload_date": "2019-07-19T14:48:36Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Natural Shades - 12-Volt Motorized Lift - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "16-2874"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2016-05-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78218-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/7fwhuv/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/x300px/installation-natural-shades-12-volt-motorized-lift.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-natural-shades-12-volt-motorized-lift\" src=\"https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/x300px/installation-natural-shades-12-volt-motorized-lift.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/p93b5d/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yntkw4/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/cm2gzc/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?u=rhpxwm\" target=\"_blank\">installation-natural-shades-12-volt-motorized-lift.pdf</a>",
+          "share": "https://p.widencdn.net/dsjchf/installation-natural-shades-12-volt-motorized-lift",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/69qqopkahs/{size}px@{scale}x/installation-natural-shades-12-volt-motorized-lift.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/69qqopkahs/installation-natural-shades-12-volt-motorized-lift.pdf?signature=ezMWWNFtblxeW8xKZH7Amtbm1Bs%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d491b968-29be-4331-bdc4-a25734a3249c",
+        "self_all": "https://api.widencollective.com/v2/assets/d491b968-29be-4331-bdc4-a25734a3249c?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "d565a226-26e4-4a0e-893f-b06c3139f796",
+      "external_id": "uh2q5hcykl",
+      "filename": "installation-roller-solar-shades-motorized-shade.pdf",
+      "created_date": "2019-07-19T14:48:35Z",
+      "last_update_date": "2020-01-09T23:00:03Z",
+      "file_upload_date": "2019-07-19T14:48:35Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller and Solar Shades - 12Volt Z-Wave Motorization - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "19-12237"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2019-10-28"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "79074-01"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/33w0z2/installation-roller-solar-shades-motorized-shade",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/uh2q5hcykl/x300px/installation-roller-solar-shades-motorized-shade.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-shades-motorized-shade\" src=\"https://embed.widencdn.net/img/springswindowfashions/uh2q5hcykl/x300px/installation-roller-solar-shades-motorized-shade.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/dj1xiv/installation-roller-solar-shades-motorized-shade",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/r7i2fo/installation-roller-solar-shades-motorized-shade",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/z3htc8/installation-roller-solar-shades-motorized-shade",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-shades-motorized-shade.pdf</a>",
+          "share": "https://p.widencdn.net/05b3mk/installation-roller-solar-shades-motorized-shade",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/uh2q5hcykl/{size}px@{scale}x/installation-roller-solar-shades-motorized-shade.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/uh2q5hcykl/installation-roller-solar-shades-motorized-shade.pdf?signature=67lVJyolgwH4FYjKty818Kd26lc%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/d565a226-26e4-4a0e-893f-b06c3139f796",
+        "self_all": "https://api.widencollective.com/v2/assets/d565a226-26e4-4a0e-893f-b06c3139f796?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "e7a58a82-8310-4dd2-995c-e21904067d04",
+      "external_id": "u2xj0wnzfk",
+      "filename": "installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf",
+      "created_date": "2019-07-19T14:48:34Z",
+      "last_update_date": "2020-01-08T23:04:58Z",
+      "file_upload_date": "2019-07-19T14:48:34Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Horizontal Blinds - 12-Volt Motorized Tilt and Radio Frequency Control - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2011-10-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78165-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Aluminum Horizontal Blinds",
+            "Faux Wood Blinds",
+            "Horizontal Vinyl Blinds",
+            "Virtual Cord Motorization",
+            "Wood Blinds"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "04 - Horizontals",
+            "09 - Wood Blinds",
+            "15 - Faux Wood Blinds"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/yzisjv/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/u2xj0wnzfk/x300px/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control\" src=\"https://embed.widencdn.net/img/springswindowfashions/u2xj0wnzfk/x300px/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/pdqs4s/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/xrhsx2/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/uxldtd/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?u=rhpxwm\" target=\"_blank\">installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf</a>",
+          "share": "https://p.widencdn.net/gzve6v/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/u2xj0wnzfk/{size}px@{scale}x/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/u2xj0wnzfk/installation-horizontal-blinds-12-volt-motorized-tilt-radio-frequency-control.pdf?signature=0kg8TCPqYEUCq4y1vGPMT6%2FG5Pc%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/e7a58a82-8310-4dd2-995c-e21904067d04",
+        "self_all": "https://api.widencollective.com/v2/assets/e7a58a82-8310-4dd2-995c-e21904067d04?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    },
+    {
+      "id": "83e81516-307d-425b-a316-99658cf994c2",
+      "external_id": "77pg0hs65r",
+      "filename": "installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf",
+      "created_date": "2019-07-19T14:48:30Z",
+      "last_update_date": "2020-01-09T22:58:38Z",
+      "file_upload_date": "2019-12-19T19:14:06Z",
+      "deleted_date": null,
+      "released_and_not_expired": true,
+      "asset_properties": null,
+      "file_properties": null,
+      "metadata": {
+        "fields": {
+          "accounts": [],
+          "Brand": [
+            "Bali",
+            "Graber",
+            "Signature Series"
+          ],
+          "controlTypeOptions": [
+            "Motorized Lift"
+          ],
+          "documentRegion": [],
+          "documentTitle": [
+            "Roller, Solar, and Natural Shades - Low Voltage Power Source for 24 Volt RTS Motorized Lift Shade - Installation Guide"
+          ],
+          "documentType": [
+            "Installation Guide"
+          ],
+          "iMRNumber": [
+            "18-8415"
+          ],
+          "language": [
+            "English",
+            "French",
+            "Spanish"
+          ],
+          "LaunchDate": [
+            "2018-08-01"
+          ],
+          "manufacturingSpecNumber": [],
+          "partNumber": [
+            "78219-02"
+          ],
+          "portalAudience": [
+            "Graber Direct Core US Dealers",
+            "Graber Direct Core CA Dealers",
+            "Graber Direct Costco Shop at Home US Dealers",
+            "Graber Direct Costco Shop at Home Canada Dealers"
+          ],
+          "Product": [
+            "Natural Shades",
+            "Roller Shades",
+            "Solar Shades",
+            "Virtual Cord Motorization"
+          ],
+          "productLine1": [
+            "00 - Motorization / Multiple Products",
+            "10 - Natural Shades",
+            "14 - Solar & Roller Shades"
+          ],
+          "subBrands": []
+        }
+      },
+      "metadata_info": null,
+      "security": null,
+      "status": null,
+      "thumbnails": null,
+      "embeds": {
+        "document_html5_viewer": {
+          "url": "https://embed.widencdn.net/pdf/view/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/view/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/psz25d/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_thumbnail": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/x300px/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm",
+          "html": "<img height=\"300\" alt=\"installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source\" src=\"https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/x300px/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.jpeg?keep=c&crop=yes&quality=90&u=rhpxwm\">",
+          "share": "https://p.widencdn.net/elc1an/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_viewer": {
+          "url": "https://embed.widencdn.net/pdf/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm&showinbrowser=true",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm&showinbrowser=true\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/q6acna/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "document_viewer_with_download": {
+          "url": "https://embed.widencdn.net/pdf/plus/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<iframe src=\"https://embed.widencdn.net/pdf/plus/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" width=\"100%\" height=\"100%\" allowfullscreen webkitallowfullscreen></iframe>",
+          "share": "https://p.widencdn.net/eyxyjd/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "original": {
+          "url": "https://embed.widencdn.net/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm",
+          "html": "<a href=\"https://embed.widencdn.net/download/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?u=rhpxwm\" target=\"_blank\">installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf</a>",
+          "share": "https://p.widencdn.net/kpmakl/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source",
+          "apps": []
+        },
+        "templated": {
+          "url": "https://embed.widencdn.net/img/springswindowfashions/77pg0hs65r/{size}px@{scale}x/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?q={quality}",
+          "html": null,
+          "share": null,
+          "apps": []
+        }
+      },
+      "expanded": {
+        "asset_properties": false,
+        "embeds": true,
+        "file_properties": false,
+        "metadata": true,
+        "metadata_info": false,
+        "metadata_vocabulary": false,
+        "security": false,
+        "thumbnails": false
+      },
+      "_links": {
+        "download": "https://embed.widencdn.net/download/api/springswindowfashions/77pg0hs65r/installation-roller-solar-natural-shades-motorized-24-volt-rts-low-voltage-power-source.pdf?signature=SCqQnk0OAH1unROO0azxeNj%2FqF8%3D&expires=1579369929969&use_preferred_extension=true",
+        "self": "https://api.widencollective.com/v2/assets/83e81516-307d-425b-a316-99658cf994c2",
+        "self_all": "https://api.widencollective.com/v2/assets/83e81516-307d-425b-a316-99658cf994c2?expand=asset_properties%2Cembeds%2Cfile_properties%2Cmetadata%2Cmetadata_info%2Cmetadata_vocabulary%2Csecurity%2Cthumbnails"
+      }
+    }
+  ]
+}

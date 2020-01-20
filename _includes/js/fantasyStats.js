@@ -160,9 +160,3 @@ xhr.onload = function() {
 
 xhr.open('GET', '/_data/fantasy-stats-2019/full-stats-week16.json', true);
 xhr.send(null);
-
-
-
-
-
- 
