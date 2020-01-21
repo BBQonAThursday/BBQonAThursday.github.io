@@ -4,6 +4,7 @@ title: Widen Quick Link Building
 post-date: 1/16/2020
 year: 2020
 preview: STATS. Football graphs
+private: yes
 
 jsarr:
   - js/widen-install-link-building.js
@@ -25,4 +26,3 @@ jsarr:
 </div>
 <div class="query-info"></div>
 <div class="widen-quick-links"></div>
-  
