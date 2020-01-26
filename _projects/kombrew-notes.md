@@ -4,6 +4,7 @@ title: Kombucha Brew notes
 post-date: 7/1/2019
 year: 2019
 preview: Notes on test batches of Kombucha
+private: yes
 jsarr: 
 - js/prism.js
 ---
