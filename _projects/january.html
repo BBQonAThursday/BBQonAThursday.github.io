@@ -8,6 +8,7 @@ year: 2020
 credit: https://www.instagram.com/p/BrfV9-mh-qY/?utm_source=ig_web_copy_link
 preview: Recreating designs from instagram on the web
 jsarr:
+  - js/january.js
   - js/prism.js
 ---
 
@@ -66,18 +67,54 @@ jsarr:
         </div>
         <div class="travelers">
           <label for="travelers">Travelers</label>
-          <input class="form-pill" type="number" name="travelers" />
+          <input class="form-pill travelers--num" type="number" name="travelers" />
         </div>
         <div class="flight-class">
           <label for="class">Class</label>
-          <input class="form-pill--right" type="select" name="class" />
+          <select class="form-pill--right" type="select" name="class" />
+            <option value="economy">Economy</option>
+            <option value="premium-economy">Premium Economy</option>
+            <option value="business">Business</option>
+            <option value="First">First</option>
+          </select>
         </div>
       </div>
 
       <button class="search-flights">Search Flights</button>
     </form>
   </section>
+  <article class="flying--carousel">
+    
+      <div class="slides">
+        <div class="slide">
+          <h3 class="slide-heading">International destinations from $485</h3>
+          <p class="slide-sub-heading">Round trip, limited seats</p>
+        </div>
+        <div class="slide">
+          <h3 class="slide-heading">Domestic flights as low as $57</h3>
+          <p class="slide-sub-heading">Ends February 29th</p>
+        </div>
+        <div class="slide">
+          <h3 class="slide-heading">Low Fares with all the Perks</h3>
+          <p class="slide-sub-heading">$0 no change fees</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="slide-indicator">
+      
+    </div>
+    <div class="carousel--controls">
+      <i class="gg-icon gg-arrow-left-o"></i>
+      <i class="gg-icon gg-arrow-right-o"></i>
+    </div>
+  </article>
   <section class="scroll-bar">
     <i class="gg-menu"></i>
   </section>
 </section>
+{% for js in page.jsarr %}
+<script type="text/javascript">
+{% include {{ js }} %}
+</script>
+{% endfor %}

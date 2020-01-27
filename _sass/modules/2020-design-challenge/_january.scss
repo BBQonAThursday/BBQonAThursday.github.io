@@ -1,14 +1,14 @@
 .flying {
-  background-image: url("/assets/img/design-challenge/january/peter-gonzalez2.jpg");
+  background-image: url("/assets/img/design-challenge/january/peter-gonzalez.jpg");
   background-size: cover;
   display: grid;
-  grid-gap: 4rem;
+  grid-gap: 2rem;
   padding: 4rem 2rem 2rem 2rem;
   grid-template-columns: [rail] 0.5fr [form] 4fr [slider] 3fr [scroll-bar] 1fr;
   grid-template-rows: [navigation] 1fr [main-body] 3fr [microfooter] 1fr;
   width: 100%;
   font-family: "Sarabun", sans-serif;
-  filter: contrast(125%);
+  height: 100vh;
 }
 
 .flying--logo {
@@ -35,6 +35,7 @@
   list-style-type: none;
   justify-self: start;
   align-self: start;
+  margin-left: 0;
 
   .flying--menu-item {
     color: hsla(0, 0%, 100%, 0.5);
@@ -51,6 +52,7 @@
   grid-row-start: main-body;
   font-weight: 700;
   letter-spacing: -0.03em;
+  align-self: end;
 
   .booking-form--heading {
     color: #fff;
@@ -66,7 +68,8 @@
     font-weight: normal;
   }
 
-  input {
+  input,
+  select {
     border: none;
     height: 3rem;
     line-height: 2rem;
@@ -111,6 +114,10 @@
   display: flex;
   flex-direction: row;
 
+  label {
+    margin-left: 1.5rem;
+  }
+
   .location-from {
     display: flex;
     flex-direction: column;
@@ -135,6 +142,14 @@
     display: flex;
     flex-direction: column;
   }
+
+  .travelers--num {
+    max-width: 10rem;
+  }
+
+  label {
+    margin-left: 1.5rem;
+  }
 }
 
 .form-pill--left {
@@ -156,28 +171,49 @@
 .scroll-bar {
   grid-column-start: scroll-bar;
   justify-self: center;
+
+  .gg-menu {
+    margin-top: 10px;
+  }
 }
 
-.gg-menu {
-  transform: scale(var(--ggs, 1));
+.flying--carousel {
+  grid-column-start: slider;
+  grid-row-start: main-body;
+  align-self: end;
+  overflow: hidden;
 }
-.gg-menu,
-.gg-menu::after,
-.gg-menu::before {
-  box-sizing: border-box;
-  position: relative;
-  display: block;
-  width: 20px;
-  height: 2px;
-  border-radius: 3px;
-  background: #fff;
+
+.slides {
+  display: flex;
+  flex-direction: row;
+  width: 300%;
+  transition: all 0.3s ease-in-out;
 }
-.gg-menu::after,
-.gg-menu::before {
-  content: "";
-  position: absolute;
-  top: -6px;
+
+.slide {
+  width: 100%;
+
+  .slide-heading {
+    color: $neutral-white;
+    font-size: 2.2rem;
+    line-height: 2.8rem;
+    margin-bottom: 0;
+    font-weight: 600;
+  }
+
+  .slide-sub-heading {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.6rem;
+  }
 }
-.gg-menu::after {
-  top: 6px;
+
+.carousel--controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  .gg-arrow-right-o {
+    margin-left: 1rem;
+  }
 }
