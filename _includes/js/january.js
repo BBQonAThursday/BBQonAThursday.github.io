@@ -9,6 +9,7 @@ let reloop = false;
 let numSlides = slides.length;
 let slideRatio = 100 / numSlides;
 
+slideContainer.style.width = `${numSlides * 100}%`;
 function findActiveSlide(){
   slides[activeSlide].classList.remove('active');
   if(activeSlide < slides.length) {
@@ -22,12 +23,16 @@ function findActiveSlide(){
 }
 
 leftArrow.addEventListener('click', function() {
+  let calcPosition;
   if(activeSlide === 1) {
-    slideContainer.style.transform = `translate(-${slideRatio * 2}%)`;
     activeSlide = numSlides;
-    console.log(activeSlide);
+    slideContainer.style.transform = `translate3d(-${slideRatio * (numSlides - 1)}%, 0, 0)`;
+    
+    console.log(slideContainer.style.transform);
   } else if( activeSlide > 1 && activeSlide < numSlides) {
-    slideContainer.style.transform = 'translate(0)';
+    calcPosition = activeSlide * slideRatio;
+    console.log(calcPosition);
+    slideContainer.style.transform = `translate3d(-${calcPosition / 2},0,0)`;
     activeSlide--;
     console.log(activeSlide);
   } else if (activeSlide === numSlides) {
