@@ -23,44 +23,39 @@ function findActiveSlide(){
 }
 
 leftArrow.addEventListener('click', function() {
-  let calcPosition;
   if(activeSlide === 1) {
     activeSlide = numSlides;
-    slideContainer.style.transform = `translate3d(-${slideRatio * (numSlides - 1)}%, 0, 0)`;
-    
-    console.log(slideContainer.style.transform);
-  } else if( activeSlide > 1 && activeSlide < numSlides) {
-    calcPosition = activeSlide * slideRatio;
-    console.log(calcPosition);
-    slideContainer.style.transform = `translate3d(-${calcPosition / 2},0,0)`;
+    console.log("left click: " + ((activeSlide * slideRatio) - slideRatio));
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio) - slideRatio}%, 0, 0)`;
+  } 
+  else if( activeSlide > 1 && activeSlide < numSlides) {
     activeSlide--;
-    console.log(activeSlide);
-  } else if (activeSlide === numSlides) {
-    slideContainer.style.transform = `translate(-${slideRatio}%)`;
+    console.log("left click: " + ((activeSlide * slideRatio) - slideRatio));
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio) - slideRatio}%,0,0)`;
+  } 
+  else if (activeSlide === numSlides) {
     activeSlide--;
-    console.log(activeSlide);
-    // reloop = true;
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio) - slideRatio}%,0,0)`;
+    console.log("left click: " + ((activeSlide * slideRatio) - slideRatio));
   }
 });
 
 rightArrow.addEventListener('click', function() {
   
   if(activeSlide === 1) {
-    slideContainer.style.transform = `translate(-${slideRatio}%)`;
-    activeSlide = 2;
-    console.log(activeSlide);
-    // findActiveSlide();
-  } else if(activeSlide > 1 && activeSlide < numSlides) {
-    slideContainer.style.transform = `translate(-${slideRatio * 2}%)`;
-    console.log(activeSlide);
     activeSlide++;
-    // findActiveSlide();
-  } else if (activeSlide === numSlides) {
-    console.log(activeSlide);
-    slideContainer.style.transform = 'translate(0)';
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio) - slideRatio}%,0,0)`;
+    console.log("right click: " + ((activeSlide * slideRatio) - slideRatio));
+  } 
+  else if(activeSlide > 1 && activeSlide < numSlides) {
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio)}%,0,0)`;
+    activeSlide++;
+    console.log("right click: " + ((activeSlide * slideRatio)));
+  }
+  else if (activeSlide === numSlides) {
     activeSlide = 1;
-    // reloop = true;
-    // findActiveSlide();
+    slideContainer.style.transform = `translate3d(-${(activeSlide * slideRatio) - slideRatio}%,0,0)`;
+    console.log("right click: " + ((activeSlide * slideRatio) - slideRatio));
   }
   
 });
